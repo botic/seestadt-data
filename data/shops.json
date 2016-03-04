@@ -234,7 +234,27 @@
 		"name":"Körperwerk Seestadt e.U.",
 		"beschreibung": "Massagen, Pediküren, Maniküren, Harzen and more",
 		"UID": "ATU69416535",
+		"web": "http://www.koerperwerk-seestadt.at/",
 		"tel":"0699/11300174",
 		"adresse": "Mimi-Grossberg-Gasse 11/H4/101"		
+   },
+   "seestadt_kueche": {
+		"name": "Seestadt Küche & Wohnen",
+		"beschreibung": "Küchenstudio, Wohnzimmer, Badezimmer, uvm.",
+		"web":"http://kueche-seestadt.at",
+		"UID":"ATU68270836",
+		"email":"office@kueche-seestadt.at",
+		"tel":"0699/10828484",
+		"adresse","Maria-Tusch-Strasse 6",
+		"oeffnungszeiten": {
+			"mo": ["10:00", "18:00"],
+			"di": ["10:00", "18:00"],
+			"mi": ["10:00", "18:00"],
+			"do": ["10:00", "18:00"],
+			"fr": ["10:00", "18:00"],
+			"sa": ["10:00", "13:00"],
+			"so": [],
+			"ft": []
+      }
    }
 }
