@@ -5,5 +5,21 @@
       "email": "work@seestern-aspern.at",
       "adresse": "Gisela-Legath-Gasse 5",
       "latlng": [48.22354, 16.49957]
+   },
+   "websafari": {
+      "name": "websafari",
+      "UID" : "ATU67032659",
+      "web": "http://www.websafari.co/",
+      "email": "office@websafari.co",
+      "tel":"0699/160 71 200",
+      "adresse": "Sonnenallee 38/15/1"
+   },
+   "interlink" : {
+      "name": "interlink marketing e.U.",
+      "UID" : "ATU63440057",
+      "beschreibung": "Dienstleistungen im Bereichen Positionierung, Marketing, Kommunikation, Werbung",
+      "web": "http://interlinkmarketing.at/",
+      "email": "oladejo@interlinkmarketing.at",
+      "adresse": "Maria-Tusch-Straﬂe 6/16 A"
    }
 }
