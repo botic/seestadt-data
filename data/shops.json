@@ -229,5 +229,12 @@
       "name": "Harmonieklang",
       "web": "http://www.harmonieklang.at",
       "adress": "Janis-Joplin-Promenade 6/5/1A"
+   },
+   "koerperwerk": {
+		"name":"Körperwerk Seestadt e.U.",
+		"beschreibung": "Massagen, Pediküren, Maniküren, Harzen and more",
+		"UID": "ATU69416535",
+		"tel":"0699/11300174",
+		"adresse": "Mimi-Grossberg-Gasse 11/H4/101"		
    }
 }
