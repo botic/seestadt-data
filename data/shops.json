@@ -194,7 +194,7 @@
   "mykex": {
     "name": "MyKex – Süßes aus Galizien",
     "beschreibung": "Süßes aus Galizien",
-    "facebook": "https://www.facebook.com/myKex.at/",
+    "facebook": "myKex.at",
     "adresse": "Mela Spira Gasse 3|H5205",
     "oeffnungszeiten": {
       "mo": [],
@@ -212,7 +212,7 @@
     "beschreibung": "Amerikanische Produkte, große Auswahl an Fruchtgummies, Handgemachte Bonbons, Geschenkartikeln, uvm",
     "UID": "ATU69101303",
     "email": "candyshop.seestadt@gmx.at",
-    "facebook": "https://www.facebook.com/candyshop.seestadt/",
+    "facebook": "candyshop.seestadt",
     "tel": "+43 1 2807113",
     "adresse": "Maria-Tusch-Strasse 7",
     "oeffnungszeiten": {
@@ -260,10 +260,10 @@
   "harmonieklang": {
     "name": "Harmonieklang",
     "web": "http://www.harmonieklang.at",
-    "adress": "Janis-Joplin-Promenade 6/5/1A",
+    "adresse": "Janis-Joplin-Promenade 6/5/1A",
     "tel": "+43 664 6581150",
     "email": "office@harmonieklang.at",
-    "facebook": "https://www.facebook.com/harmonieklangat-185576801552965/",
+    "facebook": "harmonieklangat-185576801552965",
     "oeffnungszeiten": {
       "mo": ["14:00", "19:00"],
       "di": ["14:00", "19:00"],
@@ -280,7 +280,7 @@
     "beschreibung": "Massagen, Pediküren, Maniküren, Harzen and more",
     "UID": "ATU69416535",
     "web": "http://www.koerperwerk-seestadt.at/",
-    "facebook": "https://www.facebook.com/koerperwerkseestadt/",
+    "facebook": "koerperwerkseestadt",
     "tel": "+43 699 11300174",
     "adresse": "Mimi-Grossberg-Gasse 11/H4/101",
     "oeffnungszeiten": {
@@ -301,7 +301,7 @@
     "web": "http://kueche-seestadt.at",
     "UID": "ATU68270836",
     "email": "office@kueche-seestadt.at",
-    "facebook": "https://www.facebook.com/Seestadt-Küche-Wohnen-447876495411893/",
+    "facebook": "Seestadt-Küche-Wohnen-447876495411893",
     "tel": "+43 699 10828484",
     "adresse": "Maria-Tusch-Strasse 6",
     "oeffnungszeiten": {
