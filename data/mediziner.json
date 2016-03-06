@@ -5,7 +5,7 @@
       "tel": "+43 660 49 10 666"
    },
    "physio_aspern": {
-   	  "name":""Physiotherapie Aspern",
+   	  "name":"Physiotherapie Aspern",
    	  "beschreibung":"Physiotherapie und Osteopathie"
    	  "web":"http://www.physio-aspern.at/",
    	  "facebook":"https://www.facebook.com/Physio-Aspern-700480969964481/",
@@ -23,5 +23,24 @@
 	      "so": [],
 	      "ft": []
 	  }
+   },
+   "physio_brauner" : {
+   		"name": "Physiotherapie Susanna Brauner",
+   		"beschreibung":"Physiotherapie",
+   		"web":"http://www.physio-brauner.at",
+   		"email":"susanna.brauner@gmail.com",
+   		"tel":"+43 650 995 2887",
+   		"adresse":"Hannah-Arendt-Platz 9",
+   	  	"oeffnungszeiten": {
+		  "bemerkung":"Nach individueller Vereinbarung",
+	      "mo": [],
+	      "di": [],
+	      "mi": [],
+	      "do": [],
+	      "fr": [],
+	      "sa": [],
+	      "so": [],
+	      "ft": []
+	  	}
    }
 }
