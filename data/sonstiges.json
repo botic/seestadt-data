@@ -72,5 +72,12 @@
          "so": [],
          "ft": []
       }
+   },
+   "greenlab": {
+   		"name":"Greenlab",
+   		"beschreibung":"Ein Projekt an der Schnittstelle von Arbeitsmarktpolitik, Landschaftsarchitektur und Stadtplanung, bei dem Jugendliche „Freiräume“ für Jugendliche bauen.",
+   		"web":"http://www.greenlab.wien/",
+   		"adresse":"Ilse-Arlt-Straße 39",
+   		"email":"david.biegl@zwopk.at"
    }
 }
