@@ -96,5 +96,12 @@
    		"tel":"+43 699 1139 3062",
    		"web":"http://www.agenturquadrat.at/",
    		"facebook":"https://www.facebook.com/agenturquadrat/"
+   },   
+   "wienwork_jugendcoaching": {
+   		"name": "Wien Work Jugendcoaching",
+   		"tel":"+43 1 288 80 560",
+   		"email":"jugendcoaching@wienwork.at",
+   		"adresse":"Frenkel-Brunswik-Gasse 1",
+   		"web":"http://www.wienwork.at/jugendcoaching_und_jugendarbeitsassistenz.aspx"
    }
 }
