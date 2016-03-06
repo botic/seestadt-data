@@ -2,6 +2,8 @@
   "spar": {
     "name": "Spar Supermarkt",
     "tel": "+43 1 2807294",
+    "web":"https://www.spar.at/de_AT/index/standorte/12/spar_supermarkt_wienmaria-tusch-strseestadt_4156.html",
+    "adresse":"Maria-Tusch-Straße 18",
     "oeffnungszeiten": {
       "mo": ["07:15", "19:30"],
       "di": ["07:15", "19:30"],
