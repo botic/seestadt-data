@@ -374,5 +374,25 @@
       "so": [],
       "ft": []
   	}
+  },
+  "klenner": {
+  	"name":"Klenner.at",
+  	"beschreibung":"Telefonanlagen und IT-Betreuung",
+  	"web":"https://www.klenner.at/",
+  	"facebook":"https://www.facebook.com/klennerat/",
+  	"email":"office@klenner.at",
+  	"tel":"+43 1 812 32 30-0",
+  	"adresse":"Mimi-Grossberg-Gasse 11/301",
+  	"UID":"ATU38290602",
+  	"oeffnungszeiten": {
+      "mo": ["09:00","17:00"],
+      "di": ["09:00","17:00"],
+      "mi": ["09:00","17:00"],
+      "do": ["09:00","17:00"],
+      "fr": ["09:00","14:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
   }
 }
