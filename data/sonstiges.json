@@ -5,5 +5,72 @@
       "email": "work@seestern-aspern.at",
       "adresse": "Gisela-Legath-Gasse 5",
       "latlng": [48.22354, 16.49957]
+   },
+   "websafari": {
+      "name": "websafari",
+      "UID" : "ATU67032659",
+      "web": "http://www.websafari.co/",
+      "email": "office@websafari.co",
+      "tel":"+43 699 160 71 200",
+      "adresse": "Sonnenallee 38/15/1"
+   },
+   "interlink" : {
+      "name": "interlink marketing e.U.",
+      "UID" : "ATU63440057",
+      "beschreibung": "Dienstleistungen im Bereichen Positionierung, Marketing, Kommunikation, Werbung",
+      "web": "http://interlinkmarketing.at/",
+      "email": "oladejo@interlinkmarketing.at",
+      "adresse": "Maria-Tusch-Straße 6/16 A"
+   },
+   "weiss-linguistic-services" : {
+		"name": "Jacqueline Weiß, M.A. - Linguistic Services",
+		"UID":"ATU69264707",
+		"beschreibung":"Fachübersetzungen, Lektorat & Korrektorat, Sprachkurse",
+		"web":"http://www.weiss-linguistic-services.eu/",
+		"email": "office@weiss-linguistic-services.eu",
+		"adresse": "Janis-Joplin-Promenade 6-8/4/1"
+   },
+   "attensam" : {
+   		"name": "Attensam Seestadt Aspern",
+   		"UID":"ATU62042916",
+   		"beschreibung": "Montage-, Reparatur-, Maler-Arbeiten",
+   		"web":"https://www.attensam.at/standorte/attensam-seestadt-aspern/",
+   		"tel": "+43 676 8206 3420",
+   		"email":"seestadt@attensam.at",
+   		"adresse":"Ilse-Arlt-Straße 39 Top 2"
+   },
+   "lernquadrat" : {
+   		"name":"LernQuadrat Seestadt",
+   		"beschreibung":"Nachhilfe",
+   		"web":"http://www.lernquadrat.at/nachhilfe-wien-wien-im-lernquadrat-seestadt/8_105",
+   		"facebook":"https://www.facebook.com/lernquadrat.seestadt/",
+   		"tel":"+43 1 210 69 81",
+   		"email":"seestadt@lernquadrat.at",
+   		"adresse":"Sonnenallee 40/1/3"
+   },
+   "buchhalter_wider": {
+   		"name":"Ing. Michael Wider - Buchhalter vom Feinsten",
+   		"beschreibung":"Buchhaltung, Kostenrechnung, Controlling",
+   		"tel":"+43 699 81 419 544",
+   		"email":"feid77@hotmail.com",
+   		"adresse":"Janis-Joplin-Promenade 8/6/17"
+   },
+   "seelsorgezentrum": {
+   		"name":"Seelsorgezentrum St. Edith Stein",
+   		"beschreibung":"Seelsorgestation und Familienberatungszentrum der Erzdiözese Wien",
+   		"web":"http://pfarre.aspern.at/Pfarre/StEdith/index.php",
+   		"tel":"+43 676 363 71 76",
+   		"adresse":"Maria-Tusch-Straße 11 / 1",
+   		"oeffnungszeiten": {
+   		"bemerkung":"zusätzlich nach Vereinbarung",
+			"mo": [],
+			"di": ["17:00","19:00"],
+			"mi": [],
+			"do": [],
+			"fr": [],
+			"sa": [],
+			"so": [],
+			"ft": []
+   		}
    }
 }

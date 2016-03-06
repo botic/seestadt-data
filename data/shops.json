@@ -1,233 +1,641 @@
 {
-   "spar": {
-      "name": "Spar Supermarkt",
-      "tel": "+43 1 2807294",
-      "oeffnungszeiten": {
-         "mo": ["07:15", "19:30"],
-         "di": ["07:15", "19:30"],
-         "mi": ["07:15", "19:30"],
-         "do": ["07:15", "19:30"],
-         "fr": ["07:15", "19:30"],
-         "sa": ["07:15", "18:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "bipa": {
-      "name": "BIPA",
-      "tel": "+43 1 2104784",
-      "oeffnungszeiten": {
-         "mo": ["08:00", "19:00"],
-         "di": ["08:00", "19:00"],
-         "mi": ["08:00", "19:00"],
-         "do": ["08:00", "19:00"],
-         "fr": ["08:00", "19:00"],
-         "sa": ["08:00", "18:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "leo": {
-      "name": "LEO Bäckerei & Cafe",
-      "tel": "+43 1 2102527",
-      "adresse": "Maria-Tusch-Straße 13/2",
-      "email": "bestellung@riederich.at",
-      "web": "http://www.riederich.at",
-      "oeffnungszeiten": {
-         "mo": ["06:00", "18:30"],
-         "di": ["06:00", "18:30"],
-         "mi": ["06:00", "18:30"],
-         "do": ["06:00", "18:30"],
-         "fr": ["06:00", "18:30"],
-         "sa": ["06:00", "17:00"],
-         "so": ["07:30", "17:00"],
-         "ft": ["07:30", "17:00"]
-      }
-   },
-   "apotheke": {
-      "name": "Seestadt Apotheke",
-      "tel": "+43 1 2106984",
-      "email": "office@seestadt-apotheke.at",
-      "web": "http://seestadt-apotheke.at",
-      "oeffnungszeiten": {
-         "mo": ["08:00", "18:00"],
-         "di": ["08:00", "18:00"],
-         "mi": ["08:00", "18:00"],
-         "do": ["08:00", "18:00"],
-         "fr": ["08:00", "18:00"],
-         "sa": ["08:00", "12:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "seeseiten": {
-      "name": "Buchhandlung Seeseiten",
-      "tel": "+43 1 2531520",
-      "email": "buchhandlung@seeseiten.at",
-      "web": "http://www.seeseiten.at",
-      "oeffnungszeiten": {
-         "mo": ["10:00", "19:00"],
-         "di": ["10:00", "19:00"],
-         "mi": ["10:00", "19:00"],
-         "do": ["10:00", "19:00"],
-         "fr": ["10:00", "19:00"],
-         "sa": ["10:00", "17:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "erstebank": {
-      "name": "Erste Bank",
-      "oeffnungszeiten": {
-         "mo": ["09:00", "18:00"],
-         "di": ["09:00", "18:00"],
-         "mi": ["09:00", "18:00"],
-         "do": ["09:00", "18:00"],
-         "fr": ["09:00", "18:00"],
-         "sa": [],
-         "so": [],
-         "ft": []
-      }
-   },
-   "libro": {
-      "name": "Libro",
-      "oeffnungszeiten": {
-         "mo": ["09:00", "18:30"],
-         "di": ["09:00", "18:30"],
-         "mi": ["09:00", "18:30"],
-         "do": ["09:00", "18:30"],
-         "fr": ["09:00", "18:30"],
-         "sa": ["09:00", "18:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "hairstyle": {
-      "name": "Hair Style Seestadt",
-      "oeffnungszeiten": {
-         "mo": [],
-         "di": ["09:00", "18:00"],
-         "mi": ["09:00", "18:00"],
-         "do": ["09:00", "18:00"],
-         "fr": ["09:00", "18:00"],
-         "sa": ["08:00", "15:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "ruefa": {
-      "name": "Ruefa Reisebüro",
-      "oeffnungszeiten": {
-         "mo": ["09:00", "18:00"],
-         "di": ["09:00", "18:00"],
-         "mi": ["09:00", "18:00"],
-         "do": ["09:00", "18:00"],
-         "fr": ["09:00", "18:00"],
-         "sa": ["08:00", "12:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "trafik": {
-      "name": "Trafik",
-      "oeffnungszeiten": {
-         "mo": ["06:30", "18:30"],
-         "di": ["06:30", "18:30"],
-         "mi": ["06:30", "18:30"],
-         "do": ["06:30", "18:30"],
-         "fr": ["06:30", "18:30"],
-         "sa": ["07:00", "13:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "handyshop": {
-      "name": "Handyshop Drei / UPC",
-      "oeffnungszeiten": {
-         "mo": ["09:00", "18:00"],
-         "di": ["09:00", "18:00"],
-         "mi": ["09:00", "18:00"],
-         "do": ["09:00", "18:00"],
-         "fr": ["09:00", "18:00"],
-         "sa": ["09:00", "17:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "wienerstaedtische": {
-      "name": "Wiener Städtische",
-      "oeffnungszeiten": {
-         "mo": ["09:00", "17:00"],
-         "di": ["09:00", "17:00"],
-         "mi": ["09:00", "17:00"],
-         "do": ["09:00", "17:00"],
-         "fr": ["09:00", "17:00"],
-         "sa": [],
-         "so": [],
-         "ft": []
-      }
-   },
-   "mykex": {
-      "name": "MyKex – Süßes aus Galizien",
-      "oeffnungszeiten": {
-         "mo": [],
-         "di": ["15:00", "19:00"],
-         "mi": ["15:00", "19:00"],
-         "do": ["15:00", "19:00"],
-         "fr": ["15:00", "19:00"],
-         "sa": ["15:00", "19:00"],
-         "so": ["12:00", "19:00"],
-         "ft": []
-      }
-   },
-   "candyshop": {
-      "name": "Candy Shop Seestadt",
-      "email": "candyshop.seestadt@gmx.at",
-      "web": "https://www.facebook.com/candyshop.seestadt/",
-      "adresse": "Maria-Tusch-Strasse 7",
-      "oeffnungszeiten": {
-         "mo": ["09:00", "17:00"],
-         "di": ["09:00", "17:00"],
-         "mi": ["09:00", "17:00"],
-         "do": ["09:00", "17:00"],
-         "fr": ["09:00", "17:00"],
-         "sa": [],
-         "so": [],
-         "ft": []
-      }
-   },
-   "drbike": {
-      "name": "Dr. Bike",
-      "web": "http://www.dr-bike.at",
-      "adresse": "Maria-Tusch-Strasse 9",
-      "oeffnungszeiten": {
-         "mo": ["10:00", "13:00", "14:00", "18:00"],
-         "di": ["10:00", "13:00", "14:00", "18:00"],
-         "mi": ["10:00", "13:00", "14:00", "18:00"],
-         "do": ["10:00", "13:00", "14:00", "18:00"],
-         "fr": ["10:00", "13:00", "14:00", "18:00"],
-         "sa": ["10:00", "15:00"],
-         "so": [],
-         "ft": []
-      }
-   },
-   "tieraerztin": {
-      "name": "Tierärztin Dr. Eva Gollob-Kammerer",
-      "adresse": "Maria-Tusch-Strasse 7",
-      "oeffnungszeiten": {
-         "mo": ["09:00", "11:00", "16:00", "18:00"],
-         "di": ["16:00", "18:00"],
-         "mi": ["09:00", "11:00", "16:00", "18:00"],
-         "do": ["16:00", "18:00"],
-         "fr": ["09:00", "11:00"],
-         "sa": [],
-         "so": [],
-         "ft": []
-      }
-   },
-   "harmonieklang": {
-      "name": "Harmonieklang",
-      "web": "http://www.harmonieklang.at",
-      "adresse": "Janis-Joplin-Promenade 6/5/1A"
-   }
+  "spar": {
+    "name": "Spar Supermarkt",
+    "tel": "+43 1 2807294",
+    "oeffnungszeiten": {
+      "mo": [
+        "07:15",
+        "19:30"
+      ],
+      "di": [
+        "07:15",
+        "19:30"
+      ],
+      "mi": [
+        "07:15",
+        "19:30"
+      ],
+      "do": [
+        "07:15",
+        "19:30"
+      ],
+      "fr": [
+        "07:15",
+        "19:30"
+      ],
+      "sa": [
+        "07:15",
+        "18:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "bipa": {
+    "name": "BIPA",
+    "tel": "+43 1 2104784",
+    "oeffnungszeiten": {
+      "mo": [
+        "08:00",
+        "19:00"
+      ],
+      "di": [
+        "08:00",
+        "19:00"
+      ],
+      "mi": [
+        "08:00",
+        "19:00"
+      ],
+      "do": [
+        "08:00",
+        "19:00"
+      ],
+      "fr": [
+        "08:00",
+        "19:00"
+      ],
+      "sa": [
+        "08:00",
+        "18:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "leo": {
+    "name": "LEO Bäckerei & Cafe",
+    "tel": "+43 1 2102527",
+    "adresse": "Maria-Tusch-Straße 13/2",
+    "email": "bestellung@riederich.at",
+    "web": "http://www.riederich.at",
+    "oeffnungszeiten": {
+      "mo": [
+        "06:00",
+        "18:30"
+      ],
+      "di": [
+        "06:00",
+        "18:30"
+      ],
+      "mi": [
+        "06:00",
+        "18:30"
+      ],
+      "do": [
+        "06:00",
+        "18:30"
+      ],
+      "fr": [
+        "06:00",
+        "18:30"
+      ],
+      "sa": [
+        "06:00",
+        "17:00"
+      ],
+      "so": [
+        "07:30",
+        "17:00"
+      ],
+      "ft": [
+        "07:30",
+        "17:00"
+      ]
+    }
+  },
+  "apotheke": {
+    "name": "Seestadt Apotheke",
+    "tel": "+43 1 2106984",
+    "email": "office@seestadt-apotheke.at",
+    "web": "http://seestadt-apotheke.at",
+    "oeffnungszeiten": {
+      "mo": [
+        "08:00",
+        "18:00"
+      ],
+      "di": [
+        "08:00",
+        "18:00"
+      ],
+      "mi": [
+        "08:00",
+        "18:00"
+      ],
+      "do": [
+        "08:00",
+        "18:00"
+      ],
+      "fr": [
+        "08:00",
+        "18:00"
+      ],
+      "sa": [
+        "08:00",
+        "12:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "seeseiten": {
+    "name": "Buchhandlung Seeseiten",
+    "tel": "+43 1 2531520",
+    "email": "buchhandlung@seeseiten.at",
+    "web": "http://www.seeseiten.at",
+    "oeffnungszeiten": {
+      "mo": [
+        "10:00",
+        "19:00"
+      ],
+      "di": [
+        "10:00",
+        "19:00"
+      ],
+      "mi": [
+        "10:00",
+        "19:00"
+      ],
+      "do": [
+        "10:00",
+        "19:00"
+      ],
+      "fr": [
+        "10:00",
+        "19:00"
+      ],
+      "sa": [
+        "10:00",
+        "17:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "erstebank": {
+    "name": "Erste Bank",
+    "oeffnungszeiten": {
+      "mo": [
+        "09:00",
+        "18:00"
+      ],
+      "di": [
+        "09:00",
+        "18:00"
+      ],
+      "mi": [
+        "09:00",
+        "18:00"
+      ],
+      "do": [
+        "09:00",
+        "18:00"
+      ],
+      "fr": [
+        "09:00",
+        "18:00"
+      ],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "libro": {
+    "name": "Libro",
+    "oeffnungszeiten": {
+      "mo": [
+        "09:00",
+        "18:30"
+      ],
+      "di": [
+        "09:00",
+        "18:30"
+      ],
+      "mi": [
+        "09:00",
+        "18:30"
+      ],
+      "do": [
+        "09:00",
+        "18:30"
+      ],
+      "fr": [
+        "09:00",
+        "18:30"
+      ],
+      "sa": [
+        "09:00",
+        "18:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "hairstyle": {
+    "name": "Hair Style Seestadt",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [
+        "09:00",
+        "18:00"
+      ],
+      "mi": [
+        "09:00",
+        "18:00"
+      ],
+      "do": [
+        "09:00",
+        "18:00"
+      ],
+      "fr": [
+        "09:00",
+        "18:00"
+      ],
+      "sa": [
+        "08:00",
+        "15:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "ruefa": {
+    "name": "Ruefa Reisebüro",
+    "oeffnungszeiten": {
+      "mo": [
+        "09:00",
+        "18:00"
+      ],
+      "di": [
+        "09:00",
+        "18:00"
+      ],
+      "mi": [
+        "09:00",
+        "18:00"
+      ],
+      "do": [
+        "09:00",
+        "18:00"
+      ],
+      "fr": [
+        "09:00",
+        "18:00"
+      ],
+      "sa": [
+        "08:00",
+        "12:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "trafik": {
+    "name": "Trafik",
+    "oeffnungszeiten": {
+      "mo": [
+        "06:30",
+        "18:30"
+      ],
+      "di": [
+        "06:30",
+        "18:30"
+      ],
+      "mi": [
+        "06:30",
+        "18:30"
+      ],
+      "do": [
+        "06:30",
+        "18:30"
+      ],
+      "fr": [
+        "06:30",
+        "18:30"
+      ],
+      "sa": [
+        "07:00",
+        "13:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "handyshop": {
+    "name": "Handyshop Drei / UPC",
+    "oeffnungszeiten": {
+      "mo": [
+        "09:00",
+        "18:00"
+      ],
+      "di": [
+        "09:00",
+        "18:00"
+      ],
+      "mi": [
+        "09:00",
+        "18:00"
+      ],
+      "do": [
+        "09:00",
+        "18:00"
+      ],
+      "fr": [
+        "09:00",
+        "18:00"
+      ],
+      "sa": [
+        "09:00",
+        "17:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "wienerstaedtische": {
+    "name": "Wiener Städtische",
+    "web": "https://www.wienerstaedtische.at/seestadt",
+    "tel": "+43 50 350 50400",
+    "email": "seestadt@staedtische.co.at",
+    "oeffnungszeiten": {
+      "mo": [
+        "09:00",
+        "17:00"
+      ],
+      "di": [
+        "09:00",
+        "17:00"
+      ],
+      "mi": [
+        "09:00",
+        "17:00"
+      ],
+      "do": [
+        "09:00",
+        "17:00"
+      ],
+      "fr": [
+        "09:00",
+        "17:00"
+      ],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "mykex": {
+    "name": "MyKex – Süßes aus Galizien",
+    "beschreibung": "Süßes aus Galizien",
+    "facebook": "https://www.facebook.com/myKex.at/",
+    "adresse": "Mela Spira Gasse 3|H5205",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [
+        "15:00",
+        "19:00"
+      ],
+      "mi": [
+        "15:00",
+        "19:00"
+      ],
+      "do": [
+        "15:00",
+        "19:00"
+      ],
+      "fr": [
+        "15:00",
+        "19:00"
+      ],
+      "sa": [
+        "15:00",
+        "19:00"
+      ],
+      "so": [
+        "12:00",
+        "19:00"
+      ],
+      "ft": []
+    }
+  },
+  "candyshop": {
+    "name": "Candy Shop Seestadt",
+    "beschreibung": "Amerikanische Produkte, große Auswahl an Fruchtgummies, Handgemachte Bonbons, Geschenkartikeln, uvm",
+    "UID": "ATU69101303",
+    "email": "candyshop.seestadt@gmx.at",
+    "facebook": "https://www.facebook.com/candyshop.seestadt/",
+    "tel": "+43 1 2807113",
+    "adresse": "Maria-Tusch-Strasse 7",
+    "oeffnungszeiten": {
+      "mo": [
+        "09:00",
+        "17:00"
+      ],
+      "di": [
+        "09:00",
+        "17:00"
+      ],
+      "mi": [
+        "09:00",
+        "17:00"
+      ],
+      "do": [
+        "09:00",
+        "17:00"
+      ],
+      "fr": [
+        "09:00",
+        "17:00"
+      ],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "drbike": {
+    "name": "Dr. Bike",
+    "beschreibung": "Fahrrad-Verkauf-Service und Reparatur",
+    "web": "http://www.dr-bike.at/filialen/DR-Bike-Seestadt_301",
+    "adresse": "Maria-Tusch-Strasse 9",
+    "tel": "+43 660 2037104",
+    "oeffnungszeiten": {
+      "mo": [
+        "10:00",
+        "13:00",
+        "14:00",
+        "18:00"
+      ],
+      "di": [
+        "10:00",
+        "13:00",
+        "14:00",
+        "18:00"
+      ],
+      "mi": [
+        "10:00",
+        "13:00",
+        "14:00",
+        "18:00"
+      ],
+      "do": [
+        "10:00",
+        "13:00",
+        "14:00",
+        "18:00"
+      ],
+      "fr": [
+        "10:00",
+        "13:00",
+        "14:00",
+        "18:00"
+      ],
+      "sa": [
+        "10:00",
+        "15:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "tieraerztin": {
+    "name": "Tierärztin Dr. Eva Gollob-Kammerer",
+    "adresse": "Maria-Tusch-Strasse 7",
+    "oeffnungszeiten": {
+      "mo": [
+        "09:00",
+        "11:00",
+        "16:00",
+        "18:00"
+      ],
+      "di": [
+        "16:00",
+        "18:00"
+      ],
+      "mi": [
+        "09:00",
+        "11:00",
+        "16:00",
+        "18:00"
+      ],
+      "do": [
+        "16:00",
+        "18:00"
+      ],
+      "fr": [
+        "09:00",
+        "11:00"
+      ],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "harmonieklang": {
+    "name": "Harmonieklang",
+    "web": "http://www.harmonieklang.at",
+    "adress": "Janis-Joplin-Promenade 6/5/1A",
+    "tel": "+43 664 6581150",
+    "email": "office@harmonieklang.at",
+    "facebook": "https://www.facebook.com/harmonieklangat-185576801552965/",
+    "oeffnungszeiten": {
+      "mo": [
+        "14:00",
+        "19:00"
+      ],
+      "di": [
+        "14:00",
+        "19:00"
+      ],
+      "mi": [
+        "14:00",
+        "19:00"
+      ],
+      "do": [
+        "14:00",
+        "19:00"
+      ],
+      "fr": [
+        "14:00",
+        "19:00"
+      ],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "koerperwerk": {
+    "name": "Körperwerk Seestadt e.U.",
+    "beschreibung": "Massagen, Pediküren, Maniküren, Harzen and more",
+    "UID": "ATU69416535",
+    "web": "http://www.koerperwerk-seestadt.at/",
+    "facebook": "https://www.facebook.com/koerperwerkseestadt/",
+    "tel": "+43 699 11300174",
+    "adresse": "Mimi-Grossberg-Gasse 11/H4/101",
+    "oeffnungszeiten": {
+      "bemerkung": "Terminvereinbarung notwendig",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "seestadt_kueche": {
+    "name": "Seestadt Küche & Wohnen",
+    "beschreibung": "Küchenstudio, Wohnzimmer, Badezimmer, uvm.",
+    "web": "http://kueche-seestadt.at",
+    "UID": "ATU68270836",
+    "email": "office@kueche-seestadt.at",
+    "facebook": "https://www.facebook.com/Seestadt-Küche-Wohnen-447876495411893/",
+    "tel": "+43 699 10828484",
+    "adresse": "Maria-Tusch-Strasse 6",
+    "oeffnungszeiten": {
+      "mo": [
+        "10:00",
+        "18:00"
+      ],
+      "di": [
+        "10:00",
+        "18:00"
+      ],
+      "mi": [
+        "10:00",
+        "18:00"
+      ],
+      "do": [
+        "10:00",
+        "18:00"
+      ],
+      "fr": [
+        "10:00",
+        "18:00"
+      ],
+      "sa": [
+        "10:00",
+        "13:00"
+      ],
+      "so": [],
+      "ft": []
+    }
+  },
+  "christines_oase": {
+    "name": "Christine's Oase",
+    "beschreibung": "Kosmetikstudio, Fußpflege, Haarentfernung",
+    "web": "http://www.christines-oase.at/",
+    "tel": "+43 677 61823422",
+    "adresse": "Sonnenallee 44/3/1",
+    "oeffnungszeiten": {
+      "bemerkung": "Terminvereinbarung notwendig",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  }
 }
