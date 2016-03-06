@@ -3,5 +3,61 @@
       "name": "HNO Dr. Eva Stadler-Woller",
       "beschreibung": "Keine Kassen / Wahlärztin",
       "tel": "+43 660 49 10 666"
+   },
+   "physio_aspern": {
+   	  "name":"Physiotherapie Aspern",
+   	  "beschreibung":"Physiotherapie und Osteopathie",
+   	  "web":"http://www.physio-aspern.at/",
+   	  "facebook":"https://www.facebook.com/Physio-Aspern-700480969964481/",
+   	  "tel":"0699/10906786",
+   	  "email":"therapie@physio-aspern.at",
+   	  "adresse":"Ilse-Arlt-Straße 5/2",
+   	  "oeffnungszeiten": {
+		  "bemerkung":"Nach individueller Vereinbarung",
+	      "mo": [],
+	      "di": [],
+	      "mi": [],
+	      "do": [],
+	      "fr": [],
+	      "sa": [],
+	      "so": [],
+	      "ft": []
+	  }
+   },
+   "physio_brauner" : {
+   		"name": "Physiotherapie Susanna Brauner",
+   		"beschreibung":"Physiotherapie",
+   		"web":"http://www.physio-brauner.at",
+   		"email":"susanna.brauner@gmail.com",
+   		"tel":"+43 650 995 2887",
+   		"adresse":"Hannah-Arendt-Platz 9",
+   	  	"oeffnungszeiten": {
+		  "bemerkung":"Nach individueller Vereinbarung",
+	      "mo": [],
+	      "di": [],
+	      "mi": [],
+	      "do": [],
+	      "fr": [],
+	      "sa": [],
+	      "so": [],
+	      "ft": []
+	  	}
+   },
+   "burnout_coach_eigel": {
+   		"name":"Burnout Coaching - Karl Eigel",
+   		"beschreibung":"Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
+   		"adresse":"Mimi-Grossberg-Gasse 11/312",
+   		"facebook":"https://www.facebook.com/BurnoutCoachAspern",
+   		"web":"http://www.burnout-coach.at/",
+   		"tel":"+43 650 2859537",
+   		"email":"karl@eigel.at"
+   },
+   "psychotherapie_wambach": {
+   		"name":"Psychotherapie DDr. Anton Wambach",
+   		"beschreibung":"Psychotherapeut in Ausbildung unter Supervision",
+   		"adresse":"Mimi-Grossberg-Gasse 11/312",
+   		"web":"http://psythera-at.webnode.at",
+   		"email":"anton.wambach@yahoo.com",
+   		"tel":"+43 680 24 64 716"
    }
 }

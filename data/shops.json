@@ -2,6 +2,8 @@
   "spar": {
     "name": "Spar Supermarkt",
     "tel": "+43 1 2807294",
+    "web":"https://www.spar.at/de_AT/index/standorte/12/spar_supermarkt_wienmaria-tusch-strseestadt_4156.html",
+    "adresse":"Maria-Tusch-Straße 18",
     "oeffnungszeiten": {
       "mo": ["07:15", "19:30"],
       "di": ["07:15", "19:30"],
@@ -49,6 +51,7 @@
     "tel": "+43 1 2106984",
     "email": "office@seestadt-apotheke.at",
     "web": "http://seestadt-apotheke.at",
+    "facebook":"https://www.facebook.com/apotheke.seestadt",
     "oeffnungszeiten": {
       "mo": ["08:00", "18:00"],
       "di": ["08:00", "18:00"],
@@ -65,6 +68,8 @@
     "tel": "+43 1 2531520",
     "email": "buchhandlung@seeseiten.at",
     "web": "http://www.seeseiten.at",
+    "facebook":"https://www.facebook.com/seeseiten/",
+    "UID":"ATU69514518",
     "oeffnungszeiten": {
       "mo": ["10:00", "19:00"],
       "di": ["10:00", "19:00"],
@@ -78,6 +83,9 @@
   },
   "erstebank": {
     "name": "Erste Bank",
+    "web":"https://www.sparkasse.at/erstebank/Ueber-uns/Filialsuche/AT01980229",
+    "adresse":"Sonnenallee 41",
+    "tel":"+43 (0)5 0100 - 21011",
     "oeffnungszeiten": {
       "mo": ["09:00", "18:00"],
       "di": ["09:00", "18:00"],
@@ -91,6 +99,8 @@
   },
   "libro": {
     "name": "Libro",
+    "tel":"+43 1 2807243",
+    "adresse":"Maria Tusch Strasse 16/2",
     "oeffnungszeiten": {
       "mo": ["09:00", "18:30"],
       "di": ["09:00", "18:30"],
@@ -104,6 +114,9 @@
   },
   "hairstyle": {
     "name": "Hair Style Seestadt",
+    "facebook":"https://www.facebook.com/hairstyleseestadt/",
+    "tel":"+43 1 2807225",
+    "adresse":"Maria Tusch Strasse 15/2",
     "oeffnungszeiten": {
       "mo": [],
       "di": ["09:00", "18:00"],
@@ -117,6 +130,10 @@
   },
   "ruefa": {
     "name": "Ruefa Reisebüro",
+    "web":"https://www.ruefa.at/reisebueros/wien/11221/",
+    "tel":"+43 1 210 69 56",
+    "email":"11221@ruefa.at",
+    "adresse":"Maria-Tusch-Straße 15/2",
     "oeffnungszeiten": {
       "mo": ["09:00", "18:00"],
       "di": ["09:00", "18:00"],
@@ -129,7 +146,9 @@
     }
   },
   "trafik": {
-    "name": "Trafik",
+    "name": "Tabak Trafik Barany",
+    "beschreibung":"Tabakfachgeschäft",
+    "adresse":"Maria-Tusch-Strasse 17/1/2",
     "oeffnungszeiten": {
       "mo": ["06:30", "18:30"],
       "di": ["06:30", "18:30"],
@@ -143,6 +162,7 @@
   },
   "handyshop": {
     "name": "Handyshop Drei / UPC",
+    "adresse":"Maria-Tusch-Strasse 17/1/1",
     "oeffnungszeiten": {
       "mo": ["09:00", "18:00"],
       "di": ["09:00", "18:00"],
@@ -159,6 +179,7 @@
     "web": "https://www.wienerstaedtische.at/seestadt",
     "tel": "+43 50 350 50400",
     "email": "seestadt@staedtische.co.at",
+    "adresse":"Maria-Tusch-Strasse 19",
     "oeffnungszeiten": {
       "mo": ["09:00", "17:00"],
       "di": ["09:00", "17:00"],
@@ -311,5 +332,105 @@
       "so": [],
       "ft": []
     }
+  },
+  "kunst_keramik": {
+  	"name":"Kunst & Keramik Werkstätte",
+  	"beschreibung":"Modellierkurse und Malworkshops für Erwachsene und Kinder, Kindergeburtstage",
+  	"web":"http://www.kunst-keramik.at/",
+  	"facebook":"https://www.facebook.com/KunstundKeramik/",
+  	"email":"bw@kunst-keramik.at",
+  	"tel":"+43 699 - 195 46 512",  	
+  	"UID":"ATU56657718",
+  	"adresse":"Maria Tusch Straße 8/1",
+    "oeffnungszeiten": {
+      "bemerkung": "Zusätzliche Termine nach telefonischer Vereinbarung",
+      "mo": [],
+      "di": ["12:00","18:00"],
+      "mi": ["12:00","18:00"],
+      "do": ["12:00","18:00"],
+      "fr": ["12:00","18:00"],
+      "sa": ["09:00","13:00"],
+      "so": [],
+      "ft": []
+    },
+    "bastellieschen" : {
+    	"name":"Bastellieschen",
+    	"beschreibung":"Bastelartikel rund um die Papiergestaltung wie Grusskarten, Scrapbooking, Stempeln, Colorieren uvm. Kurse für Kinder & Erwachsene",
+    	"web":"http://www.bastellieschen.at",
+    	"facebook":"https://www.facebook.com/Bastellieschen-1407265406214601/",
+    	"email":"office@bastellieschen.at",
+    	"adresse":"Maria Tusch Straße 8/4",
+    	"tel":"0660 / 2541000",
+    	"UID":"ATU62553711",
+	    "oeffnungszeiten": {
+	      "mo": ["14:00","19:00"],
+	      "di": ["14:00","19:00"],
+	      "mi": ["14:00","19:00"],
+	      "do": ["14:00","19:00"],
+	      "fr": ["14:00","19:00"],
+	      "sa": ["10:00","14:00"],
+	      "so": [],
+	      "ft": []
+	    }
+    }
+  },
+  "12er": {
+  	"name":"12er glasporzellankeramik",
+  	"web":"http://www.12er.at/",
+  	"facebook":"https://www.facebook.com/12er-glasporzellankeramik-303579606335900/",
+  	"adresse":"Maria Tusch-Straße 8/6",
+  	"UID":"ATU50738509",
+  	"email":"mail@12er.at",
+  	"tel":"+43 676 4204112",
+  	"oeffnungszeiten": {
+	  "bemerkung":"Nach telefonischer Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
+  },
+  "klenner": {
+  	"name":"Klenner.at",
+  	"beschreibung":"Telefonanlagen und IT-Betreuung",
+  	"web":"https://www.klenner.at/",
+  	"facebook":"https://www.facebook.com/klennerat/",
+  	"email":"office@klenner.at",
+  	"tel":"+43 1 812 32 30-0",
+  	"adresse":"Mimi-Grossberg-Gasse 11/301",
+  	"UID":"ATU38290602",
+  	"oeffnungszeiten": {
+      "mo": ["09:00","17:00"],
+      "di": ["09:00","17:00"],
+      "mi": ["09:00","17:00"],
+      "do": ["09:00","17:00"],
+      "fr": ["09:00","14:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
+  },
+  "follow_beauty": {
+  	"name":"Follow Beauty",
+  	"beschreibung":"Atelier Briant Rokyta. Kunstworkshops und Kunsttherapie",
+  	"adresse":"Maria-Tusch-Straße 8/1/43",
+  	"tel":"+43 676 540 75 96",
+  	"email":"briantrokyta@gmail.com",
+  	"web":"http://www.briantrokyta.com",
+  	"oeffnungszeiten": {
+	  "bemerkung":"Noch nicht eröffnet",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
   }
 }
