@@ -51,6 +51,10 @@
         "oeffnungszeiten": {
           "type": "object",
           "properties": {
+            "bemerkung": {
+               "type": "string",
+               "minLength": 3
+            },
             "mo": { "$ref": "#/definitions/openingHoursArray" },
             "di": { "$ref": "#/definitions/openingHoursArray" },
             "mi": { "$ref": "#/definitions/openingHoursArray" },
@@ -60,7 +64,8 @@
             "so": { "$ref": "#/definitions/openingHoursArray" },
             "ft": { "$ref": "#/definitions/openingHoursArray" }
           },
-          "required": ["mo", "di", "mi", "do", "fr", "sa", "so", "ft"]
+          "required": ["mo", "di", "mi", "do", "fr", "sa", "so", "ft"],
+          "additionalProperties": false
         }
       },
       "required": ["name"]
