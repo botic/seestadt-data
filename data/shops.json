@@ -331,6 +331,26 @@
       "sa": ["09:00","13:00"],
       "so": [],
       "ft": []
-    }  	
+    },
+    "bastellieschen" : {
+    	"name":"Bastellieschen",
+    	"beschreibung":"Bastelartikel rund um die Papiergestaltung wie Grusskarten, Scrapbooking, Stempeln, Colorieren uvm. Kurse für Kinder & Erwachsene",
+    	"web":"http://www.bastellieschen.at",
+    	"facebook":"https://www.facebook.com/Bastellieschen-1407265406214601/",
+    	"email":"office@bastellieschen.at",
+    	"adresse":"Maria Tusch Straße 8/4",
+    	"tel":"0660 / 2541000",
+    	"UID":"ATU62553711",
+	    "oeffnungszeiten": {
+	      "mo": ["14:00","19:00"],
+	      "di": ["14:00","19:00"],
+	      "mi": ["14:00","19:00"],
+	      "do": ["14:00","19:00"],
+	      "fr": ["14:00","19:00"],
+	      "sa": ["10:00","14:00"],
+	      "so": [],
+	      "ft": []
+	    },
+    }
   }
 }
