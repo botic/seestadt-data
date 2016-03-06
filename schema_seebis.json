@@ -1,5 +1,6 @@
 {
-  "$schema": "http://seestadt.city/seebis/0.1/schema#",
+  "id": "http://seestadt.city/seebis/schema.json#",
+  "$schema": "http://json-schema.org/draft-04/schema#",
   "title": "Seestadt Business Information Schema",
   "definitions": {
     "openingHoursArray": {
@@ -12,7 +13,7 @@
   },
   "type": "object",
   "patternProperties": {
-    "^[a-z]\\w+$": {
+    "^[a-z][-_\\w]+$": {
       "type": "object",
       "properties": {
         "name": {
@@ -64,5 +65,6 @@
       },
       "required": ["name"]
     }
-  }
+  },
+  "additionalProperties": false
 }
