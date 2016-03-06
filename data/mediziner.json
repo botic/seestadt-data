@@ -42,5 +42,22 @@
 	      "so": [],
 	      "ft": []
 	  	}
+   },
+   "burnout_coach_eigel": {
+   		"name":"Burnout Coaching - Karl Eigel",
+   		"beschreibung":"Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
+   		"adresse":"Mimi-Grossberg-Gasse 11/312",
+   		"facebook":"https://www.facebook.com/BurnoutCoachAspern",
+   		"web":"http://www.burnout-coach.at/",
+   		"tel":"+43 650 2859537",
+   		"email":"karl@eigel.at"
+   },
+   "psychotherapie_wambach": {
+   		"name":"Psychotherapie DDr. Anton Wambach",
+   		"beschreibung":"Psychotherapeut in Ausbildung unter Supervision",
+   		"adresse":"Mimi-Grossberg-Gasse 11/312",
+   		"web":"http://psythera-at.webnode.at",
+   		"email":"anton.wambach@yahoo.com",
+   		"tel":"+43 680 24 64 716"
    }
 }
