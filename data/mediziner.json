@@ -8,8 +8,8 @@
    	  "name":"Physiotherapie Aspern",
    	  "beschreibung":"Physiotherapie und Osteopathie",
    	  "web":"http://www.physio-aspern.at/",
-   	  "facebook":"https://www.facebook.com/Physio-Aspern-700480969964481/",
-   	  "tel":"0699/10906786",
+   	  "facebook":"Physio-Aspern-700480969964481",
+   	  "tel":"+43 699 10906786",
    	  "email":"therapie@physio-aspern.at",
    	  "adresse":"Ilse-Arlt-Straße 5/2",
    	  "oeffnungszeiten": {
@@ -47,7 +47,7 @@
    		"name":"Burnout Coaching - Karl Eigel",
    		"beschreibung":"Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
    		"adresse":"Mimi-Grossberg-Gasse 11/312",
-   		"facebook":"https://www.facebook.com/BurnoutCoachAspern",
+   		"facebook":"BurnoutCoachAspern",
    		"web":"http://www.burnout-coach.at/",
    		"tel":"+43 650 2859537",
    		"email":"karl@eigel.at"
