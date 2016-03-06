@@ -1,0 +1,68 @@
+{
+  "$schema": "http://seestadt.city/seebis/0.1/schema#",
+  "title": "Seestadt Business Information Schema",
+  "definitions": {
+    "openingHoursArray": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "uniqueItems": true
+      }
+    }
+  },
+  "type": "object",
+  "patternProperties": {
+    "^[a-z]\\w+$": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 2
+        },
+        "beschreibung": {
+          "type": "string",
+          "minLength": 5
+        },
+        "tel": {
+          "type": "string",
+          "pattern": "^\\+\\d\\d\\ [\\d\\ ]+\\d$"
+        },
+        "email": {
+          "type": "string",
+          "pattern": "^.{1,255}@.{1,255}$"
+        },
+        "web": {
+          "type": "string",
+          "pattern": "^(https?)://[^\\s/$.?#].[^\\s]*$"
+        },
+        "adresse": {
+          "type": "string",
+          "minLength": 5
+        },
+        "latlng": {
+          "type": "array",
+          "minLength": 2,
+          "maxLength": 2,
+          "items": {
+            "type": "number"
+          }
+        },
+        "oeffnungszeiten": {
+          "type": "object",
+          "properties": {
+            "mo": { "$ref": "#/definitions/openingHoursArray" },
+            "di": { "$ref": "#/definitions/openingHoursArray" },
+            "mi": { "$ref": "#/definitions/openingHoursArray" },
+            "do": { "$ref": "#/definitions/openingHoursArray" },
+            "fr": { "$ref": "#/definitions/openingHoursArray" },
+            "sa": { "$ref": "#/definitions/openingHoursArray" },
+            "so": { "$ref": "#/definitions/openingHoursArray" },
+            "ft": { "$ref": "#/definitions/openingHoursArray" }
+          },
+          "required": ["mo", "di", "mi", "do", "fr", "sa", "so", "ft"]
+        }
+      },
+      "required": ["name"]
+    }
+  }
+}
