@@ -413,5 +413,24 @@
       "so": [],
       "ft": []
   	}
+  },
+  "follow_beauty": {
+  	"name":"Follow Beauty",
+  	"beschreibung":"Atelier Briant Rokyta. Kunstworkshops und Kunsttherapie",
+  	"adresse":"Maria-Tusch-Straße 8/1/43",
+  	"tel":"+43 676 540 75 96",
+  	"email":"briantrokyta@gmail.com",
+  	"web":"http://www.briantrokyta.com",
+  	"oeffnungszeiten": {
+	  "bemerkung":"Noch nicht eröffnet",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
   }
 }

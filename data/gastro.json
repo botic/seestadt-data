@@ -59,6 +59,8 @@
   "kantine": {
     "name": "Seestadt Kantine",
     "facebook":"https://www.facebook.com/seestadt.kantine/",
+    "tel":"+43 681 81116 357",
+    "email":"savicm@gmx.at",
     "oeffnungszeiten": {
       "mo": ["06:00", "21:00"],
       "di": ["06:00", "21:00"],
