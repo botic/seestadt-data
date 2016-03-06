@@ -9,6 +9,11 @@ const files = fs.readdirSync("./data");
 
 let valid = true;
 files.forEach(function(file) {
+    // ignore hidden files
+    if (file.charAt(0) === ".") {
+        return;
+    }
+
     let data = JSON.parse(fs.readFileSync("./data/" + file, "utf-8"));
     let isValid = ajv.validate(schema, data);
 
