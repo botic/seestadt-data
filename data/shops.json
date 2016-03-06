@@ -350,7 +350,27 @@
 	      "sa": ["10:00","14:00"],
 	      "so": [],
 	      "ft": []
-	    },
+	    }
     }
+  },
+  "12er": {
+  	"name":"12er glasporzellankeramik",
+  	"web":"http://www.12er.at/",
+  	"facebook":"https://www.facebook.com/12er-glasporzellankeramik-303579606335900/",
+  	"adresse":"Maria Tusch-Straße 8/6",
+  	"UID":"ATU50738509",
+  	"email":"mail@12er.at",
+  	"tel":"+43 676 4204112",
+  	"oeffnungszeiten": {
+	  "bemerkung":"Nach telefonischer Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
   }
 }
