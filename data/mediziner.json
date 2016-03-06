@@ -3,5 +3,25 @@
       "name": "HNO Dr. Eva Stadler-Woller",
       "beschreibung": "Keine Kassen / Wahlärztin",
       "tel": "+43 660 49 10 666"
+   },
+   "physio_aspern": {
+   	  "name":""Physiotherapie Aspern",
+   	  "beschreibung":"Physiotherapie und Osteopathie"
+   	  "web":"http://www.physio-aspern.at/",
+   	  "facebook":"https://www.facebook.com/Physio-Aspern-700480969964481/",
+   	  "tel":"0699/10906786",
+   	  "email":"therapie@physio-aspern.at",
+   	  "adresse":"Ilse-Arlt-Straße 5/2",
+   	  "oeffnungszeiten": {
+		  "bemerkung":"Nach individueller Vereinbarung",
+	      "mo": [],
+	      "di": [],
+	      "mi": [],
+	      "do": [],
+	      "fr": [],
+	      "sa": [],
+	      "so": [],
+	      "ft": []
+	  }
    }
 }
