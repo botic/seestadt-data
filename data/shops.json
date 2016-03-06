@@ -311,5 +311,26 @@
       "so": [],
       "ft": []
     }
+  },
+  "kunst_keramik": {
+  	"name":"Kunst & Keramik Werkstätte",
+  	"beschreibung":"Modellierkurse und Malworkshops für Erwachsene und Kinder, Kindergeburtstage",
+  	"web":"http://www.kunst-keramik.at/",
+  	"facebook":"https://www.facebook.com/KunstundKeramik/",
+  	"email":"bw@kunst-keramik.at",
+  	"tel":"+43 699 - 195 46 512",  	
+  	"UID":"ATU56657718",
+  	"adresse":"Maria Tusch Straße 8/1",
+    "oeffnungszeiten": {
+      "bemerkung": "Zusätzliche Termine nach telefonischer Vereinbarung",
+      "mo": [],
+      "di": ["12:00","18:00"],
+      "mi": ["12:00","18:00"],
+      "do": ["12:00","18:00"],
+      "fr": ["12:00","18:00"],
+      "sa": ["09:00","13:00"],
+      "so": [],
+      "ft": []
+    }  	
   }
 }
