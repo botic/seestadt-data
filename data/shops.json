@@ -156,6 +156,9 @@
    },
    "wienerstaedtische": {
       "name": "Wiener Städtische",
+      "web":"https://www.wienerstaedtische.at/seestadt",
+      "tel":"+43 50 350 50400",
+      "email":"seestadt@staedtische.co.at",
       "oeffnungszeiten": {
          "mo": ["09:00", "17:00"],
          "di": ["09:00", "17:00"],
@@ -169,6 +172,9 @@
    },
    "mykex": {
       "name": "MyKex – Süßes aus Galizien",
+      "beschreibung":"Süßes aus Galizien",
+      "facebook":"https://www.facebook.com/myKex.at/",
+      "adresse":"Mela Spira Gasse 3|H5205",
       "oeffnungszeiten": {
          "mo": [],
          "di": ["15:00", "19:00"],
@@ -182,8 +188,11 @@
    },
    "candyshop": {
       "name": "Candy Shop Seestadt",
+      "beschreibung":"Amerikanische Produkte, große Auswahl an Fruchtgummies, Handgemachte Bonbons, Geschenkartikeln, uvm",
+      "UID":"ATU69101303",
       "email": "candyshop.seestadt@gmx.at",
-      "web": "https://www.facebook.com/candyshop.seestadt/",
+      "facebook": "https://www.facebook.com/candyshop.seestadt/",
+      "tel":"+43 1 2807113"
       "adresse": "Maria-Tusch-Strasse 7",
       "oeffnungszeiten": {
          "mo": ["09:00", "17:00"],
@@ -198,8 +207,10 @@
    },
    "drbike": {
       "name": "Dr. Bike",
-      "web": "http://www.dr-bike.at",
+      "beschreibung":"Fahrrad-Verkauf-Service und Reparatur",
+      "web": "http://www.dr-bike.at/filialen/DR-Bike-Seestadt_301",
       "adresse": "Maria-Tusch-Strasse 9",
+      "tel":"+43 660/203 71 04",
       "oeffnungszeiten": {
          "mo": ["10:00", "13:00", "14:00", "18:00"],
          "di": ["10:00", "13:00", "14:00", "18:00"],
