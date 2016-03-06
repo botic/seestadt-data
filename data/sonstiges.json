@@ -53,5 +53,23 @@
    		"tel":"+43 699 81 419 544",
    		"email":"feid77@hotmail.com",
    		"adresse":"Janis-Joplin-Promenade 8/6/17"
+   },
+   "seelsorgezentrum": {
+   		"name":"Seelsorgezentrum St. Edith Stein",
+   		"beschreibung":"Seelsorgestation und Familienberatungszentrum der Erzdiözese Wien",
+   		"web":"http://pfarre.aspern.at/Pfarre/StEdith/index.php",
+   		"tel":"0676/363 71 76",
+   		"adresse":"Maria-Tusch-Straße 11 / 1",
+   		"oeffnungszeiten": {
+   			"bemerkung":"zusätzlich nach Vereinbarung",
+			"mo": [],
+			"di": ["17:00","19:00"],
+			"mi": [],
+			"do": [],
+			"fr": [],
+			"sa": [],
+			"so": [],
+			"ft": []
+   		}
    }
 }
