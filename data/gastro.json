@@ -1,6 +1,12 @@
 {
   "oeeins": {
     "name": "ÖEINS",
+    "facebook":"https://www.facebook.com/oeeins.wien/",
+    "web":"http://www.oeeins.at/",
+    "tel":"+43 1 2102569",
+    "email":"info@oeeins.at",
+    "UID":"ATU69555028",
+    "adresse":"Hannah-Arendt Platz 1",
     "oeffnungszeiten": {
       "mo": ["11:00"],
       "di": ["11:00"],
@@ -15,6 +21,11 @@
   "portobello": {
     "name": "Portobello",
     "tel": "+43 1 3613666",
+    "facebook":"https://www.facebook.com/PortobelloVienna/",
+    "web":"http://www.portobello-seestadt.at/",
+    "email":"office@portobello-seestadt.at",
+    "UID":"ATU69270656",
+    "adresse":"Maria-Tusch-Straße 14/1",
     "oeffnungszeiten": {
       "mo": ["11:30", "14:30", "17:00", "21:30"],
       "di": ["11:30", "14:30", "17:00", "21:30"],
@@ -28,6 +39,12 @@
   },
   "united": {
     "name": "United In Cycling",
+    "beschreibung":"Verein zur Förderung der Radkultur und des interkulturellen Austausches",
+    "facebook":"https://www.facebook.com/UnitedInCycling/",
+    "web":"http://www.unitedincycling.com/",
+    "email":"office@unitedincycling.com",
+    "adresse":"Sonnenallee 35",
+    "UID":"ATU69708756",
     "oeffnungszeiten": {
       "mo": ["09:00", "19:00"],
       "di": ["09:00", "19:00"],
@@ -41,6 +58,7 @@
   },
   "kantine": {
     "name": "Seestadt Kantine",
+    "facebook":"https://www.facebook.com/seestadt.kantine/",
     "oeffnungszeiten": {
       "mo": ["06:00", "21:00"],
       "di": ["06:00", "21:00"],
