@@ -1,0 +1,27 @@
+{
+  "name": "seestadt-data",
+  "version": "1.0.0",
+  "description": "ODbL licensed data around Seestadt Aspern",
+  "main": "test/validate.js",
+  "scripts": {
+    "test": "node test/validate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://botic@github.com/botic/seestadt-data.git"
+  },
+  "keywords": [
+    "seestadt",
+    "vienna",
+    "opendata"
+  ],
+  "author": "Philipp Naderer",
+  "license": "SEE LICENSE IN LICENSE.MD",
+  "bugs": {
+    "url": "https://github.com/botic/seestadt-data/issues"
+  },
+  "homepage": "https://github.com/botic/seestadt-data#readme",
+  "dependencies": {
+    "ajv": "^3.8.2"
+  }
+}
