@@ -79,5 +79,13 @@
    		"web":"http://www.greenlab.wien/",
    		"adresse":"Ilse-Arlt-Straße 39",
    		"email":"david.biegl@zwopk.at"
+   },
+   "lernen_seestadt": {
+   		"name":"Lernen in der Seestadt",
+   		"beschreibung":"Lese-,Rechtschreib-,Rechen-Förderung, Frühförderung, Lernunterstützung, Jugendcoaching, Konzentrationstraining, Hilfe bei Schulangst",
+   		"web":"http://www.lernen-seestadt.at/",
+   		"adresse":"Mela-Spira-Gasse 3/H5/204",
+   		"tel":"+43 664 7987131",
+   		"email":"s.cechak@lernen-seestadt.at"
    }
 }

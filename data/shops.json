@@ -65,6 +65,8 @@
     "tel": "+43 1 2531520",
     "email": "buchhandlung@seeseiten.at",
     "web": "http://www.seeseiten.at",
+    "facebook":"https://www.facebook.com/seeseiten/",
+    "UID":"ATU69514518",
     "oeffnungszeiten": {
       "mo": ["10:00", "19:00"],
       "di": ["10:00", "19:00"],
