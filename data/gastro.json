@@ -1,7 +1,7 @@
 {
   "oeeins": {
     "name": "ÖEINS",
-    "facebook":"https://www.facebook.com/oeeins.wien/",
+    "facebook":"oeeins.wien",
     "web":"http://www.oeeins.at/",
     "tel":"+43 1 2102569",
     "email":"info@oeeins.at",
@@ -21,7 +21,7 @@
   "portobello": {
     "name": "Portobello",
     "tel": "+43 1 3613666",
-    "facebook":"https://www.facebook.com/PortobelloVienna/",
+    "facebook":"PortobelloVienna",
     "web":"http://www.portobello-seestadt.at/",
     "email":"office@portobello-seestadt.at",
     "UID":"ATU69270656",
@@ -40,7 +40,7 @@
   "united": {
     "name": "United In Cycling",
     "beschreibung":"Verein zur Förderung der Radkultur und des interkulturellen Austausches",
-    "facebook":"https://www.facebook.com/UnitedInCycling/",
+    "facebook":"UnitedInCycling",
     "web":"http://www.unitedincycling.com/",
     "email":"office@unitedincycling.com",
     "adresse":"Sonnenallee 35",
@@ -58,7 +58,7 @@
   },
   "kantine": {
     "name": "Seestadt Kantine",
-    "facebook":"https://www.facebook.com/seestadt.kantine/",
+    "facebook":"seestadt.kantine",
     "tel":"+43 681 81116 357",
     "email":"savicm@gmx.at",
     "oeffnungszeiten": {

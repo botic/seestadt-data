@@ -38,7 +38,7 @@
         },
         "facebook": {
           "type": "string",
-          "pattern": "^[\\S\\-\\.\\_]+$"
+          "pattern": "^[^\\?,;\\/\\ ]+$"
         },
         "twitter": {
           "type": "string",
