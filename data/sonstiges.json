@@ -99,9 +99,17 @@
    },   
    "wienwork_jugendcoaching": {
    		"name": "Wien Work Jugendcoaching",
+   		"beschreibung":"Hilfe für Jugendliche mit Bewerbungsunterlagen, Vorbereitung auf Bewerbungsgespräche, Lehrstellensuche",
    		"tel":"+43 1 288 80 560",
    		"email":"jugendcoaching@wienwork.at",
    		"adresse":"Frenkel-Brunswik-Gasse 1",
    		"web":"http://www.wienwork.at/jugendcoaching_und_jugendarbeitsassistenz.aspx"
+   },
+   "wienwork_arbeitsassistenz": {
+   		"name": "Wien Work Arbeitsassistenz",
+   		"beschreibung":"Gründungsberatung, Unternehmensberatung, Coaching, Karriereberatung für Menschen mit Behinderung und/oder chronischen Erkrankungen",
+   		"tel":"+43 1 288 80 540",
+   		"email":"rudolf.weissinger@wienwork.at",
+   		"adresse": "Sonnenalle 51/1"
    }
 }
