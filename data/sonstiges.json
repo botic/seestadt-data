@@ -87,5 +87,14 @@
    		"adresse":"Mela-Spira-Gasse 3/H5/204",
    		"tel":"+43 664 7987131",
    		"email":"s.cechak@lernen-seestadt.at"
+   },
+   "agentur2": {
+   		"name":"Agentur²",
+   		"beschreibung":"Event- und Promotionmanagement",
+   		"adresse":"Frenkel-Brunswik-Gasse 1/D1/33",
+   		"email":"office@agenturquadrat.at",
+   		"tel":"+43 699 1139 3062",
+   		"web":"http://www.agenturquadrat.at/",
+   		"facebook":"https://www.facebook.com/agenturquadrat/"
    }
 }
