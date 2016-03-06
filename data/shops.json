@@ -334,14 +334,14 @@
     }
   },
   "kunstkeramik": {
-  	"name": "Kunst & Keramik Werkstätte",
-  	"beschreibung": "Modellierkurse und Malworkshops für Erwachsene und Kinder, Kindergeburtstage",
-  	"web":   "http://www.kunst-keramik.at/",
-  	"facebook": "KunstundKeramik",
-  	"email": "bw@kunst-keramik.at",
-  	"tel": "+43 699 195 46 512",
-  	"UID": "ATU56657718",
-  	"adresse": "Maria Tusch Straße 8/1",
+    "name": "Kunst & Keramik Werkstätte",
+    "beschreibung": "Modellierkurse und Malworkshops für Erwachsene und Kinder, Kindergeburtstage",
+    "web":   "http://www.kunst-keramik.at/",
+    "facebook": "KunstundKeramik",
+    "email": "bw@kunst-keramik.at",
+    "tel": "+43 699 195 46 512",
+    "UID": "ATU56657718",
+    "adresse": "Maria Tusch Straße 8/1",
     "oeffnungszeiten": {
       "bemerkung": "Zusätzliche Termine nach telefonischer Vereinbarung",
       "mo": [],
@@ -355,14 +355,14 @@
     }
  },
  "bastellieschen": {
- 	"name": "Bastellieschen",
- 	"beschreibung": "Bastelartikel rund um die Papiergestaltung wie Grusskarten, Scrapbooking, Stempeln, Colorieren uvm. Kurse für Kinder & Erwachsene",
- 	"web": "http://www.bastellieschen.at",
- 	"facebook": "Bastellieschen-1407265406214601",
- 	"email": "office@bastellieschen.at",
- 	"adresse": "Maria Tusch Straße 8/4",
- 	"tel": "+43 660 2541000",
- 	"UID": "ATU62553711",
+  "name": "Bastellieschen",
+  "beschreibung": "Bastelartikel rund um die Papiergestaltung wie Grusskarten, Scrapbooking, Stempeln, Colorieren uvm. Kurse für Kinder & Erwachsene",
+  "web": "http://www.bastellieschen.at",
+  "facebook": "Bastellieschen-1407265406214601",
+  "email": "office@bastellieschen.at",
+  "adresse": "Maria Tusch Straße 8/4",
+  "tel": "+43 660 2541000",
+  "UID": "ATU62553711",
     "oeffnungszeiten": {
       "mo": ["14:00","19:00"],
       "di": ["14:00","19:00"],
@@ -375,15 +375,15 @@
     }
   },
   "zwoelfer-keramik": {
-  	"name": "12er glasporzellankeramik",
-  	"web": "http://www.12er.at/",
-  	"facebook": "12er-glasporzellankeramik-303579606335900",
-  	"adresse": "Maria Tusch-Straße 8/6",
-  	"UID": "ATU50738509",
-  	"email": "mail@12er.at",
-  	"tel": "+43 676 4204112",
-  	"oeffnungszeiten": {
-	  "bemerkung": "Nach telefonischer Vereinbarung",
+    "name": "12er glasporzellankeramik",
+    "web": "http://www.12er.at/",
+    "facebook": "12er-glasporzellankeramik-303579606335900",
+    "adresse": "Maria Tusch-Straße 8/6",
+    "UID": "ATU50738509",
+    "email": "mail@12er.at",
+    "tel": "+43 676 4204112",
+    "oeffnungszeiten": {
+    "bemerkung": "Nach telefonischer Vereinbarung",
       "mo": [],
       "di": [],
       "mi": [],
@@ -392,18 +392,18 @@
       "sa": [],
       "so": [],
       "ft": []
-  	}
+    }
   },
   "klenner": {
-  	"name": "Klenner.at",
-  	"beschreibung": "Telefonanlagen und IT-Betreuung",
-  	"web": "https://www.klenner.at/",
-  	"facebook": "klennerat",
-  	"email": "office@klenner.at",
-  	"tel": "+43 1 812 32 30 0",
-  	"adresse": "Mimi-Grossberg-Gasse 11/301",
-  	"UID": "ATU38290602",
-  	"oeffnungszeiten": {
+    "name": "Klenner.at",
+    "beschreibung": "Telefonanlagen und IT-Betreuung",
+    "web": "https://www.klenner.at/",
+    "facebook": "klennerat",
+    "email": "office@klenner.at",
+    "tel": "+43 1 812 32 30 0",
+    "adresse": "Mimi-Grossberg-Gasse 11/301",
+    "UID": "ATU38290602",
+    "oeffnungszeiten": {
       "mo": ["09:00","17:00"],
       "di": ["09:00","17:00"],
       "mi": ["09:00","17:00"],
@@ -412,17 +412,17 @@
       "sa": [],
       "so": [],
       "ft": []
-  	}
+    }
   },
   "follow_beauty": {
-  	"name": "Follow Beauty",
-  	"beschreibung": "Atelier Briant Rokyta. Kunstworkshops und Kunsttherapie",
-  	"adresse": "Maria-Tusch-Straße 8/1/43",
-  	"tel": "+43 676 540 75 96",
-  	"email": "briantrokyta@gmail.com",
-  	"web": "http://www.briantrokyta.com",
-  	"oeffnungszeiten": {
-	  "bemerkung": "Noch nicht eröffnet",
+    "name": "Follow Beauty",
+    "beschreibung": "Atelier Briant Rokyta. Kunstworkshops und Kunsttherapie",
+    "adresse": "Maria-Tusch-Straße 8/1/43",
+    "tel": "+43 676 540 75 96",
+    "email": "briantrokyta@gmail.com",
+    "web": "http://www.briantrokyta.com",
+    "oeffnungszeiten": {
+    "bemerkung": "Noch nicht eröffnet",
       "mo": [],
       "di": [],
       "mi": [],
@@ -452,20 +452,20 @@
   	}
   },
   "wienwork_polstern_naehen": {
-	"name":"Wien Work Polstern & Nähen",
-	"beschreibung":"Textilverarbeitung und Nähen von Kleidung. Möbeltapezieren und Bespannen von Möbelpolstern.",
-	"tel":"+43 1 288 80 440",
-	"email":"textil@wienwork.at",
-	"web":"http://www.wienwork.at/polstern_und_n%C3%A4hen.aspx",
-	"adresse":"Maria-Tusch-Straße 31"
+	"name": "Wien Work Polstern & Nähen",
+	"beschreibung": "Textilverarbeitung und Nähen von Kleidung. Möbeltapezieren und Bespannen von Möbelpolstern.",
+	"tel": "+43 1 288 80 440",
+	"email": "textil@wienwork.at",
+	"web": "http://www.wienwork.at/polstern_und_n%C3%A4hen.aspx",
+	"adresse": "Maria-Tusch-Straße 31"
   },
   "wienwork_textilreinigung_annahmestelle": {
-	"name":"Wien Work Textilreinigung & Bügelservice Annahmestelle",
-	"beschreibung":"Waschen, Putzen, Reinigen und Bügeln von Textilien",
-	"tel":"+43 1 288 80 420",
-	"email":"textilreinigung@wienwork.at",
-	"web":"www.wienwork.at/textilreinigung_und_bügelservice.aspx",
-	"adresse":"Maria-Tusch-Straße 25",
+	"name": "Wien Work Textilreinigung & Bügelservice Annahmestelle",
+	"beschreibung": "Waschen, Putzen, Reinigen und Bügeln von Textilien",
+	"tel": "+43 1 288 80 420",
+	"email": "textilreinigung@wienwork.at",
+	"web": "www.wienwork.at/textilreinigung_und_bügelservice.aspx",
+	"adresse": "Maria-Tusch-Straße 25",
   	"oeffnungszeiten": {
       "mo": ["08:00","17:00"],
       "di": ["08:00","17:00"],
@@ -478,13 +478,13 @@
   	}
   },
   "hunde_styling": {
-	"name":"Hunde Styling Seestadt",
-	"beschreibung":"Hunde Pflege, Do It Yourself Dog Wash, Hundefutter, Hunde Shampoo, Hunde Zubehör",
-	"email":"info@hunde-styling-seestadt.at",
-	"tel":"+43 664 94 87 558",
-	"web":"http://www.hunde-styling-seestadt.at/",
-	"UID":"ATU70088406",
-	"adresse":"Maria-Tusch-Straße 6",
+	"name": "Hunde Styling Seestadt",
+	"beschreibung": "Hunde Pflege, Do It Yourself Dog Wash, Hundefutter, Hunde Shampoo, Hunde Zubehör",
+	"email": "info@hunde-styling-seestadt.at",
+	"tel": "+43 664 94 87 558",
+	"web": "http://www.hunde-styling-seestadt.at/",
+	"UID": "ATU70088406",
+	"adresse": "Maria-Tusch-Straße 6",
   	"oeffnungszeiten": {
       "mo": ["08:00","15:00"],
       "di": ["08:00","15:00"],

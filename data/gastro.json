@@ -72,23 +72,23 @@
       "ft": []
     }
   },
-	"salz_und_pfeffer": {
-    	"name":"Salz+Pfeffer",
-    	"beschreibung":"Restaurant, Bistro, Catering",
-    	"web":"http://www.salzundpfeffer-catering.at/",
-    	"tel":"+43 1 2807355",
-    	"email":"office@salzundpfeffer-catering.at",
-    	"adresse":"Seestadtstrasse 27",
-	    "oeffnungszeiten": {
-	      "bemerkung": "Zusätzliche Öffnungszeiten für Feiern nach Vereinbarung",
-	      "mo": ["09:00", "16:00"],
-	      "di": ["09:00", "16:00"],
-	      "mi": ["09:00", "16:00"],
-	      "do": ["09:00", "16:00"],
-	      "fr": ["09:00", "16:00"],
-	      "sa": [],
-	      "so": [],
-	      "ft": []
-	    }
-	}
+  "salz_und_pfeffer": {
+      "name":"Salz+Pfeffer",
+      "beschreibung":"Restaurant, Bistro, Catering",
+      "web":"http://www.salzundpfeffer-catering.at/",
+      "tel":"+43 1 2807355",
+      "email":"office@salzundpfeffer-catering.at",
+      "adresse":"Seestadtstrasse 27",
+      "oeffnungszeiten": {
+        "bemerkung": "Zusätzliche Öffnungszeiten für Feiern nach Vereinbarung",
+        "mo": ["09:00", "16:00"],
+        "di": ["09:00", "16:00"],
+        "mi": ["09:00", "16:00"],
+        "do": ["09:00", "16:00"],
+        "fr": ["09:00", "16:00"],
+        "sa": [],
+        "so": [],
+        "ft": []
+      }
+  }
 }

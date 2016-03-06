@@ -74,43 +74,43 @@
       }
    },
    "greenlab": {
-   		"name":"Greenlab",
-   		"beschreibung":"Ein Projekt an der Schnittstelle von Arbeitsmarktpolitik, Landschaftsarchitektur und Stadtplanung, bei dem Jugendliche „Freiräume“ für Jugendliche bauen.",
-   		"web":"http://www.greenlab.wien/",
-   		"adresse":"Ilse-Arlt-Straße 39",
-   		"email":"david.biegl@zwopk.at"
+      "name":"Greenlab",
+      "beschreibung":"Ein Projekt an der Schnittstelle von Arbeitsmarktpolitik, Landschaftsarchitektur und Stadtplanung, bei dem Jugendliche „Freiräume“ für Jugendliche bauen.",
+      "web":"http://www.greenlab.wien/",
+      "adresse":"Ilse-Arlt-Straße 39",
+      "email":"david.biegl@zwopk.at"
    },
    "lernen_seestadt": {
-   		"name":"Lernen in der Seestadt",
-   		"beschreibung":"Lese-,Rechtschreib-,Rechen-Förderung, Frühförderung, Lernunterstützung, Jugendcoaching, Konzentrationstraining, Hilfe bei Schulangst",
-   		"web":"http://www.lernen-seestadt.at/",
-   		"adresse":"Mela-Spira-Gasse 3/H5/204",
-   		"tel":"+43 664 7987131",
-   		"email":"s.cechak@lernen-seestadt.at"
+      "name":"Lernen in der Seestadt",
+      "beschreibung":"Lese-,Rechtschreib-,Rechen-Förderung, Frühförderung, Lernunterstützung, Jugendcoaching, Konzentrationstraining, Hilfe bei Schulangst",
+      "web":"http://www.lernen-seestadt.at/",
+      "adresse":"Mela-Spira-Gasse 3/H5/204",
+      "tel":"+43 664 7987131",
+      "email":"s.cechak@lernen-seestadt.at"
    },
    "agentur2": {
-   		"name":"Agentur²",
-   		"beschreibung":"Event- und Promotionmanagement",
-   		"adresse":"Frenkel-Brunswik-Gasse 1/D1/33",
-   		"email":"office@agenturquadrat.at",
-   		"tel":"+43 699 1139 3062",
-   		"web":"http://www.agenturquadrat.at/",
-   		"facebook":"agenturquadrat"
+      "name":"Agentur²",
+      "beschreibung":"Event- und Promotionmanagement",
+      "adresse":"Frenkel-Brunswik-Gasse 1/D1/33",
+      "email":"office@agenturquadrat.at",
+      "tel":"+43 699 1139 3062",
+      "web":"http://www.agenturquadrat.at/",
+      "facebook":"agenturquadrat"
    },
    "wienwork_jugendcoaching": {
-   		"name": "Wien Work Jugendcoaching",
-   		"beschreibung":"Hilfe für Jugendliche mit Bewerbungsunterlagen, Vorbereitung auf Bewerbungsgespräche, Lehrstellensuche",
-   		"tel":"+43 1 288 80 560",
-   		"email":"jugendcoaching@wienwork.at",
-   		"adresse":"Frenkel-Brunswik-Gasse 1",
-   		"web":"http://www.wienwork.at/jugendcoaching_und_jugendarbeitsassistenz.aspx"
+      "name": "Wien Work Jugendcoaching",
+      "beschreibung":"Hilfe für Jugendliche mit Bewerbungsunterlagen, Vorbereitung auf Bewerbungsgespräche, Lehrstellensuche",
+      "tel":"+43 1 288 80 560",
+      "email":"jugendcoaching@wienwork.at",
+      "adresse":"Frenkel-Brunswik-Gasse 1",
+      "web":"http://www.wienwork.at/jugendcoaching_und_jugendarbeitsassistenz.aspx"
    },
    "wienwork_arbeitsassistenz": {
-   		"name": "Wien Work Arbeitsassistenz",
-   		"beschreibung":"Gründungsberatung, Unternehmensberatung, Coaching, Karriereberatung für Menschen mit Behinderung und/oder chronischen Erkrankungen",
-   		"tel":"+43 1 288 80 540",
-   		"email":"rudolf.weissinger@wienwork.at",
-   		"adresse": "Sonnenalle 51/1",
-   		"web":"http://www.wienwork.at/arbeitsassistenz_f%C3%BCr_erwachsene_mit_behinderung.aspx"
+      "name": "Wien Work Arbeitsassistenz",
+      "beschreibung":"Gründungsberatung, Unternehmensberatung, Coaching, Karriereberatung für Menschen mit Behinderung und/oder chronischen Erkrankungen",
+      "tel":"+43 1 288 80 540",
+      "email":"rudolf.weissinger@wienwork.at",
+      "adresse": "Sonnenalle 51/1",
+      "web":"http://www.wienwork.at/arbeitsassistenz_f%C3%BCr_erwachsene_mit_behinderung.aspx"
    }
 }
