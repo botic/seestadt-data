@@ -256,5 +256,23 @@
 			"so": [],
 			"ft": []
       }
+   },
+   "christines_oase" : {
+   		"name":"Christine's Oase",
+   		"beschreibung":"Kosmetikstudio, Fußpflege, Haarentfernung",
+   		"web":"http://www.christines-oase.at/",
+   		"tel":"0677 / 618 234 22",
+   		"adresse":"Sonnenallee 44/3/1",
+   		"oeffnungszeiten": {
+   			"bemerkung":"Terminvereinbarung notwendig",
+			"mo": [],
+			"di": [],
+			"mi": [],
+			"do": [],
+			"fr": [],
+			"sa": [],
+			"so": [],
+			"ft": []
+   		}
    }
 }
