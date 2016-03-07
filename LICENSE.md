@@ -43,7 +43,7 @@ activities not covered by this License.
 
 ------
 
-The Licensor (as defined below)
+The Licensor (as defined below, including all authors and editors of the data)
 
 and
 
