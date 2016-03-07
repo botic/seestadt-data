@@ -431,6 +431,69 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+  	}
+  },
+  "wienwork_digitalmedia": {
+	"name":"Wien Work Digital Media Shop",
+	"beschreibung":"Drucken, Kopieren, Spiralisieren, Direktmailings, Digitale Archive, Scandienstleistungen",
+	"web":"http://www.wienwork.at/digital_media.aspx",
+	"email":"digitalmedia@wienwork.at",
+	"tel":"+43 1 288 80 410",
+	"adresse":"Maria-Tusch-Straße 21",
+  	"oeffnungszeiten": {
+      "mo": ["08:00","17:00"],
+      "di": ["08:00","17:00"],
+      "mi": ["08:00","17:00"],
+      "do": ["08:00","17:00"],
+      "fr": ["08:00","17:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
+  },
+  "wienwork_polstern_naehen": {
+	"name": "Wien Work Polstern & Nähen",
+	"beschreibung": "Textilverarbeitung und Nähen von Kleidung. Möbeltapezieren und Bespannen von Möbelpolstern.",
+	"tel": "+43 1 288 80 440",
+	"email": "textil@wienwork.at",
+	"web": "http://www.wienwork.at/polstern_und_n%C3%A4hen.aspx",
+	"adresse": "Maria-Tusch-Straße 31"
+  },
+  "wienwork_textilreinigung_annahmestelle": {
+	"name": "Wien Work Textilreinigung & Bügelservice Annahmestelle",
+	"beschreibung": "Waschen, Putzen, Reinigen und Bügeln von Textilien",
+	"tel": "+43 1 288 80 420",
+	"email": "textilreinigung@wienwork.at",
+	"web": "www.wienwork.at/textilreinigung_und_bügelservice.aspx",
+	"adresse": "Maria-Tusch-Straße 25",
+  	"oeffnungszeiten": {
+      "mo": ["08:00","17:00"],
+      "di": ["08:00","17:00"],
+      "mi": ["08:00","17:00"],
+      "do": ["08:00","17:00"],
+      "fr": ["08:00","17:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
+  },
+  "hunde_styling": {
+	"name": "Hunde Styling Seestadt",
+	"beschreibung": "Hunde Pflege, Do It Yourself Dog Wash, Hundefutter, Hunde Shampoo, Hunde Zubehör",
+	"email": "info@hunde-styling-seestadt.at",
+	"tel": "+43 664 94 87 558",
+	"web": "http://www.hunde-styling-seestadt.at/",
+	"UID": "ATU70088406",
+	"adresse": "Maria-Tusch-Straße 6",
+  	"oeffnungszeiten": {
+      "mo": ["08:00","15:00"],
+      "di": ["08:00","15:00"],
+      "mi": ["08:00","15:00"],
+      "do": ["08:00","15:00"],
+      "fr": ["08:00","15:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+  	}
   }
 }
