@@ -2,13 +2,13 @@
 # http://editorconfig.org
 root = true
 
-[*.{json}]
+[data/**.json]
 end_of_line    = lf
 charset        = utf-8
 indent_style   = space
 indent_size    = 2
 
-[*.{js}]
+[test/**.js]
 end_of_line    = lf
 charset        = utf-8
 indent_style   = space

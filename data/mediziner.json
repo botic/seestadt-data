@@ -1,203 +1,203 @@
 {
-   "hno-woller": {
-      "name": "HNO Dr. Eva Stadler-Woller",
-      "beschreibung": "Keine Kassen / Wahlärztin",
-      "tel": "+43 660 49 10 666",
-	  "web": "http://hno22.at",
-	  "email": "eva.stadler.woller@gmail.com",
-	  "adresse": "Maria-Tusch-Strasse 18/2/8",
-      "oeffnungszeiten": {
-		"bemerkung":"Nach individueller Vereinbarung",
-        "mo": [],
-        "di": [],
-        "mi": [],
-        "do": [],
-        "fr": [],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   },
-   "physio_aspern": {
-      "name":"Physiotherapie Aspern",
-      "beschreibung":"Physiotherapie und Osteopathie",
-      "web":"http://www.physio-aspern.at/",
-      "facebook":"Physio-Aspern-700480969964481",
-      "tel":"+43 699 10906786",
-      "email":"therapie@physio-aspern.at",
-      "adresse":"Ilse-Arlt-Straße 5/2",
-      "oeffnungszeiten": {
-      "bemerkung":"Nach individueller Vereinbarung",
-        "mo": [],
-        "di": [],
-        "mi": [],
-        "do": [],
-        "fr": [],
-        "sa": [],
-        "so": [],
-        "ft": []
+  "hno-woller": {
+    "name": "HNO Dr. Eva Stadler-Woller",
+    "beschreibung": "Keine Kassen / Wahlärztin",
+    "tel": "+43 660 49 10 666",
+    "web": "http://hno22.at",
+    "email": "eva.stadler.woller@gmail.com",
+    "adresse": "Maria-Tusch-Strasse 18/2/8",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
     }
-   },
-   "physio_brauner" : {
-      "name": "Physiotherapie Susanna Brauner",
-      "beschreibung":"Physiotherapie",
-      "web":"http://www.physio-brauner.at",
-      "email":"susanna.brauner@gmail.com",
-      "tel":"+43 650 995 2887",
-      "adresse":"Hannah-Arendt-Platz 9",
-        "oeffnungszeiten": {
-      "bemerkung":"Nach individueller Vereinbarung",
-        "mo": [],
-        "di": [],
-        "mi": [],
-        "do": [],
-        "fr": [],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   },
-   "burnout_coach_eigel": {
-      "name":"Burnout Coaching - Karl Eigel",
-      "beschreibung":"Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
-      "adresse":"Mimi-Grossberg-Gasse 11/312",
-      "facebook":"BurnoutCoachAspern",
-      "web":"http://www.burnout-coach.at/",
-      "tel":"+43 650 2859537",
-      "email":"karl@eigel.at"
-   },
-   "psychotherapie_wambach": {
-      "name":"Psychotherapie DDr. Anton Wambach",
-      "beschreibung":"Psychotherapeut in Ausbildung unter Supervision",
-      "adresse":"Mimi-Grossberg-Gasse 11/312",
-      "web":"http://psythera-at.webnode.at",
-      "email":"anton.wambach@yahoo.com",
-      "tel":"+43 680 24 64 716"
-   },
-   "neurologie_schreiber": {
-      "name": "Neurologie Dr. Walter Schreiber",
-      "beschreibung": "Wahlarzt, Kassenvertrag nur mit KFA",
-      "tel": "+43 699 815 36 186",
-	  "web": "http://www.neurologie-essling.at/",
-	  "email": "info@neurologie-essling.at",
-	  "adresse": "Maria-Tusch-Straße 18/3",
-      "oeffnungszeiten": {
-		"bemerkung":"Weitere Termine nach telefonischer Vereinbarung",
-        "mo": ["09:00","12:00"],
-        "di": ["14:00","19:00"],
-        "mi": ["09:00","13:00"],
-        "do": ["14:00","19:00"],
-        "fr": [],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   },
-   "psychotherapie_steiner": {
-	  "name": "Psychotherapie Gerhard Steiner, MSc",
-	  "beschreibung": "Psychotherapie, Paartherapie, Familientherapie, Therapie mit Jugendlichen, Elternberatung, Lebensberatung, Coaching",
-	  "web": "http://www.steiner-therapie.at/",
-	  "adresse": "Maria-Tusch-Straße 18/A/24",
-	  "tel": "+43 676 72 56 807",
-	  "email": "gerhard@steiner-therapie.at",
-      "oeffnungszeiten": {
-		"bemerkung":"Nach individueller Vereinbarung",
-        "mo": [],
-        "di": [],
-        "mi": [],
-        "do": [],
-        "fr": [],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   },
-   "ergotherapie_ergopraxisaspern": {
-	  "name": "Ergotherapie ergopraxisaspern",
-	  "web": "http://www.ergopraxisaspern.at/ueber-uns/wer-sind-wir/daniela-schlager-jaschky/",
-	  "adresse": "Maria-Tusch-Straße 18/A/4",
-	  "email": "office@ergopraxisaspern.at",
-	  "tel": "+43 1 2102563",
-      "oeffnungszeiten": {
-		"bemerkung":"Nach individueller Vereinbarung",
-        "mo": [],
-        "di": [],
-        "mi": [],
-        "do": [],
-        "fr": [],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   },
-   "allgemeinmedizin_maktari": {
-	  "name": "Allgemeinmedizin und Innere Medizin Dr. Adil Maktari",
-	  "beschreibung": "Allgemeinmedizin (Kassenvertrag), Innere Medizin und Rheumatologie (Wahlarzt)",
-	  "tel": "+43 1 210 69 20",
-	  "adresse": "Maria-Tusch-Strasse 18/4/19",
-      "oeffnungszeiten": {
-        "mo": ["14:00","19:00"],
-        "di": ["08:00","11:00"],
-        "mi": ["08:00","11:00"],
-        "do": ["14:00","19:00"],
-        "fr": ["08:00","11:00"],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   },
-   "gynaekologie_sommerlechner": {
-      "name": "Gynäkologie Dr. Monika Sommerlechner",
-	  "beschreibung": "Gynäkologie (Kassenvertrag)",
-	  "tel": "+43 1 774 13 30",
-	  "web": "http://www.frauenaerztin-sommerlechner.at/",
-	  "email": "ordination@frauenaerztin-sommerlechner.at",
-	  "adresse": "Maria-Tusch-Straße 18/14",
-      "oeffnungszeiten": {
-        "mo": ["07:00","13:00"],
-        "di": ["08:30","13:30"],
-        "mi": [],
-        "do": ["08:30","12:30"],
-        "fr": ["14:00","19:00"],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   },
-   "psychologie_weissgram": {
-      "name": "Klinische und Gesundheitspsychologie Mag. Silvia Weissgram",
-	  "web": "http://www.einsmitdemleben.at/",
-	  "tel": "+43 664 183 66 65",
-	  "email": "weissgram@einsmitdemleben.at",
-	  "adresse": "Maria-Tusch-Strasse 18/1/3",
-      "oeffnungszeiten": {
-		"bemerkung":"Nach individueller Vereinbarung",
-        "mo": [],
-        "di": [],
-        "mi": [],
-        "do": [],
-        "fr": [],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   },
-   "psychiatrie_wally": {
-      "name": "Psychiatrie und Psychotherapeutische Medizin Dr. Beate Wally",
-	  "beschreibung": "Wahlärztin für Psychiatrie u. Psychotherapeutische Medizin / Kein Kassenvertrag",
-	  "email": "ordination-wally@gmx.at",
-	  "tel": "+43 680 133 26 75",
-	  "adresse": "Maria-Tusch-Strasse 18/3",
-      "oeffnungszeiten": {
-		"bemerkung":"Nach individueller Vereinbarung",
-        "mo": [],
-        "di": [],
-        "mi": [],
-        "do": [],
-        "fr": [],
-        "sa": [],
-        "so": [],
-        "ft": []
-      }
-   }
+  },
+  "physio_aspern": {
+    "name": "Physiotherapie Aspern",
+    "beschreibung": "Physiotherapie und Osteopathie",
+    "web": "http://www.physio-aspern.at/",
+    "facebook": "Physio-Aspern-700480969964481",
+    "tel": "+43 699 10906786",
+    "email": "therapie@physio-aspern.at",
+    "adresse": "Ilse-Arlt-Straße 5/2",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "physio_brauner" : {
+    "name": "Physiotherapie Susanna Brauner",
+    "beschreibung": "Physiotherapie",
+    "web": "http://www.physio-brauner.at",
+    "email": "susanna.brauner@gmail.com",
+    "tel": "+43 650 995 2887",
+    "adresse": "Hannah-Arendt-Platz 9",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "burnout_coach_eigel": {
+    "name": "Burnout Coaching - Karl Eigel",
+    "beschreibung": "Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
+    "adresse": "Mimi-Grossberg-Gasse 11/312",
+    "facebook": "BurnoutCoachAspern",
+    "web": "http://www.burnout-coach.at/",
+    "tel": "+43 650 2859537",
+    "email": "karl@eigel.at"
+  },
+  "psychotherapie_wambach": {
+    "name": "Psychotherapie DDr. Anton Wambach",
+    "beschreibung": "Psychotherapeut in Ausbildung unter Supervision",
+    "adresse": "Mimi-Grossberg-Gasse 11/312",
+    "web": "http://psythera-at.webnode.at",
+    "email": "anton.wambach@yahoo.com",
+    "tel": "+43 680 24 64 716"
+  },
+  "neurologie_schreiber": {
+    "name": "Neurologie Dr. Walter Schreiber",
+    "beschreibung": "Wahlarzt, Kassenvertrag nur mit KFA",
+    "tel": "+43 699 815 36 186",
+    "web": "http://www.neurologie-essling.at/",
+    "email": "info@neurologie-essling.at",
+    "adresse": "Maria-Tusch-Straße 18/3",
+    "oeffnungszeiten": {
+      "bemerkung": "Weitere Termine nach telefonischer Vereinbarung",
+      "mo": ["09:00","12:00"],
+      "di": ["14:00","19:00"],
+      "mi": ["09:00","13:00"],
+      "do": ["14:00","19:00"],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "psychotherapie_steiner": {
+    "name": "Psychotherapie Gerhard Steiner, MSc",
+    "beschreibung": "Psychotherapie, Paartherapie, Familientherapie, Therapie mit Jugendlichen, Elternberatung, Lebensberatung, Coaching",
+    "web": "http://www.steiner-therapie.at/",
+    "adresse": "Maria-Tusch-Straße 18/A/24",
+    "tel": "+43 676 72 56 807",
+    "email": "gerhard@steiner-therapie.at",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "ergotherapie_ergopraxisaspern": {
+    "name": "Ergotherapie ergopraxisaspern",
+    "web": "http://www.ergopraxisaspern.at/ueber-uns/wer-sind-wir/daniela-schlager-jaschky/",
+    "adresse": "Maria-Tusch-Straße 18/A/4",
+    "email": "office@ergopraxisaspern.at",
+    "tel": "+43 1 2102563",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "allgemeinmedizin_maktari": {
+    "name": "Allgemeinmedizin und Innere Medizin Dr. Adil Maktari",
+    "beschreibung": "Allgemeinmedizin (Kassenvertrag), Innere Medizin und Rheumatologie (Wahlarzt)",
+    "tel": "+43 1 210 69 20",
+    "adresse": "Maria-Tusch-Strasse 18/4/19",
+    "oeffnungszeiten": {
+      "mo": ["14:00","19:00"],
+      "di": ["08:00","11:00"],
+      "mi": ["08:00","11:00"],
+      "do": ["14:00","19:00"],
+      "fr": ["08:00","11:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "gynaekologie_sommerlechner": {
+    "name": "Gynäkologie Dr. Monika Sommerlechner",
+    "beschreibung": "Gynäkologie (Kassenvertrag)",
+    "tel": "+43 1 774 13 30",
+    "web": "http://www.frauenaerztin-sommerlechner.at/",
+    "email": "ordination@frauenaerztin-sommerlechner.at",
+    "adresse": "Maria-Tusch-Straße 18/14",
+    "oeffnungszeiten": {
+      "mo": ["07:00","13:00"],
+      "di": ["08:30","13:30"],
+      "mi": [],
+      "do": ["08:30","12:30"],
+      "fr": ["14:00","19:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "psychologie_weissgram": {
+    "name": "Klinische und Gesundheitspsychologie Mag. Silvia Weissgram",
+    "web": "http://www.einsmitdemleben.at/",
+    "tel": "+43 664 183 66 65",
+    "email": "weissgram@einsmitdemleben.at",
+    "adresse": "Maria-Tusch-Strasse 18/1/3",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "psychiatrie_wally": {
+    "name": "Psychiatrie und Psychotherapeutische Medizin Dr. Beate Wally",
+    "beschreibung": "Wahlärztin für Psychiatrie u. Psychotherapeutische Medizin / Kein Kassenvertrag",
+    "email": "ordination-wally@gmx.at",
+    "tel": "+43 680 133 26 75",
+    "adresse": "Maria-Tusch-Strasse 18/3",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  }
 }
