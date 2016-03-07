@@ -1,3 +1,16 @@
+## General Information
+
+In addition to the ODbL license, the following terms apply to any data and
+code related to this repository:
+
+The data and software is provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and noninfringement.
+In no event shall the authors or copyright holders be liable for any claim,
+damages or other liability, whether in an action of contract, tort or otherwise,
+arising from, out of or in connection with the software and data, or the use or
+other dealings in the software and data.
+
 ## ODC Open Database License (ODbL)
 
 ### Preamble
