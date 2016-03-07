@@ -112,5 +112,35 @@
       "email": "rudolf.weissinger@wienwork.at",
       "adresse": "Sonnenalle 51/1",
       "web": "http://www.wienwork.at/arbeitsassistenz_f%C3%BCr_erwachsene_mit_behinderung.aspx"
+   },
+   "spoe": {
+      "name": "SPÖ Seestadt",
+      "beschreibung": "Parteilokal der SPÖ Donaustadt",
+      "adresse": "Maria-Tusch-Straße 35/7/EG/1"
+   },
+   "rsnet" : {
+      "name": "RS net",
+      "beschreibung": "IT-Consulting & Videoüberwachung in Wien",
+      "tel": "+43 676 92 59 248",
+      "email": "sales@rsnet.at",
+      "web": "http://www.rsnet.at/",
+      "UID": "ATU62680101",
+      "adresse": "Janis-Joplin-Promenade 8/6/2"
+   },
+   "dolmetscher_bashir": {
+      "name": "Dolmetscher Neamul Bashir",
+      "beschreibung": "Beeideter und gerichtlich zertifizierter Dolmetscher für Bengalisch (= Bengali = Bangla)",
+      "tel": "+43 664 130 0514",
+      "email": "neamul.bashir@chello.at",
+      "adresse": "Janis-Joplin-Promenade 8/6/11"
+   },
+   "raetselfabrik": {
+      "name": "Rätselfabrik",
+      "beschreibung": "Rätselring-Zeitschriften, Herausgeber Bernhard Franz Verlags-GmbH.",
+      "UID": "ATU62478633",
+      "email": "office@raetselfabrik.at",
+      "tel": "+43 676 468 4115",
+      "web": "http://raetselfabrik.at/",
+      "adresse": "Janis Joplin-Prominade 6/5/2"
    }
 }
