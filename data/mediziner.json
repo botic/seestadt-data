@@ -18,6 +18,25 @@
       "ft": []
     }
   },
+  "hno-sabathi": {
+    "name": "Dr. Wolfgang Sabathi",
+    "beschreibung": "Alle Kassen, öffnet am 4. April 2016.",
+    "tel": "+43 1 388 3 388",
+    "web": "http://www.hno-seestadt.at",
+    "email": "ordination@hno-seestadt.at",
+    "adresse": "Maria-Tusch-Straße 18/25",
+    "oeffnungszeiten": {
+      "bemerkung": "Vormittags nur mit Voranmeldung.",
+      "mo": ["8:00", "11:30", "14:00", "18:00"],
+      "di": ["15:00", "19:00"],
+      "mi": ["08:00", "11:30"],
+      "do": ["15:00", "19:00"],
+      "fr": ["08:00", "11:30"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
   "physio_aspern": {
     "name": "Physiotherapie Aspern",
     "beschreibung": "Physiotherapie und Osteopathie",
