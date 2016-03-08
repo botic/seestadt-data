@@ -251,5 +251,12 @@
     "tel": "+43 677 618 235 83",
     "email": "bettina.golds@gmail.com",
     "adresse": "Mimi-Grossberg-Gasse 11/312"
+  },
+  "psychotherapie_fellner": {
+    "name": "Psychotherapeutische Praxis Richard L. Fellner",
+    "beschreibung": "Psychotherapeut, Coach, Supervisor in Wien",
+    "web": "https://www.psychotherapiepraxis.at/psychotherapie-praxis-1220-wien.phtml",
+    "tel": "+43 676 720-9300",
+    "adresse": "Maria-Tusch-Straße 11"
   }
 }
