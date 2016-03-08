@@ -199,5 +199,25 @@
       "so": [],
       "ft": []
     }
+  },
+  "kilibee" :{
+    "name": "Kilibee - für Kind & Familie",
+    "beschreibung": "Energetische Praxis, Aromaberatung und Anwendung, Bachblüten, Mentaltrainings, Entspannungstechniken, BLIS-Training",
+    "email": "kilibee@gmx.at",
+    "tel": "+43 677 616 409 88",
+    "web": "http://www.kilibee.at/",
+    "facebook": "kilibee.at",
+    "adresse": "Gisela-Legath-Gasse 5/1",
+    "oeffnungszeiten": {
+      "bemerkung": "Zusätzliche Termine nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": ["14:00","18:00"],
+      "do": [],
+      "fr": ["14:00","18:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }
