@@ -161,5 +161,15 @@
     "email": "info@sonic-vision.tv",
     "tel": "+43 1 9692375",
     "adresse": "Gisela-Legath-Gasse 5/1-2"
+  },
+  "audio_boutique": {
+    "name": "Audio Boutique",
+    "beschreibung": "Online Versandhandel für Musikinstrumente und Zubehör",
+    "UID": "ATU40803706",
+    "email": "sales@audio-boutique.com",
+    "tel": "+43 1293 60 25",
+    "web": "https://www.audio-boutique.com",
+    "facebook": "audioboutiquewarehouse",
+    "adresse": "Maria Tusch Strasse 8/2/1a"
   }
 }
