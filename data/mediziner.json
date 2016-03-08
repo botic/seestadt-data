@@ -219,5 +219,21 @@
       "so": [],
       "ft": []
     }
+  },
+  "coaching_dreisicht": {
+    "name": "dreiSicht",
+    "beschreibung": "Coaching, Supervision, Training, Kommunikations- und Konfliktseminare, Zeitmanagement, Moderation von Workshops",
+    "tel": "+43 699 10070246",
+    "email": "margret.matzerath@dreisicht.at",
+    "web": "http://www.dreisicht.at/",
+    "adresse": "Gisela-Legath-Gasse 5/20"
+  },
+  "psychotherapie_mayrhofer": {
+    "name": "Praxis Mag. Mayrhofer",
+    "beschreibung": "Psychotherapie, Coaching, Mentaltraining",
+    "tel": "+43 699 10059007",
+    "email": "praxis@colorme.at",
+    "web": "http://praxis.colorme.at",
+    "adresse": "Gisela-Legath-Gasse 5"
   }
 }
