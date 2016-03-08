@@ -171,5 +171,13 @@
     "web": "https://www.audio-boutique.com",
     "facebook": "audioboutiquewarehouse",
     "adresse": "Maria Tusch Strasse 8/2/1a"
+  },
+  "biotrem": {
+    "name": "biotrem"
+    "beschreibung": "Geschirr aus Weizenkleien",
+    "web": "http://www.biotrem.at",
+    "facebook": "Biotrem",
+    "email": "office@biotrem.at",
+    "adresse": "Mela-Spira-Gasse 3/H5/201"
   }
 }
