@@ -143,16 +143,6 @@
     "web": "http://raetselfabrik.at/",
     "adresse": "Janis Joplin-Prominade 6/5/2"
   },
-  "photograph_puiu": {
-    "name": "Luiza-Lucia Puiu",
-    "beschreibung": "Fotojournalistin, Pressefotografie, Visual Sociologist",
-    "facebook": "luiza.puiu",
-    "twitter": "lullulia",
-    "web": "http://luizapuiu.com",
-    "tel": "+43 699 11010357",
-    "email": "luiza@luizapuiu.com",
-    "adresse": "Gisela-Legath-Gasse 5/27"
-  },
   "sonicvision": {
     "name": "sonic-vision.TV",
     "beschreibung": "E-Learning-Plattform, Tontechnik Ausbildung",
@@ -160,7 +150,7 @@
     "UID": "ATU64683667",
     "email": "info@sonic-vision.tv",
     "tel": "+43 1 9692375",
-    "adresse": "Gisela-Legath-Gasse 5/1-2"
+    "adresse": "Gisela-Legath-Gasse 5/1"
   },
   "audio_boutique": {
     "name": "Audio Boutique",
@@ -179,5 +169,31 @@
     "facebook": "Biotrem",
     "email": "office@biotrem.at",
     "adresse": "Mela-Spira-Gasse 3/H5/201"
+  },
+  "fotografin_luizapuiu": {
+    "name": "Luiza-Lucia Puiu",
+    "beschreibung": "Fotojournalistin, Pressefotografie, Visual Sociologist",
+    "facebook": "luiza.puiu",
+    "twitter": "lullulia",
+    "web": "http://luizapuiu.com",
+    "tel": "+43 699 11010357",
+    "email": "luiza@luizapuiu.com",
+    "adresse": "Gisela-Legath-Gasse 5/27"
+  },
+  "fotografin_elisabethfeldner": {
+    "name": "Elisabeth Feldner",
+    "beschreibung": "Hochzeitsfotografie",
+    "facebook": "dieElfephotography",
+    "web": "http://www.dieelfe.com",
+    "tel": "+43 676 5175009",
+    "email": "contact@dieelfe.com",
+    "adresse": "Sonnenallee 36/14/23"
+  },
+  "fotografin_karolinahorner": {
+    "name": "Karolina Horner",
+    "beschreibung": "Kinder- und Hochzeitsfotografie",
+    "facebook": "kalinkaphoto",
+    "web": "http://www.kalinkaphoto.at",
+    "email": "karolina@kalinkaphoto.at"
   }
 }
