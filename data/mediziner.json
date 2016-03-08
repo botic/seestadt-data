@@ -1,5 +1,5 @@
 {
-  "hno-woller": {
+  "hno_woller": {
     "name": "HNO Dr. Eva Stadler-Woller",
     "beschreibung": "Keine Kassen / Wahlärztin",
     "tel": "+43 660 49 10 666",
@@ -18,7 +18,7 @@
       "ft": []
     }
   },
-  "hno-sabathi": {
+  "hno_sabathi": {
     "name": "Dr. Wolfgang Sabathi",
     "beschreibung": "Alle Kassen, öffnet am 4. April 2016.",
     "tel": "+43 1 388 3 388",
@@ -37,62 +37,6 @@
       "ft": []
     }
   },
-  "physio_aspern": {
-    "name": "Physiotherapie Aspern",
-    "beschreibung": "Physiotherapie und Osteopathie",
-    "web": "http://www.physio-aspern.at/",
-    "facebook": "Physio-Aspern-700480969964481",
-    "tel": "+43 699 10906786",
-    "email": "therapie@physio-aspern.at",
-    "adresse": "Ilse-Arlt-Straße 5/2",
-    "oeffnungszeiten": {
-      "bemerkung": "Nach individueller Vereinbarung",
-      "mo": [],
-      "di": [],
-      "mi": [],
-      "do": [],
-      "fr": [],
-      "sa": [],
-      "so": [],
-      "ft": []
-    }
-  },
-  "physio_brauner" : {
-    "name": "Physiotherapie Susanna Brauner",
-    "beschreibung": "Physiotherapie",
-    "web": "http://www.physio-brauner.at",
-    "email": "susanna.brauner@gmail.com",
-    "tel": "+43 650 995 2887",
-    "adresse": "Hannah-Arendt-Platz 9",
-    "oeffnungszeiten": {
-      "bemerkung": "Nach individueller Vereinbarung",
-      "mo": [],
-      "di": [],
-      "mi": [],
-      "do": [],
-      "fr": [],
-      "sa": [],
-      "so": [],
-      "ft": []
-    }
-  },
-  "burnout_coach_eigel": {
-    "name": "Burnout Coaching - Karl Eigel",
-    "beschreibung": "Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
-    "adresse": "Mimi-Grossberg-Gasse 11/312",
-    "facebook": "BurnoutCoachAspern",
-    "web": "http://www.burnout-coach.at/",
-    "tel": "+43 650 2859537",
-    "email": "karl@eigel.at"
-  },
-  "psychotherapie_wambach": {
-    "name": "Psychotherapie DDr. Anton Wambach",
-    "beschreibung": "Psychotherapeut in Ausbildung unter Supervision",
-    "adresse": "Mimi-Grossberg-Gasse 11/312",
-    "web": "http://psythera-at.webnode.at",
-    "email": "anton.wambach@yahoo.com",
-    "tel": "+43 680 24 64 716"
-  },
   "neurologie_schreiber": {
     "name": "Neurologie Dr. Walter Schreiber",
     "beschreibung": "Wahlarzt, Kassenvertrag nur mit KFA",
@@ -106,43 +50,6 @@
       "di": ["14:00","19:00"],
       "mi": ["09:00","13:00"],
       "do": ["14:00","19:00"],
-      "fr": [],
-      "sa": [],
-      "so": [],
-      "ft": []
-    }
-  },
-  "psychotherapie_steiner": {
-    "name": "Psychotherapie Gerhard Steiner, MSc",
-    "beschreibung": "Psychotherapie, Paartherapie, Familientherapie, Therapie mit Jugendlichen, Elternberatung, Lebensberatung, Coaching",
-    "web": "http://www.steiner-therapie.at/",
-    "adresse": "Maria-Tusch-Straße 18/A/24",
-    "tel": "+43 676 72 56 807",
-    "email": "gerhard@steiner-therapie.at",
-    "oeffnungszeiten": {
-      "bemerkung": "Nach individueller Vereinbarung",
-      "mo": [],
-      "di": [],
-      "mi": [],
-      "do": [],
-      "fr": [],
-      "sa": [],
-      "so": [],
-      "ft": []
-    }
-  },
-  "ergotherapie_ergopraxisaspern": {
-    "name": "Ergotherapie ergopraxisaspern",
-    "web": "http://www.ergopraxisaspern.at/ueber-uns/wer-sind-wir/daniela-schlager-jaschky/",
-    "adresse": "Maria-Tusch-Straße 18/A/4",
-    "email": "office@ergopraxisaspern.at",
-    "tel": "+43 1 2102563",
-    "oeffnungszeiten": {
-      "bemerkung": "Nach individueller Vereinbarung",
-      "mo": [],
-      "di": [],
-      "mi": [],
-      "do": [],
       "fr": [],
       "sa": [],
       "so": [],
@@ -183,24 +90,6 @@
       "ft": []
     }
   },
-  "psychologie_weissgram": {
-    "name": "Klinische und Gesundheitspsychologie Mag. Silvia Weissgram",
-    "web": "http://www.einsmitdemleben.at/",
-    "tel": "+43 664 183 66 65",
-    "email": "weissgram@einsmitdemleben.at",
-    "adresse": "Maria-Tusch-Strasse 18/1/3",
-    "oeffnungszeiten": {
-      "bemerkung": "Nach individueller Vereinbarung",
-      "mo": [],
-      "di": [],
-      "mi": [],
-      "do": [],
-      "fr": [],
-      "sa": [],
-      "so": [],
-      "ft": []
-    }
-  },
   "psychiatrie_wally": {
     "name": "Psychiatrie und Psychotherapeutische Medizin Dr. Beate Wally",
     "beschreibung": "Wahlärztin für Psychiatrie u. Psychotherapeutische Medizin / Kein Kassenvertrag",
@@ -218,64 +107,5 @@
       "so": [],
       "ft": []
     }
-  },
-  "kilibee" :{
-    "name": "Kilibee - für Kind & Familie",
-    "beschreibung": "Energetische Praxis, Aromaberatung und Anwendung, Bachblüten, Mentaltrainings, Entspannungstechniken, BLIS-Training",
-    "email": "kilibee@gmx.at",
-    "tel": "+43 677 616 409 88",
-    "web": "http://www.kilibee.at/",
-    "facebook": "kilibee.at",
-    "adresse": "Gisela-Legath-Gasse 5/1",
-    "oeffnungszeiten": {
-      "bemerkung": "Zusätzliche Termine nach individueller Vereinbarung",
-      "mo": [],
-      "di": [],
-      "mi": ["14:00","18:00"],
-      "do": [],
-      "fr": ["14:00","18:00"],
-      "sa": [],
-      "so": [],
-      "ft": []
-    }
-  },
-  "coaching_dreisicht": {
-    "name": "dreiSicht",
-    "beschreibung": "Coaching, Supervision, Training, Kommunikations- und Konfliktseminare, Zeitmanagement, Moderation von Workshops",
-    "tel": "+43 699 10070246",
-    "email": "margret.matzerath@dreisicht.at",
-    "web": "http://www.dreisicht.at/",
-    "adresse": "Gisela-Legath-Gasse 5/20"
-  },
-  "psychotherapie_mayrhofer": {
-    "name": "Praxis Mag. Mayrhofer",
-    "beschreibung": "Psychotherapie, Coaching, Mentaltraining",
-    "tel": "+43 699 10059007",
-    "email": "praxis@colorme.at",
-    "web": "http://praxis.colorme.at",
-    "adresse": "Gisela-Legath-Gasse 5"
-  },
-  "elmar_meierzedt": {
-    "name": "Elmar Meierzedt - Integrale Körperarbeit & Massage",
-    "beschreibung": "Kooperationspartner der SVA. Cranio-Sacrale Körperarbeit, Integrative Massage, Tuinapraktik, Physio-Akupunkt-Anwendung, Personal Training",
-    "web": "http://www.handverstand.at",
-    "email": "termin@handverstand.at",
-    "tel": "+43 699 12 822 571",
-    "adresse": "Gisela-Legath-Gasse 5/1"
-  },
-  "psychotherapie_golds": {
-    "name": "Psychotherapeutin Mag. (FH) Bettina Golds",
-    "beschreibung": "Psychotherapeutin in Ausbildung unter Supervision, Sozialarbeiterin. In Gemeinschaftspraxis mit Karl Eigel",
-    "web": "http://www.psychotherapie-golds.at",
-    "tel": "+43 677 618 235 83",
-    "email": "bettina.golds@gmail.com",
-    "adresse": "Mimi-Grossberg-Gasse 11/312"
-  },
-  "psychotherapie_fellner": {
-    "name": "Psychotherapeutische Praxis Richard L. Fellner",
-    "beschreibung": "Psychotherapeut, Coach, Supervisor in Wien",
-    "web": "https://www.psychotherapiepraxis.at/psychotherapie-praxis-1220-wien.phtml",
-    "tel": "+43 676 720 9300",
-    "adresse": "Maria-Tusch-Straße 11"
   }
 }

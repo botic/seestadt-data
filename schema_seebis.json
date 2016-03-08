@@ -13,7 +13,7 @@
   },
   "type": "object",
   "patternProperties": {
-    "^[a-z][-_\\w]+$": {
+    "^[a-z][_\\w]+$": {
       "type": "object",
       "properties": {
         "name": {

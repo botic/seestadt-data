@@ -216,13 +216,13 @@
     "tel": "+43 1 2807113",
     "adresse": "Maria-Tusch-Strasse 7",
     "oeffnungszeiten": {
-      "mo": ["09:00", "17:00"],
-      "di": ["09:00", "17:00"],
-      "mi": ["09:00", "17:00"],
-      "do": ["09:00", "17:00"],
-      "fr": ["09:00", "17:00"],
-      "sa": [],
-      "so": [],
+      "mo": ["10:30", "18:30"],
+      "di": [],
+      "mi": ["10:30", "18:30"],
+      "do": ["10:30", "18:30"],
+      "fr": ["10:30", "18:30"],
+      "sa": ["10:30", "18:00"],
+      "so": ["13:00", "18:00"],
       "ft": []
     }
   },
@@ -239,20 +239,6 @@
       "do": ["10:00", "13:00", "14:00", "18:00"],
       "fr": ["10:00", "13:00", "14:00", "18:00"],
       "sa": ["10:00","15:00"],
-      "so": [],
-      "ft": []
-    }
-  },
-  "tieraerztin": {
-    "name": "Tierärztin Dr. Eva Gollob-Kammerer",
-    "adresse": "Maria-Tusch-Strasse 7",
-    "oeffnungszeiten": {
-      "mo": ["09:00", "11:00", "16:00", "18:00"],
-      "di": ["16:00", "18:00"],
-      "mi": ["09:00", "11:00", "16:00", "18:00"],
-      "do": ["16:00", "18:00"],
-      "fr": ["09:00", "11:00"],
-      "sa": [],
       "so": [],
       "ft": []
     }
@@ -355,14 +341,14 @@
     }
  },
  "bastellieschen": {
-  "name": "Bastellieschen",
-  "beschreibung": "Bastelartikel rund um die Papiergestaltung wie Grusskarten, Scrapbooking, Stempeln, Colorieren uvm. Kurse für Kinder & Erwachsene",
-  "web": "http://www.bastellieschen.at",
-  "facebook": "Bastellieschen-1407265406214601",
-  "email": "office@bastellieschen.at",
-  "adresse": "Maria Tusch Straße 8/4",
-  "tel": "+43 660 2541000",
-  "UID": "ATU62553711",
+    "name": "Bastellieschen",
+    "beschreibung": "Bastelartikel rund um die Papiergestaltung wie Grusskarten, Scrapbooking, Stempeln, Colorieren uvm. Kurse für Kinder & Erwachsene",
+    "web": "http://www.bastellieschen.at",
+    "facebook": "Bastellieschen-1407265406214601",
+    "email": "office@bastellieschen.at",
+    "adresse": "Maria Tusch Straße 8/4",
+    "tel": "+43 660 2541000",
+    "UID": "ATU62553711",
     "oeffnungszeiten": {
       "mo": ["14:00","19:00"],
       "di": ["14:00","19:00"],
@@ -374,7 +360,7 @@
       "ft": []
     }
   },
-  "zwoelfer-keramik": {
+  "zwoelfer_keramik": {
     "name": "12er glasporzellankeramik",
     "web": "http://www.12er.at/",
     "facebook": "12er-glasporzellankeramik-303579606335900",
@@ -383,7 +369,7 @@
     "email": "mail@12er.at",
     "tel": "+43 676 4204112",
     "oeffnungszeiten": {
-    "bemerkung": "Nach telefonischer Vereinbarung",
+      "bemerkung": "Nach telefonischer Vereinbarung",
       "mo": [],
       "di": [],
       "mi": [],
@@ -422,7 +408,7 @@
     "email": "briantrokyta@gmail.com",
     "web": "http://www.briantrokyta.com",
     "oeffnungszeiten": {
-    "bemerkung": "Noch nicht eröffnet",
+      "bemerkung": "Noch nicht eröffnet",
       "mo": [],
       "di": [],
       "mi": [],
@@ -434,12 +420,12 @@
   	}
   },
   "wienwork_digitalmedia": {
-	"name": "Wien Work Digital Media Shop",
-	"beschreibung": "Drucken, Kopieren, Spiralisieren, Direktmailings, Digitale Archive, Scandienstleistungen",
-	"web": "http://www.wienwork.at/digital_media.aspx",
-	"email": "digitalmedia@wienwork.at",
-	"tel": "+43 1 288 80 410",
-	"adresse": "Maria-Tusch-Straße 21",
+    "name": "Wien Work Digital Media Shop",
+    "beschreibung": "Drucken, Kopieren, Spiralisieren, Direktmailings, Digitale Archive, Scandienstleistungen",
+    "web": "http://www.wienwork.at/digital_media.aspx",
+    "email": "digitalmedia@wienwork.at",
+    "tel": "+43 1 288 80 410",
+    "adresse": "Maria-Tusch-Straße 21",
   	"oeffnungszeiten": {
       "mo": ["08:00","17:00"],
       "di": ["08:00","17:00"],
@@ -452,45 +438,26 @@
   	}
   },
   "wienwork_polstern_naehen": {
-	"name": "Wien Work Polstern & Nähen",
-	"beschreibung": "Textilverarbeitung und Nähen von Kleidung. Möbeltapezieren und Bespannen von Möbelpolstern.",
-	"tel": "+43 1 288 80 440",
-	"email": "textil@wienwork.at",
-	"web": "http://www.wienwork.at/polstern_und_n%C3%A4hen.aspx",
-	"adresse": "Maria-Tusch-Straße 31"
+    "name": "Wien Work Polstern & Nähen",
+    "beschreibung": "Textilverarbeitung und Nähen von Kleidung. Möbeltapezieren und Bespannen von Möbelpolstern.",
+    "tel": "+43 1 288 80 440",
+    "email": "textil@wienwork.at",
+    "web": "http://www.wienwork.at/polstern_und_n%C3%A4hen.aspx",
+    "adresse": "Maria-Tusch-Straße 31"
   },
   "wienwork_textilreinigung_annahmestelle": {
-	"name": "Wien Work Textilreinigung & Bügelservice Annahmestelle",
-	"beschreibung": "Waschen, Putzen, Reinigen und Bügeln von Textilien",
-	"tel": "+43 1 288 80 420",
-	"email": "textilreinigung@wienwork.at",
-	"web": "http://www.wienwork.at/textilreinigung_und_bügelservice.aspx",
-	"adresse": "Maria-Tusch-Straße 25",
+    "name": "Wien Work Textilreinigung & Bügelservice Annahmestelle",
+    "beschreibung": "Waschen, Putzen, Reinigen und Bügeln von Textilien",
+    "tel": "+43 1 288 80 420",
+    "email": "textilreinigung@wienwork.at",
+    "web": "http://www.wienwork.at/textilreinigung_und_bügelservice.aspx",
+    "adresse": "Maria-Tusch-Straße 25",
   	"oeffnungszeiten": {
       "mo": ["08:00","17:00"],
       "di": ["08:00","17:00"],
       "mi": ["08:00","17:00"],
       "do": ["08:00","17:00"],
       "fr": ["08:00","17:00"],
-      "sa": [],
-      "so": [],
-      "ft": []
-  	}
-  },
-  "hunde_styling": {
-	"name": "Hunde Styling Seestadt",
-	"beschreibung": "Hunde Pflege, Do It Yourself Dog Wash, Hundefutter, Hunde Shampoo, Hunde Zubehör",
-	"email": "info@hunde-styling-seestadt.at",
-	"tel": "+43 664 94 87 558",
-	"web": "http://www.hunde-styling-seestadt.at/",
-	"UID": "ATU70088406",
-	"adresse": "Maria-Tusch-Straße 6",
-  	"oeffnungszeiten": {
-      "mo": ["08:00","15:00"],
-      "di": ["08:00","15:00"],
-      "mi": ["08:00","15:00"],
-      "do": ["08:00","15:00"],
-      "fr": ["08:00","15:00"],
       "sa": [],
       "so": [],
       "ft": []

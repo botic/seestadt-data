@@ -27,9 +27,10 @@
     "UID": "ATU69270656",
     "adresse": "Maria-Tusch-Straße 14/1",
     "oeffnungszeiten": {
-      "mo": ["11:30", "14:30", "17:00", "21:30"],
-      "di": ["11:30", "14:30", "17:00", "21:30"],
-      "mi": ["11:30", "14:30", "17:00", "21:30"],
+      "bemerkung": "Pizza ganztags, jedoch Küche von Montag bis Mittwoch Nachmittagspause zwischen 14:30 und 17:00 Uhr.",
+      "mo": ["11:30", "21:30"],
+      "di": ["11:30", "21:30"],
+      "mi": ["11:30", "21:30"],
       "do": ["11:00", "21:30"],
       "fr": ["11:00", "21:30"],
       "sa": ["11:00", "21:30"],

@@ -1,0 +1,35 @@
+{
+  "tieraerztin": {
+    "name": "Tierärztin Dr. Eva Gollob-Kammerer",
+    "adresse": "Maria-Tusch-Strasse 7",
+    "oeffnungszeiten": {
+      "mo": ["09:00", "11:00", "16:00", "18:00"],
+      "di": ["16:00", "18:00"],
+      "mi": ["09:00", "11:00", "16:00", "18:00"],
+      "do": ["16:00", "18:00"],
+      "fr": ["09:00", "11:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "hunde_styling": {
+    "name": "Hunde Styling Seestadt",
+    "beschreibung": "Hunde Pflege, Do It Yourself Dog Wash, Hundefutter, Hunde Shampoo, Hunde Zubehör",
+    "email": "info@hunde-styling-seestadt.at",
+    "tel": "+43 664 94 87 558",
+    "web": "http://www.hunde-styling-seestadt.at/",
+    "UID": "ATU70088406",
+    "adresse": "Maria-Tusch-Straße 6",
+    "oeffnungszeiten": {
+      "mo": ["08:00","15:00"],
+      "di": ["08:00","15:00"],
+      "mi": ["08:00","15:00"],
+      "do": ["08:00","15:00"],
+      "fr": ["08:00","15:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  }
+}
