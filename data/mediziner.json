@@ -243,5 +243,13 @@
     "email": "termin@handverstand.at",
     "tel": "+43 699 12 822 571",
     "adresse": "Gisela-Legath-Gasse 5/1"
+  },
+  "psychotherapie_golds": {
+    "name": "Psychotherapeutin Mag. (FH) Bettina Golds",
+    "beschreibung": "Psychotherapeutin in Ausbildung unter Supervision, Sozialarbeiterin. In Gemeinschaftspraxis mit Karl Eigel",
+    "web": "http://www.psychotherapie-golds.at",
+    "tel": "+43 677 618 235 83",
+    "email": "bettina.golds@gmail.com",
+    "adresse": "Mimi-Grossberg-Gasse 11/312"
   }
 }
