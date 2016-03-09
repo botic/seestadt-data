@@ -168,5 +168,12 @@
     "web": "https://www.psychotherapiepraxis.at/psychotherapie-praxis-1220-wien.phtml",
     "tel": "+43 676 720 9300",
     "adresse": "Maria-Tusch-Straße 11"
+  },
+  "shiatsu_reiter": {
+    "name": "Mobiles Shiatsu Harald Reiter",
+    "beschreibung": "Mobiles Shiatsu in der Seestadt, Termine nach Vereinbarung",
+    "tel": "+43 664 4511351",
+    "email": "harald.reiter@shiatsu-im-raum.at",
+    "web": "http://haraldreiter.com/"
   }
 }
