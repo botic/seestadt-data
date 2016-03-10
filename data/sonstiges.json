@@ -195,5 +195,31 @@
     "facebook": "kalinkaphoto",
     "web": "http://www.kalinkaphoto.at",
     "email": "karolina@kalinkaphoto.at"
+  },
+  "fotograf_naderer": {
+    "name": "Philipp Naderer",
+    "beschreibung": "Pressefotograf",
+    "web": "http://naderer.biz/",
+    "tel": "+43 676 90 35 1 39",
+    "email": "philipp@naderer.biz",
+    "adresse": "Gisela-Legath-Gasse 5/27"
+  },
+  "kps_krassnitzer": {
+    "name": "KPS Krassnitzer Physical Security",
+    "beschreibung": "Spezialist in Sachen Sicherheitstechnik, Digital Sigagne, Medientechnik und Hausautomation",
+    "UID": "ATU42777303",
+    "web": "http://www.krassnitzer.at/",
+    "facebook": "KrassnitzerKPS",
+    "tel": "+43 676 78 69 000",
+    "email": "office@krassnitzer.at",
+    "adresse": "Ilse-Arlt-Straße 39/34"
+  },
+  "vectordesign" : {
+    "name": "Vector Design Print",
+    "beschreibung": "Digitaldruck",
+    "web": "http://www.vectordesign.at",
+    "email": "info@vectordesign.at",
+    "tel": "+43 664/28 30 566",
+    "adresse": "Ilse-Arlt-Straße 4"
   }
 }
