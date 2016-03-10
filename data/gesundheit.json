@@ -175,5 +175,26 @@
     "tel": "+43 664 4511351",
     "email": "harald.reiter@shiatsu-im-raum.at",
     "web": "http://haraldreiter.com/"
+  },
+  "shinergy":{
+    "name": "Shinergy Seestadt",
+    "beschreibung": "Shinergy Kurse für Anfäger, Fortgeschrittene, Kampfsportprofis und Jugendliche. Leitung: Lukas Pezenka",
+    "tel": "+43 650 850 12 90",
+    "email": "lukas.pezenka@shinergy.com",
+    "adresse": "Hannah-Arendt Platz 9",
+    "facebook": "Shinergy-Stadlau-und-Seestadt-278378619854",
+    "web": "http://www.shinergy.com/de/be-a-rebel/shinergy-seestadt/",
+    "oeffnungszeiten": {
+      "bemerkung": "Zum Stundenplan, vgl. weiterführender Weblink.",
+      "web": "http://www.shinergy.com/de/be-a-rebel/shinergy-seestadt/stundenplan/",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }    
   }
 }
