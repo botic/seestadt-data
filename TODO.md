@@ -5,9 +5,7 @@ Noch zu überprüfende Firmendaten und Links.
 
 https://www.psychotherapiepraxis.at/psychotherapie-praxis-1220-wien.phtml
 
-http://sakurashape.com/impressum-contact/
 http://www.misbela.com/#!impressun/c8ew
-http://mediadrom.eu/impressumkontakt/
 http://www.katzengitter.org/impressum.html
 
 http://www.firmenabc.at/fairsport-events-e-u_MlOv

@@ -230,5 +230,14 @@
     "twitter": "sakurashape",
     "email": "info@sakurashape.com",
     "adresse": "Ilse-Arlt-Straße 39/20"
+  },
+  "mediadrom": {
+    "name": "Mediadrom",
+    "beschreibung": "Elektronische Vermarktung von Medienprodukten",
+    "UID": "ATU67654512",
+    "web": "http://mediadrom.eu",
+    "email": "johann.neuhold@mediadrom.eu",
+    "tel": "+43 699 15059189",
+    "adresse": "Hannah-Arendt-Platz 9"    
   }
 }
