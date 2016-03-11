@@ -273,5 +273,14 @@
     "twitter": "smarthlete",
     "email": "contact@smarthlete.com",
     "adresse": "Schenk-Danzinger-Gasse 12/5/11"
+  },
+  "bkst": {
+    "name": "BKST Systemtechnik",
+    "beschreibung": "BKST liefert Konstruktionen und Maschinen gemäß Kundenwunsch für den Maschinen- und Anlagenbau, sowie für die Automatisierung",
+    "UID": "ATU62700214",
+    "email": "bk@bkst.at",
+    "web": "http://bkst.at",
+    "tel": "+43 676 44 54 321",
+    "adresse": "Sonnenallee 40/1/2"
   }
 }
