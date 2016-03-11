@@ -3,7 +3,6 @@
 ## Firmendaten
 Noch zu überprüfende Firmendaten und Links.
 
-http://www.firmenabc.at/smarthlete-e-u_LRST
 http://www.firmenabc.at/royal-elektro-grosshandel-gmbh_Jwux
 http://www.firmenabc.at/first-class-business-service-kg_MlYt
 https://firmen.wko.at/Web/DetailsKontakt.aspx?FirmaID=8cd5b753-6544-4126-afb8-e9fe0c143165

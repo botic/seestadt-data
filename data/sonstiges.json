@@ -264,5 +264,14 @@
     "tel": "+43 650 874 69 12",
     "web": "http://www.fairnessrun.at",
     "adresse": "Schenk-Danzinger-Gasse 9/3/5"
+  },
+  "smarthlete": {
+    "name": "Smarthlete",
+    "beschreibung": "Soziales Netzwerk for college sports recruiting",
+    "web": "https://www.smarthlete.com",
+    "facebook": "Smarthlete",
+    "twitter": "smarthlete",
+    "email": "contact@smarthlete.com",
+    "adresse": "Schenk-Danzinger-Gasse 12/5/11"
   }
 }
