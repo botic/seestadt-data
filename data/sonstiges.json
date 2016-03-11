@@ -256,5 +256,13 @@
     "email": "info@katzengitter.org",
     "tel": "+43 676 404 25 25",
     "adresse": "Gisela-Legath-Gasse 10/14"
+  },
+  "fairsport": {
+    "name": "Fairsport Events",
+    "beschreibung": "Eventmanagement für Sportveranstaltungen",
+    "email": "juergen.smrz@fairnessrun.at",
+    "tel": "+43 650 874 69 12",
+    "web": "http://www.fairnessrun.at",
+    "adresse": "Schenk-Danzinger-Gasse 9/3/5"
   }
 }

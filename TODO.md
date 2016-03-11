@@ -3,10 +3,6 @@
 ## Firmendaten
 Noch zu überprüfende Firmendaten und Links.
 
-https://www.psychotherapiepraxis.at/psychotherapie-praxis-1220-wien.phtml
-
-
-http://www.firmenabc.at/fairsport-events-e-u_MlOv
 http://www.firmenabc.at/smarthlete-e-u_LRST
 http://www.firmenabc.at/royal-elektro-grosshandel-gmbh_Jwux
 http://www.firmenabc.at/first-class-business-service-kg_MlYt
