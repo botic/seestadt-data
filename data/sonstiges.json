@@ -221,5 +221,14 @@
     "email": "info@vectordesign.at",
     "tel": "+43 664/28 30 566",
     "adresse": "Ilse-Arlt-Straße 4"
+  },
+  "sakurashape" : {
+    "name": "sakurashape",
+    "beschreibung": "Designerin Martina Habison BSc. Logos, Websites, Illustrationen, Spiele, Print, Animationen, Banner, Zeichnungen, Gemälde, uvm.",
+    "web": "http://sakurashape.com/",
+    "facebook": "SakuraShape",
+    "twitter": "sakurashape",
+    "email": "info@sakurashape.com",
+    "adresse": "Ilse-Arlt-Straße 39/20"
   }
 }
