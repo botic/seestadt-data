@@ -5,8 +5,6 @@ Noch zu überprüfende Firmendaten und Links.
 
 https://www.psychotherapiepraxis.at/psychotherapie-praxis-1220-wien.phtml
 
-http://www.misbela.com/#!impressun/c8ew
-http://www.katzengitter.org/impressum.html
 
 http://www.firmenabc.at/fairsport-events-e-u_MlOv
 http://www.firmenabc.at/smarthlete-e-u_LRST

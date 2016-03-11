@@ -239,5 +239,22 @@
     "email": "johann.neuhold@mediadrom.eu",
     "tel": "+43 699 15059189",
     "adresse": "Hannah-Arendt-Platz 9"    
+  },
+  "Misbela": {
+    "name": "Misbela",
+    "beschreibung": "Onlinestore für Funktionsunterwäsche",
+    "UID": "ATU68173488",
+    "web": "http://www.misbela.com",
+    "email": "info@misbela.com",
+    "tel": "+43 660 3858 479",
+    "adresse": "Schenk-Danzinger Gasse 12/6/27"
+  },
+  "Katzengitter": {
+    "name": ""www.katzengitter.org",
+    "beschreibung": "Beratung, Herstellung und Montage von Katzensicherungen",
+    "web": "http://www.katzengitter.org/",
+    "email": "info@katzengitter.org",
+    "tel": "+43 676 404 25 25",
+    "adresse": "Gisela-Legath-Gasse 10/14"
   }
 }
