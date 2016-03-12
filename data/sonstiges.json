@@ -195,5 +195,92 @@
     "facebook": "kalinkaphoto",
     "web": "http://www.kalinkaphoto.at",
     "email": "karolina@kalinkaphoto.at"
+  },
+  "fotograf_naderer": {
+    "name": "Philipp Naderer",
+    "beschreibung": "Pressefotograf",
+    "web": "http://naderer.biz/",
+    "tel": "+43 676 90 35 1 39",
+    "email": "philipp@naderer.biz",
+    "adresse": "Gisela-Legath-Gasse 5/27"
+  },
+  "kps_krassnitzer": {
+    "name": "KPS Krassnitzer Physical Security",
+    "beschreibung": "Spezialist in Sachen Sicherheitstechnik, Digital Sigagne, Medientechnik und Hausautomation",
+    "UID": "ATU42777303",
+    "web": "http://www.krassnitzer.at/",
+    "facebook": "KrassnitzerKPS",
+    "tel": "+43 676 78 69 000",
+    "email": "office@krassnitzer.at",
+    "adresse": "Ilse-Arlt-Straße 39/34"
+  },
+  "vectordesign" : {
+    "name": "Vector Design Print",
+    "beschreibung": "Digitaldruck",
+    "web": "http://www.vectordesign.at",
+    "email": "info@vectordesign.at",
+    "tel": "+43 664/28 30 566",
+    "adresse": "Ilse-Arlt-Straße 4"
+  },
+  "sakurashape" : {
+    "name": "sakurashape",
+    "beschreibung": "Designerin Martina Habison BSc. Logos, Websites, Illustrationen, Spiele, Print, Animationen, Banner, Zeichnungen, Gemälde, uvm.",
+    "web": "http://sakurashape.com/",
+    "facebook": "SakuraShape",
+    "twitter": "sakurashape",
+    "email": "info@sakurashape.com",
+    "adresse": "Ilse-Arlt-Straße 39/20"
+  },
+  "mediadrom": {
+    "name": "Mediadrom",
+    "beschreibung": "Elektronische Vermarktung von Medienprodukten",
+    "UID": "ATU67654512",
+    "web": "http://mediadrom.eu",
+    "email": "johann.neuhold@mediadrom.eu",
+    "tel": "+43 699 15059189",
+    "adresse": "Hannah-Arendt-Platz 9"    
+  },
+  "Misbela": {
+    "name": "Misbela",
+    "beschreibung": "Onlinestore für Funktionsunterwäsche",
+    "UID": "ATU68173488",
+    "web": "http://www.misbela.com",
+    "email": "info@misbela.com",
+    "tel": "+43 660 3858 479",
+    "adresse": "Schenk-Danzinger Gasse 12/6/27"
+  },
+  "Katzengitter": {
+    "name": "www.katzengitter.org",
+    "beschreibung": "Beratung, Herstellung und Montage von Katzensicherungen",
+    "web": "http://www.katzengitter.org/",
+    "email": "info@katzengitter.org",
+    "tel": "+43 676 404 25 25",
+    "adresse": "Gisela-Legath-Gasse 10/14"
+  },
+  "fairsport": {
+    "name": "Fairsport Events",
+    "beschreibung": "Eventmanagement für Sportveranstaltungen",
+    "email": "juergen.smrz@fairnessrun.at",
+    "tel": "+43 650 874 69 12",
+    "web": "http://www.fairnessrun.at",
+    "adresse": "Schenk-Danzinger-Gasse 9/3/5"
+  },
+  "smarthlete": {
+    "name": "Smarthlete",
+    "beschreibung": "Soziales Netzwerk for college sports recruiting",
+    "web": "https://www.smarthlete.com",
+    "facebook": "Smarthlete",
+    "twitter": "smarthlete",
+    "email": "contact@smarthlete.com",
+    "adresse": "Schenk-Danzinger-Gasse 12/5/11"
+  },
+  "bkst": {
+    "name": "BKST Systemtechnik",
+    "beschreibung": "BKST liefert Konstruktionen und Maschinen gemäß Kundenwunsch für den Maschinen- und Anlagenbau, sowie für die Automatisierung",
+    "UID": "ATU62700214",
+    "email": "bk@bkst.at",
+    "web": "http://bkst.at",
+    "tel": "+43 676 44 54 321",
+    "adresse": "Sonnenallee 40/1/2"
   }
 }
