@@ -219,7 +219,7 @@
     "beschreibung": "Digitaldruck",
     "web": "http://www.vectordesign.at",
     "email": "info@vectordesign.at",
-    "tel": "+43 664/28 30 566",
+    "tel": "+43 664 28 30 566",
     "adresse": "Ilse-Arlt-Straße 4"
   },
   "sakurashape" : {
@@ -240,7 +240,7 @@
     "tel": "+43 699 15059189",
     "adresse": "Hannah-Arendt-Platz 9"    
   },
-  "Misbela": {
+  "misbela": {
     "name": "Misbela",
     "beschreibung": "Onlinestore für Funktionsunterwäsche",
     "UID": "ATU68173488",
@@ -249,8 +249,8 @@
     "tel": "+43 660 3858 479",
     "adresse": "Schenk-Danzinger Gasse 12/6/27"
   },
-  "Katzengitter": {
-    "name": "www.katzengitter.org",
+  "katzengitter": {
+    "name": "Katzengitter.org",
     "beschreibung": "Beratung, Herstellung und Montage von Katzensicherungen",
     "web": "http://www.katzengitter.org/",
     "email": "info@katzengitter.org",
