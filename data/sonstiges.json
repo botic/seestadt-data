@@ -461,5 +461,16 @@
     "adresse": "Seestadtstraße  27",
     "baufeld": "C4",
     "latlng": [48.22330,16.50939]    
-  }  
+  },
+  "comdata": {
+    "name": "COM Data - Systemhaus",
+    "beschreibung": "Anbieter für Infrastruktur, Betreiber von Infrastruktur, Computer Aided Design, Computeranimation, Computerintegrated Manufaktoring, Datenerfassung, Elektronischer Datenaustausch, Geschäftsprozessoptimierung, Internet Services, Outsourcing, Projektmanagement, Training, Virenschutz",
+    "UID": "ATU69253728",
+    "web": "http://www.comdata.at",
+    "email": "office@comdata.at",
+    "tel": "+43 1 7746655 0",
+    "adresse": "Seestadtstraße  27/10",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  }
 }
