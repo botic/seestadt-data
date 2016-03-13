@@ -147,7 +147,57 @@
     "adresse": "Sonnenalle 47/2",
     "bauplatz": "D2",
     "latlng": [48.22599,16.50119]
-  }
+  },
+  "wienwork_facilityservices": {
+    "name": "Wien Work - Facility Services",
+    "beschreibung": "Reinigung von Büros, Gebäuden, Gebäudeteilen sowie Grünflächenbetreuung",
+    "email": "service@wienwork.at",
+    "web": "http://www.wienwork.at/facility_service.aspx",
+    "tel": "+43 1 288 80 350",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
+  "wienwork_holztechnik": {
+    "name": "Wien Work - Holztechnik",
+    "beschreibung": "Tischlerei, Einbaumöbel nach Maß",
+    "email": "holz@wienwork.at",
+    "web": "http://www.wienwork.at/holztechnik.aspx",
+    "tel": "+43 1 288 80 300",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
+  "wienwork_metalltechnik": {
+    "name": "Wien Work - Metalltechnik",
+    "beschreibung": "Metalltechnik, Metallbearbeitung und Services",
+    "email": "metall@wienwork.at",
+    "web": "http://www.wienwork.at/metalltechnik.aspx",
+    "tel": "+43 1 288 80 300",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
+  "wienwork_renovierung": {
+    "name": "Wien Work - Renovierung",
+    "beschreibung": "Malen, Fliesenlegen, Renovieren und Reparieren",
+    "email": "renovierung@wienwork.at",
+    "web": "http://www.wienwork.at/renovierung.aspx",
+    "tel": "+43 1 288 80 300",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
+  "wienwork_textilreinigung": {
+    "name": "Wien Work - Textilreinigung & Bügelservice",
+    "beschreibung": "Waschen, Putzen, Reinigen und Bügeln",
+    "email": "textilreinigung@wienwork.at",
+    "web": "http://www.wienwork.at/textilreinigung_und_b%C3%BCgelservice.aspx",
+    "tel": "+43 1 288 80 350",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
   "spoe": {
     "name": "SPÖ Seestadt",
     "beschreibung": "Parteilokal der SPÖ Donaustadt",
