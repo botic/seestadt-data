@@ -7,6 +7,8 @@
     "email": "info@oeeins.at",
     "UID": "ATU69555028",
     "adresse": "Hannah-Arendt Platz 1",
+    "bauplatz": "D10",
+    "latlng": [48.22425,16.50153],
     "oeffnungszeiten": {
       "mo": ["11:00"],
       "di": ["11:00"],
@@ -26,6 +28,8 @@
     "email": "office@portobello-seestadt.at",
     "UID": "ATU69270656",
     "adresse": "Maria-Tusch-Straße 14/1",
+    "bauplatz": "D10",
+    "latlng": [48.22425,16.50153],
     "oeffnungszeiten": {
       "bemerkung": "Pizza ganztags, jedoch Küche von Montag bis Mittwoch Nachmittagspause zwischen 14:30 und 17:00 Uhr.",
       "mo": ["11:30", "21:30"],
@@ -45,6 +49,8 @@
     "web": "http://www.unitedincycling.com/",
     "email": "office@unitedincycling.com",
     "adresse": "Sonnenallee 35",
+    "bauplatz": "D10",
+    "latlng": [48.22454,16.50274],
     "UID": "ATU69708756",
     "oeffnungszeiten": {
       "mo": ["09:00", "19:00"],
@@ -62,6 +68,7 @@
     "facebook": "seestadt.kantine",
     "tel": "+43 681 81116 357",
     "email": "savicm@gmx.at",
+    "latlng": [48.22419,16.50475],
     "oeffnungszeiten": {
       "mo": ["06:00", "21:00"],
       "di": ["06:00", "21:00"],
@@ -80,6 +87,8 @@
       "tel": "+43 1 2807355",
       "email": "office@salzundpfeffer-catering.at",
       "adresse": "Seestadtstrasse 27",
+      "bauplatz": "C4",
+      "latlng": [48.22346,16.50952],
       "oeffnungszeiten": {
         "bemerkung": "Zusätzliche Öffnungszeiten für Feiern nach Vereinbarung",
         "mo": ["09:00", "16:00"],

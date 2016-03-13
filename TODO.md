@@ -16,6 +16,5 @@ http://campus-seestadt.at/kontakt/
 ## Metadaten
 Ideen und TODOs für weitere Metadaten.
 
-- Bauplatznummer?
 - bessere Kategoriesierung?
-- Koordinaten
+
