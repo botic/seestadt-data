@@ -369,5 +369,16 @@
     "adresse": "Ilse-Arlt-Straße 39/30",
     "bauplatz": "J1",
     "latlng": [48.22746,16.50303]
+  },
+  "grafik_design_neumayr": {
+    "name": "Madelaine Neumayr - Grafik-Design",
+    "beschreibung": "Werbegrafik, Designer",
+    "UID": "ATU68549859",
+    "web": "http://www.madelaine.at",
+    "email": "mail@madelaine.at",
+    "tel": "+43 699 12 04 22 64",
+    "adresse": "Schenk-Danzinger-Gasse 9/3/5",
+    "bauplatz": "D4",
+    "latlng": [48.22584,16.50001]
   }
 }
