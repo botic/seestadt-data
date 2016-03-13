@@ -527,5 +527,16 @@
     "adresse": "Seestadtstraße  27",
     "baufeld": "C4",
     "latlng": [48.22330,16.50939]
+  },
+  "wien3420": {
+    "name": "Wien 3420 Aspern Development AG",
+    "beschreibung": "Entwicklungsgesellschaft der Seestadt Aspern. Akquisition von Partnern, Verwertung von Flächen, Standortmarketing und -branding, städtebauliche Planung, infrastrukturelle Erschließung",
+    "UID": "ATU61631559",
+    "web": "http://www.wien3420.at",
+    "tel": "+43 1 774 02 74",
+    "email": "office@wien3420.at",
+    "adresse": "Seestadtstraße  27/13",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
   }
 }
