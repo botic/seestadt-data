@@ -520,5 +520,15 @@
       "so": [],
       "ft": []
   	}
+  },
+  "fruehwald": {
+    "name": "Frühwald",
+    "beschreibung": "Hilfsmittel für Hauskrankenpflege & Rehabilitation",
+    "email": "seestadt@fruehwald.net",
+    "web": "http://fruehwald.net",
+    "tel": "+43 1 210 90 04",
+    "adresse": "Maria-Tusch-Straße 13",
+    "bauplatz": "D9",
+    "latlng": [48.22453,16.50026]
   }
 }
