@@ -479,8 +479,18 @@
     "UID": "ATU16065709",
     "web": "http://www.eurodata.co.at",
     "email": "office@eurodata.co.at",
-    "adresse": "Seestadtstraße  27",
     "tel": " +43 1 7747073 0",
+    "adresse": "Seestadtstraße  27",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  },
+  "headspice": {
+    "name": "headspice engineering",
+    "beschreibung": "Seminare, Konferenzen und Tagungen zu Themen aus den Fachbereichen Umweltschutz, Informationstechnologie, Abfall- und Wasserwirtschaft, chemische Analytik, Bautechnik, Qualitätsmanagement und Korrosionsschutz",
+    "UID": "ATU65359168",
+    "tel": "+43 676 9671363",
+    "email": "office@headspice.com",
+    "adresse": "Seestadtstraße  27/T1.07",
     "baufeld": "C4",
     "latlng": [48.22330,16.50939]
   }
