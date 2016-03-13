@@ -119,7 +119,7 @@
     "latlng": [48.22399,16.50267]
   },
   "wienwork_jugendcoaching": {
-    "name": "Wien Work Jugendcoaching",
+    "name": "Wien Work - Jugendcoaching",
     "beschreibung": "Hilfe für Jugendliche mit Bewerbungsunterlagen, Vorbereitung auf Bewerbungsgespräche, Lehrstellensuche",
     "tel": "+43 1 288 80 560",
     "email": "jugendcoaching@wienwork.at",
@@ -129,7 +129,7 @@
     "latlng": [48.22387,16.50256]
   },
   "wienwork_arbeitsassistenz": {
-    "name": "Wien Work Arbeitsassistenz",
+    "name": "Wien Work - Arbeitsassistenz",
     "beschreibung": "Gründungsberatung, Unternehmensberatung, Coaching, Karriereberatung für Menschen mit Behinderung und/oder chronischen Erkrankungen",
     "tel": "+43 1 288 80 540",
     "email": "rudolf.weissinger@wienwork.at",
@@ -138,6 +138,16 @@
     "bauplatz": "D2",
     "latlng": [48.22637,16.50091]
   },
+  "wienwork_onthejob": {
+    "name": "Wien Work - On the job",
+    "beschreibung": "Eine Einrichtung der Berufsqualifizierung. Bereitet Jugendliche und junge Erwachsene mit Handicap auf das Berufsleben vor.",
+    "web": "http://wienwork.at/on_the_job_integration_durch_arbeitstraining_f%C3%BCr_jugendliche.aspx",
+    "tel": "+43 1 288 80 530",
+    "email": "gerhard.poppenwimmer@wienwork.at",
+    "adresse": "Sonnenalle 47/2",
+    "bauplatz": "D2",
+    "latlng": [48.22599,16.50119]
+  }
   "spoe": {
     "name": "SPÖ Seestadt",
     "beschreibung": "Parteilokal der SPÖ Donaustadt",

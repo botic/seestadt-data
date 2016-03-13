@@ -55,6 +55,7 @@
   },
   "apotheke": {
     "name": "Seestadt Apotheke",
+    "UID": "ATU68590866",
     "tel": "+43 1 2106984",
     "email": "office@seestadt-apotheke.at",
     "web": "http://seestadt-apotheke.at",
@@ -471,7 +472,7 @@
   	}
   },
   "wienwork_digitalmedia": {
-    "name": "Wien Work Digital Media Shop",
+    "name": "Wien Work - Digital Media Shop",
     "beschreibung": "Drucken, Kopieren, Spiralisieren, Direktmailings, Digitale Archive, Scandienstleistungen",
     "web": "http://www.wienwork.at/digital_media.aspx",
     "email": "digitalmedia@wienwork.at",
@@ -491,7 +492,7 @@
   	}
   },
   "wienwork_polstern_naehen": {
-    "name": "Wien Work Polstern & Nähen",
+    "name": "Wien Work - Polstern & Nähen",
     "beschreibung": "Textilverarbeitung und Nähen von Kleidung. Möbeltapezieren und Bespannen von Möbelpolstern.",
     "tel": "+43 1 288 80 440",
     "email": "textil@wienwork.at",
@@ -501,7 +502,7 @@
     "latlng": [48.22622,16.50369]
   },
   "wienwork_textilreinigung_annahmestelle": {
-    "name": "Wien Work Textilreinigung & Bügelservice Annahmestelle",
+    "name": "Wien Work - Textilreinigung & Bügelservice Annahmestelle",
     "beschreibung": "Waschen, Putzen, Reinigen und Bügeln von Textilien",
     "tel": "+43 1 288 80 420",
     "email": "textilreinigung@wienwork.at",
