@@ -358,5 +358,16 @@
     "adresse": "Sonnenallee 40/1/2",
     "bauplatz": "J8",
     "latlng": [48.22618,16.50172]
+  },
+  "rawtation": {
+    "name": "RAWTATION",
+    "beschreibung": "Editor, Filmmaker, Digital Media",
+    "UID": "ATU70029079",
+    "web": "http://rawtation.com",
+    "email": "manuel.lindinger@gmx.at",
+    "tel": "+43 664 2647 094",
+    "adresse": "Ilse-Arlt-Straße 39/30",
+    "bauplatz": "J1",
+    "latlng": [48.22746,16.50303]
   }
 }
