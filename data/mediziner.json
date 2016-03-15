@@ -6,6 +6,8 @@
     "web": "http://hno22.at",
     "email": "eva.stadler.woller@gmail.com",
     "adresse": "Maria-Tusch-Strasse 18/2/8",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],
@@ -25,6 +27,8 @@
     "web": "http://www.hno-seestadt.at",
     "email": "ordination@hno-seestadt.at",
     "adresse": "Maria-Tusch-Straße 18/25",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
     "oeffnungszeiten": {
       "bemerkung": "Vormittags nur mit Voranmeldung.",
       "mo": ["8:00", "11:30", "14:00", "18:00"],
@@ -44,6 +48,8 @@
     "web": "http://www.neurologie-essling.at/",
     "email": "info@neurologie-essling.at",
     "adresse": "Maria-Tusch-Straße 18/3",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
     "oeffnungszeiten": {
       "bemerkung": "Weitere Termine nach telefonischer Vereinbarung",
       "mo": ["09:00","12:00"],
@@ -61,12 +67,56 @@
     "beschreibung": "Allgemeinmedizin (Kassenvertrag), Innere Medizin und Rheumatologie (Wahlarzt)",
     "tel": "+43 1 210 69 20",
     "adresse": "Maria-Tusch-Strasse 18/4/19",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
     "oeffnungszeiten": {
       "mo": ["14:00","19:00"],
       "di": ["08:00","11:00", "14:00","18:00"],
       "mi": ["08:00","11:00"],
       "do": ["14:00","19:00"],
       "fr": ["08:00","11:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "allgemeinmedizin_hadrigan": {
+    "name": "Allgemeinmedizin Dr. Claudia Hadrigan",
+    "beschreibung": "Wahlärztin für Allgemeinmedizin. Zweitpraxis",
+    "tel": "+43 650 350 03 00",
+    "web": "http://www.dr-hadrigan.at",
+    "email": "dr-hadrigan@gmx.at",
+    "adresse": "Maria-Tusch-Straße 18/2/8",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
+    "oeffnungszeiten": {
+      "bemerkung": "Donnerstags nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "allgemeinmedizin_teply": {
+    "name": "Allgemeinmedizin, Anästhesiologie u. Intensivmedizin Dr. Elisabeth Teply",
+    "beschreibung": "Wahlärztin für Allgemeinmedizin, Anästhesiologie u. Intensivmedizin",
+    "adresse": "Maria-Tusch-Straße 18/2/8",
+    "tel": "+43 676 4313130",
+    "email": "lisbeth.teply@gmx.at",
+    "facebook": "Ganzheitsmedizin-Dr-Teply-172692789444750",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
+    "oeffnungszeiten": {
+      "bemerkung": "Montag nach individueller Vereinbarung",
+      "mo": ["14:00","17:00"],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
       "sa": [],
       "so": [],
       "ft": []
@@ -79,6 +129,8 @@
     "web": "http://www.frauenaerztin-sommerlechner.at/",
     "email": "ordination@frauenaerztin-sommerlechner.at",
     "adresse": "Maria-Tusch-Straße 18/14",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
     "oeffnungszeiten": {
       "mo": ["07:00","13:00"],
       "di": ["08:30","13:30"],
@@ -96,6 +148,28 @@
     "email": "ordination-wally@gmx.at",
     "tel": "+43 680 133 26 75",
     "adresse": "Maria-Tusch-Strasse 18/3",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "kinder_hayek": {
+    "name": "Kinder- u. Jugendheilkunde Dr. Grace Hayek",
+    "beschreibung": "Wahlärztin für Kinder- u. Jugendheilkunde. Zweitpraxis.",
+    "tel": "+43 1 2640719",
+    "web": "http://www.hayek-kinderarzt.at",
+    "adresse": "Ilse-Arlt-Straße 12/331",
+    "bauplatz": "D8",
+    "latlng": [48.22526,16.49852],
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],

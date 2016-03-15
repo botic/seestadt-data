@@ -2,6 +2,8 @@
   "tieraerztin": {
     "name": "Tierärztin Dr. Eva Gollob-Kammerer",
     "adresse": "Maria-Tusch-Strasse 7",
+    "bauplatz": "D8",
+    "latlng": [48.22487,16.49853],
     "oeffnungszeiten": {
       "mo": ["09:00", "11:00", "16:00", "18:00"],
       "di": ["16:00", "18:00"],
@@ -21,6 +23,8 @@
     "web": "http://www.hunde-styling-seestadt.at/",
     "UID": "ATU70088406",
     "adresse": "Maria-Tusch-Straße 6",
+    "bauplatz": "D12",
+    "latlng": [48.22447,16.49879],
     "oeffnungszeiten": {
       "mo": ["08:00","15:00"],
       "di": ["08:00","15:00"],

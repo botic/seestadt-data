@@ -7,6 +7,8 @@
     "tel": "+43 699 10906786",
     "email": "therapie@physio-aspern.at",
     "adresse": "Ilse-Arlt-Straße 5/2",
+    "bauplatz": "D11",
+    "latlng": [48.22428,16.49763],
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],
@@ -26,6 +28,8 @@
     "email": "susanna.brauner@gmail.com",
     "tel": "+43 650 995 2887",
     "adresse": "Hannah-Arendt-Platz 9",
+    "bauplatz": "D13D",
+    "latlng": [48.22365,16.50007],    
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],
@@ -42,6 +46,8 @@
     "name": "Burnout Coaching - Karl Eigel",
     "beschreibung": "Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
     "adresse": "Mimi-Grossberg-Gasse 11/312",
+    "bauplatz": "D8",
+    "latlng": [48.22508,16.49929],    
     "facebook": "BurnoutCoachAspern",
     "web": "http://www.burnout-coach.at/",
     "tel": "+43 650 2859537",
@@ -51,6 +57,8 @@
     "name": "Psychotherapie DDr. Anton Wambach",
     "beschreibung": "Psychotherapeut in Ausbildung unter Supervision",
     "adresse": "Mimi-Grossberg-Gasse 11/312",
+    "bauplatz": "D8",
+    "latlng": [48.22508,16.49929],    
     "web": "http://psythera-at.webnode.at",
     "email": "anton.wambach@yahoo.com",
     "tel": "+43 680 24 64 716"
@@ -60,6 +68,8 @@
     "beschreibung": "Psychotherapie, Paartherapie, Familientherapie, Therapie mit Jugendlichen, Elternberatung, Lebensberatung, Coaching",
     "web": "http://www.steiner-therapie.at/",
     "adresse": "Maria-Tusch-Straße 18/A/24",
+    "bauplatz": "D10",
+    "latlng": [48.22492,16.50221],    
     "tel": "+43 676 72 56 807",
     "email": "gerhard@steiner-therapie.at",
     "oeffnungszeiten": {
@@ -78,6 +88,8 @@
     "name": "Ergotherapie ergopraxisaspern",
     "web": "http://www.ergopraxisaspern.at/ueber-uns/wer-sind-wir/daniela-schlager-jaschky/",
     "adresse": "Maria-Tusch-Straße 18/A/4",
+    "bauplatz": "D10",
+    "latlng": [48.22492,16.50221],
     "email": "office@ergopraxisaspern.at",
     "tel": "+43 1 2102563",
     "oeffnungszeiten": {
@@ -98,6 +110,8 @@
     "tel": "+43 664 183 66 65",
     "email": "weissgram@einsmitdemleben.at",
     "adresse": "Maria-Tusch-Strasse 18/1/3",
+    "bauplatz": "D10",
+    "latlng": [48.22492,16.50221],  
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],
@@ -118,6 +132,8 @@
     "web": "http://www.kilibee.at/",
     "facebook": "kilibee.at",
     "adresse": "Gisela-Legath-Gasse 5/1",
+    "bauplatz": "D13E",
+    "latlng": [48.22353,16.49957],    
     "oeffnungszeiten": {
       "bemerkung": "Zusätzliche Termine nach individueller Vereinbarung",
       "mo": [],
@@ -136,7 +152,9 @@
     "tel": "+43 699 10070246",
     "email": "margret.matzerath@dreisicht.at",
     "web": "http://www.dreisicht.at/",
-    "adresse": "Gisela-Legath-Gasse 5/20"
+    "adresse": "Gisela-Legath-Gasse 5/20",
+    "bauplatz": "D13E",
+    "latlng": [48.22353,16.49957]
   },
   "psychotherapie_mayrhofer": {
     "name": "Praxis Mag. Mayrhofer",
@@ -144,7 +162,9 @@
     "tel": "+43 699 10059007",
     "email": "praxis@colorme.at",
     "web": "http://praxis.colorme.at",
-    "adresse": "Gisela-Legath-Gasse 5"
+    "adresse": "Gisela-Legath-Gasse 5",
+    "bauplatz": "D13E",
+    "latlng": [48.22353,16.49957]
   },
   "elmar_meierzedt_koerperarbeit": {
     "name": "Elmar Meierzedt - Integrale Körperarbeit & Massage",
@@ -152,7 +172,9 @@
     "web": "http://www.handverstand.at",
     "email": "termin@handverstand.at",
     "tel": "+43 699 12 822 571",
-    "adresse": "Gisela-Legath-Gasse 5/1"
+    "adresse": "Gisela-Legath-Gasse 5/1",
+    "bauplatz": "D13E",
+    "latlng": [48.22353,16.49957]
   },
   "elmar_meierzedt_yoga": {
     "name": "Seestadt YOGA",
@@ -161,6 +183,8 @@
     "email": "buero@handverstand.at",
     "tel": "+43 699 12 822 571",
     "adresse": "Gisela-Legath-Gasse 5/1",
+    "bauplatz": "D13E",
+    "latlng": [48.22353,16.49957],   
     "oeffnungszeiten": {
       "bemerkung": "Begrentze Teilnehmerzahl. Anmeldung erbeten unter buero@handverstand.at.",
       "mo": [],
@@ -179,14 +203,18 @@
     "web": "http://www.psychotherapie-golds.at",
     "tel": "+43 677 618 235 83",
     "email": "bettina.golds@gmail.com",
-    "adresse": "Mimi-Grossberg-Gasse 11/312"
+    "adresse": "Mimi-Grossberg-Gasse 11/312",
+    "bauplatz": "D8",
+    "latlng": [48.22508,16.49929]  
   },
   "psychotherapie_fellner": {
     "name": "Psychotherapeutische Praxis Richard L. Fellner",
     "beschreibung": "Psychotherapeut, Coach, Supervisor in Wien",
     "web": "https://www.psychotherapiepraxis.at/psychotherapie-praxis-1220-wien.phtml",
     "tel": "+43 676 720 9300",
-    "adresse": "Maria-Tusch-Straße 11"
+    "adresse": "Maria-Tusch-Straße 11",
+    "bauplatz": "D9",
+    "latlng": [48.22464,16.49972]    
   },
   "shiatsu_reiter": {
     "name": "Mobiles Shiatsu Harald Reiter",
@@ -201,6 +229,8 @@
     "tel": "+43 650 850 12 90",
     "email": "lukas.pezenka@shinergy.com",
     "adresse": "Hannah-Arendt Platz 9",
+    "bauplatz": "D13D",
+    "latlng": [48.22363,16.50007],
     "facebook": "Shinergy-Stadlau-und-Seestadt-278378619854",
     "web": "http://www.shinergy.com/de/be-a-rebel/shinergy-seestadt/",
     "oeffnungszeiten": {

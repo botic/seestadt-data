@@ -4,7 +4,8 @@
     "web": "http://coworking.seestern-aspern.at/",
     "email": "work@seestern-aspern.at",
     "adresse": "Gisela-Legath-Gasse 5",
-    "latlng": [48.22354, 16.49957]
+    "latlng": [48.22354, 16.49957],
+    "bauplatz": "D13E"
   },
   "websafari": {
     "name": "websafari",
@@ -12,7 +13,9 @@
     "web": "http://www.websafari.co/",
     "email": "office@websafari.co",
     "tel": "+43 699 160 71 200",
-    "adresse": "Sonnenallee 38/15/1"
+    "adresse": "Sonnenallee 38/15/1",
+    "latlng": [48.22571, 16.50205],
+    "bauplatz": "J9"
   },
   "interlink": {
     "name": "interlink marketing e.U.",
@@ -20,7 +23,9 @@
     "beschreibung": "Dienstleistungen im Bereichen Positionierung, Marketing, Kommunikation, Werbung",
     "web": "http://interlinkmarketing.at/",
     "email": "oladejo@interlinkmarketing.at",
-    "adresse": "Maria-Tusch-Straße 6/16 A"
+    "adresse": "Maria-Tusch-Straße 6/16 A",
+    "bauplatz": "D12",
+    "latlng": [48.22447,16.49863]
   },
   "weiss_linguistic_services": {
     "name": "Jacqueline Weiß, M.A. - Linguistic Services",
@@ -28,7 +33,9 @@
     "beschreibung": "Fachübersetzungen, Lektorat & Korrektorat, Sprachkurse",
     "web": "http://www.weiss-linguistic-services.eu/",
     "email": "office@weiss-linguistic-services.eu",
-    "adresse": "Janis-Joplin-Promenade 6-8/4/1"
+    "adresse": "Janis-Joplin-Promenade 6-8/4/1",
+    "bauplatz": "J2",
+    "latlng": [48.22716,16.50344]
   },
   "attensam": {
     "name": "Attensam Seestadt Aspern",
@@ -37,7 +44,9 @@
     "web": "https://www.attensam.at/standorte/attensam-seestadt-aspern/",
     "tel": "+43 676 8206 3420",
     "email": "seestadt@attensam.at",
-    "adresse": "Ilse-Arlt-Straße 39 Top 2"
+    "adresse": "Ilse-Arlt-Straße 39 Top 2",
+    "bauplatz": "J1",
+    "latlng": [48.22747,16.50311]
   },
   "lernquadrat": {
     "name": "LernQuadrat Seestadt",
@@ -46,21 +55,27 @@
     "facebook": "lernquadrat.seestadt",
     "tel": "+43 1 210 69 81",
     "email": "seestadt@lernquadrat.at",
-    "adresse": "Sonnenallee 40/1/3"
+    "adresse": "Sonnenallee 40/1/3",
+    "bauplatz": "J8",
+    "latlng": [48.22630,16.50163]
   },
   "buchhalter_wider": {
     "name": "Ing. Michael Wider - Buchhalter vom Feinsten",
     "beschreibung": "Buchhaltung, Kostenrechnung, Controlling",
     "tel": "+43 699 81 419 544",
     "email": "feid77@hotmail.com",
-    "adresse": "Janis-Joplin-Promenade 8/6/17"
+    "adresse": "Janis-Joplin-Promenade 8/6/17",
+    "bauplatz": "J2",
+    "latlng": [48.22683,16.50383]
   },
   "seelsorgezentrum": {
     "name": "Seelsorgezentrum St. Edith Stein",
     "beschreibung": "Seelsorgestation und Familienberatungszentrum der Erzdiözese Wien",
     "web": "http://pfarre.aspern.at/Pfarre/StEdith/index.php",
     "tel": "+43 676 363 71 76",
-    "adresse": "Maria-Tusch-Straße 11 / 1",
+    "adresse": "Maria-Tusch-Straße 11/1",
+    "bauplatz": "D9",
+    "latlng": [48.22467,16.49957],
     "oeffnungszeiten": {
       "bemerkung": "zusätzlich nach Vereinbarung",
       "mo": [],
@@ -78,7 +93,9 @@
     "beschreibung": "Ein Projekt an der Schnittstelle von Arbeitsmarktpolitik, Landschaftsarchitektur und Stadtplanung, bei dem Jugendliche „Freiräume“ für Jugendliche bauen.",
     "web": "http://www.greenlab.wien/",
     "adresse": "Ilse-Arlt-Straße 39",
-    "email": "david.biegl@zwopk.at"
+    "email": "david.biegl@zwopk.at",
+    "bauplatz": "J1",
+    "latlng": [48.22759,16.50302]
   },
   "lernen_seestadt": {
     "name": "Lernen in der Seestadt",
@@ -86,7 +103,9 @@
     "web": "http://www.lernen-seestadt.at/",
     "adresse": "Mela-Spira-Gasse 3/H5/204",
     "tel": "+43 664 7987131",
-    "email": "s.cechak@lernen-seestadt.at"
+    "email": "s.cechak@lernen-seestadt.at",
+    "bauplatz": "D8",
+    "latlng": [48.22524,16.49893]
   },
   "agentur2": {
     "name": "Agentur²",
@@ -95,28 +114,96 @@
     "email": "office@agenturquadrat.at",
     "tel": "+43 699 1139 3062",
     "web": "http://www.agenturquadrat.at/",
-    "facebook": "agenturquadrat"
+    "facebook": "agenturquadrat",
+    "bauplatz": "D10",
+    "latlng": [48.22399,16.50267]
   },
   "wienwork_jugendcoaching": {
-    "name": "Wien Work Jugendcoaching",
+    "name": "Wien Work - Jugendcoaching",
     "beschreibung": "Hilfe für Jugendliche mit Bewerbungsunterlagen, Vorbereitung auf Bewerbungsgespräche, Lehrstellensuche",
     "tel": "+43 1 288 80 560",
     "email": "jugendcoaching@wienwork.at",
     "adresse": "Frenkel-Brunswik-Gasse 1",
-    "web": "http://www.wienwork.at/jugendcoaching_und_jugendarbeitsassistenz.aspx"
+    "web": "http://www.wienwork.at/jugendcoaching_und_jugendarbeitsassistenz.aspx",
+    "bauplatz": "D10",
+    "latlng": [48.22387,16.50256]
   },
   "wienwork_arbeitsassistenz": {
-    "name": "Wien Work Arbeitsassistenz",
+    "name": "Wien Work - Arbeitsassistenz",
     "beschreibung": "Gründungsberatung, Unternehmensberatung, Coaching, Karriereberatung für Menschen mit Behinderung und/oder chronischen Erkrankungen",
     "tel": "+43 1 288 80 540",
     "email": "rudolf.weissinger@wienwork.at",
     "adresse": "Sonnenalle 51/1",
-    "web": "http://www.wienwork.at/arbeitsassistenz_f%C3%BCr_erwachsene_mit_behinderung.aspx"
+    "web": "http://www.wienwork.at/arbeitsassistenz_f%C3%BCr_erwachsene_mit_behinderung.aspx",
+    "bauplatz": "D2",
+    "latlng": [48.22637,16.50091]
+  },
+  "wienwork_onthejob": {
+    "name": "Wien Work - On the job",
+    "beschreibung": "Eine Einrichtung der Berufsqualifizierung. Bereitet Jugendliche und junge Erwachsene mit Handicap auf das Berufsleben vor.",
+    "web": "http://wienwork.at/on_the_job_integration_durch_arbeitstraining_f%C3%BCr_jugendliche.aspx",
+    "tel": "+43 1 288 80 530",
+    "email": "gerhard.poppenwimmer@wienwork.at",
+    "adresse": "Sonnenalle 47/2",
+    "bauplatz": "D2",
+    "latlng": [48.22599,16.50119]
+  },
+  "wienwork_facilityservices": {
+    "name": "Wien Work - Facility Services",
+    "beschreibung": "Reinigung von Büros, Gebäuden, Gebäudeteilen sowie Grünflächenbetreuung",
+    "email": "service@wienwork.at",
+    "web": "http://www.wienwork.at/facility_service.aspx",
+    "tel": "+43 1 288 80 350",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
+  "wienwork_holztechnik": {
+    "name": "Wien Work - Holztechnik",
+    "beschreibung": "Tischlerei, Einbaumöbel nach Maß",
+    "email": "holz@wienwork.at",
+    "web": "http://www.wienwork.at/holztechnik.aspx",
+    "tel": "+43 1 288 80 300",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
+  "wienwork_metalltechnik": {
+    "name": "Wien Work - Metalltechnik",
+    "beschreibung": "Metalltechnik, Metallbearbeitung und Services",
+    "email": "metall@wienwork.at",
+    "web": "http://www.wienwork.at/metalltechnik.aspx",
+    "tel": "+43 1 288 80 300",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
+  "wienwork_renovierung": {
+    "name": "Wien Work - Renovierung",
+    "beschreibung": "Malen, Fliesenlegen, Renovieren und Reparieren",
+    "email": "renovierung@wienwork.at",
+    "web": "http://www.wienwork.at/renovierung.aspx",
+    "tel": "+43 1 288 80 300",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
+  },
+  "wienwork_textilreinigung": {
+    "name": "Wien Work - Textilreinigung & Bügelservice",
+    "beschreibung": "Waschen, Putzen, Reinigen und Bügeln",
+    "email": "textilreinigung@wienwork.at",
+    "web": "http://www.wienwork.at/textilreinigung_und_b%C3%BCgelservice.aspx",
+    "tel": "+43 1 288 80 350",
+    "adresse": "Ella-Lingens-Straße 2",
+    "bauplatz": "D21A",
+    "latlng": [48.22214,16.50429]
   },
   "spoe": {
     "name": "SPÖ Seestadt",
     "beschreibung": "Parteilokal der SPÖ Donaustadt",
-    "adresse": "Maria-Tusch-Straße 35/7/EG/1"
+    "adresse": "Maria-Tusch-Straße 35/7/EG/1",
+    "bauplatz": "J2",
+    "latlng": [48.22653,16.50429]
   },
   "rsnet" : {
     "name": "RS net",
@@ -125,14 +212,18 @@
     "email": "sales@rsnet.at",
     "web": "http://www.rsnet.at/",
     "UID": "ATU62680101",
-    "adresse": "Janis-Joplin-Promenade 8/6/2"
+    "adresse": "Janis-Joplin-Promenade 8/6/2",
+    "bauplatz": "J2",
+    "latlng": [48.22653,16.50429]
   },
   "dolmetscher_bashir": {
     "name": "Dolmetscher Neamul Bashir",
     "beschreibung": "Beeideter und gerichtlich zertifizierter Dolmetscher für Bengalisch (= Bengali = Bangla)",
     "tel": "+43 664 130 0514",
     "email": "neamul.bashir@chello.at",
-    "adresse": "Janis-Joplin-Promenade 8/6/11"
+    "adresse": "Janis-Joplin-Promenade 8/6/11",
+    "bauplatz": "J2",
+    "latlng": [48.22682,16.50382]
   },
   "raetselfabrik": {
     "name": "Rätselfabrik",
@@ -141,7 +232,9 @@
     "email": "office@raetselfabrik.at",
     "tel": "+43 676 468 4115",
     "web": "http://raetselfabrik.at/",
-    "adresse": "Janis Joplin-Prominade 6/5/2"
+    "adresse": "Janis Joplin-Prominade 6/5/2",
+    "bauplatz": "J2",
+    "latlng": [48.22682,16.50382]
   },
   "sonicvision": {
     "name": "sonic-vision.TV",
@@ -150,7 +243,9 @@
     "UID": "ATU64683667",
     "email": "info@sonic-vision.tv",
     "tel": "+43 1 9692375",
-    "adresse": "Gisela-Legath-Gasse 5/1"
+    "adresse": "Gisela-Legath-Gasse 5/1",
+    "bauplatz": "D13E",
+    "latlng": [48.22352,16.49958]
   },
   "audio_boutique": {
     "name": "Audio Boutique",
@@ -160,7 +255,9 @@
     "tel": "+43 1293 60 25",
     "web": "https://www.audio-boutique.com",
     "facebook": "audioboutiquewarehouse",
-    "adresse": "Maria Tusch Strasse 8/2/1a"
+    "adresse": "Maria Tusch Strasse 8/2/1a",
+    "bauplatz": "D13B",
+    "latlng": [48.22416,16.49932]
   },
   "biotrem": {
     "name": "biotrem",
@@ -168,7 +265,9 @@
     "web": "http://www.biotrem.at",
     "facebook": "Biotrem",
     "email": "office@biotrem.at",
-    "adresse": "Mela-Spira-Gasse 3/H5/201"
+    "adresse": "Mela-Spira-Gasse 3/H5/201",
+    "bauplatz": "D8",
+    "latlng": [48.22533,16.49906]
   },
   "fotografin_luizapuiu": {
     "name": "Luiza-Lucia Puiu",
@@ -178,7 +277,9 @@
     "web": "http://luizapuiu.com",
     "tel": "+43 699 11010357",
     "email": "luiza@luizapuiu.com",
-    "adresse": "Gisela-Legath-Gasse 5/27"
+    "adresse": "Gisela-Legath-Gasse 5/27",
+    "bauplatz": "D13E",
+    "latlng": [48.22356,16.49948]
   },
   "fotografin_elisabethfeldner": {
     "name": "Elisabeth Feldner",
@@ -187,14 +288,19 @@
     "web": "http://www.dieelfe.com",
     "tel": "+43 676 5175009",
     "email": "contact@dieelfe.com",
-    "adresse": "Sonnenallee 36/14/23"
+    "adresse": "Sonnenallee 36/14/23",
+    "bauplatz": "J9",
+    "latlng": [48.22572,16.50205]
   },
   "fotografin_karolinahorner": {
     "name": "Karolina Horner",
     "beschreibung": "Kinder- und Hochzeitsfotografie",
     "facebook": "kalinkaphoto",
     "web": "http://www.kalinkaphoto.at",
-    "email": "karolina@kalinkaphoto.at"
+    "email": "karolina@kalinkaphoto.at",
+    "adresse": "Schenk-Danzinger-Gasse 6/4/32",
+    "bauplatz": "D5A",
+    "latlng": [48.22541,16.50073]
   },
   "fotograf_naderer": {
     "name": "Philipp Naderer",
@@ -202,7 +308,9 @@
     "web": "http://naderer.biz/",
     "tel": "+43 676 90 35 1 39",
     "email": "philipp@naderer.biz",
-    "adresse": "Gisela-Legath-Gasse 5/27"
+    "adresse": "Gisela-Legath-Gasse 5/27",
+    "bauplatz": "D13E",
+    "latlng": [48.22356,16.49948]
   },
   "kps_krassnitzer": {
     "name": "KPS Krassnitzer Physical Security",
@@ -212,7 +320,9 @@
     "facebook": "KrassnitzerKPS",
     "tel": "+43 676 78 69 000",
     "email": "office@krassnitzer.at",
-    "adresse": "Ilse-Arlt-Straße 39/34"
+    "adresse": "Ilse-Arlt-Straße 39/34",
+    "bauplatz": "J1",
+    "latlng": [48.22745,16.50303]
   },
   "vectordesign" : {
     "name": "Vector Design Print",
@@ -220,7 +330,9 @@
     "web": "http://www.vectordesign.at",
     "email": "info@vectordesign.at",
     "tel": "+43 664 28 30 566",
-    "adresse": "Ilse-Arlt-Straße 4"
+    "adresse": "Ilse-Arlt-Straße 4",
+    "bauplatz": "D12",
+    "latlng": [48.22400,16.49792]
   },
   "sakurashape" : {
     "name": "sakurashape",
@@ -229,7 +341,9 @@
     "facebook": "SakuraShape",
     "twitter": "sakurashape",
     "email": "info@sakurashape.com",
-    "adresse": "Ilse-Arlt-Straße 39/20"
+    "adresse": "Ilse-Arlt-Straße 39/20",
+    "bauplatz": "J1",
+    "latlng": [48.22744,16.50303]
   },
   "mediadrom": {
     "name": "Mediadrom",
@@ -238,7 +352,9 @@
     "web": "http://mediadrom.eu",
     "email": "johann.neuhold@mediadrom.eu",
     "tel": "+43 699 15059189",
-    "adresse": "Hannah-Arendt-Platz 9"    
+    "adresse": "Hannah-Arendt-Platz 9",
+    "bauplatz": "D13D",
+    "latlng": [48.22365,16.50007]
   },
   "misbela": {
     "name": "Misbela",
@@ -247,7 +363,9 @@
     "web": "http://www.misbela.com",
     "email": "info@misbela.com",
     "tel": "+43 660 3858 479",
-    "adresse": "Schenk-Danzinger Gasse 12/6/27"
+    "adresse": "Schenk-Danzinger Gasse 12/6/27",
+    "bauplatz": "D2",
+    "latlng": [48.22603,16.50038]
   },
   "katzengitter": {
     "name": "Katzengitter.org",
@@ -255,7 +373,9 @@
     "web": "http://www.katzengitter.org/",
     "email": "info@katzengitter.org",
     "tel": "+43 676 404 25 25",
-    "adresse": "Gisela-Legath-Gasse 10/14"
+    "adresse": "Gisela-Legath-Gasse 10/14",
+    "bauplatz": "D17",
+    "latlng": [48.22601,16.50030]
   },
   "fairsport": {
     "name": "Fairsport Events",
@@ -263,7 +383,9 @@
     "email": "juergen.smrz@fairnessrun.at",
     "tel": "+43 650 874 69 12",
     "web": "http://www.fairnessrun.at",
-    "adresse": "Schenk-Danzinger-Gasse 9/3/5"
+    "adresse": "Schenk-Danzinger-Gasse 9/3/5",
+    "bauplatz": "D4",
+    "latlng": [48.22583,16.50001]
   },
   "smarthlete": {
     "name": "Smarthlete",
@@ -272,7 +394,9 @@
     "facebook": "Smarthlete",
     "twitter": "smarthlete",
     "email": "contact@smarthlete.com",
-    "adresse": "Schenk-Danzinger-Gasse 12/5/11"
+    "adresse": "Schenk-Danzinger-Gasse 12/5/11",
+    "bauplatz": "D2",
+    "latlng": [48.22603,16.50038]
   },
   "bkst": {
     "name": "BKST Systemtechnik",
@@ -281,6 +405,138 @@
     "email": "bk@bkst.at",
     "web": "http://bkst.at",
     "tel": "+43 676 44 54 321",
-    "adresse": "Sonnenallee 40/1/2"
+    "adresse": "Sonnenallee 40/1/2",
+    "bauplatz": "J8",
+    "latlng": [48.22618,16.50172]
+  },
+  "rawtation": {
+    "name": "RAWTATION",
+    "beschreibung": "Editor, Filmmaker, Digital Media",
+    "UID": "ATU70029079",
+    "web": "http://rawtation.com",
+    "email": "manuel.lindinger@gmx.at",
+    "tel": "+43 664 2647 094",
+    "adresse": "Ilse-Arlt-Straße 39/30",
+    "bauplatz": "J1",
+    "latlng": [48.22746,16.50303]
+  },
+  "grafik_design_neumayr": {
+    "name": "Madelaine Neumayr - Grafik Design",
+    "beschreibung": "Werbegrafik, Designer",
+    "UID": "ATU68549859",
+    "web": "http://www.madelaine.at",
+    "email": "mail@madelaine.at",
+    "tel": "+43 699 12 04 22 64",
+    "adresse": "Schenk-Danzinger-Gasse 9/3/5",
+    "bauplatz": "D4",
+    "latlng": [48.22584,16.50001]
+  },
+  "alexsastra": {
+    "name": "Alexsastra - Alex & the stars",
+    "beschreibung": "Psychologisches Geburtshoroskop mit Analyse und Beratung, Keltischer Mondkreis Analyse und karmische Lebensaufgaben, astrologische Beratung mit Tarot Deutung, Astrokartographie",
+    "web": "http://alexsastra.com",
+    "email": "alexsastras@gmail.com",
+    "facebook": "Alexsastras",
+    "tel": " +43 664 911 04 99",
+    "adresse": "Ilse-Arlt-Straße 20/1/23",
+    "bauplatz": "D4",
+    "latlng": [48.22577,16.49870]
+  },
+  "abix": {
+    "name": "Abix - Austrian Bit Experts",
+    "beschreibung": "Software tools solutions for the embedded system markets",
+    "UID": "ATU67890008",
+    "web": "http://www.a-bix.com",
+    "email": "info@a-bix.com",
+    "adresse": "Seestadtstraße 27/18",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  },
+  "ascr": {
+    "name": "ASCR - Aspern Smart City Research",
+    "beschreibung": "Joint Venture von Siemens, Wien Energie und Wiener Netze zur Entwicklung technischer Lösungen für die neue Energiewelt",
+    "web": "http://www.ascr.at",
+    "email": "office@ascr.at",
+    "tel": "+43 1 908 93 69",
+    "adresse": "Seestadtstraße  27",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]    
+  },
+  "comdata": {
+    "name": "COM Data - Systemhaus",
+    "beschreibung": "Anbieter für Infrastruktur, Betreiber von Infrastruktur, Computer Aided Design, Computeranimation, Computerintegrated Manufaktoring, Datenerfassung, Elektronischer Datenaustausch, Geschäftsprozessoptimierung, Internet Services, Outsourcing, Projektmanagement, Training, Virenschutz",
+    "UID": "ATU69253728",
+    "web": "http://www.comdata.at",
+    "email": "office@comdata.at",
+    "tel": "+43 1 7746655 0",
+    "adresse": "Seestadtstraße  27/10",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  },
+  "eurodata": {
+    "name": "eurodata IT Solutions",
+    "beschreibung": "elektronische Archivierung, eBilling, Datenfernverarbeitung, Elektronischer Datenaustausch, Finanz- und Rechnungswesen, Internet Services, Managementinformationssysteme, Service Providing/Dienstanbietung, Elektronischer Zahlungsverkehr / Elektronische Rechnung",
+    "UID": "ATU16065709",
+    "web": "http://www.eurodata.co.at",
+    "email": "office@eurodata.co.at",
+    "tel": " +43 1 7747073 0",
+    "adresse": "Seestadtstraße  27",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  },
+  "headspice": {
+    "name": "headspice engineering",
+    "beschreibung": "Seminare, Konferenzen und Tagungen zu Themen aus den Fachbereichen Umweltschutz, Informationstechnologie, Abfall- und Wasserwirtschaft, chemische Analytik, Bautechnik, Qualitätsmanagement und Korrosionsschutz",
+    "UID": "ATU65359168",
+    "web": "http://headspice.com",
+    "tel": "+43 676 9671363",
+    "email": "office@headspice.com",
+    "adresse": "Seestadtstraße  27/T1.07",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  },
+  "3fsolar": {
+    "name": "3F SOLAR",
+    "beschreibung": "Hybridtechnologie, Bauleitung Solaranlagen, Individuelle Energiekonzepte, Spezialanwendungen",
+    "UID": "ATU67345116", 
+    "email": "office@3f-solar.at",
+    "web": "http://www.3f-solar.at",
+    "tel": "+43 1 585 01 78",
+    "adresse": "Seestadtstraße  27/5",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  },
+  "researchtub": {
+    "name": "researchTUb",    
+    "beschreibung": "Forschung und Entwicklung für mechatronischen Fertigungssystemen, Engeriemonitoring-Systeme, Industrieroboterlösungen, uvm.",
+    "UID": "ATU65159268",
+    "web": "http://www.researchtub.at",
+    "email": "info@researchtub.at",
+    "tel": "+43 1 77 402 74 50",
+    "adresse": "Seestadtstraße  27/3",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  },
+  "theobroma": {
+    "name": "Theobroma Systems Design und Consulting",
+    "beschreibung": "Solutions for embedded systems, IP for Smart Energy/Home Automation, Identification, and Secure Communication",
+    "UID": "ATU68341118",
+    "web": "http://www.theobroma-systems.com/",
+    "email": "inquiries@theobroma-systems.com",
+    "tel": "+43 1 2369893 0",
+    "adresse": "Seestadtstraße  27",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
+  },
+  "wien3420": {
+    "name": "Wien 3420 Aspern Development AG",
+    "beschreibung": "Entwicklungsgesellschaft der Seestadt Aspern. Akquisition von Partnern, Verwertung von Flächen, Standortmarketing und -branding, städtebauliche Planung, infrastrukturelle Erschließung",
+    "UID": "ATU61631559",
+    "web": "http://www.wien3420.at",
+    "tel": "+43 1 774 02 74",
+    "email": "office@wien3420.at",
+    "adresse": "Seestadtstraße  27/13",
+    "baufeld": "C4",
+    "latlng": [48.22330,16.50939]
   }
 }

@@ -4,6 +4,8 @@
     "tel": "+43 1 2807294",
     "web": "https://www.spar.at/de_AT/index/standorte/12/spar_supermarkt_wienmaria-tusch-strseestadt_4156.html",
     "adresse": "Maria-Tusch-Straße 18",
+    "bauplatz": "D10",
+    "latlng": [48.22490,16.50213],
     "oeffnungszeiten": {
       "mo": ["07:15", "19:30"],
       "di": ["07:15", "19:30"],
@@ -18,6 +20,9 @@
   "bipa": {
     "name": "BIPA",
     "tel": "+43 1 2104784",
+    "adresse": "Schenk-Danzinger-Gasse 1",
+    "bauplatz": "D9",
+    "latlng": [48.22463,16.50077],
     "oeffnungszeiten": {
       "mo": ["08:00", "19:00"],
       "di": ["08:00", "19:00"],
@@ -33,6 +38,8 @@
     "name": "LEO Bäckerei & Cafe",
     "tel": "+43 1 2102527",
     "adresse": "Maria-Tusch-Straße 13/2",
+    "bauplatz": "D9",
+    "latlng": [48.22451,16.50039],
     "email": "bestellung@riederich.at",
     "web": "http://www.riederich.at",
     "oeffnungszeiten": {
@@ -48,10 +55,14 @@
   },
   "apotheke": {
     "name": "Seestadt Apotheke",
+    "UID": "ATU68590866",
     "tel": "+43 1 2106984",
     "email": "office@seestadt-apotheke.at",
     "web": "http://seestadt-apotheke.at",
     "facebook": "apotheke.seestadt",
+    "adresse": "Maria-Tusch-Straße 12",
+    "bauplatz": "D13A",
+    "latlng": [48.22416,16.50031],
     "oeffnungszeiten": {
       "mo": ["08:00", "18:00"],
       "di": ["08:00", "18:00"],
@@ -70,6 +81,9 @@
     "web": "http://www.seeseiten.at",
     "facebook": "seeseiten",
     "UID": "ATU69514518",
+    "bauplatz": "J2",
+    "latlng": [48.22416,16.50031],
+    "adresse": "Janis-Joplin-Promenade 6/5/1",
     "oeffnungszeiten": {
       "mo": ["10:00", "19:00"],
       "di": ["10:00", "19:00"],
@@ -85,6 +99,8 @@
     "name": "Erste Bank",
     "web": "https://www.sparkasse.at/erstebank/Ueber-uns/Filialsuche/AT01980229",
     "adresse": "Sonnenallee 41",
+    "bauplatz": "D5B",
+    "latlng": [48.22520,16.50187],
     "tel": "+43 5 0100 21011",
     "oeffnungszeiten": {
       "mo": ["09:00", "18:00"],
@@ -101,6 +117,8 @@
     "name": "Libro",
     "tel": "+43 1 2807243",
     "adresse": "Maria Tusch Strasse 16/2",
+    "bauplatz": "D10",
+    "latlng": [48.22467,16.50175],
     "oeffnungszeiten": {
       "mo": ["09:00", "18:30"],
       "di": ["09:00", "18:30"],
@@ -117,6 +135,8 @@
     "facebook": "hairstyleseestadt",
     "tel": "+43 1 2807225",
     "adresse": "Maria Tusch Strasse 15/2",
+    "bauplatz": "D5A",
+    "latlng": [48.22477,16.50112],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["09:00", "18:00"],
@@ -134,6 +154,8 @@
     "tel": "+43 1 210 69 56",
     "email": "11221@ruefa.at",
     "adresse": "Maria-Tusch-Straße 15/2",
+    "bauplatz": "D5A",
+    "latlng": [48.22482,16.50123],
     "oeffnungszeiten": {
       "mo": ["09:00", "18:00"],
       "di": ["09:00", "18:00"],
@@ -149,6 +171,8 @@
     "name": "Tabak Trafik Barany",
     "beschreibung": "Tabakfachgeschäft",
     "adresse": "Maria-Tusch-Strasse 17/1/2",
+    "bauplatz": "D5A",
+    "latlng": [48.22488,16.50133],
     "oeffnungszeiten": {
       "mo": ["06:30", "18:30"],
       "di": ["06:30", "18:30"],
@@ -163,6 +187,8 @@
   "handyshop": {
     "name": "Handyshop Drei / UPC",
     "adresse": "Maria-Tusch-Strasse 17/1/1",
+    "bauplatz": "D5A",
+    "latlng": [48.22494,16.50144],
     "oeffnungszeiten": {
       "mo": ["09:00", "18:00"],
       "di": ["09:00", "18:00"],
@@ -180,6 +206,8 @@
     "tel": "+43 50 350 50400",
     "email": "seestadt@staedtische.co.at",
     "adresse": "Maria-Tusch-Strasse 19",
+    "bauplatz": "D5B",
+    "latlng": [48.22506,16.50165],
     "oeffnungszeiten": {
       "mo": ["09:00", "17:00"],
       "di": ["09:00", "17:00"],
@@ -195,7 +223,9 @@
     "name": "MyKex – Süßes aus Galizien",
     "beschreibung": "Süßes aus Galizien",
     "facebook": "myKex.at",
-    "adresse": "Mela Spira Gasse 3|H5205",
+    "adresse": "Mela Spira Gasse 3/H5/205",
+    "bauplatz": "D8",
+    "latlng": [48.22535,16.49891],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["15:00", "19:00"],
@@ -215,6 +245,8 @@
     "facebook": "candyshop.seestadt",
     "tel": "+43 1 2807113",
     "adresse": "Maria-Tusch-Strasse 7",
+    "bauplatz": "D8",
+    "latlng": [48.22489,16.49831],
     "oeffnungszeiten": {
       "mo": ["10:30", "18:30"],
       "di": [],
@@ -231,6 +263,8 @@
     "beschreibung": "Fahrrad-Verkauf-Service und Reparatur",
     "web": "http://www.dr-bike.at/filialen/DR-Bike-Seestadt_301",
     "adresse": "Maria-Tusch-Strasse 9",
+    "bauplatz": "D8",
+    "latlng": [48.22483,16.49871],
     "tel": "+43 660 2037104",
     "oeffnungszeiten": {
       "mo": ["10:00", "13:00", "14:00", "18:00"],
@@ -247,6 +281,8 @@
     "name": "Harmonieklang",
     "web": "http://www.harmonieklang.at",
     "adresse": "Janis-Joplin-Promenade 6/5/1A",
+    "bauplatz": "J2",
+    "latlng": [48.22691,16.50338],
     "tel": "+43 664 6581150",
     "email": "office@harmonieklang.at",
     "facebook": "harmonieklangat-185576801552965",
@@ -269,6 +305,8 @@
     "facebook": "koerperwerkseestadt",
     "tel": "+43 699 11300174",
     "adresse": "Mimi-Grossberg-Gasse 11/H4/101",
+    "bauplatz": "D8",
+    "latlng": [48.22505,16.49902],
     "oeffnungszeiten": {
       "bemerkung": "Terminvereinbarung notwendig",
       "mo": [],
@@ -290,6 +328,8 @@
     "facebook": "Seestadt-Küche-Wohnen-447876495411893",
     "tel": "+43 699 10828484",
     "adresse": "Maria-Tusch-Strasse 6",
+    "bauplatz": "D12",
+    "latlng": [48.22440,16.49910],
     "oeffnungszeiten": {
       "mo": ["10:00", "18:00"],
       "di": ["10:00", "18:00"],
@@ -307,6 +347,8 @@
     "web": "http://www.christines-oase.at/",
     "tel": "+43 677 61823422",
     "adresse": "Sonnenallee 44/3/1",
+    "bauplatz": "J8",
+    "latlng": [48.22646,16.50151],
     "oeffnungszeiten": {
       "bemerkung": "Terminvereinbarung notwendig",
       "mo": [],
@@ -328,6 +370,8 @@
     "tel": "+43 699 195 46 512",
     "UID": "ATU56657718",
     "adresse": "Maria Tusch Straße 8/1",
+    "bauplatz": "D13B",
+    "latlng": [48.22428,16.49983],
     "oeffnungszeiten": {
       "bemerkung": "Zusätzliche Termine nach telefonischer Vereinbarung",
       "mo": [],
@@ -347,6 +391,8 @@
     "facebook": "Bastellieschen-1407265406214601",
     "email": "office@bastellieschen.at",
     "adresse": "Maria Tusch Straße 8/4",
+    "bauplatz": "D13B",
+    "latlng": [48.22431,16.49965],
     "tel": "+43 660 2541000",
     "UID": "ATU62553711",
     "oeffnungszeiten": {
@@ -365,6 +411,8 @@
     "web": "http://www.12er.at/",
     "facebook": "12er-glasporzellankeramik-303579606335900",
     "adresse": "Maria Tusch-Straße 8/6",
+    "bauplatz": "D13B",
+    "latlng": [48.22424,16.49997],
     "UID": "ATU50738509",
     "email": "mail@12er.at",
     "tel": "+43 676 4204112",
@@ -388,6 +436,8 @@
     "email": "office@klenner.at",
     "tel": "+43 1 812 32 30 0",
     "adresse": "Mimi-Grossberg-Gasse 11/301",
+    "bauplatz": "D8",
+    "latlng": [48.22527,16.49944],
     "UID": "ATU38290602",
     "oeffnungszeiten": {
       "mo": ["09:00","17:00"],
@@ -404,6 +454,8 @@
     "name": "Follow Beauty",
     "beschreibung": "Atelier Briant Rokyta. Kunstworkshops und Kunsttherapie",
     "adresse": "Maria-Tusch-Straße 8/1/43",
+    "bauplatz": "D13B",
+    "latlng": [48.22430,16.49970],
     "tel": "+43 676 540 75 96",
     "email": "briantrokyta@gmail.com",
     "web": "http://www.briantrokyta.com",
@@ -420,12 +472,14 @@
   	}
   },
   "wienwork_digitalmedia": {
-    "name": "Wien Work Digital Media Shop",
+    "name": "Wien Work - Digital Media Shop",
     "beschreibung": "Drucken, Kopieren, Spiralisieren, Direktmailings, Digitale Archive, Scandienstleistungen",
     "web": "http://www.wienwork.at/digital_media.aspx",
     "email": "digitalmedia@wienwork.at",
     "tel": "+43 1 288 80 410",
     "adresse": "Maria-Tusch-Straße 21",
+    "bauplatz": "J9",
+    "latlng": [48.22543,16.50234],
   	"oeffnungszeiten": {
       "mo": ["08:00","17:00"],
       "di": ["08:00","17:00"],
@@ -438,20 +492,24 @@
   	}
   },
   "wienwork_polstern_naehen": {
-    "name": "Wien Work Polstern & Nähen",
+    "name": "Wien Work - Polstern & Nähen",
     "beschreibung": "Textilverarbeitung und Nähen von Kleidung. Möbeltapezieren und Bespannen von Möbelpolstern.",
     "tel": "+43 1 288 80 440",
     "email": "textil@wienwork.at",
     "web": "http://www.wienwork.at/polstern_und_n%C3%A4hen.aspx",
-    "adresse": "Maria-Tusch-Straße 31"
+    "adresse": "Maria-Tusch-Straße 31",
+    "bauplatz": "J2",
+    "latlng": [48.22622,16.50369]
   },
   "wienwork_textilreinigung_annahmestelle": {
-    "name": "Wien Work Textilreinigung & Bügelservice Annahmestelle",
+    "name": "Wien Work - Textilreinigung & Bügelservice Annahmestelle",
     "beschreibung": "Waschen, Putzen, Reinigen und Bügeln von Textilien",
     "tel": "+43 1 288 80 420",
     "email": "textilreinigung@wienwork.at",
     "web": "http://www.wienwork.at/textilreinigung_und_bügelservice.aspx",
     "adresse": "Maria-Tusch-Straße 25",
+    "bauplatz": "J9",
+    "latlng": [48.22581,16.50297],
   	"oeffnungszeiten": {
       "mo": ["08:00","17:00"],
       "di": ["08:00","17:00"],
@@ -462,5 +520,15 @@
       "so": [],
       "ft": []
   	}
+  },
+  "fruehwald": {
+    "name": "Frühwald",
+    "beschreibung": "Hilfsmittel für Hauskrankenpflege & Rehabilitation",
+    "email": "seestadt@fruehwald.net",
+    "web": "http://fruehwald.net",
+    "tel": "+43 1 210 90 04",
+    "adresse": "Maria-Tusch-Straße 13",
+    "bauplatz": "D9",
+    "latlng": [48.22453,16.50026]
   }
 }
