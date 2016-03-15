@@ -437,7 +437,7 @@
     "web": "http://alexsastra.com",
     "email": "alexsastras@gmail.com",
     "facebook": "Alexsastras",
-    "tel": " +43 664 911 04 99",
+    "tel": "+43 664 9110499",
     "adresse": "Ilse-Arlt-Straße 20/1/23",
     "bauplatz": "D4",
     "latlng": [48.22577,16.49870]
@@ -449,7 +449,7 @@
     "web": "http://www.a-bix.com",
     "email": "info@a-bix.com",
     "adresse": "Seestadtstraße 27/18",
-    "baufeld": "C4",
+    "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
   "ascr": {
@@ -459,8 +459,8 @@
     "email": "office@ascr.at",
     "tel": "+43 1 908 93 69",
     "adresse": "Seestadtstraße  27",
-    "baufeld": "C4",
-    "latlng": [48.22330,16.50939]    
+    "bauplatz": "C4",
+    "latlng": [48.22330,16.50939]
   },
   "comdata": {
     "name": "COM Data - Systemhaus",
@@ -470,7 +470,7 @@
     "email": "office@comdata.at",
     "tel": "+43 1 7746655 0",
     "adresse": "Seestadtstraße  27/10",
-    "baufeld": "C4",
+    "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
   "eurodata": {
@@ -479,9 +479,9 @@
     "UID": "ATU16065709",
     "web": "http://www.eurodata.co.at",
     "email": "office@eurodata.co.at",
-    "tel": " +43 1 7747073 0",
+    "tel": "+43 1 7747073 0",
     "adresse": "Seestadtstraße  27",
-    "baufeld": "C4",
+    "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
   "headspice": {
@@ -492,29 +492,29 @@
     "tel": "+43 676 9671363",
     "email": "office@headspice.com",
     "adresse": "Seestadtstraße  27/T1.07",
-    "baufeld": "C4",
+    "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
-  "3fsolar": {
+  "dfsolar": {
     "name": "3F SOLAR",
     "beschreibung": "Hybridtechnologie, Bauleitung Solaranlagen, Individuelle Energiekonzepte, Spezialanwendungen",
-    "UID": "ATU67345116", 
+    "UID": "ATU67345116",
     "email": "office@3f-solar.at",
     "web": "http://www.3f-solar.at",
     "tel": "+43 1 585 01 78",
-    "adresse": "Seestadtstraße  27/5",
-    "baufeld": "C4",
+    "adresse": "Seestadtstraße 27/5",
+    "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
   "researchtub": {
-    "name": "researchTUb",    
+    "name": "researchTUb",
     "beschreibung": "Forschung und Entwicklung für mechatronischen Fertigungssystemen, Engeriemonitoring-Systeme, Industrieroboterlösungen, uvm.",
     "UID": "ATU65159268",
     "web": "http://www.researchtub.at",
     "email": "info@researchtub.at",
     "tel": "+43 1 77 402 74 50",
     "adresse": "Seestadtstraße  27/3",
-    "baufeld": "C4",
+    "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
   "theobroma": {
@@ -525,7 +525,7 @@
     "email": "inquiries@theobroma-systems.com",
     "tel": "+43 1 2369893 0",
     "adresse": "Seestadtstraße  27",
-    "baufeld": "C4",
+    "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
   "wien3420": {
@@ -536,7 +536,7 @@
     "tel": "+43 1 774 02 74",
     "email": "office@wien3420.at",
     "adresse": "Seestadtstraße  27/13",
-    "baufeld": "C4",
+    "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   }
 }

@@ -48,6 +48,10 @@
           "type": "string",
           "minLength": 5
         },
+        "bauplatz": {
+          "type": "string",
+          "pattern": "^[A-Z]\\d{1,2}[A-Z]?$"
+        },
         "latlng": {
           "type": "array",
           "minLength": 2,
