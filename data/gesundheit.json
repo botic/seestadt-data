@@ -29,7 +29,7 @@
     "tel": "+43 650 995 2887",
     "adresse": "Hannah-Arendt-Platz 9",
     "bauplatz": "D13D",
-    "latlng": [48.22365,16.50007],    
+    "latlng": [48.22365,16.50007],
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],
@@ -47,7 +47,7 @@
     "beschreibung": "Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
     "adresse": "Mimi-Grossberg-Gasse 11/312",
     "bauplatz": "D8",
-    "latlng": [48.22508,16.49929],    
+    "latlng": [48.22508,16.49929],
     "facebook": "BurnoutCoachAspern",
     "web": "http://www.burnout-coach.at/",
     "tel": "+43 650 2859537",
@@ -58,7 +58,7 @@
     "beschreibung": "Psychotherapeut in Ausbildung unter Supervision",
     "adresse": "Mimi-Grossberg-Gasse 11/312",
     "bauplatz": "D8",
-    "latlng": [48.22508,16.49929],    
+    "latlng": [48.22508,16.49929],
     "web": "http://psythera-at.webnode.at",
     "email": "anton.wambach@yahoo.com",
     "tel": "+43 680 24 64 716"
@@ -69,7 +69,7 @@
     "web": "http://www.steiner-therapie.at/",
     "adresse": "Maria-Tusch-Straße 18/A/24",
     "bauplatz": "D10",
-    "latlng": [48.22492,16.50221],    
+    "latlng": [48.22492,16.50221],
     "tel": "+43 676 72 56 807",
     "email": "gerhard@steiner-therapie.at",
     "oeffnungszeiten": {
@@ -111,7 +111,7 @@
     "email": "weissgram@einsmitdemleben.at",
     "adresse": "Maria-Tusch-Strasse 18/1/3",
     "bauplatz": "D10",
-    "latlng": [48.22492,16.50221],  
+    "latlng": [48.22492,16.50221],
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],
@@ -133,7 +133,7 @@
     "facebook": "kilibee.at",
     "adresse": "Gisela-Legath-Gasse 5/1",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49957],    
+    "latlng": [48.22353,16.49957],
     "oeffnungszeiten": {
       "bemerkung": "Zusätzliche Termine nach individueller Vereinbarung",
       "mo": [],
@@ -184,7 +184,7 @@
     "tel": "+43 699 12 822 571",
     "adresse": "Gisela-Legath-Gasse 5/1",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49957],   
+    "latlng": [48.22353,16.49957],
     "oeffnungszeiten": {
       "bemerkung": "Begrentze Teilnehmerzahl. Anmeldung erbeten unter buero@handverstand.at.",
       "mo": [],
@@ -205,7 +205,7 @@
     "email": "bettina.golds@gmail.com",
     "adresse": "Mimi-Grossberg-Gasse 11/312",
     "bauplatz": "D8",
-    "latlng": [48.22508,16.49929]  
+    "latlng": [48.22508,16.49929]
   },
   "psychotherapie_fellner": {
     "name": "Psychotherapeutische Praxis Richard L. Fellner",
@@ -214,7 +214,7 @@
     "tel": "+43 676 720 9300",
     "adresse": "Maria-Tusch-Straße 11",
     "bauplatz": "D9",
-    "latlng": [48.22464,16.49972]    
+    "latlng": [48.22464,16.49972]
   },
   "shiatsu_reiter": {
     "name": "Mobiles Shiatsu Harald Reiter",
@@ -243,6 +243,6 @@
       "sa": [],
       "so": [],
       "ft": []
-    }    
+    }
   }
 }
