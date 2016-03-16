@@ -238,7 +238,7 @@
   },
   "sonicvision": {
     "name": "sonic-vision.TV",
-    "beschreibung": "E-Learning-Plattform, Tontechnik Ausbildung",
+    "beschreibung": "Tontechnik-Ausbildung, E-Learning Plattform für Tontechnik und Musikproduktion",
     "web": "http://www.sonic-vision.tv",
     "UID": "ATU64683667",
     "email": "info@sonic-vision.tv",
@@ -304,7 +304,7 @@
   },
   "fotograf_naderer": {
     "name": "Philipp Naderer",
-    "beschreibung": "Pressefotograf",
+    "beschreibung": "Fotograf",
     "web": "http://naderer.biz/",
     "tel": "+43 676 90 35 1 39",
     "email": "philipp@naderer.biz",
@@ -314,7 +314,7 @@
   },
   "kps_krassnitzer": {
     "name": "KPS Krassnitzer Physical Security",
-    "beschreibung": "Spezialist in Sachen Sicherheitstechnik, Digital Sigagne, Medientechnik und Hausautomation",
+    "beschreibung": "Sicherheitstechnik, Digital Sigagne, Medientechnik und Hausautomation",
     "UID": "ATU42777303",
     "web": "http://www.krassnitzer.at/",
     "facebook": "KrassnitzerKPS",
