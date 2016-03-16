@@ -538,5 +538,17 @@
     "adresse": "Seestadtstraße  27/13",
     "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
+  },
+  "koenigskinder": {
+    "name": "KönigsKinder",
+    "beschreibung": "Ein Netzwerkzentrum für Eltern und Kinder. Kurse, Café, Shop",
+    "UID": "ATU68750256",
+    "web": "http://www.koenigskinder.at/",
+    "facebook": "koenigskinder.wien",
+    "tel": "+43 677 610 12 100",
+    "email": "office@koenigskinder.at",
+    "adresse": "Maria-Tusch-Straße 9/3/202",
+    "bauplatz": "D8",
+    "latlng": [48.224857,16.498762]
   }
 }
