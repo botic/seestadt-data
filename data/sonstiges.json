@@ -7,6 +7,15 @@
     "latlng": [48.22354, 16.49957],
     "bauplatz": "D13E"
   },
+  "stadtteilmanagement": {
+    "name": "Stadtteilmanagement Seestadt Aspern",
+    "beschreibung": "Quartiersmanagement und Anlaufpunkt für Fragen, Infos und Initiativen rund um die Seestadt Aspern.",
+    "web": "http://meine.seestadt.info/",
+    "email": "fragen@meine.seestadt.info",
+    "adresse": "Hannah-Arendt-Platz 1/2",
+    "latlng": [48.224146, 16.501665],
+    "bauplatz": "D10"
+  },
   "websafari": {
     "name": "websafari",
     "UID": "ATU67032659",
@@ -20,7 +29,7 @@
   "interlink": {
     "name": "interlink marketing e.U.",
     "UID": "ATU63440057",
-    "beschreibung": "Dienstleistungen im Bereichen Positionierung, Marketing, Kommunikation, Werbung",
+    "beschreibung": "Dienstleistungen im Bereichen Positionierung, Marketing, Kommunikation, Werbung.",
     "web": "http://interlinkmarketing.at/",
     "email": "oladejo@interlinkmarketing.at",
     "adresse": "Maria-Tusch-Straße 6/16 A",
@@ -30,7 +39,7 @@
   "weiss_linguistic_services": {
     "name": "Jacqueline Weiß, M.A. - Linguistic Services",
     "UID": "ATU69264707",
-    "beschreibung": "Fachübersetzungen, Lektorat & Korrektorat, Sprachkurse",
+    "beschreibung": "Fachübersetzungen, Lektorat & Korrektorat, Sprachkurse.",
     "web": "http://www.weiss-linguistic-services.eu/",
     "email": "office@weiss-linguistic-services.eu",
     "adresse": "Janis-Joplin-Promenade 6-8/4/1",
