@@ -1,8 +1,8 @@
 {
   "hno_woller": {
     "name": "HNO Dr. Eva Stadler-Woller",
-    "beschreibung": "Keine Kassen / Wahlärztin",
-    "tags": ["hno", "arzt", "privat", "hals", "nasen", "ohren"],
+    "beschreibung": "Wahlärztin",
+    "tags": ["hno", "arzt", "privat", "wahlarzt", "hals", "nasen", "ohren"],
     "tel": "+43 660 49 10 666",
     "web": "http://hno22.at",
     "email": "eva.stadler.woller@gmail.com",
@@ -24,7 +24,7 @@
   "hno_sabathi": {
     "name": "HNO Dr. Wolfgang Sabathi",
     "beschreibung": "Alle Kassen, öffnet am 4. April 2016.",
-    "tags": ["hno", "arzt", "hals", "nasen", "ohren"],
+    "tags": ["hno", "arzt", "kassenvertrag", "krankenkasse", "hals", "nasen", "ohren"],
     "tel": "+43 1 388 3 388",
     "web": "http://www.hno-seestadt.at",
     "email": "ordination@hno-seestadt.at",
@@ -45,8 +45,8 @@
   },
   "neurologie_schreiber": {
     "name": "Neurologie Dr. Walter Schreiber",
-    "beschreibung": "Wahlarzt, Kassenvertrag nur mit KFA",
-    "tags": ["arzt", "neuro", "neurologie"],
+    "beschreibung": "Wahlarzt, nur KFA-Kassenvertrag",
+    "tags": ["arzt", "neuro", "wahlarzt", "privat", "neurologie"],
     "tel": "+43 699 815 36 186",
     "web": "http://www.neurologie-essling.at/",
     "email": "info@neurologie-essling.at",
@@ -68,7 +68,7 @@
   "allgemeinmedizin_maktari": {
     "name": "Allgemeinmedizin und Innere Medizin Dr. Adil Maktari",
     "beschreibung": "Allgemeinmedizin (Kassenvertrag), Innere Medizin und Rheumatologie (Wahlarzt)",
-    "tags": ["arzt", "allgemein", "innere", "rheumatologie"],
+    "tags": ["arzt", "allgemein", "kassenvertrag", "krankenkasse", "privat", "wahlarzt", "innere", "rheumatologie"],
     "tel": "+43 1 210 69 20",
     "adresse": "Maria-Tusch-Strasse 18/4/19",
     "bauplatz": "D10",
@@ -87,7 +87,7 @@
   "allgemeinmedizin_hadrigan": {
     "name": "Allgemeinmedizin Dr. Claudia Hadrigan",
     "beschreibung": "Wahlärztin für Allgemeinmedizin. Zweitpraxis.",
-    "tags": ["arzt", "allgemein", "privat", "akupunktur", "psychotherapie"],
+    "tags": ["arzt", "allgemein", "privat", "wahlarzt", "akupunktur", "psychotherapie"],
     "tel": "+43 650 350 03 00",
     "web": "http://www.dr-hadrigan.at",
     "email": "dr-hadrigan@gmx.at",
@@ -109,7 +109,7 @@
   "allgemeinmedizin_teply": {
     "name": "Allgemeinmedizin, Anästhesiologie u. Intensivmedizin Dr. Elisabeth Teply",
     "beschreibung": "Wahlärztin für Allgemeinmedizin, Anästhesiologie u. Intensivmedizin",
-    "tags": ["arzt", "anästhesiologie", "privat", "intensivmedizin"],
+    "tags": ["arzt", "anästhesiologie", "privat", "wahlarzt", "intensivmedizin"],
     "adresse": "Maria-Tusch-Straße 18/2/8",
     "tel": "+43 676 4313130",
     "email": "lisbeth.teply@gmx.at",
@@ -131,7 +131,7 @@
   "gynaekologie_sommerlechner": {
     "name": "Gynäkologie Dr. Monika Sommerlechner",
     "beschreibung": "Gynäkologie (Kassenvertrag)",
-    "tags": ["arzt", "gynäkologie", "frauenarzt", "frauenheilkunde", "geburtshilfe"],
+    "tags": ["arzt", "kassenvertrag", "krankenkasse", "gynäkologie", "frauenarzt", "frauenheilkunde", "geburtshilfe"],
     "tel": "+43 1 774 13 30",
     "web": "http://www.frauenaerztin-sommerlechner.at/",
     "email": "ordination@frauenaerztin-sommerlechner.at",
@@ -151,8 +151,8 @@
   },
   "psychiatrie_wally": {
     "name": "Psychiatrie und Psychotherapeutische Medizin Dr. Beate Wally",
-    "beschreibung": "Wahlärztin für Psychiatrie u. Psychotherapeutische Medizin / Kein Kassenvertrag",
-    "tags": ["arzt", "privat", "psychiatrie", "psychotherapie"],
+    "beschreibung": "Wahlärztin für Psychiatrie u. Psychotherapeutische Medizin",
+    "tags": ["arzt", "privat", "wahlarzt", "psychiatrie", "psychotherapie"],
     "email": "ordination-wally@gmx.at",
     "tel": "+43 680 133 26 75",
     "adresse": "Maria-Tusch-Strasse 18/3",
@@ -173,7 +173,7 @@
   "kinder_hayek": {
     "name": "Kinder- u. Jugendheilkunde Dr. Grace Hayek",
     "beschreibung": "Wahlärztin für Kinder- u. Jugendheilkunde. Zweitpraxis.",
-    "tags": ["arzt", "privat", "kinderarzt", "kinderheilkunde", "jugendheilkunde"],
+    "tags": ["arzt", "privat", "wahlarzt", "kinderarzt", "kinderheilkunde", "jugendheilkunde"],
     "tel": "+43 1 2640719",
     "web": "http://www.hayek-kinderarzt.at",
     "adresse": "Ilse-Arlt-Straße 12/331",
