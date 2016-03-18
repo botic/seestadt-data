@@ -24,6 +24,14 @@
           "type": "string",
           "minLength": 5
         },
+        "tags": {
+          "type": "array",
+          "minLength": 1,
+          "maxLength": 20,
+          "items": {
+            "type": "string"
+          }
+        },
         "tel": {
           "type": "string",
           "pattern": "^\\+\\d\\d\\ [\\d\\ ]+\\d$"

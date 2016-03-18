@@ -1,6 +1,8 @@
 {
   "oeeins": {
     "name": "ÖEINS",
+    "beschreibung": "Restaurant mit original österreichischer Küche.",
+    "tags": ["ö1", "oeeins", "restaurant", "ö eins", "ö 1"],
     "facebook": "oeeins.wien",
     "web": "http://www.oeeins.at/",
     "tel": "+43 1 2102569",
@@ -22,6 +24,8 @@
   },
   "portobello": {
     "name": "Portobello",
+    "beschreibung": "Pizzaria und Restaurant mit moderner italienischer Küche.",
+    "tags": ["pizza", "pasta", "restaurant", "italienisch", "italiener"],
     "tel": "+43 1 3613666",
     "facebook": "PortobelloVienna",
     "web": "http://www.portobello-seestadt.at/",
@@ -45,6 +49,7 @@
   "united": {
     "name": "United In Cycling",
     "beschreibung": "Verein zur Förderung der Radkultur und des interkulturellen Austausches",
+    "tags": ["cafe", "kaffee", "werkstatt", "fahrrad"],
     "facebook": "UnitedInCycling",
     "web": "http://www.unitedincycling.com/",
     "email": "office@unitedincycling.com",
@@ -65,6 +70,7 @@
   },
   "kantine": {
     "name": "Seestadt Kantine",
+    "tags": ["pizza", "pasta", "mile"],
     "facebook": "seestadt.kantine",
     "tel": "+43 681 81116 357",
     "email": "savicm@gmx.at",
@@ -83,6 +89,7 @@
   "salz_und_pfeffer": {
       "name": "Salz+Pfeffer",
       "beschreibung": "Restaurant, Bistro, Catering",
+      "tags": ["restaurant", "catering", "aspern iq"],
       "web": "http://www.salzundpfeffer-catering.at/",
       "tel": "+43 1 2807355",
       "email": "office@salzundpfeffer-catering.at",
