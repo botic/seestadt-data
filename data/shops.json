@@ -76,6 +76,8 @@
   },
   "seeseiten": {
     "name": "Buchhandlung Seeseiten",
+    "beschreibung": "Buchhandlung mit eigener Kaffee-Ecke und Lesungen.",
+    "tags": ["bücher", "geschenke"],
     "tel": "+43 1 2531520",
     "email": "buchhandlung@seeseiten.at",
     "web": "http://www.seeseiten.at",
@@ -97,6 +99,7 @@
   },
   "erstebank": {
     "name": "Erste Bank",
+    "tags": ["bankomat", "sparkasse", "bank"],
     "web": "https://www.sparkasse.at/erstebank/Ueber-uns/Filialsuche/AT01980229",
     "adresse": "Sonnenallee 41",
     "bauplatz": "D5B",

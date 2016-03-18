@@ -1,6 +1,8 @@
 {
   "coworking_seesternaspern": {
     "name": "Coworking Seestern Aspern",
+    "beschreibung": "Coworking-Space im Wohnprojekt Seestern, Gemeinschaftsbüro für EPUs, Start-ups und Kleinunternehmen.",
+    "tags": ["coworking", "seestern", "gemeinschaftsbüro", "büro"],
     "web": "http://coworking.seestern-aspern.at/",
     "email": "work@seestern-aspern.at",
     "adresse": "Gisela-Legath-Gasse 5",
@@ -281,6 +283,7 @@
   "fotografin_luizapuiu": {
     "name": "Luiza-Lucia Puiu",
     "beschreibung": "Fotografin für Portrait-, Reportage- und Eventfotografie.",
+    "tags": ["fotografin", "fotografie", "fotos"],
     "facebook": "luiza.puiu",
     "twitter": "lullulia",
     "web": "http://luizapuiu.com",
@@ -293,6 +296,7 @@
   "fotografin_elisabethfeldner": {
     "name": "Elisabeth Feldner",
     "beschreibung": "Hochzeitsfotografie",
+    "tags": ["fotografin", "fotografie", "fotos"],
     "facebook": "dieElfephotography",
     "web": "http://www.dieelfe.com",
     "tel": "+43 676 5175009",
@@ -304,6 +308,7 @@
   "fotografin_karolinahorner": {
     "name": "Karolina Horner",
     "beschreibung": "Kinder- und Hochzeitsfotografie",
+    "tags": ["fotografin", "fotografie", "fotos"],
     "facebook": "kalinkaphoto",
     "web": "http://www.kalinkaphoto.at",
     "email": "karolina@kalinkaphoto.at",
