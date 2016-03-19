@@ -99,7 +99,7 @@
   },
   "erstebank": {
     "name": "Erste Bank",
-    "tags": ["bankomat", "sparkasse", "bank"],
+    "tags": ["bankomat", "bank"],
     "web": "https://www.sparkasse.at/erstebank/Ueber-uns/Filialsuche/AT01980229",
     "adresse": "Sonnenallee 41",
     "bauplatz": "D5B",
