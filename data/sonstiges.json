@@ -564,5 +564,15 @@
     "adresse": "Maria-Tusch-Straße 9/3/202",
     "bauplatz": "D8",
     "latlng": [48.224857,16.498762]
+  },
+  "postpartner": {
+    "name": "Post-Partner Wien Work",
+    "beschreibung": "Postpartner bei Wien Work in der Filiale „Textilreinigungs- & Bügelservice“.",
+    "tags": ["post", "briefe", "pakete", "briefkasten"],
+    "web": "http://www.wienwork.at/textilreinigung_und_b%C3%BCgelservice.aspx",
+    "tel": "+43 1 288 80 420",
+    "adresse": "Maria-Tusch-Straße 25",
+    "bauplatz": "J9",
+    "latlng": [48.2257014,16.5023558]
   }
 }
