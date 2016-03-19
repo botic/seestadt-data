@@ -578,8 +578,8 @@
     }
   },
   "postpartner": {
-    "name": "Post-Partner Wien Work",
-    "beschreibung": "Postpartner bei Wien Work in der Filiale „Textilreinigungs- & Bügelservice“.",
+    "name": "Postpartner Wien Work",
+    "beschreibung": "Postpartner im Wien Work „Textilreinigungs- & Bügelservice“ zur Brief- und Paketabgabe und Abholung.",
     "tags": ["post", "briefe", "pakete", "briefkasten"],
     "web": "http://www.wienwork.at/textilreinigung_und_b%C3%BCgelservice.aspx",
     "tel": "+43 1 288 80 420",
