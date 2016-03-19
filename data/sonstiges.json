@@ -559,11 +559,23 @@
     "UID": "ATU68750256",
     "web": "http://www.koenigskinder.at/",
     "facebook": "koenigskinder.wien",
+    "instagram": "koenigskinder_wien",
     "tel": "+43 677 610 12 100",
     "email": "office@koenigskinder.at",
     "adresse": "Maria-Tusch-Straße 9/3/202",
     "bauplatz": "D8",
-    "latlng": [48.224857,16.498762]
+    "latlng": [48.224857,16.498762],
+    "oeffnungszeiten": {
+      "mo": ["09:00", "17:30"],
+      "di": ["09:00", "18:00"],
+      "mi": ["09:00", "18:00"],
+      "do": ["09:00", "18:00"],
+      "fr": ["09:00", "16:00"],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Samstag und Sonntag offen für Programm laut Stundenplan."
+    }
   },
   "postpartner": {
     "name": "Post-Partner Wien Work",
@@ -573,6 +585,16 @@
     "tel": "+43 1 288 80 420",
     "adresse": "Maria-Tusch-Straße 25",
     "bauplatz": "J9",
-    "latlng": [48.2257014,16.5023558]
+    "latlng": [48.2257014, 16.5023558],
+    "oeffnungszeiten": {
+      "mo": [ "08:00",  "17:00"],
+      "di": [ "08:00",  "17:00"],
+      "mi": [ "08:00",  "17:00"],
+      "do": [ "08:00",  "17:00"],
+      "fr": [ "08:00",  "17:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }

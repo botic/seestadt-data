@@ -52,6 +52,10 @@
           "type": "string",
           "pattern": "^[a-zA-Z0-9_]{1,15}$"
         },
+        "instagram": {
+          "type": "string",
+          "pattern": "^[a-zA-Z0-9._]+$"
+        },
         "adresse": {
           "type": "string",
           "minLength": 5
