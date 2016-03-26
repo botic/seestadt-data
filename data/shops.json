@@ -543,5 +543,26 @@
       "so": [],
       "ft": []
     }
+  },
+  "spiegelbild": {
+    "name": "Spiegelbild",
+    "beschreibung": "Boutique. Mode von Blue Seven bis His Jeans, Mode aus Italien und Frankreich, Farben von pastellig bis knallig bunt, Hosen, T-Shirts, Polos, Pullis, Blusen, Rücke, Kleider, Accessoires.",
+    "email": "renatesocher@spiegelbild.co.at",
+    "tel": "+43 660 216 99 30",
+    "web": "http://www.spiegelbild.co.at",
+    "adresse": "Maria-Tusch-Straße 8/3",
+    "bauplatz": "D13B",
+    "latlng": [48.22429,16.49968],
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": ["11:00","18:00"],
+      "mi": ["11:00","18:00"],
+      "do": ["11:00","18:00"],
+      "fr": ["11:00","18:00"],
+      "sa": ["10:00","16:00"],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Montag geschlossen, Termine nach Vereinbarung"
+    }
   }
 }
