@@ -543,5 +543,45 @@
       "so": [],
       "ft": []
     }
+  },
+  "spiegelbild": {
+    "name": "Spiegelbild",
+    "beschreibung": "Mode Boutique. Mode von Blue Seven bis His Jeans, Mode aus Italien und Frankreich, Farben von pastellig bis knallig bunt, Hosen, T-Shirts, Polos, Pullis, Blusen, Rücke, Kleider, Accessoires.",
+    "email": "renatesocher@spiegelbild.co.at",
+    "tel": "+43 660 216 99 30",
+    "web": "http://www.spiegelbild.co.at",
+    "adresse": "Maria-Tusch-Straße 8/3",
+    "bauplatz": "D13B",
+    "latlng": [48.22429,16.49968],
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": ["11:00","18:00"],
+      "mi": ["11:00","18:00"],
+      "do": ["11:00","18:00"],
+      "fr": ["11:00","18:00"],
+      "sa": ["10:00","16:00"],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Montag geschlossen, Termine nach Vereinbarung"
+    }
+  },
+  "fashion_stage": {
+    "name": "Fashion Stage",
+    "beschreibung": "Mode Boutique. Bekleidungsgeschäft für Damen",
+    "facebook": "Fashion-STAGE-mode-Boutique-970078843080925",
+    "tel": "+43 660 2176332",
+    "adresse": "Sonnenallee 34",
+    "bauplatz": "J9",
+    "latlng": [48.22551,16.50225],
+    "oeffnungszeiten": {
+      "mo": ["11:00","16:15"],
+      "di": ["11:00","16:15"],
+      "mi": ["11:00","16:15"],
+      "do": ["12:00","16:00","18:00","20:00"],
+      "fr": ["11:00","16:15"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }
