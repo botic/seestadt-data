@@ -596,5 +596,26 @@
       "so": [],
       "ft": []
     }
+  },
+  "keradesign": {
+    "name": "Keradesign",
+    "beschreibung": "Fliesenlegermeisterbetrieb. Fliesen- und Plattenverlegen, Mosaik, Sanierung.",
+    "web": "http://www.keradesign.at",
+    "email": "office@keradesign.at",
+    "tel": "+43 650 3350147",
+    "facebook": "Kera-Design-OG-Fliesenlegermeister-1038692762863032",
+    "adresse": "Susanne-Schmieda-Gasse 6/1/11",
+    "bauplatz": "J8",
+    "latlng": [48.22622,16.50192],
+    "oeffnungszeiten": {
+      "mo": ["07:00","16:30"],
+      "di": ["07:00","16:30"],
+      "mi": ["07:00","16:30"],
+      "do": ["07:00","16:30"],
+      "fr": ["07:00","16:30"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }
