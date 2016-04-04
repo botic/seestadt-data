@@ -302,7 +302,7 @@
   },
   "koerperwerk": {
     "name": "Körperwerk Seestadt e.U.",
-    "beschreibung": "Massagen, Pediküren, Maniküren, Harzen and more",
+    "beschreibung": "Massagen, Fußpflege, Pediküren, Maniküren, Harzen and more",
     "UID": "ATU69416535",
     "web": "http://www.koerperwerk-seestadt.at/",
     "facebook": "koerperwerkseestadt",
@@ -455,7 +455,7 @@
   },
   "follow_beauty": {
     "name": "Follow Beauty",
-    "beschreibung": "Atelier Briant Rokyta. Kunstworkshops und Kunsttherapie.",
+    "beschreibung": "Atelier Briant Rokyta. Bilder, Skulpturen, Kunstworkshops und Kunsttherapie.",
     "adresse": "Maria-Tusch-Straße 8/1/43",
     "bauplatz": "D13B",
     "latlng": [48.22430,16.49970],
