@@ -624,10 +624,10 @@
     "email": "office@ihrenergiewechsler.at",
     "facebook": "IhrEnergiewechsler",
     "web": "http://www.ihrenergiewechsler.at/",
-    "tel": "0677/612 641 51",
+    "tel": "+43 677 612 641 51",
     "adresse": "Ilse-Arlt-Strasse 7/5",
     "bauplatz": "D8",
-    "latlng": "48.22494,16.49845",
+    "latlng": [48.22494, 16.49845],
     "oeffnungszeiten": {
       "mo": ["09:00","17:00"],
       "di": ["09:00","17:00"],
