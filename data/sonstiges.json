@@ -638,5 +638,14 @@
       "so": [],
       "ft": []
     }
+  },
+  "goins-kuehn": {
+    "name": "GONIS-Beraterin Veronika Kühn",
+    "beschreibung": "Gonis bietet schöne Produkte und inspirierende Ideen für ein persönliches Zuhause. Dekoration für Drinnen und Draußen, einzigartige Geschenke und tolles Malspielzeug für Kinder, mit den Produkten von GONIS können Sie sich kreativ entfalten.",
+    "adresse": "Maria-Tusch-Straße 31/9/8",
+    "bauplatz": "J2",
+    "telefon": "+43 699 12 12 61 93",
+    "email": "veronika@familiekuehn.at",
+    "web": "http://veronika.kuehn.gonis.at"
   }
 }
