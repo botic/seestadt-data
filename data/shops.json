@@ -583,5 +583,27 @@
       "so": [],
       "ft": []
     }
+  },
+  "simshot": {
+    "name": "SiMshot",
+    "beschreibung": "Fotografiestudio. Photo to go, Passbilder, Business Photo, Fotoshooting, Ausarbeitung, Geschenke, Wedding, Report, 360°, uvm.",
+    "web": "http://www.simshot.at",
+    "tel": "+43 660 265 55 00",
+    "email": "fotografie@simshot.at",
+    "facebook": "SIMSHOTfotografie",
+    "adresse": "Maria-Tusch-Straße 6/1E",
+    "bauplatz": "D12",
+    "latlng": [48.22447,16.49875],
+    "oeffnungszeiten": {
+      "mo": ["09:00","18:00"],
+      "di": ["09:00","18:00"],
+      "mi": ["09:00","18:00"],
+      "do": ["09:00","18:00"],
+      "fr": ["09:00","18:00"],
+      "sa": ["10:00","13:00"],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Termine ausserhalb der Öffnugnszeiten auf Anfrage möglich"
+    }
   }
 }

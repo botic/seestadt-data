@@ -644,8 +644,19 @@
     "beschreibung": "Gonis bietet schöne Produkte und inspirierende Ideen für ein persönliches Zuhause. Dekoration für Drinnen und Draußen, einzigartige Geschenke und tolles Malspielzeug für Kinder, mit den Produkten von GONIS können Sie sich kreativ entfalten.",
     "adresse": "Maria-Tusch-Straße 31/9/8",
     "bauplatz": "J2",
+    "latlng": [48.22618,16.50276],
     "tel": "+43 699 12 12 61 93",
     "email": "veronika@familiekuehn.at",
     "web": "http://veronika.kuehn.gonis.at"
+  },
+  "jrsoftware": {
+    "name": "JR Software",
+    "beschreibung": "Entwicklung von Java/Scala und Web Applikation sowie Beratung für UC4/Automic One Automation.",
+    "tel": "+43 699 10745760",
+    "web": "http://www.ferbinder.com/",
+    "email": "iulian.radu@gmx.at",
+    "adresse": "Susanne-Schmida-Gasse 3/9/5",
+    "bauplatz": "J9",
+    "latlng": [48.22618,16.50276]
   }
 }
