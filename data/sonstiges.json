@@ -658,5 +658,14 @@
     "adresse": "Susanne-Schmida-Gasse 3/9/5",
     "bauplatz": "J9",
     "latlng": [48.22618,16.50276]
+  },
+  "bueroservicenoschiel": {
+    "name": "Büroservice Katja Noschiel",
+    "beschreibung": "Büroservice, mobile Assistenz- und Sekretariatsdienste unterwegs.",
+    "tel": "+43 699 181 655 22",
+    "email": "katja.noschiel@chello.at",
+    "adresse": "Susanne-Schmida-Gasse 5/8/30",
+    "bauplatz": "J9",
+    "latlng": [48.22618,16.50276]
   }
 }
