@@ -667,5 +667,25 @@
     "adresse": "Susanne-Schmida-Gasse 5/8/30",
     "bauplatz": "J9",
     "latlng": [48.22618,16.50276]
+  },
+  "polizei": {
+    "name": "Polizeiinspektion Seestadt",
+    "beschreibung": "Wachzimmer der Polizei in der Seestadt",
+    "tel": "133",
+    "email": "LPD-W@polizei.gv.at",
+    "web": "http://polizei.gv.at",
+    "adresse": "Sonnenallee 33, Wien, Österreich",
+    "bauplatz": "D10",
+    "latlng": [48.224297,16.5023924]
+    "oeffnungszeiten": {
+      "mo": ["00:00","24:00"],
+      "di": ["00:00","24:00"],
+      "mi": ["00:00","24:00"],
+      "do": ["00:00","24:00"],
+      "fr": ["00:00","24:00"],
+      "sa": ["00:00","24:00"],
+      "so": ["00:00","24:00"],
+      "ft": ["00:00","24:00"]
+    }
   }
 }
