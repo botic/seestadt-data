@@ -667,5 +667,14 @@
     "adresse": "Susanne-Schmida-Gasse 5/8/30",
     "bauplatz": "J9",
     "latlng": [48.22618,16.50276]
+  },
+  "polizei": {
+    "name": "Polizeiinspektion",
+    "tel": "+43 1 31 310 66341",
+    "email": "PI-W-22-Sonnenallee@polizei.gv.at",
+    "web": "http://www.polizei.gv.at/wien/lpd/dst/dienststellen.aspx?org=594B3541457A6D6F4A55453D",
+    "adresse": "Sonnenallee 33",
+    "bauplatz": "D10",
+    "latlng": [48.224334,16.503186]
   }
 }
