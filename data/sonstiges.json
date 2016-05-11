@@ -676,5 +676,23 @@
     "adresse": "Sonnenallee 33",
     "bauplatz": "D10",
     "latlng": [48.224334,16.503186]
+  },
+  "alucars": {
+    "name": "Alucars e.U.",
+    "beschreibung": "Einzelhandel mit KFZ-Bestandteilen, KFZ-Zubehör, Handelsagent",
+    "adresse": "Hannah-Arendt-Platz 2/c2/8",
+    "email": "office@alucars.at",
+    "web": "http://www.alucars.at/",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }
