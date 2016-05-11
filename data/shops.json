@@ -614,7 +614,7 @@
     "tel": "+43 699 192 11 775",
     "adresse": "Maria-Tusch-Straße 8/5",
     "bauplatz": "D13B",
-    "latlng": ["10:00","17:00"],
+    "latlng": [48.224408,16.499432],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["10:00","17:00"],
