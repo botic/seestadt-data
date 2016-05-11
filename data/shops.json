@@ -605,5 +605,25 @@
       "ft": [],
       "bemerkung": "Termine ausserhalb der Öffnugnszeiten auf Anfrage möglich"
     }
+  },
+  "schuhmacherwerkstatt": {
+    "name": "Schuhmachermeister Asghar Hashemi",
+    "beschreibung": "Schuhe nach Maß, Service und Reparaturen, Lederwaren und Zubehör",
+    "web": "http://www.hashemi.at/",
+    "email": "asghar@hashemi.at",
+    "tel": "+43 699 192 11 775",
+    "adresse": "Maria-Tusch-Straße 8/5",
+    "bauplatz": "D13B",
+    "latlng": ["10:00","17:00"],
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": ["10:00","17:00"],
+      "mi": ["10:00","19:00"],
+      "do": ["10:00","17:00"],
+      "fr": ["10:00","17:00"],
+      "sa": ["10:00","17:00"],
+      "so": [],
+      "ft": []
+    }
   }
 }
