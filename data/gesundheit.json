@@ -53,6 +53,28 @@
     "tel": "+43 650 2859537",
     "email": "karl@eigel.at"
   },
+  "eigel_praxis_seestadt": {
+    "name": "Ing. Karl Eigel - Praxis Seestadt",
+    "beschreibung": "Psychotherapeut in Ausbildung unter Supervision und eingetragener Mediator",
+    "adresse": "Mimi-Grossberg-Gasse 11/312",
+    "bauplatz": "D8",
+    "latlng": [48.22508,16.49929],
+    "facebook": "PsychotherapieAspern",
+    "web": "http://www.praxis-seestadt.at/",
+    "tel": "+43 681 1085 2258",
+    "email": "karl@eigel.at",
+    "oeffnungszeiten": {
+      "bemerkung": "Nach individueller Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
   "psychotherapie_wambach": {
     "name": "Psychotherapie DDr. Anton Wambach",
     "beschreibung": "Psychotherapeut in Ausbildung unter Supervision",
