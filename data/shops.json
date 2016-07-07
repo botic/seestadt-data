@@ -625,5 +625,17 @@
       "so": [],
       "ft": []
     }
+  },
+  "daisychainoddities": {
+    "name": "daisy chain oddities e.U.",
+    "beschreibung": "Onlineshop für nachhaltiges, handgemachtes Heimdekor für Nerds",
+    "web": "http://www.daisychainoddities.com",
+    "email": "daisy@daisychainoddities.com",
+    "facebook": "DaisyChainOddities",
+    "twitter": "dc_oddities",
+    "tel": "+43 660 8425917",
+    "adresse": "Gisela-Legath-Gasse 5/1a",
+    "bauplatz": "D13E",
+    "latlng": [48.22353,16.49957]
   }
 }
