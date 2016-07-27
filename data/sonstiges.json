@@ -694,5 +694,24 @@
       "so": [],
       "ft": []
     }
+  },
+  "campussportflaechen": {
+    "name": "Sportflächen Bildungscampus",
+    "beschreibung": "Fußball- und Basketballplatz, Volleyball-Netze.",
+    "web": "http://campus-seestadt.at",
+    "tel": "+43 676 811856491",
+    "adresse": "Hannah-Arendt-Platz 8",
+    "bauplatz": "D18A",
+    "latlng": [48.222465,16.499901],
+    "oeffnungszeiten": {
+      "mo": ["18:00","21:00"],
+      "di": ["18:00","21:00"],
+      "mi": ["18:00","21:00"],
+      "do": ["18:00","21:00"],
+      "fr": ["18:00","21:00"],
+      "sa": ["10:00","12:00"],
+      "so": ["10:00","12:00"],
+      "ft": ["10:00","12:00"]
+    }
   }
 }
