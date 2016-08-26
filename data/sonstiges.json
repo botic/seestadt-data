@@ -713,14 +713,5 @@
       "so": ["10:00","12:00"],
       "ft": ["10:00","12:00"]
     }
-  },
-  "hebammewimmer": {
-    "name": "Hebamme Simone Wimmer, BSc",
-    "beschreibung": "Hausbesuche in der Schwangerschaft und im Wochenbett, Stillberatung, Babymassage.",
-    "tel": "+43 699 171 33 982",
-    "email": "simonewimmer132@gmail.com",
-    "adresse": "Hannah-Arendt-Platz 9",
-    "latlng": [48.223654, 16.500002],
-    "bauplatz": "D13D"
   }
 }
