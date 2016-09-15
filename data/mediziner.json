@@ -74,14 +74,15 @@
     "bauplatz": "D10",
     "latlng": [48.22494,16.50219],
     "oeffnungszeiten": {
-      "mo": ["12:00","19:00"],
-      "di": ["08:00","11:00", "14:00","18:00"],
+      "mo": ["09:00","12:00", "15:00","19:00"],
+      "di": ["08:00","13:00"],
       "mi": ["08:00","11:00"],
       "do": ["14:00","19:00"],
       "fr": ["08:00","11:00"],
       "sa": [],
       "so": [],
-      "ft": []
+      "ft": [],
+      "bemerkung": "Einlass 15 Minuten vor Ordinationsbeginn, Annahmeschluss 15 Minuten vor Ordinationsende."
     }
   },
   "allgemeinmedizin_hadrigan": {
