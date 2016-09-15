@@ -275,5 +275,15 @@
     "adresse": "Hannah-Arendt-Platz 9",
     "latlng": [48.223654, 16.500002],
     "bauplatz": "D13D"
-  }
+  },
+  "psychotherapie_genewein": {
+    "name": "Psychotherapeutin i.A. Mag.a Daniela Genewein",
+    "beschreibung": "Psychotherapeutin in Ausbildung unter Supervision, Klinische- und Gesundheitspsychologin",
+    "adresse": "Mimi-Grossberg-Gasse 11/312",
+    "bauplatz": "D8",
+    "latlng": [48.22508,16.49929],
+    "web": "http://www.daniela-genewein.at/",
+    "tel": "+43 677 619 908 60",
+    "email": "d.genewein@gmail.com"
+  },
 }
