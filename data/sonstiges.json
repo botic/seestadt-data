@@ -20,7 +20,7 @@
   },
   "websafari": {
     "name": "websafari",
-    "UID": "ATU67032659",
+    "uid": "ATU67032659",
     "web": "http://www.websafari.co/",
     "email": "office@websafari.co",
     "tel": "+43 699 160 71 200",
@@ -30,7 +30,7 @@
   },
   "interlink": {
     "name": "interlink marketing e.U.",
-    "UID": "ATU63440057",
+    "uid": "ATU63440057",
     "beschreibung": "Dienstleistungen im Bereichen Positionierung, Marketing, Kommunikation, Werbung.",
     "web": "http://interlinkmarketing.at/",
     "email": "oladejo@interlinkmarketing.at",
@@ -40,7 +40,7 @@
   },
   "weiss_linguistic_services": {
     "name": "Jacqueline Weiß, M.A. - Linguistic Services",
-    "UID": "ATU69264707",
+    "uid": "ATU69264707",
     "beschreibung": "Fachübersetzungen, Lektorat & Korrektorat, Sprachkurse.",
     "web": "http://www.weiss-linguistic-services.eu/",
     "email": "office@weiss-linguistic-services.eu",
@@ -50,7 +50,7 @@
   },
   "attensam": {
     "name": "Attensam Seestadt Aspern",
-    "UID": "ATU62042916",
+    "uid": "ATU62042916",
     "beschreibung": "Montage-, Reparatur-, Maler-Arbeiten",
     "web": "https://www.attensam.at/standorte/attensam-seestadt-aspern/",
     "tel": "+43 676 8206 3420",
@@ -222,7 +222,7 @@
     "tel": "+43 676 92 59 248",
     "email": "sales@rsnet.at",
     "web": "http://www.rsnet.at/",
-    "UID": "ATU62680101",
+    "uid": "ATU62680101",
     "adresse": "Janis-Joplin-Promenade 8/6/2",
     "bauplatz": "J2",
     "latlng": [48.22653,16.50429]
@@ -239,7 +239,7 @@
   "raetselfabrik": {
     "name": "Rätselfabrik",
     "beschreibung": "Rätselring-Zeitschriften, Herausgeber Bernhard Franz Verlags-GmbH.",
-    "UID": "ATU62478633",
+    "uid": "ATU62478633",
     "email": "office@raetselfabrik.at",
     "tel": "+43 676 468 4115",
     "web": "http://raetselfabrik.at/",
@@ -251,7 +251,7 @@
     "name": "sonic-vision.TV",
     "beschreibung": "Tontechnik-Ausbildung, E-Learning Plattform für Tontechnik und Musikproduktion",
     "web": "http://www.sonic-vision.tv",
-    "UID": "ATU64683667",
+    "uid": "ATU64683667",
     "email": "info@sonic-vision.tv",
     "tel": "+43 1 9692375",
     "adresse": "Gisela-Legath-Gasse 5/1",
@@ -261,7 +261,7 @@
   "audio_boutique": {
     "name": "Audio Boutique",
     "beschreibung": "Online Versandhandel für Musikinstrumente und Zubehör",
-    "UID": "ATU40803706",
+    "uid": "ATU40803706",
     "email": "sales@audio-boutique.com",
     "tel": "+43 1293 60 25",
     "web": "https://www.audio-boutique.com",
@@ -329,7 +329,7 @@
   "kps_krassnitzer": {
     "name": "KPS Krassnitzer Physical Security",
     "beschreibung": "Alarmanlagen, Brandmeldeanlagen, Videoüberwachung, Zutrittssysteme, Infotainment und Digital Signage.",
-    "UID": "ATU42777303",
+    "uid": "ATU42777303",
     "web": "http://www.krassnitzer.at/",
     "facebook": "KrassnitzerKPS",
     "tel": "+43 676 78 69 000",
@@ -362,7 +362,7 @@
   "mediadrom": {
     "name": "Mediadrom",
     "beschreibung": "Elektronische Vermarktung von Medienprodukten",
-    "UID": "ATU67654512",
+    "uid": "ATU67654512",
     "web": "http://mediadrom.eu",
     "email": "johann.neuhold@mediadrom.eu",
     "tel": "+43 699 15059189",
@@ -373,7 +373,7 @@
   "misbela": {
     "name": "Misbela",
     "beschreibung": "Onlinestore für Funktionsunterwäsche",
-    "UID": "ATU68173488",
+    "uid": "ATU68173488",
     "web": "http://www.misbela.com",
     "email": "info@misbela.com",
     "tel": "+43 660 3858 479",
@@ -415,7 +415,7 @@
   "bkst": {
     "name": "BKST Systemtechnik",
     "beschreibung": "BKST liefert Konstruktionen und Maschinen gemäß Kundenwunsch für den Maschinen- und Anlagenbau, sowie für die Automatisierung",
-    "UID": "ATU62700214",
+    "uid": "ATU62700214",
     "email": "bk@bkst.at",
     "web": "http://bkst.at",
     "tel": "+43 676 44 54 321",
@@ -426,7 +426,7 @@
   "rawtation": {
     "name": "RAWTATION",
     "beschreibung": "Editor, Filmmaker, Digital Media",
-    "UID": "ATU70029079",
+    "uid": "ATU70029079",
     "web": "http://rawtation.com",
     "email": "manuel.lindinger@gmx.at",
     "tel": "+43 664 2647 094",
@@ -437,7 +437,7 @@
   "grafik_design_neumayr": {
     "name": "Madelaine Neumayr - Grafik Design",
     "beschreibung": "Werbegrafik, Designer",
-    "UID": "ATU68549859",
+    "uid": "ATU68549859",
     "web": "http://www.madelaine.at",
     "email": "mail@madelaine.at",
     "tel": "+43 699 12 04 22 64",
@@ -459,7 +459,7 @@
   "abix": {
     "name": "Abix - Austrian Bit Experts",
     "beschreibung": "Software tools solutions for the embedded system markets",
-    "UID": "ATU67890008",
+    "uid": "ATU67890008",
     "web": "http://www.a-bix.com",
     "email": "info@a-bix.com",
     "adresse": "Seestadtstraße 27/18",
@@ -479,7 +479,7 @@
   "comdata": {
     "name": "COM Data - Systemhaus",
     "beschreibung": "Anbieter für Infrastruktur, Betreiber von Infrastruktur, Computer Aided Design, Computeranimation, Computerintegrated Manufaktoring, Datenerfassung, Elektronischer Datenaustausch, Geschäftsprozessoptimierung, Internet Services, Outsourcing, Projektmanagement, Training, Virenschutz",
-    "UID": "ATU69253728",
+    "uid": "ATU69253728",
     "web": "http://www.comdata.at",
     "email": "office@comdata.at",
     "tel": "+43 1 7746655 0",
@@ -490,7 +490,7 @@
   "eurodata": {
     "name": "eurodata IT Solutions",
     "beschreibung": "elektronische Archivierung, eBilling, Datenfernverarbeitung, Elektronischer Datenaustausch, Finanz- und Rechnungswesen, Internet Services, Managementinformationssysteme, Service Providing/Dienstanbietung, Elektronischer Zahlungsverkehr / Elektronische Rechnung",
-    "UID": "ATU16065709",
+    "uid": "ATU16065709",
     "web": "http://www.eurodata.co.at",
     "email": "office@eurodata.co.at",
     "tel": "+43 1 7747073 0",
@@ -501,7 +501,7 @@
   "headspice": {
     "name": "headspice engineering",
     "beschreibung": "Seminare, Konferenzen und Tagungen zu Themen aus den Fachbereichen Umweltschutz, Informationstechnologie, Abfall- und Wasserwirtschaft, chemische Analytik, Bautechnik, Qualitätsmanagement und Korrosionsschutz",
-    "UID": "ATU65359168",
+    "uid": "ATU65359168",
     "web": "http://headspice.com",
     "tel": "+43 676 9671363",
     "email": "office@headspice.com",
@@ -512,7 +512,7 @@
   "dfsolar": {
     "name": "3F SOLAR",
     "beschreibung": "Hybridtechnologie, Bauleitung Solaranlagen, Individuelle Energiekonzepte, Spezialanwendungen",
-    "UID": "ATU67345116",
+    "uid": "ATU67345116",
     "email": "office@3f-solar.at",
     "web": "http://www.3f-solar.at",
     "tel": "+43 1 585 01 78",
@@ -523,7 +523,7 @@
   "researchtub": {
     "name": "researchTUb",
     "beschreibung": "Forschung und Entwicklung für mechatronischen Fertigungssystemen, Engeriemonitoring-Systeme, Industrieroboterlösungen, uvm.",
-    "UID": "ATU65159268",
+    "uid": "ATU65159268",
     "web": "http://www.researchtub.at",
     "email": "info@researchtub.at",
     "tel": "+43 1 77 402 74 50",
@@ -534,7 +534,7 @@
   "theobroma": {
     "name": "Theobroma Systems Design und Consulting",
     "beschreibung": "Solutions for embedded systems, IP for Smart Energy/Home Automation, Identification, and Secure Communication",
-    "UID": "ATU68341118",
+    "uid": "ATU68341118",
     "web": "http://www.theobroma-systems.com/",
     "email": "inquiries@theobroma-systems.com",
     "tel": "+43 1 2369893 0",
@@ -545,7 +545,7 @@
   "wien3420": {
     "name": "Wien 3420 Aspern Development AG",
     "beschreibung": "Entwicklungsgesellschaft der Seestadt Aspern. Akquisition von Partnern, Verwertung von Flächen, Standortmarketing und -branding, städtebauliche Planung, infrastrukturelle Erschließung",
-    "UID": "ATU61631559",
+    "uid": "ATU61631559",
     "web": "http://www.wien3420.at",
     "tel": "+43 1 774 02 74",
     "email": "office@wien3420.at",
@@ -556,7 +556,7 @@
   "koenigskinder": {
     "name": "KönigsKinder",
     "beschreibung": "Ein Netzwerkzentrum für Eltern und Kinder. Kurse, Café, Shop",
-    "UID": "ATU68750256",
+    "uid": "ATU68750256",
     "web": "http://www.koenigskinder.at/",
     "facebook": "koenigskinder.wien",
     "instagram": "koenigskinder_wien",

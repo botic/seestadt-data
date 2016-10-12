@@ -55,7 +55,7 @@
   },
   "apotheke": {
     "name": "Seestadt Apotheke",
-    "UID": "ATU68590866",
+    "uid": "ATU68590866",
     "tel": "+43 1 2106984",
     "email": "office@seestadt-apotheke.at",
     "web": "http://seestadt-apotheke.at",
@@ -82,7 +82,7 @@
     "email": "buchhandlung@seeseiten.at",
     "web": "http://www.seeseiten.at",
     "facebook": "seeseiten",
-    "UID": "ATU69514518",
+    "uid": "ATU69514518",
     "bauplatz": "J2",
     "latlng": [48.22416,16.50031],
     "adresse": "Janis-Joplin-Promenade 6/5/1",
@@ -243,7 +243,7 @@
   "candyshop": {
     "name": "Candy Shop Seestadt",
     "beschreibung": "Amerikanische Produkte, große Auswahl an Fruchtgummies, Handgemachte Bonbons, Geschenkartikeln, uvm",
-    "UID": "ATU69101303",
+    "uid": "ATU69101303",
     "email": "candyshop.seestadt@gmx.at",
     "facebook": "candyshop.seestadt",
     "tel": "+43 1 2807113",
@@ -303,7 +303,7 @@
   "koerperwerk": {
     "name": "Körperwerk Seestadt e.U.",
     "beschreibung": "Massagen, Fußpflege, Pediküren, Maniküren, Harzen and more",
-    "UID": "ATU69416535",
+    "uid": "ATU69416535",
     "web": "http://www.koerperwerk-seestadt.at/",
     "facebook": "koerperwerkseestadt",
     "tel": "+43 699 11300174",
@@ -349,7 +349,7 @@
     "facebook": "KunstundKeramik",
     "email": "bw@kunst-keramik.at",
     "tel": "+43 699 195 46 512",
-    "UID": "ATU56657718",
+    "uid": "ATU56657718",
     "adresse": "Maria Tusch Straße 8/1",
     "bauplatz": "D13B",
     "latlng": [48.22428,16.49983],
@@ -375,7 +375,7 @@
     "bauplatz": "D13B",
     "latlng": [48.22431,16.49965],
     "tel": "+43 660 2541000",
-    "UID": "ATU62553711",
+    "uid": "ATU62553711",
     "oeffnungszeiten": {
       "mo": ["14:00","19:00"],
       "di": ["14:00","19:00"],
@@ -394,7 +394,7 @@
     "adresse": "Maria Tusch-Straße 8/6",
     "bauplatz": "D13B",
     "latlng": [48.22424,16.49997],
-    "UID": "ATU50738509",
+    "uid": "ATU50738509",
     "email": "mail@12er.at",
     "tel": "+43 676 4204112",
     "oeffnungszeiten": {
@@ -419,7 +419,7 @@
     "adresse": "Mimi-Grossberg-Gasse 11/301",
     "bauplatz": "D8",
     "latlng": [48.22527,16.49944],
-    "UID": "ATU38290602",
+    "uid": "ATU38290602",
     "oeffnungszeiten": {
       "mo": ["09:00","17:00"],
       "di": ["09:00","17:00"],
