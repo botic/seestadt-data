@@ -637,5 +637,12 @@
       "ft": [],
       "bemerkung": "Planungstermine nach Vereinbarung auch außerhalb der Öffnungszeiten und / oder Sonn-, & Feiertags."
     }
+  },
+  "organiclifestyle": {
+    "name": "Organic Lifestyle",
+    "beschreibung": "Kosmetikgeschäft",
+    "adresse": "Maria-Tusch-Straße 6",
+    "bauplatz": "D12",
+    "latlng": [48.224543, 16.498598]
   }
 }
