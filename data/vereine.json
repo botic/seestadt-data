@@ -1,0 +1,25 @@
+{
+  "zlseestadt": {
+    "name": "ZLS - ZusammenLebenSeestadt",
+    "beschreibung": "Verein zur Förderung der Nachbarschaft in der Seestadt.",
+    "tags": [],
+    "facebook": "ZusammenLebenSeestadt",
+    "web": "http://www.zusammenlebenseestadt.at",
+    "email": "info@zusammenlebenseestadt.at",
+    "zvr": "076722629",
+    "adresse": "Hermine-Dasovsky-Platz 1/35",
+    "bauplatz": "D4",
+    "latlng": [48.225033, 16.499813]
+  },
+  "gemeinschaftsgartendora": {
+    "name": "Gemeinschaftsgarten Madame d’Ora",
+    "beschreibung": "Der Garten befindet sich im Madame D’ora Park. Er verläuft parallel zur Gisela-Legath-Gasse, zwischen Gisela-Legath-Gasse und Anna-Müller-Gasse.",
+    "tags": [],
+    "web": "http://gg-dora.at/",
+    "email": "vorstand@gg-dora.at",
+    "zvr": "349428653",
+    "adresse": "Hermine-Dasovsky-Platz 1/35",
+    "bauplatz": "D4",
+    "latlng": [48.225033, 16.499813]
+  }
+}
