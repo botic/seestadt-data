@@ -717,7 +717,7 @@
   "caeconsulting": {
     "name": "CAE Consulting Prochaska",
     "beschreibung": "Schulungen und Support für 3D CAD SolidWorks, Beratung bei Finite Elemente (FEM) und Strömungsberechungen (CFD).",
-    "mail": "cae@aon.at",
+    "email": "cae@aon.at",
     "tel": "+43 6991 9666 891",
     "adresse": "Hannah-Arendt-Platz 9/2",
     "bauplatz": "D13D",
