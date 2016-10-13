@@ -718,9 +718,20 @@
     "name": "CAE Consulting Prochaska",
     "beschreibung": "Schulungen und Support für 3D CAD SolidWorks, Beratung bei Finite Elemente (FEM) und Strömungsberechungen (CFD).",
     "email": "cae@aon.at",
-    "tel": "+43 6991 9666 891",
+    "tel": "+43 699 19 666 891",
     "adresse": "Hannah-Arendt-Platz 9/2",
     "bauplatz": "D13D",
     "latlng": [48.22365,16.50007]
+  },
+  "feelgoodhotel": {
+    "name": "Hotel FeelGood Vienna",
+    "beschreibung": "Aparthotel in der Seestadt, persönlich & Nachhaltig Wohnen.",
+    "tags": ["hotel", "apartments"],
+    "email": "office@feelgoodvienna.at",
+    "tel": "+43 676 33 888 33",
+    "facebook": "hotelfeelgoodvienna",
+    "adresse": "Mimi-Grossberg-Gasse 4",
+    "bauplatz": "D13A",
+    "latlng": [48.223884, 16.499049]
   }
 }
