@@ -430,8 +430,8 @@
       "ft": []
     }
   },
-  "follow_beauty": {
-    "name": "Follow Beauty",
+  "permanentcreation": {
+    "name": "Permanent Creation",
     "beschreibung": "Atelier Briant Rokyta. Bilder, Skulpturen, Kunstworkshops und Kunsttherapie.",
     "adresse": "Maria-Tusch-Straße 8/1/43",
     "bauplatz": "D13B",
@@ -439,6 +439,9 @@
     "tel": "+43 676 540 75 96",
     "email": "briantrokyta@gmail.com",
     "web": "http://www.briantrokyta.com",
+    "facebook": "briant.rokyta",
+    "twitter": "briantrokyta",
+    "instagram": "briantrokyta",
     "oeffnungszeiten": {
       "bemerkung": "Ersten Samstag im Monat Kunstworkshops, Kunsttherapie nach Vereinbarung.",
       "mo": [],
