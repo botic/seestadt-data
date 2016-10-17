@@ -75,16 +75,6 @@
       "ft": []
     }
   },
-  "psychotherapie_wambach": {
-    "name": "Psychotherapie DDr. Anton Wambach",
-    "beschreibung": "Psychotherapeut in Ausbildung unter Supervision",
-    "adresse": "Mimi-Grossberg-Gasse 11/312",
-    "bauplatz": "D8",
-    "latlng": [48.22508,16.49929],
-    "web": "http://psythera-at.webnode.at",
-    "email": "anton.wambach@yahoo.com",
-    "tel": "+43 680 24 64 716"
-  },
   "psychotherapie_steiner": {
     "name": "Psychotherapie Gerhard Steiner, MSc",
     "beschreibung": "Psychotherapie, Paartherapie, Familientherapie, Therapie mit Jugendlichen, Elternberatung, Lebensberatung, Coaching",
