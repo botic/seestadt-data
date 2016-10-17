@@ -734,5 +734,25 @@
     "adresse": "Mimi-Grossberg-Gasse 4",
     "bauplatz": "D13A",
     "latlng": [48.223884, 16.499049]
+  },
+  "realitylab": {
+    "name": "realitylab",
+    "beschreibung": "Begleitung von sozialen Prozessen im Wohnbau. Unterstützung von Baugruppen und Bewohnergemeinschaften bei der Selbstorganisation. Soziale Nachhaltigkeit im Wohnbau. Moderationen.",
+    "adresse": "Gisela-Legath-Gasse 5/1",
+    "bauplatz": "D13",
+    "tel": "+43 1 9962015",
+    "email": "office@realitylab.at",
+    "web": "http://www.realitylab.at",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Bitte um Kontaktaufnahme per Telefon oder E-Mail."
+    }
   }
 }
