@@ -28,5 +28,16 @@
     "web": "http://www.vlma.at/",
 	"email": "office@vlma.at",
 	"zvr": "082817432"
+  },
+  "seelab": {
+	"name": "SeeLab",
+	"beschreibung": "Medienkunstkollektiv SeeLab. Projektträger: mO – Verein zur Förderung von Medienkunst",
+	"web": "http://www.seelab.wien",
+	"facebook": "seelabvienna",
+	"email": "info@seelab.wien",
+	"adresse": "Seestadtstraße 27/17",
+	"bauplatz": "C4",
+	"latlng": [48.22344,16.50957],
+	"zvr": "30197707"
   }
 }
