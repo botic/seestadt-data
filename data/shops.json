@@ -567,6 +567,7 @@
   "simshot": {
     "name": "SiMshot",
     "beschreibung": "Fotostudio",
+	"uid": "ATU71305134",
     "web": "http://www.simshot.at",
     "tel": "+43 660 265 55 00",
     "email": "fotografie@simshot.at",
@@ -589,8 +590,10 @@
   "schuhmacherwerkstatt": {
     "name": "Schuhmachermeister Asghar Hashemi",
     "beschreibung": "Schuhe nach Maß, Service und Reparaturen, Lederwaren und Zubehör",
+	"uid": "ATU68894404",
     "web": "http://www.hashemi.at/",
     "email": "asghar@hashemi.at",
+	"facebook": "hashemi.at",
     "tel": "+43 699 192 11 775",
     "adresse": "Maria-Tusch-Straße 8/5",
     "bauplatz": "D13B",
@@ -621,6 +624,7 @@
   "kwsseestadtkueche": {
     "name": "Seestadt Küche & Wohnen",
     "beschreibung": "KWS Küchen & Möbel GmbH. Alles aus dem Bereich Wohnen: Küchen, Vorzimmer, Wohnzimmer, Schlafzimmer, Badezimmer.",
+	"uid": "ATU70730435",
     "web": "http://www.kueche-seestadt.at",
     "email": "office@kueche-seestadt.at",
     "facebook": "seestadtkueche",
@@ -643,6 +647,7 @@
   "organiclifestyle": {
     "name": "Organic Lifestyle",
     "beschreibung": "Bio-Kosmetik für Kinder und Erwachsene, Bio-Pflegeprodukte für das Haus, Bio-Produkte vom Bauernhof",
+	"uid": "ATU71104618",
 	"email": "organic.lifestyle.wien@gmail.com",
 	"facebook": "Organic-Lifestyle-830377093765108",
 	"tel": "+43 0660 6517861",
@@ -693,8 +698,8 @@
       "mi": ["09:00","18:00"],
       "do": ["09:00","18:00"],
       "fr": ["09:00","18:00"],
+      "sa": ["09:00","18:00"],
       "sa": ["10:00","17:00"],
-      "sa": [],
       "so": [],
       "ft": []
     }
