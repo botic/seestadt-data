@@ -650,7 +650,7 @@
     "bauplatz": "D12",
     "latlng": [48.224543, 16.498598],
     "oeffnungszeiten": {
-      "mo": [],
+      "mo": ["10:00","19:00"],
       "di": ["10:00","19:00"],
       "mi": ["10:00","19:00"],
       "do": ["10:00","19:00"],
@@ -659,5 +659,22 @@
       "so": [],
       "ft": []
     }
-  }
+  },
+  "dpd": {
+    "name": "DPD Pickup Paketshop Seestadt",
+    "beschreibung": "DPD Abholstelle, DPD Web Paket Annahme, Retourenannahme",
+    "adresse": "Maria-Tusch-Straße 11",
+    "bauplatz": "D9",
+    "latlng": [48.22460,16.49989],
+    "oeffnungszeiten": {
+      "mo": ["10:00","14:00","14:30","18:30"],
+      "di": ["10:00","14:00","14:30","18:30"],
+      "mi": ["10:00","14:00","14:30","18:30"],
+      "do": ["10:00","14:00","14:30","18:30"],
+      "fr": ["10:00","14:00","14:30","18:30"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
 }
