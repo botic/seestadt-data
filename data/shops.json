@@ -642,9 +642,22 @@
   },
   "organiclifestyle": {
     "name": "Organic Lifestyle",
-    "beschreibung": "Kosmetikgeschäft",
+    "beschreibung": "Bio-Kosmetik für Kinder und Erwachsene, Bio-Pflegeprodukte für das Haus, Bio-Produkte vom Bauernhof",
+	"email": "organic.lifestyle.wien@gmail.com",
+	"facebook": "Organic-Lifestyle-830377093765108",
+	"tel": "+43 0660 6517861",
     "adresse": "Maria-Tusch-Straße 6",
     "bauplatz": "D12",
-    "latlng": [48.224543, 16.498598]
+    "latlng": [48.224543, 16.498598],
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": ["10:00","19:00"],
+      "mi": ["10:00","19:00"],
+      "do": ["10:00","19:00"],
+      "fr": ["10:00","19:00"],
+      "sa": ["09:00","19:00"],
+      "so": [],
+      "ft": []
+    }
   }
 }
