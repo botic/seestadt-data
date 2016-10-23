@@ -756,14 +756,14 @@
     }
   },
   "seestadtradio": {
-	"name": "Seestadt Radio",
-	"beschreibung": "Seestadt Radio, Wien, Von Seestädter für Seestädter",
-	"web": "http://www.seestadtradio.at",
-	"facebook": "seestadtradio",
-	"tel": "+43 699 15083242",
-	"email": "info@seestadtradio.at",
-	"adresse": "Maria-Tusch-Straße 18/17",
-	"bauplatz": "D10",
-	"latlng": [48.22484,16.50213]
+    "name": "Seestadt Radio",
+    "beschreibung": "Seestadt Radio, Wien, Von Seestädter für Seestädter",
+    "web": "http://www.seestadtradio.at",
+    "facebook": "seestadtradio",
+    "tel": "+43 699 15083242",
+    "email": "info@seestadtradio.at",
+    "adresse": "Maria-Tusch-Straße 18/17",
+    "bauplatz": "D10",
+    "latlng": [48.22484,16.50213]
   }
 }
