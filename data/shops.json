@@ -241,23 +241,24 @@
     }
   },
   "candyshop": {
-    "name": "Candy Shop Seestadt",
-    "beschreibung": "Amerikanische Produkte, große Auswahl an Fruchtgummies, Handgemachte Bonbons, Geschenkartikeln, uvm",
+    "name": "Candy Shop",
+    "beschreibung": "Amerikanische Produkte, große Auswahl an Fruchtgummies, Handgemachte Bonbons, Geschenkartikeln, uvm.",
     "uid": "ATU69101303",
-    "email": "candyshop.seestadt@gmx.at",
+    "email": "office@candyshop.at",
     "tel": "+43 1 2807113",
+    "instagram": "candyshop.seestadt",
     "adresse": "Maria-Tusch-Strasse 7",
     "bauplatz": "D8",
     "latlng": [48.22489,16.49831],
     "oeffnungszeiten": {
-      "mo": ["10:30", "18:30"],
+      "mo": ["13:00", "19:00"],
       "di": [],
-      "mi": ["10:30", "18:30"],
-      "do": ["10:30", "18:30"],
-      "fr": ["10:30", "18:30"],
+      "mi": ["13:00", "19:00"],
+      "do": ["13:00", "19:00"],
+      "fr": ["13:00", "19:00"],
       "sa": ["10:30", "18:00"],
       "so": ["13:00", "18:00"],
-      "ft": []
+      "ft": ["13:00", "18:00"]
     }
   },
   "drbike": {
