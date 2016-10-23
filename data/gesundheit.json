@@ -275,5 +275,26 @@
     "web": "http://www.daniela-genewein.at/",
     "tel": "+43 677 619 908 60",
     "email": "d.genewein@gmail.com"
+  },
+  "fitmitmichi": {
+    "name": "Fit mit Michi",
+    "beschreibung": "Groupfitnesstraining, jederzeitiger Einstieg möglich, keine Anmeldung erforderlich, einfach vorbeikommen. Personaltraining nach Vereinbarung. Workshops.",
+    "adresse": "Gisela-Legath-Gasse 5 / Multifunktionsraum",
+    "bauplatz": "D13E",
+    "tel": "+43 664 383 45 12",
+    "email": "michi@fitmitmichi.at",
+    "web": "http://www.fitmitmichi.at",
+    "facebook": "Fit mit Michi und Michaela Mörth",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    },
+    "bemerkung": "Tagesaktueller Kursplan auf der Webseite. Im Kursraum Seestern, in der Seestadt, derzeit jeden Dienstag."
   }
 }
