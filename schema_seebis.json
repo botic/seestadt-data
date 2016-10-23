@@ -22,7 +22,8 @@
         },
         "beschreibung": {
           "type": "string",
-          "minLength": 5
+          "minLength": 5,
+          "maxLength": 240
         },
         "tags": {
           "type": "array",

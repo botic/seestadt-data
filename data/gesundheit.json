@@ -284,7 +284,7 @@
     "tel": "+43 664 383 45 12",
     "email": "michi@fitmitmichi.at",
     "web": "http://www.fitmitmichi.at",
-    "facebook": "Fit mit Michi und Michaela Mörth",
+    "facebook": "michaela.morth",
     "oeffnungszeiten": {
       "mo": [],
       "di": [],
@@ -293,8 +293,8 @@
       "fr": [],
       "sa": [],
       "so": [],
-      "ft": []
-    },
-    "bemerkung": "Tagesaktueller Kursplan auf der Webseite. Im Kursraum Seestern, in der Seestadt, derzeit jeden Dienstag."
+      "ft": [],
+      "bemerkung": "Tagesaktueller Kursplan auf der Webseite. Im Kursraum Seestern, in der Seestadt, derzeit jeden Dienstag."
+    }
   }
 }

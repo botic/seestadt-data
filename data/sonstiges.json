@@ -31,12 +31,26 @@
   "interlink": {
     "name": "interlink marketing e.U.",
     "uid": "ATU63440057",
-    "beschreibung": "Dienstleistungen im Bereichen Positionierung, Marketing, Kommunikation, Werbung.",
+    "beschreibung": "Die bodenständige Werbeagentur für Klein- und Mittelbetriebe. Dienstleistungen im Bereichen Positionierung, Marketing, Erstellen von Werbemitteln, Kommunikation, (suchmaschinenoptimierte) Texte, Werbung.",
+    "tel": "+43 660 408 79 75",
     "web": "http://interlinkmarketing.at/",
     "email": "oladejo@interlinkmarketing.at",
+    "facebook": "interlink.oladejo",
+    "twitter": "interlinkmarket",
     "adresse": "Maria-Tusch-Straße 6/16 A",
     "bauplatz": "D12",
-    "latlng": [48.22447,16.49863]
+    "latlng": [48.22447,16.49863],
+    "oeffnungszeiten": {
+      "mo": ["08:00", "16:30"],
+      "di": ["08:00", "16:30"],
+      "mi": ["08:00", "16:30"],
+      "do": ["08:00", "16:30"],
+      "fr": ["08:00", "16:30"],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Termine nach Vereinbarung"
+    }
   },
   "weiss_linguistic_services": {
     "name": "Jacqueline Weiß, M.A. - Linguistic Services",
@@ -478,7 +492,7 @@
   },
   "comdata": {
     "name": "COM Data - Systemhaus",
-    "beschreibung": "Anbieter für Infrastruktur, Betreiber von Infrastruktur, Computer Aided Design, Computeranimation, Computerintegrated Manufaktoring, Datenerfassung, Elektronischer Datenaustausch, Geschäftsprozessoptimierung, Internet Services, Outsourcing, Projektmanagement, Training, Virenschutz",
+    "beschreibung": "Anbieter und Betreiber von Infrastruktur, CAD, Computeranimation, Computerintegrated Manufaktoring, Datenerfassung, Elektronischer Datenaustausch, Geschäftsprozessoptimierung, Internet Services, Outsourcing, Projektmanagement.",
     "uid": "ATU69253728",
     "web": "http://www.comdata.at",
     "email": "office@comdata.at",
@@ -489,7 +503,7 @@
   },
   "eurodata": {
     "name": "eurodata IT Solutions",
-    "beschreibung": "elektronische Archivierung, eBilling, Datenfernverarbeitung, Elektronischer Datenaustausch, Finanz- und Rechnungswesen, Internet Services, Managementinformationssysteme, Service Providing/Dienstanbietung, Elektronischer Zahlungsverkehr / Elektronische Rechnung",
+    "beschreibung": "elektronische Archivierung, eBilling, Datenfernverarbeitung, Elektronischer Datenaustausch, Finanz- und Rechnungswesen, Internet Services, Managementinformationssysteme, Service Providing, Elektronischer Zahlungsverkehr und Rechnung.",
     "uid": "ATU16065709",
     "web": "http://www.eurodata.co.at",
     "email": "office@eurodata.co.at",
