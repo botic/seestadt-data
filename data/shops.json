@@ -590,7 +590,7 @@
   },
   "schuhmacherwerkstatt": {
     "name": "Schuhmachermeister Asghar Hashemi",
-    "beschreibung": "Schuhe nach Maß, Service und Reparaturen, Lederwaren und Zubehör",
+    "beschreibung": "Maßschuhe für Damen und Herren, Herstellung von Lederwaren (Hundeleinen, Gürtel, Geldbörsen, usw.), Schuhservice und Lederreparaturen",
     "uid": "ATU68894404",
     "web": "http://www.hashemi.at/",
     "email": "asghar@hashemi.at",
@@ -601,13 +601,14 @@
     "latlng": [48.224408,16.499432],
     "oeffnungszeiten": {
       "mo": [],
-      "di": ["10:00","17:00"],
-      "mi": ["10:00","19:00"],
-      "do": ["10:00","17:00"],
-      "fr": ["10:00","17:00"],
-      "sa": ["10:00","17:00"],
+      "di": ["10:00", "17:00"],
+      "mi": ["10:00", "19:00"],
+      "do": ["10:00", "17:00"],
+      "fr": ["10:00", "17:00"],
+      "sa": ["10:00", "15:00"],
       "so": [],
-      "ft": []
+      "ft": [],
+      "bemerkung": "Hausbesuche für Maßschuhe auf Anfrage"
     }
   },
   "daisychainoddities": {
