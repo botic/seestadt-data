@@ -1,7 +1,7 @@
 {
   "hno_woller": {
     "name": "HNO Dr. Eva Stadler-Woller",
-    "beschreibung": "Wahlärztin",
+    "beschreibung": "HNO-Fachärztin und Oberärztin im Donauspital, Private Wahlärztin und KFA",
     "tags": ["hno", "arzt", "privat", "wahlarzt", "hals", "nasen", "ohren"],
     "tel": "+43 660 49 10 666",
     "web": "http://hno22.at",
@@ -67,9 +67,10 @@
   },
   "allgemeinmedizin_maktari": {
     "name": "Allgemeinmedizin und Innere Medizin Dr. Adil Maktari",
-    "beschreibung": "Allgemeinmedizin (Kassenvertrag), Innere Medizin und Rheumatologie (Wahlarzt)",
+    "beschreibung": "Arzt für Allgemeinmedizin (Alle Kassen), Facharzt für Innere Medizin und Rheumatologie (Privater Wahlarzt)",
     "tags": ["arzt", "allgemein", "kassenvertrag", "krankenkasse", "privat", "wahlarzt", "innere", "rheumatologie"],
     "tel": "+43 1 210 69 20",
+    "email": "adil.maktari@chello.at",
     "adresse": "Maria-Tusch-Strasse 18/4/19",
     "bauplatz": "D10",
     "latlng": [48.22494,16.50219],
@@ -109,7 +110,7 @@
   },
   "allgemeinmedizin_teply": {
     "name": "Allgemeinmedizin, Anästhesiologie u. Intensivmedizin Dr. Elisabeth Teply",
-    "beschreibung": "Wahlärztin für Allgemeinmedizin, Anästhesiologie u. Intensivmedizin",
+    "beschreibung": "Wahlärztin für Allgemeinmedizin, Anästhesie und Intensivmedizin, Schmerztherapie, Notfallmedizin. Additivfach Geriatrie.",
     "tags": ["arzt", "anästhesiologie", "privat", "wahlarzt", "intensivmedizin"],
     "adresse": "Maria-Tusch-Straße 18/2/8",
     "tel": "+43 676 4313130",
@@ -131,7 +132,7 @@
   },
   "gynaekologie_sommerlechner": {
     "name": "Gynäkologie Dr. Monika Sommerlechner",
-    "beschreibung": "Gynäkologie (Kassenvertrag)",
+    "beschreibung": " Fachärztin für Frauenheilkunde und Geburtshilfe, alle Kassen.",
     "tags": ["arzt", "kassenvertrag", "krankenkasse", "gynäkologie", "frauenarzt", "frauenheilkunde", "geburtshilfe"],
     "tel": "+43 1 774 13 30",
     "web": "http://www.frauenaerztin-sommerlechner.at/",
@@ -152,7 +153,7 @@
   },
   "psychiatrie_wally": {
     "name": "Psychiatrie und Psychotherapeutische Medizin Dr. Beate Wally",
-    "beschreibung": "Wahlärztin für Psychiatrie u. Psychotherapeutische Medizin",
+    "beschreibung": "Wahlärztin für Psychiatrie u. Psychotherapeutische Medizin, Oberärztin der psychiatrischen Abteilung des Donauspitals.",
     "tags": ["arzt", "privat", "wahlarzt", "psychiatrie", "psychotherapie"],
     "email": "ordination-wally@gmx.at",
     "tel": "+43 680 133 26 75",
