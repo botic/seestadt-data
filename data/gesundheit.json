@@ -97,9 +97,10 @@
     }
   },
   "ergotherapie_ergopraxisaspern": {
-    "name": "Ergotherapie ergopraxisaspern",
+    "name": "Ergopraxis Aspern",
+    "beschreibung": " Ergotherapie für Kinder, Jugendliche und Erwachsene.",
     "web": "http://www.ergopraxisaspern.at/ueber-uns/wer-sind-wir/daniela-schlager-jaschky/",
-    "adresse": "Maria-Tusch-Straße 18/A/4",
+    "adresse": "Maria-Tusch-Straße 18/A/1. OG/Top 4",
     "bauplatz": "D10",
     "latlng": [48.22492,16.50221],
     "email": "office@ergopraxisaspern.at",
