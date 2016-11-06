@@ -779,5 +779,26 @@
     "adresse": "Maria-Tusch-Straße 18/17",
     "bauplatz": "D10",
     "latlng": [48.22484,16.50213]
+  },
+  "versicherungfaullant": {
+    "name": "René Faullant Versicherungsagent",
+    "beschreibung": "Versicherungsvermittlung, Informationen und Empfehlungen in finanziellen Fragen.",
+    "adresse": "Frenkel-Brunswik-Gasse 1/D1/2",
+    "bauplatz": "D10",
+    "tel": "+43 676 8200 5544",
+    "email": "Rene.Faullant@dvag.at",
+    "facebook": "rene.faullant",
+    "uid": "28518976",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Persönliches Gespräch nach Vereinbarung, Kontakt möglich per Telefon, E-Mail, SMS oder WhatsApp."
+    }
   }
 }
