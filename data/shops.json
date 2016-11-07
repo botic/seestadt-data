@@ -705,5 +705,51 @@
       "so": [],
       "ft": []
     }
+  },
+  "hoferlohaggasse": {
+    "name": "Hofer",
+    "beschreibung": "Nächstgelegender Hofer Supermarkt südlich der Seestadt.",
+    "tel": "+43 57030 34009",
+    "adresse": "Großenzersdorfer Straße / Lohwaggasse 2",
+    "oeffnungszeiten": {
+      "mo": ["07:40", "20:00"],
+      "di": ["07:40", "20:00"],
+      "mi": ["07:40", "20:00"],
+      "do": ["07:40", "20:00"],
+      "fr": ["07:40", "20:00"],
+      "sa": ["07:40", "18:00"],
+      "so": [],
+      "ft": []
+    }
+  },
+  "billaflugfeldstrasse": {
+    "name": "Billa Flugfeldstraße",
+    "beschreibung": "Nächstgelegender Billa Supermarkt südlich der Seestadt.",
+    "adresse": "Großenzersdorfer Straße 74 / Flugfeldstrasse 2",
+    "oeffnungszeiten": {
+      "mo": ["07:30", "19:50"],
+      "di": ["07:30", "19:50"],
+      "mi": ["07:30", "19:50"],
+      "do": ["07:30", "19:50"],
+      "fr": ["07:30", "19:50"],
+      "sa": ["07:40", "18:00"],
+      "so": [],
+      "ft": []
+    }
+  },
+  "billaflugfeldstrasse": {
+    "name": "Billa Pilotengasse",
+    "beschreibung": "Nächstgelegender Billa Supermarkt südlichöstlich der Seestadt.",
+    "adresse": "Pilotengasse 76",
+    "oeffnungszeiten": {
+      "mo": ["07:30", "19:50"],
+      "di": ["07:30", "19:50"],
+      "mi": ["07:30", "19:50"],
+      "do": ["07:30", "19:50"],
+      "fr": ["07:30", "19:50"],
+      "sa": ["07:40", "18:00"],
+      "so": [],
+      "ft": []
+    }
   }
 }
