@@ -485,7 +485,7 @@
     "bauplatz": "J2",
     "latlng": [48.22622,16.50369]
   },
-  "wienwork_textilreinigung_annahmestelle": {
+  "wienwork_textilreinigung": {
     "name": "Wien Work - Textilreinigung & Bügelservice Annahmestelle",
     "beschreibung": "Waschen, Putzen, Reinigen und Bügeln von Textilien",
     "tel": "+43 1 288 80 420",
