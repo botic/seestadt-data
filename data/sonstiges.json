@@ -2,6 +2,8 @@
   "coworking_seesternaspern": {
     "name": "Coworking Seestern Aspern",
     "beschreibung": "Coworking-Space im Wohnprojekt Seestern, Gemeinschaftsbüro für EPUs, Start-ups und Kleinunternehmen.",
+    "label": "Coworking Seestern",
+    "shortlabel": "Coworking",
     "tags": ["coworking", "seestern", "gemeinschaftsbüro", "büro"],
     "web": "http://coworking.seestern-aspern.at/",
     "email": "work@seestern-aspern.at",
@@ -12,6 +14,8 @@
   "stadtteilmanagement": {
     "name": "Stadtteilmanagement Seestadt Aspern",
     "beschreibung": "Quartiersmanagement und Anlaufpunkt für Fragen, Infos und Initiativen rund um die Seestadt Aspern.",
+    "label": "Stadtteilmanagement",
+    "shortlabel": "STM Aspern",
     "web": "http://meine.seestadt.info/",
     "email": "fragen@meine.seestadt.info",
     "adresse": "Hannah-Arendt-Platz 1/2",
@@ -32,6 +36,7 @@
     "name": "interlink marketing e.U.",
     "uid": "ATU63440057",
     "beschreibung": "Die bodenständige Werbeagentur für Klein- und Mittelbetriebe. Dienstleistungen im Bereichen Positionierung, Marketing, Erstellen von Werbemitteln, Kommunikation, (suchmaschinenoptimierte) Texte, Werbung.",
+    "label": "interlink",
     "tel": "+43 660 408 79 75",
     "web": "http://interlinkmarketing.at/",
     "email": "oladejo@interlinkmarketing.at",
@@ -56,6 +61,8 @@
     "name": "Jacqueline Weiß, M.A. - Linguistic Services",
     "uid": "ATU69264707",
     "beschreibung": "Fachübersetzungen, Lektorat & Korrektorat, Sprachkurse.",
+    "label": "Jacqueline Weiß",
+    "shortlabel": "Weiß",
     "web": "http://www.weiss-linguistic-services.eu/",
     "email": "office@weiss-linguistic-services.eu",
     "adresse": "Janis-Joplin-Promenade 6-8/4/1",
@@ -66,6 +73,7 @@
     "name": "Attensam Seestadt Aspern",
     "uid": "ATU62042916",
     "beschreibung": "Montage-, Reparatur-, Maler-Arbeiten",
+    "label": "Attensam",
     "web": "https://www.attensam.at/standorte/attensam-seestadt-aspern/",
     "tel": "+43 676 8206 3420",
     "email": "seestadt@attensam.at",
@@ -76,6 +84,8 @@
   "lernquadrat": {
     "name": "LernQuadrat Seestadt",
     "beschreibung": "Nachhilfe",
+    "label": "LernQuadrat",
+    "shortlabel": "LernQuad.",
     "web": "http://www.lernquadrat.at/nachhilfe-wien-wien-im-lernquadrat-seestadt/8_105",
     "facebook": "lernquadrat.seestadt",
     "tel": "+43 1 210 69 81",
@@ -87,6 +97,8 @@
   "buchhalter_wider": {
     "name": "Ing. Michael Wider - Buchhalter vom Feinsten",
     "beschreibung": "Buchhaltung, Kostenrechnung, Controlling",
+    "label": "Buchhalter Wider",
+    "shortlabel": "Wider",
     "tel": "+43 699 81 419 544",
     "email": "feid77@hotmail.com",
     "adresse": "Janis-Joplin-Promenade 8/6/17",
@@ -96,6 +108,8 @@
   "seelsorgezentrum": {
     "name": "Seelsorgezentrum St. Edith Stein",
     "beschreibung": "Seelsorgestation und Familienberatungszentrum der Erzdiözese Wien",
+    "label": "Seelsorgezentrum",
+    "shortlabel": "Seelsorge",
     "web": "http://pfarre.aspern.at/Pfarre/StEdith/index.php",
     "tel": "+43 676 363 71 76",
     "adresse": "Maria-Tusch-Straße 11/1",
@@ -125,6 +139,8 @@
   "lernen_seestadt": {
     "name": "Lernen in der Seestadt",
     "beschreibung": "Lese-,Rechtschreib-,Rechen-Förderung, Frühförderung, Lernunterstützung, Jugendcoaching, Konzentrationstraining, Hilfe bei Schulangst",
+    "label": "Lernen Seestadt",
+    "shortlabel": "SeeLernen",
     "web": "http://www.lernen-seestadt.at/",
     "adresse": "Mela-Spira-Gasse 3/H5/204",
     "tel": "+43 664 7987131",
@@ -146,6 +162,8 @@
   "wienwork_jugendcoaching": {
     "name": "Wien Work - Jugendcoaching",
     "beschreibung": "Hilfe für Jugendliche mit Bewerbungsunterlagen, Vorbereitung auf Bewerbungsgespräche, Lehrstellensuche",
+    "label": "WienWork Jugend",
+    "shortlabel": "Jugend",
     "tel": "+43 1 288 80 560",
     "email": "jugendcoaching@wienwork.at",
     "adresse": "Frenkel-Brunswik-Gasse 1",
@@ -156,6 +174,8 @@
   "wienwork_arbeitsassistenz": {
     "name": "Wien Work - Arbeitsassistenz",
     "beschreibung": "Gründungsberatung, Unternehmensberatung, Coaching, Karriereberatung für Menschen mit Behinderung und/oder chronischen Erkrankungen",
+    "label": "WienWork Assistenz",
+    "shortlabel": "Assistenz",
     "tel": "+43 1 288 80 540",
     "email": "rudolf.weissinger@wienwork.at",
     "adresse": "Sonnenalle 51/1",
@@ -166,6 +186,8 @@
   "wienwork_onthejob": {
     "name": "Wien Work - On the job",
     "beschreibung": "Eine Einrichtung der Berufsqualifizierung. Bereitet Jugendliche und junge Erwachsene mit Handicap auf das Berufsleben vor.",
+    "label": "WienWork On the job",
+    "shortlabel": "On the job",
     "web": "http://wienwork.at/on_the_job_integration_durch_arbeitstraining_f%C3%BCr_jugendliche.aspx",
     "tel": "+43 1 288 80 530",
     "email": "gerhard.poppenwimmer@wienwork.at",
@@ -176,6 +198,8 @@
   "wienwork_facilityservices": {
     "name": "Wien Work - Facility Services",
     "beschreibung": "Reinigung von Büros, Gebäuden, Gebäudeteilen sowie Grünflächenbetreuung",
+    "label": "WienWork Facility",
+    "shortlabel": "Facility",
     "email": "service@wienwork.at",
     "web": "http://www.wienwork.at/facility_service.aspx",
     "tel": "+43 1 288 80 350",
@@ -186,6 +210,8 @@
   "wienwork_holztechnik": {
     "name": "Wien Work - Holztechnik",
     "beschreibung": "Tischlerei, Einbaumöbel nach Maß",
+    "label": "WienWork Holztechnik",
+    "shortlabel": "Holz",
     "email": "holz@wienwork.at",
     "web": "http://www.wienwork.at/holztechnik.aspx",
     "tel": "+43 1 288 80 300",
@@ -196,6 +222,8 @@
   "wienwork_metalltechnik": {
     "name": "Wien Work - Metalltechnik",
     "beschreibung": "Metalltechnik, Metallbearbeitung und Services",
+    "label": "Work Metalltechnik",
+    "shortlabel": "Metall",
     "email": "metall@wienwork.at",
     "web": "http://www.wienwork.at/metalltechnik.aspx",
     "tel": "+43 1 288 80 300",
@@ -206,6 +234,8 @@
   "wienwork_renovierung": {
     "name": "Wien Work - Renovierung",
     "beschreibung": "Malen, Fliesenlegen, Renovieren und Reparieren",
+    "label": "WienWork Renovierung",
+    "shortlabel": "Renovieren",
     "email": "renovierung@wienwork.at",
     "web": "http://www.wienwork.at/renovierung.aspx",
     "tel": "+43 1 288 80 300",
@@ -216,6 +246,8 @@
   "wienwork_textilreinigung": {
     "name": "Wien Work - Textilreinigung & Bügelservice",
     "beschreibung": "Waschen, Putzen, Reinigen und Bügeln",
+    "label": "WienWork Textil",
+    "shortlabel": "Textil",
     "email": "textilreinigung@wienwork.at",
     "web": "http://www.wienwork.at/textilreinigung_und_b%C3%BCgelservice.aspx",
     "tel": "+43 1 288 80 350",
@@ -226,6 +258,7 @@
   "spoe": {
     "name": "SPÖ Seestadt",
     "beschreibung": "Parteilokal der SPÖ Donaustadt",
+    "shortlabel": "SPÖ",
     "adresse": "Maria-Tusch-Straße 35/7/EG/1",
     "bauplatz": "J2",
     "latlng": [48.22653,16.50429]
@@ -244,6 +277,8 @@
   "dolmetscher_bashir": {
     "name": "Dolmetscher Neamul Bashir",
     "beschreibung": "Beeideter und gerichtlich zertifizierter Dolmetscher für Bengalisch (= Bengali = Bangla)",
+    "label": "Dolmetscher Bashir",
+    "shortlabel": "Bashir",
     "tel": "+43 664 130 0514",
     "email": "neamul.bashir@chello.at",
     "adresse": "Janis-Joplin-Promenade 8/6/11",
@@ -253,6 +288,7 @@
   "raetselfabrik": {
     "name": "Rätselfabrik",
     "beschreibung": "Rätselring-Zeitschriften, Herausgeber Bernhard Franz Verlags-GmbH.",
+    "shortlabel": "Rätsel",
     "uid": "ATU62478633",
     "email": "office@raetselfabrik.at",
     "tel": "+43 676 468 4115",
@@ -264,6 +300,7 @@
   "sonicvision": {
     "name": "sonic-vision.TV",
     "beschreibung": "Tontechnik-Ausbildung, E-Learning Plattform für Tontechnik und Musikproduktion",
+    "shortlabel": "Sonic Vis.",
     "web": "http://www.sonic-vision.tv",
     "uid": "ATU64683667",
     "email": "info@sonic-vision.tv",
@@ -297,6 +334,7 @@
   "fotografin_luizapuiu": {
     "name": "Luiza Puiu – Fotografin",
     "beschreibung": "Fotografin für Portrait-, Reportage- und Eventfotografie.",
+    "label": "Luiza Puiu",
     "tags": ["fotografin", "fotografie", "fotos"],
     "facebook": "luiza.puiu",
     "twitter": "lullulia",
@@ -310,6 +348,8 @@
   "fotografin_elisabethfeldner": {
     "name": "Hochzeitsfotografin Elisabeth Feldner",
     "beschreibung": "die Elfe – Hochzeitsfotografie.",
+    "label": "Elisabeth Feldner",
+    "shortlabel": "Feldner",
     "tags": ["fotografin", "fotografie", "fotos"],
     "facebook": "dieElfephotography",
     "web": "http://www.dieelfe.com",
@@ -322,6 +362,7 @@
   "fotografin_karolinahorner": {
     "name": "Kalinka Photo",
     "beschreibung": "Kinder- und Hochzeitsfotografie Karolina Horner.",
+    "shortlabel": "Kalinka",
     "tags": ["fotografin", "fotografie", "fotos"],
     "facebook": "kalinkaphoto",
     "web": "http://www.kalinkaphoto.at",
@@ -333,6 +374,7 @@
   "fotograf_naderer": {
     "name": "Philipp Naderer",
     "beschreibung": "Fotograf",
+    "shortlabel": "Naderer",
     "web": "http://naderer.biz/",
     "tel": "+43 676 90 35 1 39",
     "email": "philipp@naderer.biz",
@@ -343,6 +385,8 @@
   "kps_krassnitzer": {
     "name": "KPS Krassnitzer Physical Security",
     "beschreibung": "Alarmanlagen, Brandmeldeanlagen, Videoüberwachung, Zutrittssysteme, Infotainment und Digital Signage.",
+    "label": "KPS Krassnitzer",
+    "shortlabel": "KPS",
     "uid": "ATU42777303",
     "web": "http://www.krassnitzer.at/",
     "facebook": "KrassnitzerKPS",
@@ -355,6 +399,7 @@
   "vectordesign" : {
     "name": "Vector Design Print",
     "beschreibung": "Digitaldruck",
+    "shortlabel": "Vector",
     "web": "http://www.vectordesign.at",
     "email": "info@vectordesign.at",
     "tel": "+43 664 28 30 566",
@@ -365,6 +410,7 @@
   "sakurashape" : {
     "name": "sakurashape",
     "beschreibung": "Designerin Martina Habison BSc. Logos, Websites, Illustrationen, Spiele, Print, Animationen, Banner, Zeichnungen, Gemälde, uvm.",
+    "shortlabel": "sakura",
     "web": "http://sakurashape.com/",
     "facebook": "SakuraShape",
     "twitter": "sakurashape",
@@ -429,6 +475,7 @@
   "bkst": {
     "name": "BKST Systemtechnik",
     "beschreibung": "BKST liefert Konstruktionen und Maschinen gemäß Kundenwunsch für den Maschinen- und Anlagenbau, sowie für die Automatisierung",
+    "shortlabel": "BKST",
     "uid": "ATU62700214",
     "email": "bk@bkst.at",
     "web": "http://bkst.at",
@@ -451,6 +498,8 @@
   "grafik_design_neumayr": {
     "name": "Madelaine Neumayr - Grafik Design",
     "beschreibung": "Werbegrafik, Designer",
+    "label": "Madelaine Neumayr",
+    "shortlabel": "Neumayr",
     "uid": "ATU68549859",
     "web": "http://www.madelaine.at",
     "email": "mail@madelaine.at",
@@ -462,6 +511,7 @@
   "alexsastra": {
     "name": "Alexsastra - Alex & the stars",
     "beschreibung": "Psychologisches Geburtshoroskop mit Analyse und Beratung, Keltischer Mondkreis Analyse und karmische Lebensaufgaben, astrologische Beratung mit Tarot Deutung, Astrokartographie",
+    "label": "Alexsastra",
     "web": "http://alexsastra.com",
     "email": "alexsastras@gmail.com",
     "facebook": "Alexsastras",
@@ -473,6 +523,7 @@
   "abix": {
     "name": "Abix - Austrian Bit Experts",
     "beschreibung": "Software tools solutions for the embedded system markets",
+    "label": "Abix",
     "uid": "ATU67890008",
     "web": "http://www.a-bix.com",
     "email": "info@a-bix.com",
@@ -483,6 +534,7 @@
   "ascr": {
     "name": "ASCR - Aspern Smart City Research",
     "beschreibung": "Joint Venture von Siemens, Wien Energie und Wiener Netze zur Entwicklung technischer Lösungen für die neue Energiewelt",
+    "label": "ASCR",
     "web": "http://www.ascr.at",
     "email": "office@ascr.at",
     "tel": "+43 1 908 93 69",
@@ -493,6 +545,7 @@
   "comdata": {
     "name": "COM Data - Systemhaus",
     "beschreibung": "Anbieter und Betreiber von Infrastruktur, CAD, Computeranimation, Computerintegrated Manufaktoring, Datenerfassung, Elektronischer Datenaustausch, Geschäftsprozessoptimierung, Internet Services, Outsourcing, Projektmanagement.",
+    "label": "COM Data",
     "uid": "ATU69253728",
     "web": "http://www.comdata.at",
     "email": "office@comdata.at",
@@ -504,6 +557,7 @@
   "eurodata": {
     "name": "eurodata IT Solutions",
     "beschreibung": "elektronische Archivierung, eBilling, Datenfernverarbeitung, Elektronischer Datenaustausch, Finanz- und Rechnungswesen, Internet Services, Managementinformationssysteme, Service Providing, Elektronischer Zahlungsverkehr und Rechnung.",
+    "label": "eurodata",
     "uid": "ATU16065709",
     "web": "http://www.eurodata.co.at",
     "email": "office@eurodata.co.at",
@@ -515,6 +569,7 @@
   "headspice": {
     "name": "headspice engineering",
     "beschreibung": "Seminare, Konferenzen und Tagungen zu Themen aus den Fachbereichen Umweltschutz, Informationstechnologie, Abfall- und Wasserwirtschaft, chemische Analytik, Bautechnik, Qualitätsmanagement und Korrosionsschutz",
+    "label": "headspice",
     "uid": "ATU65359168",
     "web": "http://headspice.com",
     "tel": "+43 676 9671363",
@@ -548,6 +603,7 @@
   "theobroma": {
     "name": "Theobroma Systems Design und Consulting",
     "beschreibung": "Solutions for embedded systems, IP for Smart Energy/Home Automation, Identification, and Secure Communication",
+    "label": "Theobroma",
     "uid": "ATU68341118",
     "web": "http://www.theobroma-systems.com/",
     "email": "inquiries@theobroma-systems.com",
@@ -559,6 +615,7 @@
   "wien3420": {
     "name": "Wien 3420 Aspern Development AG",
     "beschreibung": "Entwicklungsgesellschaft der Seestadt Aspern. Akquisition von Partnern, Verwertung von Flächen, Standortmarketing und -branding, städtebauliche Planung, infrastrukturelle Erschließung",
+    "label": "Wien 3420",
     "uid": "ATU61631559",
     "web": "http://www.wien3420.at",
     "tel": "+43 1 774 02 74",
@@ -570,6 +627,7 @@
   "koenigskinder": {
     "name": "KönigsKinder",
     "beschreibung": "Ein Netzwerkzentrum für Eltern und Kinder. Kurse, Café, Shop",
+    "shortlabel": "KönigsKind",
     "uid": "ATU68750256",
     "web": "http://www.koenigskinder.at/",
     "facebook": "koenigskinder.wien",
@@ -594,6 +652,7 @@
   "postpartner": {
     "name": "Postpartner Wien Work",
     "beschreibung": "Postpartner im Wien Work „Textilreinigungs- & Bügelservice“ zur Brief- und Paketabgabe und Abholung.",
+    "label": "Post",
     "tags": ["post", "briefe", "pakete", "briefkasten"],
     "web": "http://www.wienwork.at/textilreinigung_und_b%C3%BCgelservice.aspx",
     "tel": "+43 1 288 80 420",
@@ -635,6 +694,7 @@
   "energiewechsler": {
     "name": "IhrEnergiewechsler OG",
     "beschreibung": "Energiekostenberatung",
+    "label": "IhrEnergiewechsler",
     "email": "office@ihrenergiewechsler.at",
     "facebook": "IhrEnergiewechsler",
     "web": "http://www.ihrenergiewechsler.at/",
@@ -657,6 +717,7 @@
   "goinskuehn": {
     "name": "GONIS-Beraterin Veronika Kühn",
     "beschreibung": "Gonis bietet schöne Produkte und inspirierende Ideen für ein persönliches Zuhause. Dekoration für Drinnen und Draußen, einzigartige Geschenke und tolles Malspielzeug für Kinder, mit den Produkten von GONIS können Sie sich kreativ entfalten.",
+    "label": "GONIS Kühn",
     "adresse": "Maria-Tusch-Straße 31/9/8",
     "bauplatz": "J2",
     "latlng": [48.22618,16.50276],
@@ -667,6 +728,7 @@
   "jrsoftware": {
     "name": "JR Software",
     "beschreibung": "Entwicklung von Java/Scala und Web Applikation sowie Beratung für UC4/Automic One Automation.",
+    "shortlabel": "JR Soft.",
     "tel": "+43 699 10745760",
     "web": "http://www.ferbinder.com/",
     "email": "iulian.radu@gmx.at",
@@ -677,6 +739,8 @@
   "bueroservicenoschiel": {
     "name": "Büroservice Katja Noschiel",
     "beschreibung": "Büroservice, mobile Assistenz- und Sekretariatsdienste unterwegs.",
+    "label": "Büroservice Noschiel",
+    "shortlabel": "Noschiel",
     "tel": "+43 699 181 655 22",
     "email": "katja.noschiel@chello.at",
     "adresse": "Susanne-Schmida-Gasse 5/8/30",
@@ -685,6 +749,7 @@
   },
   "polizei": {
     "name": "Polizeiinspektion",
+    "shortlabel": "Polizei",
     "tel": "+43 1 31 310 66341",
     "email": "PI-W-22-Sonnenallee@polizei.gv.at",
     "web": "http://www.polizei.gv.at/wien/lpd/dst/dienststellen.aspx?org=594B3541457A6D6F4A55453D",
@@ -695,6 +760,7 @@
   "alucars": {
     "name": "Alucars e.U.",
     "beschreibung": "Einzelhandel mit KFZ-Bestandteilen, KFZ-Zubehör, Handelsagent",
+    "shortlabel": "Alucars",
     "adresse": "Hannah-Arendt-Platz 2/c2/8",
     "email": "office@alucars.at",
     "web": "http://www.alucars.at/",
@@ -713,6 +779,8 @@
   "campussportflaechen": {
     "name": "Sportflächen Bildungscampus",
     "beschreibung": "Fußball- und Basketballplatz, Volleyball-Netze.",
+    "label": "Sportflächen",
+    "shortlabel": "Sportcourt",
     "web": "http://campus-seestadt.at",
     "tel": "+43 676 811856491",
     "adresse": "Hannah-Arendt-Platz 8",
@@ -732,6 +800,8 @@
   "caeconsulting": {
     "name": "CAE Consulting Prochaska",
     "beschreibung": "Schulungen und Support für 3D CAD SolidWorks, Beratung bei Finite Elemente (FEM) und Strömungsberechungen (CFD).",
+    "label": "CAE Prochaska",
+    "shortlabel": "CAE",
     "email": "cae@aon.at",
     "tel": "+43 699 19 666 891",
     "adresse": "Hannah-Arendt-Platz 9/2",
@@ -741,6 +811,8 @@
   "feelgoodhotel": {
     "name": "Hotel FeelGood Vienna",
     "beschreibung": "Aparthotel in der Seestadt, persönlich & Nachhaltig Wohnen.",
+    "label": "Hotel FeelGood",
+    "shortlabel": "FeelGood",
     "tags": ["hotel", "apartments"],
     "email": "office@feelgoodvienna.at",
     "tel": "+43 676 33 888 33",
@@ -772,6 +844,7 @@
   "seestadtradio": {
     "name": "Seestadt Radio",
     "beschreibung": "Seestadt Radio, Wien, Von Seestädter für Seestädter",
+    "shortlabel": "Radio",
     "web": "http://www.seestadtradio.at",
     "facebook": "seestadtradio",
     "tel": "+43 699 15083242",
@@ -783,6 +856,8 @@
   "versicherungfaullant": {
     "name": "René Faullant Versicherungsagent",
     "beschreibung": "Versicherungsvermittlung, Informationen und Empfehlungen in finanziellen Fragen.",
+    "label": "René Faullant",
+    "shortlabel": "Faullant",
     "adresse": "Frenkel-Brunswik-Gasse 1/D1/2",
     "bauplatz": "D10",
     "tel": "+43 676 8200 5544",

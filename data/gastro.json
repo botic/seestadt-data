@@ -48,6 +48,7 @@
   },
   "united": {
     "name": "United In Cycling",
+    "shortlabel": "United",
     "beschreibung": "Fahrradcafé, Fahrradhandel & Service, Kinderräder, Scooter, Longboards, Kaffee, Kuchen, Snacks. Verein zur Förderung der Radkultur und des interkulturellen Austausches.",
     "tags": ["cafe", "kaffee", "werkstatt", "fahrrad"],
     "facebook": "UnitedInCycling",
@@ -70,6 +71,7 @@
   },
   "kantine": {
     "name": "Seestadt Kantine",
+    "shortlabel": "Kantine",
     "tags": ["pizza", "pasta", "mile"],
     "facebook": "seestadt.kantine",
     "tel": "+43 681 81116 357",
@@ -88,6 +90,7 @@
   },
   "salz_und_pfeffer": {
       "name": "Salz+Pfeffer",
+      "shortlabel": "Salz+Preff",
       "beschreibung": "Restaurant, Bistro, Catering",
       "tags": ["restaurant", "catering", "aspern iq"],
       "web": "http://www.salzundpfeffer-catering.at/",

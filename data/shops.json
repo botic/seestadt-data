@@ -1,6 +1,7 @@
 {
   "spar": {
     "name": "Spar Supermarkt",
+    "shortlabel": "Spar",
     "tel": "+43 1 2807294",
     "web": "https://www.spar.at/de_AT/index/standorte/12/spar_supermarkt_wienmaria-tusch-strseestadt_4156.html",
     "adresse": "Maria-Tusch-Straße 18",
@@ -36,6 +37,7 @@
   },
   "leo": {
     "name": "LEO Bäckerei & Cafe",
+    "shortlabel": "LEO",
     "tel": "+43 1 2102527",
     "adresse": "Maria-Tusch-Straße 13/2",
     "bauplatz": "D9",
@@ -55,6 +57,7 @@
   },
   "apotheke": {
     "name": "Seestadt Apotheke",
+    "shortlabel": "Apotheke",
     "uid": "ATU68590866",
     "tel": "+43 1 2106984",
     "email": "office@seestadt-apotheke.at",
@@ -77,6 +80,7 @@
   "seeseiten": {
     "name": "Buchhandlung Seeseiten",
     "beschreibung": "Buchhandlung mit eigener Kaffee-Ecke und Lesungen.",
+    "shortlabel": "Seeseiten",
     "tags": ["bücher", "geschenke"],
     "tel": "+43 1 2531520",
     "email": "buchhandlung@seeseiten.at",
@@ -135,6 +139,7 @@
   },
   "hairstyle": {
     "name": "Hair Style Seestadt",
+    "shortlabel": "Hair Style",
     "facebook": "hairstyleseestadt",
     "tel": "+43 1 2807225",
     "adresse": "Maria Tusch Strasse 15/2",
@@ -153,6 +158,7 @@
   },
   "ruefa": {
     "name": "Ruefa Reisebüro",
+    "shortlabel": "Ruefa",
     "web": "https://www.ruefa.at/reisebueros/wien/11221/",
     "tel": "+43 1 210 69 56",
     "email": "11221@ruefa.at",
@@ -173,6 +179,7 @@
   "trafik": {
     "name": "Tabak Trafik Barany",
     "beschreibung": "Tabakfachgeschäft",
+    "shortlabel": "Trafik",
     "adresse": "Maria-Tusch-Strasse 17/1/2",
     "bauplatz": "D5A",
     "latlng": [48.22488,16.50133],
@@ -189,6 +196,7 @@
   },
   "handyshop": {
     "name": "Handyshop Drei / UPC",
+    "shortlabel": "Handyshop",
     "adresse": "Maria-Tusch-Strasse 17/1/1",
     "bauplatz": "D5A",
     "latlng": [48.22494,16.50144],
@@ -205,6 +213,7 @@
   },
   "wienerstaedtische": {
     "name": "Wiener Städtische",
+    "shortlabel": "Städtische",
     "web": "https://www.wienerstaedtische.at/seestadt",
     "tel": "+43 50 350 50400",
     "email": "seestadt@staedtische.co.at",
@@ -224,6 +233,7 @@
   },
   "mykex": {
     "name": "MyKex – Süßes aus Galizien",
+    "label": "MyKex",
     "beschreibung": "Süßes aus Galizien",
     "facebook": "myKex.at",
     "adresse": "Mela Spira Gasse 3/H5/205",
@@ -282,6 +292,7 @@
   },
   "harmonieklang": {
     "name": "Harmonieklang",
+    "shortlabel": "Hamoniekl.",
     "web": "http://www.harmonieklang.at",
     "adresse": "Janis-Joplin-Promenade 6/5/1A",
     "bauplatz": "J2",
@@ -303,6 +314,7 @@
   "koerperwerk": {
     "name": "Körperwerk Seestadt e.U.",
     "beschreibung": "Massagen, Fußpflege, Pediküren, Maniküren, Harzen and more",
+    "shortlabel": "Körperwerk",
     "uid": "ATU69416535",
     "web": "http://www.koerperwerk-seestadt.at/",
     "facebook": "koerperwerkseestadt",
@@ -325,6 +337,7 @@
   "christines_oase": {
     "name": "Christine's Oase",
     "beschreibung": "Kosmetikstudio, Fußpflege, Haarentfernung",
+    "shortlabel": "Christines",
     "web": "http://www.christines-oase.at/",
     "tel": "+43 677 61823422",
     "adresse": "Sonnenallee 44/3/1",
@@ -344,6 +357,8 @@
   },
   "kunstkeramik": {
     "name": "Kunst & Keramik Werkstätte",
+    "label": "Kunst & Keramik",
+    "shortlabel": "Keramik",
     "beschreibung": "Modellierkurse und Malworkshops für Erwachsene und Kinder, Kindergeburtstage",
     "web":   "http://www.kunst-keramik.at/",
     "facebook": "KunstundKeramik",
@@ -368,6 +383,7 @@
  "bastellieschen": {
     "name": "Bastellieschen",
     "beschreibung": "Bastelartikel rund um die Papiergestaltung wie Grusskarten, Scrapbooking, Stempeln, Colorieren uvm. Kurse für Kinder & Erwachsene",
+    "shortlabel": "Bastellies",
     "web": "http://www.bastellieschen.at",
     "facebook": "Bastellieschen-1407265406214601",
     "email": "office@bastellieschen.at",
@@ -389,6 +405,8 @@
   },
   "zwoelfer_keramik": {
     "name": "12er glasporzellankeramik",
+    "label": "12er Keramik",
+    "shortlabel": "12er",
     "web": "http://www.12er.at/",
     "facebook": "12er-glasporzellankeramik-303579606335900",
     "adresse": "Maria Tusch-Straße 8/6",
@@ -433,6 +451,7 @@
   },
   "permanentcreation": {
     "name": "Permanent Creation",
+    "shortlabel": "Rokyta",
     "beschreibung": "Atelier Briant Rokyta. Bilder, Skulpturen, Kunstworkshops und Kunsttherapie.",
     "adresse": "Maria-Tusch-Straße 8/1/43",
     "bauplatz": "D13B",
@@ -457,6 +476,8 @@
   },
   "wienwork_digitalmedia": {
     "name": "Wien Work - Digital Media Shop",
+    "label": "Wien Work Media",
+    "shortlabel": "Digital",
     "beschreibung": "Drucken, Kopieren, Spiralisieren, Direktmailings, Digitale Archive, Scandienstleistungen",
     "web": "http://www.wienwork.at/digital_media.aspx",
     "email": "digitalmedia@wienwork.at",
@@ -478,6 +499,8 @@
   "wienwork_polstern_naehen": {
     "name": "Wien Work - Polstern & Nähen",
     "beschreibung": "Textilverarbeitung und Nähen von Kleidung. Möbeltapezieren und Bespannen von Möbelpolstern.",
+    "label": "Wien Work Polstern",
+    "shortlabel": "Polstern",
     "tel": "+43 1 288 80 440",
     "email": "textil@wienwork.at",
     "web": "http://www.wienwork.at/polstern_und_n%C3%A4hen.aspx",
@@ -488,6 +511,8 @@
   "wienwork_textilreinigung": {
     "name": "Wien Work - Textilreinigung & Bügelservice Annahmestelle",
     "beschreibung": "Waschen, Putzen, Reinigen und Bügeln von Textilien",
+    "label": "Wien Work Textil",
+    "shortlabel": "Textilien",
     "tel": "+43 1 288 80 420",
     "email": "textilreinigung@wienwork.at",
     "web": "http://www.wienwork.at/textilreinigung_und_bügelservice.aspx",
@@ -528,6 +553,7 @@
   "spiegelbild": {
     "name": "Spiegelbild",
     "beschreibung": "Mode Boutique. Mode von Blue Seven bis His Jeans, Mode aus Italien und Frankreich, Farben von pastellig bis knallig bunt, Hosen, T-Shirts, Polos, Pullis, Blusen, Rücke, Kleider, Accessoires.",
+    "shortlabel": "Spiegelb.",
     "email": "renatesocher@spiegelbild.co.at",
     "tel": "+43 660 216 99 30",
     "web": "http://www.spiegelbild.co.at",
@@ -549,6 +575,7 @@
   "fashion_stage": {
     "name": "Fashion Stage",
     "beschreibung": "Mode Boutique. Bekleidungsgeschäft für Damen",
+    "shortlabel": "Stage",
     "facebook": "Fashion-STAGE-mode-Boutique-970078843080925",
     "tel": "+43 660 2176332",
     "adresse": "Sonnenallee 34",
@@ -590,6 +617,8 @@
   },
   "schuhmacherwerkstatt": {
     "name": "Schuhmachermeister Asghar Hashemi",
+    "label": "Schuhmacher Hashemi",
+    "shortlabel": "Hashemi",
     "beschreibung": "Maßschuhe für Damen und Herren, Herstellung von Lederwaren (Hundeleinen, Gürtel, Geldbörsen, usw.), Schuhservice und Lederreparaturen",
     "uid": "ATU68894404",
     "web": "http://www.hashemi.at/",
@@ -614,6 +643,8 @@
   "daisychainoddities": {
     "name": "daisy chain oddities e.U.",
     "beschreibung": "Onlineshop für nachhaltiges, handgemachtes Heimdekor für Nerds",
+    "label": "daisy chain",
+    "shortlabel": "daisychain",
     "web": "http://www.daisychainoddities.com",
     "email": "daisy@daisychainoddities.com",
     "facebook": "DaisyChainOddities",
@@ -626,6 +657,7 @@
   "kwsseestadtkueche": {
     "name": "Seestadt Küche & Wohnen",
     "beschreibung": "KWS Küchen & Möbel GmbH. Alles aus dem Bereich Wohnen: Küchen, Vorzimmer, Wohnzimmer, Schlafzimmer, Badezimmer.",
+    "label": "KWS Küchen",
     "uid": "ATU70730435",
     "web": "http://www.kueche-seestadt.at",
     "email": "office@kueche-seestadt.at",
@@ -649,6 +681,7 @@
   "organiclifestyle": {
     "name": "Organic Lifestyle",
     "beschreibung": "Bio-Kosmetik für Kinder und Erwachsene, Bio-Pflegeprodukte für das Haus, Bio-Produkte vom Bauernhof",
+    "shortlabel": "Organic",
     "uid": "ATU71104618",
     "email": "organic.lifestyle.wien@gmail.com",
     "facebook": "Organic-Lifestyle-830377093765108",
@@ -670,6 +703,7 @@
   "dpd": {
     "name": "DPD Pickup Paketshop Seestadt",
     "beschreibung": "DPD Abholstelle, DPD Web Paket Annahme, Retourenannahme",
+    "label": "DPD",
     "web": "https://www.dpd.com/at/home/about_dpd/dpd_city_hub",
     "facebook": "dpdaustria",
     "adresse": "Maria-Tusch-Straße 11",
@@ -689,6 +723,7 @@
   "viktoria": {
     "name": "Viktoria Mode",
     "beschreibung": "Damen und Herren Bekleidungsgeschäft für Junge Leute und Familien",
+    "label": "Viktoria",
     "facebook": "modeviktoria",
     "tel": "+43 699 18724648",
     "adresse": "Maria-Tusch-Straße 6",
@@ -725,6 +760,7 @@
   "billaflugfeldstrasse": {
     "name": "Billa Flugfeldstraße",
     "beschreibung": "Nächstgelegender Billa Supermarkt südlich der Seestadt.",
+    "label": "Billa",
     "adresse": "Großenzersdorfer Straße 74 / Flugfeldstrasse 2",
     "oeffnungszeiten": {
       "mo": ["07:30", "19:50"],
@@ -740,6 +776,7 @@
   "billaflugfeldstrasse": {
     "name": "Billa Pilotengasse",
     "beschreibung": "Nächstgelegender Billa Supermarkt südlichöstlich der Seestadt.",
+    "label": "Billa",
     "adresse": "Pilotengasse 76",
     "oeffnungszeiten": {
       "mo": ["07:30", "19:50"],

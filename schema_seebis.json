@@ -25,6 +25,16 @@
           "minLength": 5,
           "maxLength": 240
         },
+        "label": {
+          "type": "string",
+          "minLength": 3,
+          "maxLength": 20
+        },
+        "shortlabel": {
+          "type": "string",
+          "minLength": 3,
+          "maxLength": 10
+        },
         "tags": {
           "type": "array",
           "minLength": 1,

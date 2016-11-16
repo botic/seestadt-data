@@ -2,6 +2,7 @@
   "zlseestadt": {
     "name": "ZLS - ZusammenLebenSeestadt",
     "beschreibung": "Verein zur Förderung der Nachbarschaft in der Seestadt.",
+    "label": "ZLS",
     "tags": [],
     "facebook": "ZusammenLebenSeestadt",
     "web": "http://www.zusammenlebenseestadt.at",
@@ -14,6 +15,8 @@
   "gemeinschaftsgartendora": {
     "name": "Gemeinschaftsgarten Madame d’Ora",
     "beschreibung": "Der Garten befindet sich im Madame D’ora Park. Er verläuft parallel zur Gisela-Legath-Gasse, zwischen Gisela-Legath-Gasse und Anna-Müller-Gasse.",
+    "label": "Gemeinschaftsgarten",
+    "shortlabel": "Garten",
     "tags": [],
     "web": "http://gg-dora.at/",
     "email": "vorstand@gg-dora.at",
@@ -25,6 +28,8 @@
   "vlma": {
     "name": "Vienna Lakeside Music Academy",
     "beschreibung": "Musikverein Seestadt Aspern",
+    "label": "Lakeside Music",
+    "shortlabel": "VLMA",
     "web": "http://www.vlma.at/",
     "email": "office@vlma.at",
     "zvr": "082817432"

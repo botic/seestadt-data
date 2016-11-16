@@ -2,6 +2,8 @@
   "hno_woller": {
     "name": "HNO Dr. Eva Stadler-Woller",
     "beschreibung": "HNO-Fachärztin und Oberärztin im Donauspital, Private Wahlärztin und KFA",
+    "label": "HNO Stadler-Woller",
+    "shortlabel": "Stadler-W.",
     "tags": ["hno", "arzt", "privat", "wahlarzt", "hals", "nasen", "ohren"],
     "tel": "+43 660 49 10 666",
     "web": "http://hno22.at",
@@ -24,6 +26,8 @@
   "hno_sabathi": {
     "name": "HNO Dr. Wolfgang Sabathi",
     "beschreibung": "Alle Kassen.",
+    "label": "HNO Sabathi",
+    "shortlabel": "Sabathi",
     "tags": ["hno", "arzt", "kassenvertrag", "krankenkasse", "hals", "nasen", "ohren"],
     "tel": "+43 1 388 3 388",
     "web": "http://www.hno-seestadt.at",
@@ -46,6 +50,8 @@
   "neurologie_schreiber": {
     "name": "Neurologie Dr. Walter Schreiber",
     "beschreibung": "Wahlarzt, nur KFA-Kassenvertrag",
+    "label": "Neurologie Schreiber",
+    "shortlabel": "Schreiber",
     "tags": ["arzt", "neuro", "wahlarzt", "privat", "neurologie"],
     "tel": "+43 699 815 36 186",
     "web": "http://www.neurologie-essling.at/",
@@ -68,6 +74,8 @@
   "allgemeinmedizin_maktari": {
     "name": "Allgemeinmedizin und Innere Medizin Dr. Adil Maktari",
     "beschreibung": "Arzt für Allgemeinmedizin (Alle Kassen), Facharzt für Innere Medizin und Rheumatologie (Privater Wahlarzt)",
+    "label": "Allgemein Maktari",
+    "shortlabel": "Maktari",
     "tags": ["arzt", "allgemein", "kassenvertrag", "krankenkasse", "privat", "wahlarzt", "innere", "rheumatologie"],
     "tel": "+43 1 210 69 20",
     "email": "adil.maktari@chello.at",
@@ -89,6 +97,8 @@
   "allgemeinmedizin_hadrigan": {
     "name": "Allgemeinmedizin Dr. Claudia Hadrigan",
     "beschreibung": "Wahlärztin für Allgemeinmedizin. Zweitpraxis.",
+    "label": "Allgemein Hadrigan",
+    "shortlabel": "Hadrigan",
     "tags": ["arzt", "allgemein", "privat", "wahlarzt", "akupunktur", "psychotherapie"],
     "tel": "+43 650 350 03 00",
     "web": "http://www.dr-hadrigan.at",
@@ -111,6 +121,8 @@
   "allgemeinmedizin_teply": {
     "name": "Allgemeinmedizin, Anästhesiologie u. Intensivmedizin Dr. Elisabeth Teply",
     "beschreibung": "Wahlärztin für Allgemeinmedizin, Anästhesie und Intensivmedizin, Schmerztherapie, Notfallmedizin. Additivfach Geriatrie.",
+    "label": "Dr. Elisabeth Teply",
+    "shortlabel": "Teply",
     "tags": ["arzt", "anästhesiologie", "privat", "wahlarzt", "intensivmedizin"],
     "adresse": "Maria-Tusch-Straße 18/2/8",
     "tel": "+43 676 4313130",
@@ -133,6 +145,8 @@
   "gynaekologie_sommerlechner": {
     "name": "Gynäkologie Dr. Monika Sommerlechner",
     "beschreibung": " Fachärztin für Frauenheilkunde und Geburtshilfe, alle Kassen.",
+    "label": "Gyn Sommerlechner",
+    "shortlabel": "Sommerl.",
     "tags": ["arzt", "kassenvertrag", "krankenkasse", "gynäkologie", "frauenarzt", "frauenheilkunde", "geburtshilfe"],
     "tel": "+43 1 774 13 30",
     "web": "http://www.frauenaerztin-sommerlechner.at/",
@@ -154,6 +168,8 @@
   "psychiatrie_wally": {
     "name": "Psychiatrie und Psychotherapeutische Medizin Dr. Beate Wally",
     "beschreibung": "Wahlärztin für Psychiatrie u. Psychotherapeutische Medizin, Oberärztin der psychiatrischen Abteilung des Donauspitals.",
+    "label": "Beate Wally",
+    "shortlabel": "Wally",
     "tags": ["arzt", "privat", "wahlarzt", "psychiatrie", "psychotherapie"],
     "email": "ordination-wally@gmx.at",
     "tel": "+43 680 133 26 75",
@@ -175,6 +191,8 @@
   "kinder_hayek": {
     "name": "Kinder- u. Jugendheilkunde Dr. Grace Hayek",
     "beschreibung": "Wahlärztin für Kinder- u. Jugendheilkunde. Zweitpraxis.",
+    "label": "Grace Hayek",
+    "shortlabel": "Hayek",
     "tags": ["arzt", "privat", "wahlarzt", "kinderarzt", "kinderheilkunde", "jugendheilkunde"],
     "tel": "+43 1 2640719",
     "web": "http://www.hayek-kinderarzt.at",
