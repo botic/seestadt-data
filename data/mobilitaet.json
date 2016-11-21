@@ -1,0 +1,64 @@
+{
+  "seestadtflotte_d4": {
+    "name": "SeestadtFLOTTE - D4",
+    "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
+    "tags": ["fahrrad", "leihsystem", "e-bike"],
+    "adresse": "Ilse-Arlt-Straße 20",
+    "bauplatz": "D4",
+    "latlng": [48.22582699,16.49867266]
+  },
+  "seestadtflotte_d8": {
+    "name": "SeestadtFLOTTE - D8",
+    "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
+    "tags": ["fahrrad", "leihsystem", "e-bike"],
+    "adresse": "Mimi-Grossberg-Gasse 11",
+    "bauplatz": "D8",
+    "latlng": [48.2249657,16.4993915]
+  },
+  "seestadtflotte_j8": {
+    "name": "SeestadtFLOTTE - J8",
+    "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
+    "tags": ["fahrrad", "leihsystem", "e-bike"],
+    "adresse": "Ilse-Arlt-Straße 32/4",
+    "bauplatz": "J8",
+    "latlng": [48.22671863,16.50132269]
+  },
+  "seestadtflotte_j11": {
+    "name": "SeestadtFLOTTE - J11",
+    "beschreibung": "Verleihstation mit E-Lastenrädern, E-Bikes und Gangrändern.",
+    "tags": ["fahrrad", "leihsystem", "e-bike", "lastenrad", "e-lastenrad"],
+    "adresse": "Sonnenallee 30",
+    "bauplatz": "J11",
+    "latlng": [48.22511044,16.50268257]
+  },
+  "seestadtflotte_d10": {
+    "name": "SeestadtFLOTTE - D10",
+    "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
+    "tags": ["fahrrad", "leihsystem", "e-bike"],
+    "adresse": "Maria-Tusch-Straße 18",
+    "bauplatz": "D10",
+    "latlng": [48.22496213,16.50209382]
+  },
+  "seestadtflotte_u2": {
+    "name": "SeestadtFLOTTE - U2-Endstation",
+    "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
+    "tags": ["fahrrad", "leihsystem", "e-bike"],
+    "adresse": "Seestadtstraße",
+    "latlng": [48.22491924,16.50786459]
+  },
+  "seestadtflotte_c4": {
+    "name": "SeestadtFLOTTE - aspern IQ",
+    "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
+    "tags": ["fahrrad", "leihsystem", "e-bike"],
+    "adresse": "Seestadtstraße 27",
+    "bauplatz": "C4",
+    "latlng": [48.22350935,16.50969654]
+  },
+  "fahrradgarage_u2seestadt": {
+    "name": "Fahrradgarage U2-Endstation",
+    "beschreibung": "Privates Fahrraddepot",
+    "adresse": "Seestadtstraße",
+    "tags": ["raddepot"],
+    "latlng": [48.22514439,16.50805771]
+  }
+}
