@@ -107,6 +107,14 @@
     "latlng": [48.22683,16.50383],
     "oeffnungszeiten": {
       "bemerkung": "Flexibel je nach Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
     }
   },
   "seelsorgezentrum": {

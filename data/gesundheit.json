@@ -264,6 +264,14 @@
     "latlng": [48.22494,16.50219],
     "oeffnungszeiten": {
       "bemerkung": "Termine nach Vereinbarung",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
     }
   },
   "shinergy":{
