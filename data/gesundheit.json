@@ -251,13 +251,20 @@
     "latlng": [48.22464,16.49972]
   },
   "shiatsu_reiter": {
-    "name": "Mobiles Shiatsu Harald Reiter",
-    "beschreibung": "Mobiles Shiatsu in der Seestadt, Termine nach Vereinbarung",
+    "name": "Shiatsu Harald Reiter",
+    "beschreibung": "Shiatsu im Gesundheitszentrum und mobiles Shiatsu in der Seestadt. Coaching, Psychologische Beratung.",
     "label": "Shiatsu Reiter",
     "shortlabel": "Reiter",
     "tel": "+43 664 4511351",
     "email": "harald.reiter@shiatsu-im-raum.at",
-    "web": "http://haraldreiter.com/"
+    "web": "http://haraldreiter.com/",
+    "facebook": "ShiatsuImRaum",
+    "adresse": "Maria-Tusch-Straße 18/8",
+    "bauplatz": "D10",
+    "latlng": [48.22494,16.50219],
+    "oeffnungszeiten": {
+      "bemerkung": "Termine nach Vereinbarung",
+    }
   },
   "shinergy":{
     "name": "Shinergy Seestadt",
