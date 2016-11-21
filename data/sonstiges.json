@@ -96,14 +96,18 @@
   },
   "buchhalter_wider": {
     "name": "Ing. Michael Wider - Buchhalter vom Feinsten",
-    "beschreibung": "Buchhaltung, Kostenrechnung, Controlling",
+    "beschreibung": "Öffentlich bestellter Buchhalter. Buchhaltung, Kostenrechnung, Controlling.",
     "label": "Buchhalter Wider",
     "shortlabel": "Wider",
     "tel": "+43 699 81 419 544",
-    "email": "feid77@hotmail.com",
     "adresse": "Janis-Joplin-Promenade 8/6/17",
+    "email": "mwbuhamw@gmail.com",
+    "uid": "ATU65867001",
     "bauplatz": "J2",
-    "latlng": [48.22683,16.50383]
+    "latlng": [48.22683,16.50383],
+    "oeffnungszeiten": {
+      "bemerkung": "Flexibel je nach Vereinbarung",
+    }
   },
   "seelsorgezentrum": {
     "name": "Seelsorgezentrum St. Edith Stein",
