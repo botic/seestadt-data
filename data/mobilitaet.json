@@ -63,7 +63,7 @@
   },
   "wipark_p1": {
     "name": "Wipark P1 (D5A)",
-    "beschreibung": "174 Stellplätze. Kurzparken, Tagespauschale, Nachtpauschale und Wochenpauschale (Freitag 18:00 Uhr bis Montag 7:00 Uhr) und Dauerparken.",
+    "beschreibung": "174 Stellplätze mit E-Tankstelle. Kurzparken, Tagespauschale, Nachtpauschale und Wochenpauschale (Freitag 18:00 Uhr bis Montag 7:00 Uhr) und Dauerparken.",
     "web": "http://wipark.parkinghq.com/parking_cities/555005/parking_units/6351",
     "tel": "+43 600 30 22 48122",
     "email": "info@wipark.at",
@@ -74,7 +74,7 @@
   },
   "wipark_p2": {
     "name": "Wipark P2 (D5B)",
-    "beschreibung": "170 Stellplätze. Kurzparken, Tagespauschale, Nachtpauschale und Wochenpauschale (Freitag 18:00 Uhr bis Montag 7:00 Uhr) und Dauerparken.",
+    "beschreibung": "170 Stellplätze mit E-Tankstelle. Kurzparken, Tagespauschale, Nachtpauschale und Wochenpauschale (Freitag 18:00 Uhr bis Montag 7:00 Uhr) und Dauerparken.",
     "web": "http://wipark.parkinghq.com/parking_cities/-554805/parking_units/6507",
     "tel": "+43 600 30 22 48122",
     "email": "info@wipark.at",
@@ -114,5 +114,27 @@
     "bauplatz": "D12",
     "tags": ["carsharing", "leihauto"],
     "latlng": [48.22464406,16.49823546]
+  },
+  "etanke_p1": {
+    "name": "E-Tankstelle P1",
+    "beschreibung": "5 Parkplätze mit Ladestation in Garage für E-Autos. Steckertypen: 3 Typ2, 2 Schuko.",
+    "web": "http://www.tanke-wienenergie.at/",
+    "tel": "+43 1 4004 0",
+    "email": "tanke@wienenergie.at",
+    "adresse": "Schenk-Danzinger-Gasse 4",
+    "bauplatz": "D5A",
+    "tags": ["e-ladestation", "wien energie"],
+    "latlng": [48.22499429,16.5008533]
+  },
+  "etanke_p2": {
+    "name": "E-Tankstelle P2",
+    "beschreibung": "8 Parkplätze mit Ladestation in Garage für E-Autos und E-Roller. Steckertypen: 5 Typ2, 3 Schuko.",
+    "web": "http://www.tanke-wienenergie.at/",
+    "tel": "+43 1 4004 0",
+    "email": "tanke@wienenergie.at",
+    "adresse": "Agnes-Primocic-Gasse 4",
+    "bauplatz": "D5B",
+    "tags": ["e-ladestation", "wien energie"],
+    "latlng": [48.22579482,16.50108933]
   }
 }
