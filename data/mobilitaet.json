@@ -136,5 +136,26 @@
     "bauplatz": "D5B",
     "tags": ["e-ladestation", "wien energie"],
     "latlng": [48.22579482,16.50108933]
+  },
+  "mobiliaetszentrale_wipark": {
+    "name": "Mobilitätszentrale Seestadt & Wipark",
+    "beschreibung": "Anmeldung zur Seestadt Mobilitätskarte und zum Fahrradverleihsystem SeestadtFLOTTE. Garagenplätze mieten, Seewertchen-Parkkarten.",
+    "web": "http://wipark.parkinghq.com/parking_cities/-554805/parking_units/6792",
+    "tel": "+43 1 402286848247",
+    "email": "info@wipark.at",
+    "adresse": "Sonnenallee 33",
+    "bauplatz": "D10",
+    "tags": ["wipark", "seestadtflotte", "verleih"],
+    "latlng": [48.224552, 16.502811],
+    "oeffnungszeiten": {
+      "mo": ["07:00", "11:30", "12:30", "16:30"],
+      "di": ["08:00", "11:30", "12:30", "16:30"],
+      "mi": ["08:00", "11:30", "12:30", "16:30"],
+      "do": ["08:00", "11:30", "12:30", "17:00"],
+      "fr": ["08:00", "11:30", "12:30", "15:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }
