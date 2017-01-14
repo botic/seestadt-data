@@ -43,5 +43,49 @@
     "adresse": "Seestadtstraße 27/17",
     "bauplatz": "C4",
     "latlng": [48.22344,16.50957]
+  },
+  "brotaspern": {
+    "name": "Gemeinschaft B.R.O.T. - Aspern",
+    "beschreibung": "Der gemeinnützige und mildtätige Verein Gemeinschaft B.R.O.T. - Aspern (Beten-Reden-Offensein-Teilen) gehört zu den Baugruppen auf D13. Das Wohnheim wurde im Dezember 2014 bezogen und ist selbst verwaltet.",
+    "adresse": "Hannah-Arendt-Platz 9",
+    "bauplatz": "D13",
+    "email": "brotaspern@gmail.com",
+    "web": "http://www.brot-aspern.at",
+    "uid": "ATU66609814",
+    "zvr": "370786535",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Im Meditationsraum (Erdgeschoß Nord) und im Bewegungsraum (Keller) finden regelmäßige Veranstaltungen statt. Diese können auf Anfrage überlassen werden. Ebenso gibt es einen Therapieraum, in dem unterschiedliche Therapeuten arbeiten. Dieser Raum kann auf regelmäßiger Wochenstundenbasis ebenfalls überlassen werden."
+    }
+  },
+  "wohnprojektseesternaspern": {
+    "name": "Wohnprojekt Seestern Aspern",
+    "beschreibung": "Der Seestern ist ein gemeinnütziges, soziokratisch organisiertes Wohnprojekt am Baugruppen-Baufeld D13E. Es umfasst 27 Wohneinheiten und einen Coworking-Space.",
+    "adresse": "Gisela-Legath-Gasse 5/1a",
+    "bauplatz": "D13E",
+    "email": "office@seestern-aspern.at",
+    "web": "http://seestern-aspern.at/",
+    "facebook": "seestern.aspern",
+    "twitter": "SeesternAspern",
+    "uid": "ATU69452834",
+    "zvr": "021082600",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Im Wohnprojekt befindet sich ein Coworking-Space. Außerdem steht ein Multifunktionsraum für Vermietungen aller Art offen."
+    }
   }
 }
