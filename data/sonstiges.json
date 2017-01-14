@@ -887,5 +887,14 @@
       "ft": [],
       "bemerkung": "Persönliches Gespräch nach Vereinbarung, Kontakt möglich per Telefon, E-Mail, SMS oder WhatsApp."
     }
+  },
+  "uebersetzung_schoenhofer": {
+    "name": "Bianca Schönhofer, MA - Übersetzerin",
+    "beschreibung": "Juristische und wirtschaftliche Übersetzungen DE-EN und EN-DE, Lektorat, Korrektorat",
+    "adresse": "Maria-Tusch-Straße 6/34",
+    "bauplatz": "D12",
+    "tel": "+43 664 466 37 44",
+    "email": "mail@biancaschoenhofer.at",
+    "web": "http://www.biancaschoenhofer.at"
   }
 }
