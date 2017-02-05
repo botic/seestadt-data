@@ -720,27 +720,6 @@
       "ft": []
     }
   },
-  "viktoria": {
-    "name": "Viktoria Mode",
-    "beschreibung": "Damen und Herren Bekleidungsgeschäft für Junge Leute und Familien",
-    "label": "Viktoria",
-    "facebook": "modeviktoria",
-    "tel": "+43 699 18724648",
-    "adresse": "Maria-Tusch-Straße 6",
-    "bauplatz": "D12",
-    "latlng": [48.22452,16.49849],
-    "oeffnungszeiten": {
-      "mo": ["09:00","18:00"],
-      "di": ["09:00","18:00"],
-      "mi": ["09:00","18:00"],
-      "do": ["09:00","18:00"],
-      "fr": ["09:00","18:00"],
-      "sa": ["09:00","18:00"],
-      "sa": ["10:00","17:00"],
-      "so": [],
-      "ft": []
-    }
-  },
   "hoferlohaggasse": {
     "name": "Hofer",
     "beschreibung": "Nächstgelegender Hofer Supermarkt südlich der Seestadt.",
