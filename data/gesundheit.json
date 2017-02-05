@@ -341,5 +341,25 @@
       "ft": [],
       "bemerkung": "Tagesaktueller Kursplan auf der Webseite. Im Kursraum Seestern, in der Seestadt, derzeit jeden Dienstag."
     }
+  },
+  "sonnentreff": {
+    "name": "Sonnentreff",
+    "beschreibung": "Dein Solarium in der Seestadt Aspern",
+    "adresse": "Hermine-Dasovsky-Platz 1",
+    "bauplatz": "D4",
+    "tel": "+43 660 8563399",
+    "email": "office@sonnentreff.at",
+    "web": "http://www.sonnentreff.at",
+    "facebook": "sonnentreff.seestadt.aspern",
+    "oeffnungszeiten": {
+      "mo": ["09:00", "21:00"],
+      "di": ["09:00", "21:00"],
+      "mi": ["09:00", "21:00"],
+      "do": ["09:00", "21:00"],
+      "fr": ["09:00", "21:00"],
+      "sa": ["09:00", "21:00"],
+      "so": ["09:00", "21:00"],
+      "ft": ["09:00", "21:00"]
+    }
   }
 }
