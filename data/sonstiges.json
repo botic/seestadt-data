@@ -896,5 +896,16 @@
     "tel": "+43 664 466 37 44",
     "email": "mail@biancaschoenhofer.at",
     "web": "http://www.biancaschoenhofer.at"
+  },
+  "shareonimo": {
+    "name": "shareonimo.at",
+    "beschreibung": "Online-Anzeigeportal zum Leihen, Mieten und Verleihen von Gegenständen.",
+    "adresse": "Ilse-Arlt Straße 39/7",
+    "bauplatz": "J1",
+    "tel": "+43 6605453755",
+    "email": "office@shareonimo.at",
+    "web": "http://www.shareonimo.at",
+    "facebook": "shareonimo.at",
+    "uid": "ATU71589346"
   }
 }
