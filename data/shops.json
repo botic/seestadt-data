@@ -572,26 +572,6 @@
       "bemerkung": "Montag geschlossen, Termine nach Vereinbarung"
     }
   },
-  "fashion_stage": {
-    "name": "Fashion Stage",
-    "beschreibung": "Mode Boutique. Bekleidungsgeschäft für Damen",
-    "shortlabel": "Stage",
-    "facebook": "Fashion-STAGE-mode-Boutique-970078843080925",
-    "tel": "+43 660 2176332",
-    "adresse": "Sonnenallee 34",
-    "bauplatz": "J9",
-    "latlng": [48.22551,16.50225],
-    "oeffnungszeiten": {
-      "mo": ["11:00","16:15"],
-      "di": ["11:00","16:15"],
-      "mi": ["11:00","16:15"],
-      "do": ["12:00","16:00","18:00","20:00"],
-      "fr": ["11:00","16:15"],
-      "sa": [],
-      "so": [],
-      "ft": []
-    }
-  },
   "simshot": {
     "name": "SiMshot",
     "beschreibung": "Fotostudio",
