@@ -361,5 +361,13 @@
       "so": ["10:00", "20:00"],
       "ft": ["10:00", "20:00"]
     }
+  },
+  "hebammestarke": {
+    "name": "Hebamme Jorinde Starke",
+    "beschreibung": "Schwangerenvorsorge und Hilfe bei Schwangerschaftsbeschwerden, Geburtsvorbereitungskurse, Mutter-Kind-Pass-Beratungen, Hausgeburten, Wochenbettbesuche, Still- und Beikostberatungen",
+    "adresse": "Hannah-Arendt-Platz 9",
+    "bauplatz": "D13D",
+    "tel": "+43 860 5525404",
+    "email": "hebamme.wien@gmail.com"
   }
 }
