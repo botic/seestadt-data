@@ -265,7 +265,18 @@
     "tel": "+43 1 288 80 350",
     "adresse": "Ella-Lingens-Straße 2",
     "bauplatz": "D21A",
-    "latlng": [48.22214,16.50429]
+    "latlng": [48.22214,16.50429],
+    "oeffnungszeiten": {
+      "mo": ["07:00", "16:00"],
+      "di": ["07:00", "16:00"],
+      "mi": ["07:00", "16:00"],
+      "do": ["07:00", "16:00"],
+      "fr": ["07:00", "12:00"],
+      "sa": [""],
+      "so": [""],
+      "ft": [""],
+      "bemerkung": "Bürozeiten der Großwäscherei"
+    }
   },
   "spoe": {
     "name": "SPÖ Seestadt",
