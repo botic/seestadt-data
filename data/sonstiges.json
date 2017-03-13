@@ -306,10 +306,10 @@
       "ft": [""]
     }
   },
-  "wienwork_textilreinigung_waescherei": {
+  "wienwork_textilwaescherei": {
     "name": "Wien Work - Großwäscherei für Textilreinigung & Bügelservice",
     "beschreibung": "Großwäscherei",
-    "label": "WienWork Großwäscherei",
+    "label": "WienWork Wäscherei",
     "shortlabel": "Wäscherei",
     "email": "textilreinigung@wienwork.at",
     "web": "http://www.wienwork.at/de/dienstleistungen/textilreinigung-buegelservice",
