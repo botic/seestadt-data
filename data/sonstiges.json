@@ -255,13 +255,13 @@
     "bauplatz": "D21A",
     "latlng": [48.22214,16.50429]
   },
-  "wienwork_textilreinigung": {
-    "name": "Wien Work - Textilreinigung & Bügelservice",
-    "beschreibung": "Waschen, Putzen, Reinigen und Bügeln",
-    "label": "WienWork Textil",
-    "shortlabel": "Textil",
+  "wienwork_textilreinigung_waescherei": {
+    "name": "Wien Work - Großwäscherei für Textilreinigung & Bügelservice",
+    "beschreibung": "Großwäscherei",
+    "label": "WienWork Großwäscherei",
+    "shortlabel": "Wäscherei",
     "email": "textilreinigung@wienwork.at",
-    "web": "http://www.wienwork.at/textilreinigung_und_b%C3%BCgelservice.aspx",
+    "web": "http://www.wienwork.at/de/dienstleistungen/textilreinigung-buegelservice",
     "tel": "+43 1 288 80 350",
     "adresse": "Ella-Lingens-Straße 2",
     "bauplatz": "D21A",
