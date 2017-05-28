@@ -1,6 +1,8 @@
 # seestadt-data
 ODbL licensed data around Seestadt Aspern. If you know Github you can add new data by sending a pull request. Please take care: use spaces instead of tabs and follow the two space indent rule. All others can submit data via a contact form: https://data.seestadt.city/daten-verbessern
 
+Please ensure that you add the following attribution line to every usage of (parts) this data: `Quelle: data.seestadt.city`
+
 ## Applications using this data
 
 * [data.Seestadt.city](https://data.seestadt.city/)
