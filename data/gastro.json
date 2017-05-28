@@ -24,10 +24,11 @@
   },
   "portobello": {
     "name": "Portobello",
-    "beschreibung": "Pizzaria und Restaurant mit moderner italienischer Küche.",
+    "beschreibung": "Italienisches Restaurant mit frischen Pizzen, moderner Küche und internationalen Spezialitäten.",
     "tags": ["pizza", "pasta", "restaurant", "italienisch", "italiener"],
     "tel": "+43 1 3613666",
     "facebook": "PortobelloVienna",
+    "instagram": "portobello_vienna",
     "web": "http://www.portobello-seestadt.at/",
     "email": "office@portobello-seestadt.at",
     "uid": "ATU69270656",
@@ -35,15 +36,15 @@
     "bauplatz": "D10",
     "latlng": [48.22425,16.50153],
     "oeffnungszeiten": {
-      "bemerkung": "Pizza ganztags von 11:00 bis 21:30 Uhr, Küche von Montag bis Mittwoch von 11:30 bis 14:30 und 17:00 bis 21:30; Donnerstag bis Sonntag von 11:30 bis 21:30 Uhr.",
-      "mo": ["11:00", "23:00"],
-      "di": ["11:00", "23:00"],
-      "mi": ["11:00", "23:00"],
-      "do": ["11:00", "23:00"],
-      "fr": ["11:00", "23:00"],
-      "sa": ["11:00", "23:00"],
-      "so": ["11:00", "23:00"],
-      "ft": ["11:00", "23:00"]
+      "bemerkung": "Pizza ganztags von 11:30 bis 21:30 Uhr, Küche von Montag bis Mittwoch von 11:30 bis 14:30 und 17:00 bis 21:30; Donnerstag bis Sonntag von 11:30 bis 21:30 Uhr.",
+      "mo": ["11:30", "23:00"],
+      "di": ["11:30", "23:00"],
+      "mi": ["11:30", "23:00"],
+      "do": ["11:30", "23:00"],
+      "fr": ["11:30", "23:00"],
+      "sa": ["11:30", "23:00"],
+      "so": ["11:30", "23:00"],
+      "ft": ["11:30", "23:00"]
     }
   },
   "united": {
