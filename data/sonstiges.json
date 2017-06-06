@@ -383,18 +383,6 @@
     "bauplatz": "D13E",
     "latlng": [48.22352,16.49958]
   },
-  "audio_boutique": {
-    "name": "Audio Boutique",
-    "beschreibung": "Online Versandhandel für Musikinstrumente und Zubehör",
-    "uid": "ATU40803706",
-    "email": "sales@audio-boutique.com",
-    "tel": "+43 1293 60 25",
-    "web": "https://www.audio-boutique.com",
-    "facebook": "audioboutiquewarehouse",
-    "adresse": "Maria Tusch Strasse 8/2/1a",
-    "bauplatz": "D13B",
-    "latlng": [48.22416,16.49932]
-  },
   "biotrem": {
     "name": "biotrem",
     "beschreibung": "Geschirr aus Weizenkleie",
