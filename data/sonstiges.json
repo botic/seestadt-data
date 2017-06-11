@@ -966,5 +966,14 @@
     "tel": "+43 681 819 290 48",
     "email": "office@werbetech.at",
     "web": "https://www.werbetech.at"
+  },
+  "herrbertl": {
+    "name": "„Der Herr Bertl“ OG. Werbeagentur",
+    "beschreibung": "Full-Service-Werbeagentur mit Schwerpunkt Grafikdesign – egal ob on- oder offline.",
+    "adresse": "Maria-Tusch-Straße 8/1/14",
+    "bauplatz": "D13B",
+    "tel": "+43 664 522 30 16",
+    "email": "office@derherrbertl.at",
+    "web": "http://www.derherrbertl.at"
   }
 }
