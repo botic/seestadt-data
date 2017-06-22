@@ -975,5 +975,26 @@
     "tel": "+43 664 522 30 16",
     "email": "office@derherrbertl.at",
     "web": "http://www.derherrbertl.at"
+  },
+  "cofabrik": {
+    "name": "COFABRIC GmbH",
+    "beschreibung": "Projektentwicklung und Management für Baugruppen",
+    "adresse": "Hannah-Arendt-Platz 10/203",
+    "bauplatz": "D13C",
+    "tel": "+43 660 704 2928",
+    "email": "office@cofabric.at",
+    "web": "http://www.cofabric.at",
+    "uid": "ATU67642946",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Termin per Telefon oder Email vereinbaren."
+    }
   }
 }
