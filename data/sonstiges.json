@@ -499,7 +499,7 @@
     "web": "http://www.misbela.com",
     "email": "info@misbela.com",
     "tel": "+43 660 3858 479",
-    "adresse": "Schenk-Danzinger Gasse 12/6/27",
+    "adresse": "Schenk-Danzinger-Gasse 12/6/27",
     "bauplatz": "D2",
     "latlng": [48.22603,16.50038]
   },
@@ -950,7 +950,7 @@
   "shareonimo": {
     "name": "shareonimo.at",
     "beschreibung": "Online-Anzeigeportal zum Leihen, Mieten und Verleihen von Gegenständen.",
-    "adresse": "Ilse-Arlt Straße 39/7",
+    "adresse": "Ilse-Arlt-Straße 39/7",
     "bauplatz": "J1",
     "tel": "+43 6605453755",
     "email": "office@shareonimo.at",

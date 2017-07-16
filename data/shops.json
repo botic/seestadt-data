@@ -237,7 +237,7 @@
     "label": "MyKex",
     "beschreibung": "Süßes aus Galizien",
     "facebook": "myKex.at",
-    "adresse": "Mela Spira Gasse 3/H5/205",
+    "adresse": "Mela-Spira-Gasse 3/H5/205",
     "bauplatz": "D8",
     "latlng": [48.22535,16.49891],
     "oeffnungszeiten": {
@@ -366,7 +366,7 @@
     "email": "bw@kunst-keramik.at",
     "tel": "+43 699 195 46 512",
     "uid": "ATU56657718",
-    "adresse": "Maria Tusch Straße 8/1",
+    "adresse": "Maria-Tusch-Straße 8/1",
     "bauplatz": "D13B",
     "latlng": [48.22428,16.49983],
     "oeffnungszeiten": {
@@ -388,7 +388,7 @@
     "web": "http://www.bastellieschen.at",
     "facebook": "Bastellieschen-1407265406214601",
     "email": "office@bastellieschen.at",
-    "adresse": "Maria Tusch Straße 8/4",
+    "adresse": "Maria-Tusch-Straße 8/4",
     "bauplatz": "D13B",
     "latlng": [48.22431,16.49965],
     "tel": "+43 660 2541000",
@@ -410,7 +410,7 @@
     "shortlabel": "12er",
     "web": "http://www.12er.at/",
     "facebook": "12er-glasporzellankeramik-303579606335900",
-    "adresse": "Maria Tusch-Straße 8/6",
+    "adresse": "Maria-Tusch-Straße 8/6",
     "bauplatz": "D13B",
     "latlng": [48.22424,16.49997],
     "uid": "ATU50738509",
@@ -715,7 +715,7 @@
     "name": "Hofer",
     "beschreibung": "Nächstgelegender Hofer Supermarkt südlich der Seestadt.",
     "tel": "+43 57030 34009",
-    "adresse": "Großenzersdorfer Straße / Lohwaggasse 2",
+    "adresse": "Lohwaggasse 2",
     "oeffnungszeiten": {
       "mo": ["07:40", "20:00"],
       "di": ["07:40", "20:00"],
@@ -731,7 +731,7 @@
     "name": "Billa Flugfeldstraße",
     "beschreibung": "Nächstgelegender Billa Supermarkt südlich der Seestadt.",
     "label": "Billa",
-    "adresse": "Großenzersdorfer Straße 74 / Flugfeldstrasse 2",
+    "adresse": "Großenzersdorfer Straße 74",
     "oeffnungszeiten": {
       "mo": ["07:30", "19:50"],
       "di": ["07:30", "19:50"],
