@@ -8,6 +8,7 @@
     "web": "http://coworking.seestern-aspern.at/",
     "email": "work@seestern-aspern.at",
     "adresse": "Gisela-Legath-Gasse 5",
+    "tel": "+43 699 113 170 88",
     "latlng": [48.22354, 16.49957],
     "bauplatz": "D13E"
   },
@@ -16,6 +17,7 @@
     "beschreibung": "Quartiersmanagement und Anlaufpunkt für Fragen, Infos und Initiativen rund um die Seestadt Aspern.",
     "label": "Stadtteilmanagement",
     "shortlabel": "STM Aspern",
+    "tel": "+43 1 33 66 00 99",
     "web": "http://meine.seestadt.info/",
     "email": "fragen@meine.seestadt.info",
     "adresse": "Hannah-Arendt-Platz 1/2",
@@ -42,7 +44,7 @@
     "email": "oladejo@interlinkmarketing.at",
     "facebook": "interlink.oladejo",
     "twitter": "interlinkmarket",
-    "adresse": "Maria-Tusch-Straße 6/16 A",
+    "adresse": "Maria-Tusch-Straße 6/16A/3",
     "bauplatz": "D12",
     "latlng": [48.22447,16.49863],
     "oeffnungszeiten": {
@@ -123,6 +125,7 @@
     "label": "Seelsorgezentrum",
     "shortlabel": "Seelsorge",
     "web": "http://pfarre.aspern.at/Pfarre/StEdith/index.php",
+    "email": "pfarre@aspern.at",
     "tel": "+43 676 363 71 76",
     "adresse": "Maria-Tusch-Straße 11/1",
     "bauplatz": "D9",
@@ -143,8 +146,9 @@
     "name": "Greenlab",
     "beschreibung": "Ein Projekt an der Schnittstelle von Arbeitsmarktpolitik, Landschaftsarchitektur und Stadtplanung, bei dem Jugendliche „Freiräume“ für Jugendliche bauen.",
     "web": "http://www.greenlab.wien/",
-    "adresse": "Ilse-Arlt-Straße 39",
-    "email": "david.biegl@zwopk.at",
+    "adresse": "Ilse-Arlt-Straße 39/1",
+    "tel": "+43 660 3734931",
+    "email": "alexandra.fellinger@zwopk.at",
     "bauplatz": "J1",
     "latlng": [48.22759,16.50302]
   },
@@ -189,7 +193,7 @@
     "label": "WienWork Assistenz",
     "shortlabel": "Assistenz",
     "tel": "+43 1 288 80 540",
-    "email": "rudolf.weissinger@wienwork.at",
+    "email": "terminvereinbarungsarbeitsassistenz@wienwork.at",
     "adresse": "Sonnenalle 51/1-2",
     "web": "http://www.wienwork.at/de/jobs/arbeitsassistenz",
     "bauplatz": "D2",
@@ -386,6 +390,7 @@
   "biotrem": {
     "name": "biotrem",
     "beschreibung": "Geschirr aus Weizenkleie",
+    "tel": "+43 660 313 0660",
     "web": "http://www.biotrem.at",
     "facebook": "Biotrem",
     "email": "office@biotrem.at",
@@ -426,6 +431,7 @@
     "beschreibung": "Kinder- und Hochzeitsfotografie Karolina Horner.",
     "shortlabel": "Kalinka",
     "tags": ["fotografin", "fotografie", "fotos"],
+    "tel": "+43 699 113427 90",
     "facebook": "kalinkaphoto",
     "web": "http://www.kalinkaphoto.at",
     "email": "karolina@kalinkaphoto.at",
@@ -480,17 +486,6 @@
     "adresse": "Ilse-Arlt-Straße 39/20",
     "bauplatz": "J1",
     "latlng": [48.22744,16.50303]
-  },
-  "mediadrom": {
-    "name": "Mediadrom",
-    "beschreibung": "Elektronische Vermarktung von Medienprodukten",
-    "uid": "ATU67654512",
-    "web": "http://mediadrom.eu",
-    "email": "johann.neuhold@mediadrom.eu",
-    "tel": "+43 699 15059189",
-    "adresse": "Hannah-Arendt-Platz 9",
-    "bauplatz": "D13D",
-    "latlng": [48.22365,16.50007]
   },
   "misbela": {
     "name": "Misbela",
@@ -551,7 +546,7 @@
     "beschreibung": "Editor, Filmmaker, Digital Media",
     "uid": "ATU70029079",
     "web": "http://rawtation.com",
-    "email": "manuel.lindinger@gmx.at",
+    "email": "manuel@rawtation.com",
     "tel": "+43 664 2647 094",
     "adresse": "Ilse-Arlt-Straße 39/30",
     "bauplatz": "J1",
@@ -589,7 +584,7 @@
     "uid": "ATU67890008",
     "web": "http://www.a-bix.com",
     "email": "info@a-bix.com",
-    "adresse": "Seestadtstraße 27/18",
+    "adresse": "Seestadtstraße 27/2/18",
     "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
@@ -600,19 +595,7 @@
     "web": "http://www.ascr.at",
     "email": "office@ascr.at",
     "tel": "+43 1 908 93 69",
-    "adresse": "Seestadtstraße  27",
-    "bauplatz": "C4",
-    "latlng": [48.22330,16.50939]
-  },
-  "comdata": {
-    "name": "COM Data - Systemhaus",
-    "beschreibung": "Anbieter und Betreiber von Infrastruktur, CAD, Computeranimation, Computerintegrated Manufaktoring, Datenerfassung, Elektronischer Datenaustausch, Geschäftsprozessoptimierung, Internet Services, Outsourcing, Projektmanagement.",
-    "label": "COM Data",
-    "uid": "ATU69253728",
-    "web": "http://www.comdata.at",
-    "email": "office@comdata.at",
-    "tel": "+43 1 7746655 0",
-    "adresse": "Seestadtstraße  27/10",
+    "adresse": "Seestadtstraße  27/2/19",
     "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
@@ -623,20 +606,8 @@
     "uid": "ATU16065709",
     "web": "http://www.eurodata.co.at",
     "email": "office@eurodata.co.at",
-    "tel": "+43 1 7747073 0",
-    "adresse": "Seestadtstraße  27",
-    "bauplatz": "C4",
-    "latlng": [48.22330,16.50939]
-  },
-  "headspice": {
-    "name": "headspice engineering",
-    "beschreibung": "Seminare, Konferenzen und Tagungen zu Themen aus den Fachbereichen Umweltschutz, Informationstechnologie, Abfall- und Wasserwirtschaft, chemische Analytik, Bautechnik, Qualitätsmanagement und Korrosionsschutz",
-    "label": "headspice",
-    "uid": "ATU65359168",
-    "web": "http://headspice.com",
-    "tel": "+43 676 9671363",
-    "email": "office@headspice.com",
-    "adresse": "Seestadtstraße  27/T1.07",
+    "tel": "+43 1 7747073 80",
+    "adresse": "Seestadtstraße 27/4/28-29",
     "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
@@ -658,7 +629,7 @@
     "web": "http://www.researchtub.at",
     "email": "info@researchtub.at",
     "tel": "+43 1 77 402 74 50",
-    "adresse": "Seestadtstraße  27/3",
+    "adresse": "Seestadtstraße 27/1/10",
     "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
@@ -670,7 +641,7 @@
     "web": "http://www.theobroma-systems.com/",
     "email": "inquiries@theobroma-systems.com",
     "tel": "+43 1 2369893 0",
-    "adresse": "Seestadtstraße  27",
+    "adresse": "Seestadtstraße 27/3/22-23",
     "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
@@ -717,6 +688,7 @@
     "label": "Post",
     "tags": ["post", "briefe", "pakete", "briefkasten"],
     "web": "http://www.wienwork.at/de/dienstleistungen/textilreinigung-buegelservice",
+    "email": "annemarie.hager@wienwork.at",
     "tel": "+43 1 288 80 420",
     "adresse": "Maria-Tusch-Straße 25",
     "bauplatz": "J9",
@@ -798,17 +770,6 @@
     "bauplatz": "J9",
     "latlng": [48.22618,16.50276]
   },
-  "bueroservicenoschiel": {
-    "name": "Büroservice Katja Noschiel",
-    "beschreibung": "Büroservice, mobile Assistenz- und Sekretariatsdienste unterwegs.",
-    "label": "Büroservice Noschiel",
-    "shortlabel": "Noschiel",
-    "tel": "+43 699 181 655 22",
-    "email": "katja.noschiel@chello.at",
-    "adresse": "Susanne-Schmida-Gasse 5/8/30",
-    "bauplatz": "J9",
-    "latlng": [48.22618,16.50276]
-  },
   "polizei": {
     "name": "Polizeiinspektion",
     "shortlabel": "Polizei",
@@ -824,6 +785,7 @@
     "beschreibung": "Einzelhandel mit KFZ-Bestandteilen, KFZ-Zubehör, Handelsagent",
     "shortlabel": "Alucars",
     "adresse": "Hannah-Arendt-Platz 2/c2/8",
+    "tel": "+43 660 258 22 77",
     "email": "office@alucars.at",
     "web": "http://www.alucars.at/",
     "oeffnungszeiten": {
@@ -845,6 +807,7 @@
     "shortlabel": "Sportcourt",
     "web": "http://campus-seestadt.at",
     "tel": "+43 676 811856491",
+    "email": "vs22hannoo84@m56ssr.wien.at",
     "adresse": "Hannah-Arendt-Platz 8",
     "bauplatz": "D18A",
     "latlng": [48.222465,16.499901],
@@ -915,29 +878,6 @@
     "bauplatz": "D10",
     "latlng": [48.22484,16.50213]
   },
-  "versicherungfaullant": {
-    "name": "René Faullant Versicherungsagent",
-    "beschreibung": "Versicherungsvermittlung, Informationen und Empfehlungen in finanziellen Fragen.",
-    "label": "René Faullant",
-    "shortlabel": "Faullant",
-    "adresse": "Frenkel-Brunswik-Gasse 1/D1/2",
-    "bauplatz": "D10",
-    "tel": "+43 676 8200 5544",
-    "email": "Rene.Faullant@dvag.at",
-    "facebook": "rene.faullant",
-    "uid": "28518976",
-    "oeffnungszeiten": {
-      "mo": [],
-      "di": [],
-      "mi": [],
-      "do": [],
-      "fr": [],
-      "sa": [],
-      "so": [],
-      "ft": [],
-      "bemerkung": "Persönliches Gespräch nach Vereinbarung, Kontakt möglich per Telefon, E-Mail, SMS oder WhatsApp."
-    }
-  },
   "uebersetzung_schoenhofer": {
     "name": "Bianca Schönhofer, MA - Übersetzerin",
     "beschreibung": "Juristische und wirtschaftliche Übersetzungen DE-EN und EN-DE, Lektorat, Korrektorat",
@@ -961,7 +901,7 @@
   "werbetech": {
     "name": "WERBETECH.at - Evgheni Ursu",
     "beschreibung": "Design/Layout, Digitaldruck, Folienplott, CNC, Schilder/Leuchtreklamen, Beklebung/Montage",
-    "adresse": "Mimi-Grossberg-Gasse 11/206",
+    "adresse": "Mimi-Grossberg-Gasse 11/201",
     "bauplatz": "D8",
     "tel": "+43 681 819 290 48",
     "email": "office@werbetech.at",
@@ -996,5 +936,14 @@
       "ft": [],
       "bemerkung": "Termin per Telefon oder Email vereinbaren."
     }
+  },
+  "salonjaspern": {
+    "name": "Salon JAspern",
+    "beschreibung": "Der Salon JAspern im Erdgeschoß der Baugruppe JAspern ist ein Ort für Veranstaltungen aller Art im Herzen der Seestadt.",
+    "adresse": "Hannah-Arendt-Platz 10",
+    "bauplatz": "D13C",
+    "email": "salon@jaspern.at",
+    "web": "http://salon.jaspern.at/",
+    "zvr": "811496153"
   }
 }

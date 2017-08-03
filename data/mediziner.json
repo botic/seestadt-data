@@ -56,7 +56,7 @@
     "tel": "+43 699 815 36 186",
     "web": "http://www.neurologie-essling.at/",
     "email": "info@neurologie-essling.at",
-    "adresse": "Maria-Tusch-Straße 18/3",
+    "adresse": "Maria-Tusch-Straße 18/1/3",
     "bauplatz": "D10",
     "latlng": [48.22494,16.50219],
     "oeffnungszeiten": {
@@ -194,9 +194,10 @@
     "label": "Grace Hayek",
     "shortlabel": "Hayek",
     "tags": ["arzt", "privat", "wahlarzt", "kinderarzt", "kinderheilkunde", "jugendheilkunde"],
-    "tel": "+43 1 2640719",
+    "tel": "+43 800 400 171 408",
     "web": "http://www.hayek-kinderarzt.at",
-    "adresse": "Ilse-Arlt-Straße 12/331",
+    "email": "grace@hayek-kinderarzt.at",
+    "adresse": "Ilse-Arlt-Straße 12/H1/331",
     "bauplatz": "D8",
     "latlng": [48.22526,16.49852],
     "oeffnungszeiten": {

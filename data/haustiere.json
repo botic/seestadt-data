@@ -1,8 +1,10 @@
 {
   "tieraerztin": {
     "name": "Tierärztin Dr. Eva Gollob-Kammerer",
-    "adresse": "Maria-Tusch-Straße 7",
+    "adresse": "Maria-Tusch-Straße 7/202",
+    "email": "praxis@tierarzt-seestadt.at",
     "bauplatz": "D8",
+    "tel": "+43 676 9 222 857",
     "latlng": [48.22487,16.49853],
     "oeffnungszeiten": {
       "mo": ["09:00", "11:00", "16:00", "18:00"],
