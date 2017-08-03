@@ -22,7 +22,17 @@
     "email": "fragen@meine.seestadt.info",
     "adresse": "Hannah-Arendt-Platz 1/2",
     "latlng": [48.224146, 16.501665],
-    "bauplatz": "D10"
+    "bauplatz": "D10",
+    "oeffnungszeiten": {
+      "mo": ["09:00", "13:00"],
+      "di": ["09:00", "13:00", "14:00", "18:00"],
+      "mi": [],
+      "do": ["09:00", "13:00", "14:00", "19:00"],
+      "fr": ["09:00", "13:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   },
   "websafari": {
     "name": "websafari",
@@ -48,11 +58,11 @@
     "bauplatz": "D12",
     "latlng": [48.22447,16.49863],
     "oeffnungszeiten": {
-      "mo": ["08:00", "16:30"],
-      "di": ["08:00", "16:30"],
-      "mi": ["08:00", "16:30"],
-      "do": ["08:00", "16:30"],
-      "fr": ["08:00", "16:30"],
+      "mo": ["08:00", "16:00"],
+      "di": ["08:00", "16:00"],
+      "mi": ["08:00", "16:00"],
+      "do": ["08:00", "16:00"],
+      "fr": ["08:00", "16:00"],
       "sa": [],
       "so": [],
       "ft": [],
@@ -124,16 +134,16 @@
     "beschreibung": "Seelsorgestation und Familienberatungszentrum der Erzdiözese Wien",
     "label": "Seelsorgezentrum",
     "shortlabel": "Seelsorge",
-    "web": "http://pfarre.aspern.at/Pfarre/StEdith/index.php",
+    "web": "https://aspern.at/gemeinde/stedith/",
     "email": "pfarre@aspern.at",
     "tel": "+43 676 363 71 76",
     "adresse": "Maria-Tusch-Straße 11/1",
     "bauplatz": "D9",
     "latlng": [48.22467,16.49957],
     "oeffnungszeiten": {
-      "bemerkung": "zusätzlich nach Vereinbarung",
+      "bemerkung": "Im Sommer Sonntag: 11:00 - 12:30 Uhr, hl. Messe: 11:15 Uhr. Zusätzlich nach Vereinbarung",
       "mo": [],
-      "di": ["17:00", "19:00"],
+      "di": [],
       "mi": [],
       "do": [],
       "fr": [],
@@ -185,7 +195,17 @@
     "adresse": "Frenkel-Brunswik-Gasse 1/1",
     "web": "http://www.wienwork.at/de/jobs/jugendcoaching",
     "bauplatz": "D10",
-    "latlng": [48.22387,16.50256]
+    "latlng": [48.22387,16.50256],
+    "oeffnungszeiten": {
+      "mo": ["07:00", "16:00"],
+      "di": ["07:00", "16:00"],
+      "mi": ["07:00", "16:00"],
+      "do": ["07:00", "16:00"],
+      "fr": ["07:00", "12:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   },
   "wienwork_arbeitsassistenz": {
     "name": "Wien Work - Arbeitsassistenz",
@@ -215,7 +235,7 @@
     "beschreibung": "Eine Einrichtung der Berufsqualifizierung. Bereitet Jugendliche und junge Erwachsene mit Handicap auf das Berufsleben vor.",
     "label": "WienWork On the job",
     "shortlabel": "On the job",
-    "web": "http://www.wienwork.at/de/jobs/onthejob",
+    "web": "http://www.wienwork.at/de/jobs_lehrstellen_qualifizierung_beratung/onthejob",
     "tel": "+43 1 288 80 532",
     "email": "gerhard.poppenwimmer@wienwork.at",
     "adresse": "Sonnenalle 47/2 und Sonnenalle 47/49",
@@ -223,7 +243,7 @@
     "latlng": [48.22599,16.50119],
     "oeffnungszeiten": {
       "mo": ["08:00", "14:00"],
-      "di": ["08:00", "14:00"],
+      "di": ["08:00", "13:00"],
       "mi": ["08:00", "14:00"],
       "do": ["08:00", "14:00"],
       "fr": ["08:00", "13:00"],
@@ -242,7 +262,17 @@
     "tel": "+43 1 288 80 355",
     "adresse": "Ella-Lingens-Straße 2",
     "bauplatz": "D21A",
-    "latlng": [48.22214,16.50429]
+    "latlng": [48.22214,16.50429],
+    "oeffnungszeiten": {
+      "mo": ["07:00", "16:00"],
+      "di": ["07:00", "16:00"],
+      "mi": ["07:00", "16:00"],
+      "do": ["07:00", "16:00"],
+      "fr": ["07:00", "12:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   },
   "wienwork_holztechnik": {
     "name": "Wien Work - Holztechnik",
@@ -506,7 +536,18 @@
     "tel": "+43 676 404 25 25",
     "adresse": "Gisela-Legath-Gasse 10/14",
     "bauplatz": "D17",
-    "latlng": [48.22601,16.50030]
+    "latlng": [48.22601,16.50030],
+    "oeffnungszeiten": {
+      "bemerkung": "Bürozeiten",
+      "mo": ["09:00", "16:00"],
+      "di": ["09:00", "16:00"],
+      "mi": ["09:00", "16:00"],
+      "do": ["09:00", "16:00"],
+      "fr": ["09:00", "14:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   },
   "fairsport": {
     "name": "Fairsport Events",
@@ -671,15 +712,15 @@
     "bauplatz": "D8",
     "latlng": [48.224857,16.498762],
     "oeffnungszeiten": {
-      "mo": ["09:00", "17:30"],
-      "di": ["09:00", "18:00"],
-      "mi": ["09:00", "18:00"],
-      "do": ["09:00", "18:00"],
-      "fr": ["09:00", "16:00"],
+      "mo": [],
+      "di": ["09:30", "18:00"],
+      "mi": ["09:30", "18:00"],
+      "do": ["09:30", "18:00"],
+      "fr": [],
       "sa": [],
       "so": [],
       "ft": [],
-      "bemerkung": "Samstag und Sonntag offen für Programm laut Stundenplan."
+      "bemerkung": "Außerhalb der Öffnungszeiten Programm laut Stundenplan."
     }
   },
   "postpartner": {
