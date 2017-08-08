@@ -986,5 +986,49 @@
     "email": "salon@jaspern.at",
     "web": "http://salon.jaspern.at/",
     "zvr": "811496153"
+  },
+  "thirdrail": {
+    "name": " 3rd Rail Engineering GmbH",
+    "label": "3rd Rail",
+    "adresse": "Seestadtstraße 27/1/1.07",
+    "bauplatz": "C4",
+  "facebook": "3rd-Rail-Engineering-GmbH-248029649017134"
+  },
+  "limaaustria": {
+    "name": "Lima Austria GmbH",
+    "beschreibung": "Endoprothetik für Orthopädie und Unfallchirurgie",
+    "adresse": "Seestadtstrasse 27/6-7",
+    "bauplatz": "C4",
+    "tel": "+43 1 2712 469",
+    "email": "office@lima-austria.at",
+    "web": "https://limacorporate.com/world-wide/20/austria.html"
+  },
+  "sclsensortech": {
+    "name": "SCL-Sensor.Tech. Fabrication GmbH",
+    "beschreibung": "Self-sensing Cantilevers",
+    "adresse": "Seestadtstraße 27/27",
+    "bauplatz": "C4",
+    "tel": "+43 1 8904345",
+    "email": "info@sclsensortech.com",
+    "web": "http://www.sclsensortech.com"
+  },
+  "pilotfabriktuwien": {
+    "name": "Pilotfabrik der TU Wien",
+    "beschreibung": "Lernfabrik mit Ausbildungsinhalten der akademischen Lehre mit Fokus auf Industrie 4.0",
+    "adresse": "Seestadtstraße 27/3",
+    "bauplatz": "C4",
+    "tel": "+43 1 77 402 74 50",
+    "email": "info@researchtub.at",
+    "web": "http://pilotfabrik.tuwien.ac.at/"
+  },
+  "seeburgprivatuni": {
+    "name": "Privatuniversität Seeburg",
+    "beschreibung": "Fokus auf Management-Studiengänge, Semi-virtuelles Studienkonzept, Campus Wien",
+    "adresse": "Seestadtstraße 27",
+    "bauplatz": "C4",
+    "tel": "+43 1 361 5900 0",
+    "email": "infowien@uni-seeburg.at",
+    "web": "https://www.uni-seeburg.at/campus-wien/",
+    "facebook": "PrivatuniSchlossSeeburg"
   }
 }
