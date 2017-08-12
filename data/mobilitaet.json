@@ -19,17 +19,17 @@
     "name": "SeestadtFLOTTE - J8",
     "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
     "tags": ["fahrrad", "leihsystem", "e-bike"],
-    "adresse": "Ilse-Arlt-Straße 32/4",
+    "adresse": "Ilse-Arlt-Straße 32",
     "bauplatz": "J8",
     "latlng": [48.22671863,16.50132269]
   },
-  "seestadtflotte_j11": {
-    "name": "SeestadtFLOTTE - J11",
+  "seestadtflotte_d14": {
+    "name": "SeestadtFLOTTE - D14",
     "beschreibung": "Verleihstation mit E-Lastenrädern, E-Bikes und Gangrändern.",
     "tags": ["fahrrad", "leihsystem", "e-bike", "lastenrad", "e-lastenrad"],
-    "adresse": "Sonnenallee 30",
-    "bauplatz": "J11",
-    "latlng": [48.22511044,16.50268257]
+    "adresse": "Frenkel-Brunswick-Gasse 2",
+    "bauplatz": "D14",
+    "latlng": [48.223791,16.502834]
   },
   "seestadtflotte_d10": {
     "name": "SeestadtFLOTTE - D10",
