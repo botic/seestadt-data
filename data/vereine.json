@@ -23,7 +23,7 @@
     "zvr": "349428653",
     "adresse": "Hermine-Dasovsky-Platz 1/35",
     "bauplatz": "D4",
-    "latlng": [48.225033, 16.499813]
+    "latlng": [48.223103711337906,16.49873435497284]
   },
   "vlma": {
     "name": "Vienna Lakeside Music Academy",
@@ -48,6 +48,7 @@
     "name": "Gemeinschaft B.R.O.T. - Aspern",
     "beschreibung": "Der gemeinnützige und mildtätige Verein Gemeinschaft B.R.O.T. - Aspern (Beten-Reden-Offensein-Teilen) gehört zu den Baugruppen auf D13. Das Wohnheim wurde im Dezember 2014 bezogen und ist selbst verwaltet.",
     "adresse": "Hannah-Arendt-Platz 9",
+    "latlng": [48.22366035039328,16.500139832496643],
     "bauplatz": "D13D",
     "email": "info@brot-aspern.at",
     "web": "http://www.brot-aspern.at",
@@ -69,6 +70,7 @@
     "name": "Wohnprojekt Seestern Aspern",
     "beschreibung": "Der Seestern ist ein gemeinnütziges, soziokratisch organisiertes Wohnprojekt am Baugruppen-Baufeld D13E. Es umfasst 27 Wohneinheiten und einen Coworking-Space.",
     "adresse": "Gisela-Legath-Gasse 5/1a",
+    "latlng": [48.22352364826467,16.499416306614876],
     "bauplatz": "D13E",
     "email": "office@seestern-aspern.at",
     "web": "http://seestern-aspern.at/",
