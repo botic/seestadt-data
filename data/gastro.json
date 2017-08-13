@@ -10,7 +10,7 @@
     "uid": "ATU69555028",
     "adresse": "Hannah-Arendt-Platz 1",
     "bauplatz": "D10",
-    "latlng": [48.22425,16.50153],
+    "latlng": [48.224305436557366,16.501521170139313],
     "oeffnungszeiten": {
       "mo": ["11:30"],
       "di": ["11:30"],
@@ -34,7 +34,7 @@
     "uid": "ATU69270656",
     "adresse": "Maria-Tusch-Straße 14/1",
     "bauplatz": "D10",
-    "latlng": [48.22425,16.50153],
+    "latlng": [48.22441622616083,16.50118187069893],
     "oeffnungszeiten": {
       "bemerkung": "Pizza ganztags von 11:30 bis 21:30 Uhr, Küche von Montag bis Mittwoch von 11:30 bis 14:30 und 17:00 bis 21:30; Donnerstag bis Sonntag von 11:30 bis 21:30 Uhr.",
       "mo": ["11:30", "23:00"],
@@ -58,7 +58,7 @@
     "email": "office@unitedincycling.com",
     "adresse": "Sonnenallee 35/2",
     "bauplatz": "D10",
-    "latlng": [48.22454,16.50274],
+    "latlng": [48.22464227194675,16.502663791179657],
     "uid": "ATU69708756",
     "oeffnungszeiten": {
       "mo": [],
@@ -101,7 +101,7 @@
       "email": "office@salzundpfeffer-catering.at",
       "adresse": "Seestadtstraße 27",
       "bauplatz": "C4",
-      "latlng": [48.22346,16.50952],
+      "latlng": [48.223390519697034,16.50934249162674],
       "oeffnungszeiten": {
         "bemerkung": "Zusätzliche Öffnungszeiten für Feiern nach Vereinbarung",
         "mo": ["09:00", "16:00"],
