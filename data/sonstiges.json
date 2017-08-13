@@ -852,7 +852,7 @@
     "email": "vs22hannoo84@m56ssr.wien.at",
     "adresse": "Hannah-Arendt-Platz 8",
     "bauplatz": "D18A",
-    "latlng": [48.222465,16.499901],
+    "latlng": [48.22199845661983,16.49988502264023],
     "oeffnungszeiten": {
       "mo": ["18:00","21:00"],
       "di": ["18:00","21:00"],
@@ -873,7 +873,7 @@
     "tel": "+43 699 19 666 891",
     "adresse": "Hannah-Arendt-Platz 9/2",
     "bauplatz": "D13D",
-    "latlng": [48.22365,16.50007]
+    "latlng": [48.22366035039328,16.500139832496643]
   },
   "feelgoodhotel": {
     "name": "Hotel FeelGood Vienna",

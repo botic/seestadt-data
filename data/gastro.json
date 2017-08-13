@@ -34,7 +34,7 @@
     "uid": "ATU69270656",
     "adresse": "Maria-Tusch-Straße 14/1",
     "bauplatz": "D10",
-    "latlng": [48.22441622616083,16.50118187069893],
+    "latlng": [48.224431, 16.501309],
     "oeffnungszeiten": {
       "bemerkung": "Pizza ganztags von 11:30 bis 21:30 Uhr, Küche von Montag bis Mittwoch von 11:30 bis 14:30 und 17:00 bis 21:30; Donnerstag bis Sonntag von 11:30 bis 21:30 Uhr.",
       "mo": ["11:30", "23:00"],

@@ -208,7 +208,7 @@
     "email": "3bestpartner.seestadt@net-com.at",
     "bauplatz": "D5A",
     "tel": "+43 660 901 1220",
-    "latlng": [48.22494,16.50144],
+    "latlng": [48.224912096044235,16.50149367749691],
     "oeffnungszeiten": {
       "mo": ["09:30", "18:00"],
       "di": ["09:30", "18:00"],
@@ -228,7 +228,7 @@
     "email": "seestadt@wienerstaedische.at",
     "adresse": "Maria-Tusch-Straße 19",
     "bauplatz": "D5B",
-    "latlng": [48.22506,16.50165],
+    "latlng": [48.225055, 16.501739],
     "oeffnungszeiten": {
       "mo": ["09:00", "17:00"],
       "di": ["09:00", "17:00"],
@@ -357,7 +357,7 @@
     "uid": "ATU56657718",
     "adresse": "Maria-Tusch-Straße 8/1",
     "bauplatz": "D13B",
-    "latlng": [48.22428,16.49983],
+    "latlng": [48.22435, 16.499511],
     "oeffnungszeiten": {
       "bemerkung": "Zusätzliche Termine nach telefonischer Vereinbarung",
       "mo": [],
@@ -379,7 +379,7 @@
     "email": "office@bastellieschen.at",
     "adresse": "Maria-Tusch-Straße 8/4",
     "bauplatz": "D13B",
-    "latlng": [48.22431,16.49965],
+    "latlng": [48.224292, 16.499813],
     "tel": "+43 660 2541000",
     "uid": "ATU62553711",
     "oeffnungszeiten": {
@@ -401,7 +401,7 @@
     "facebook": "12er-glasporzellankeramik-303579606335900",
     "adresse": "Maria-Tusch-Straße 8/6",
     "bauplatz": "D13B",
-    "latlng": [48.22424,16.49997],
+    "latlng": [48.224246, 16.500027],
     "uid": "ATU50738509",
     "email": "mail@12er.at",
     "tel": "+43 676 4204112",
@@ -557,9 +557,10 @@
     "email": "renatesocher@spiegelbild.co.at",
     "tel": "+43 660 216 99 30",
     "web": "http://www.spiegelbild.co.at",
+    "facebook": "SPIEGELBILD-Renate-Socher-466955373498414",
     "adresse": "Maria-Tusch-Straße 8/3",
     "bauplatz": "D13B",
-    "latlng": [48.22429,16.49968],
+    "latlng": [48.224323, 16.499637],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["11:00","18:00"],
@@ -607,7 +608,7 @@
     "tel": "+43 699 192 11 775",
     "adresse": "Maria-Tusch-Straße 8/5",
     "bauplatz": "D13B",
-    "latlng": [48.224287567244026,16.4998260140419],
+    "latlng": [48.224267, 16.499936],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["10:00", "17:00"],

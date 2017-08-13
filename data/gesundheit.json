@@ -406,5 +406,15 @@
       "ft": [],
       "bemerkung": "Termine nach telefonischer Vereinbarung."
     }
+  },
+  "massagemueller": {
+    "name": "Massagepraxis Ina Müller",
+    "beschreibung": "Klassische Massage, Hot Stone Massage, Fußreflexzonenmassage, Lymphdrainage, Massage in der Schwangerschaft, Akupunkturmassage, Schröpfen.",
+    "adresse": "Maria-Tusch-Straße 14/14",
+    "latlng": [48.224529, 16.501413],
+    "bauplatz": "D10",
+    "tel": "+43 676 945 99 52",
+    "email": "info@massageinstitut.co.at",
+    "web": "http://www.massageinstitut.co.at/"
   }
 }
