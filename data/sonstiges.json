@@ -79,7 +79,7 @@
     "email": "office@weiss-linguistic-services.eu",
     "adresse": "Janis-Joplin-Promenade 6-8/4/1",
     "bauplatz": "J2",
-    "latlng": [48.22716,16.50344]
+    "latlng": [48.227164, 16.503445]
   },
   "attensam": {
     "name": "Attensam Seestadt Aspern",
@@ -116,7 +116,7 @@
     "email": "mwbuhamw@gmail.com",
     "uid": "ATU65867001",
     "bauplatz": "J2",
-    "latlng": [48.22683,16.50383],
+    "latlng": [48.226796, 16.503972],
     "oeffnungszeiten": {
       "bemerkung": "Flexibel je nach Vereinbarung",
       "mo": [],
@@ -380,7 +380,7 @@
     "uid": "ATU62680101",
     "adresse": "Janis-Joplin-Promenade 8/6/2",
     "bauplatz": "J2",
-    "latlng": [48.22653,16.50429]
+    "latlng": [48.226796, 16.503972]
   },
   "dolmetscher_bashir": {
     "name": "Dolmetscher Neamul Bashir",
@@ -391,7 +391,7 @@
     "email": "neamul.bashir@chello.at",
     "adresse": "Janis-Joplin-Promenade 8/6/11",
     "bauplatz": "J2",
-    "latlng": [48.22682,16.50382]
+    "latlng": [48.226796, 16.503972]
   },
   "raetselfabrik": {
     "name": "Rätselfabrik",
@@ -440,7 +440,7 @@
     "email": "luiza@luizapuiu.com",
     "adresse": "Gisela-Legath-Gasse 5/27",
     "bauplatz": "D13E",
-    "latlng": [48.22356,16.49948]
+    "latlng": [48.22352364826467,16.499416306614876]
   },
   "fotografin_elisabethfeldner": {
     "name": "Hochzeitsfotografin Elisabeth Feldner",
@@ -467,7 +467,7 @@
     "email": "karolina@kalinkaphoto.at",
     "adresse": "Schenk-Danzinger-Gasse 6/4/32",
     "bauplatz": "D5A",
-    "latlng": [48.22541,16.50073]
+    "latlng": [48.225378, 16.500759]
   },
   "fotograf_naderer": {
     "name": "Philipp Naderer",
@@ -710,7 +710,7 @@
     "email": "office@koenigskinder.at",
     "adresse": "Maria-Tusch-Straße 9/3/202",
     "bauplatz": "D8",
-    "latlng": [48.224857,16.498762],
+    "latlng": [48.224795053315695,16.498840302228928],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["09:30", "18:00"],
@@ -733,7 +733,7 @@
     "tel": "+43 1 288 80 420",
     "adresse": "Maria-Tusch-Straße 25",
     "bauplatz": "J9",
-    "latlng": [48.2257014, 16.5023558],
+    "latlng": [48.22565723202478,16.50280863046646],
     "oeffnungszeiten": {
       "mo": [ "08:00",  "17:00"],
       "di": [ "08:00",  "17:00"],
@@ -1043,5 +1043,47 @@
     "email": "infowien@uni-seeburg.at",
     "web": "https://www.uni-seeburg.at/campus-wien/",
     "facebook": "PrivatuniSchlossSeeburg"
+  },
+  "hoerbiger": {
+    "name": "HOERBIGER Ventilwerke GmbH & Co KG",
+    "beschreibung": "Hoerbiger ist ein in der Kompressortechnik, Antriebstechnik und Hydraulik weltweit führender Technologiekonzern.",
+    "adresse": "Seestadtstraße 25",
+    "latlng": [48.222497, 16.510272],
+    "bauplatz": "C2",
+    "tel": "+43 0 1 22440",
+    "email": "info-hvw@hoerbiger.com",
+    "web": "http://www.hoerbiger.com/"
+  },
+  "greenhouse": {
+    "name": "ÖJAB-GreenHouse",
+    "beschreibung": "Studierenden-Wohnheim mit über 300 Wohnheimplätzen.",
+    "adresse": "Sonnenallee 41",
+    "latlng": [48.22546156787152, 16.50169551372528],
+    "bauplatz": "D5B",
+    "tel": "+43 1 890 40 04 10",
+    "email": "greenhouse@oejab.at",
+    "web": "http://www.oejab.at/greenhouse"
+  },
+  "fotografin_elenarachor": {
+    "name": "Elena Rachor – Fotografin",
+    "beschreibung": "Portraitfotografin.",
+    "label": "Rachor",
+    "facebook": "ElenaRachorPhotography",
+    "web": "http://www.elena-rachor.at/",
+    "tel": "+43 699 105 114 72",
+    "email": "mail@elena-rachor.at",
+    "adresse": "Sonnenallee 38/15/1",
+    "bauplatz": "J9",
+    "latlng": [48.225885, 16.501847]
+  },
+  "homeforstudents": {
+    "name": "Home4Students PopUp dorms",
+    "beschreibung": "Pop-up Studierenden-Wohnheim aus transportablen Holzboxen mit 44 Wohnheimplätzen.",
+    "adresse": "Sonnenallee 28-30",
+    "latlng": [48.22481024208183,16.503159999847412],
+    "bauplatz": "J11",
+    "tel": "+43 676 898 448 522",
+    "email": "b.erlmoser@home4students.at",
+    "web": "https://www.home4students.at/wohnen/studentenheime-wien/popup-dorms-seestadt-aspern/"
   }
 }

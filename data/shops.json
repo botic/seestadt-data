@@ -285,7 +285,7 @@
     "web": "http://www.harmonieklang.at",
     "adresse": "Janis-Joplin-Promenade 6/5/1A",
     "bauplatz": "J2",
-    "latlng": [48.22691,16.50338],
+    "latlng": [48.22685800387185,16.503268629312515],
     "tel": "+43 664 6581150",
     "email": "office@harmonieklang.at",
     "facebook": "harmonieklangat",
@@ -445,7 +445,7 @@
     "beschreibung": "Atelier Briant Rokyta. Bilder, Skulpturen, Kunstworkshops und Kunsttherapie.",
     "adresse": "Maria-Tusch-Straße 8/1/43",
     "bauplatz": "D13B",
-    "latlng": [48.22430,16.49970],
+    "latlng": [48.22426523059357,16.499340534210205],
     "tel": "+43 676 540 75 96",
     "email": "briantrokyta@gmail.com",
     "web": "http://www.briantrokyta.com",
@@ -496,7 +496,7 @@
     "web": "http://www.wienwork.at/de/dienstleistungen/polstern-naehen",
     "adresse": "Maria-Tusch-Straße 31",
     "bauplatz": "J2",
-    "latlng": [48.22622,16.50369],
+    "latlng": [48.226128073747894,16.50366023182869],
     "oeffnungszeiten": {
       "mo": ["07:00", "16:00"],
       "di": ["07:00", "16:00"],
@@ -518,7 +518,7 @@
     "web": "http://www.wienwork.at/de/dienstleistungen/textilreinigung-buegelservice",
     "adresse": "Maria-Tusch-Straße 25",
     "bauplatz": "J9",
-    "latlng": [48.22581,16.50297],
+    "latlng": [48.22565723202478,16.50280863046646],
   	"oeffnungszeiten": {
       "mo": ["08:00","17:00"],
       "di": ["08:00","17:00"],
@@ -538,7 +538,7 @@
     "tel": "+43 1 210 90 04",
     "adresse": "Maria-Tusch-Straße 13",
     "bauplatz": "D9",
-    "latlng": [48.22453,16.50026],
+    "latlng": [48.22453371648639,16.500109657645226],
     "oeffnungszeiten": {
       "mo": ["08:00", "12:00", "12:30", "18:00"],
       "di": ["08:00", "12:00", "12:30", "18:00"],
@@ -607,7 +607,7 @@
     "tel": "+43 699 192 11 775",
     "adresse": "Maria-Tusch-Straße 8/5",
     "bauplatz": "D13B",
-    "latlng": [48.224408,16.499432],
+    "latlng": [48.224287567244026,16.4998260140419],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["10:00", "17:00"],
@@ -668,7 +668,7 @@
     "tel": "+43 676 3576255",
     "adresse": "Maria-Tusch-Straße 6",
     "bauplatz": "D12",
-    "latlng": [48.224543, 16.498598],
+    "latlng": [48.22440818498801,16.499087065458298],
     "oeffnungszeiten": {
       "mo": ["10:00","19:00"],
       "di": ["10:00","19:00"],

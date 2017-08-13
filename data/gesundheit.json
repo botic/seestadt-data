@@ -32,7 +32,7 @@
     "tel": "+43 650 995 2887",
     "adresse": "Hannah-Arendt-Platz 9",
     "bauplatz": "D13D",
-    "latlng": [48.22365,16.50007],
+    "latlng": [48.22366035039328,16.500139832496643],
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],
@@ -282,7 +282,7 @@
     "email": "christian.mafee@shinergy.com",
     "adresse": "Hannah-Arendt-Platz 9",
     "bauplatz": "D13D",
-    "latlng": [48.22363,16.50007],
+    "latlng": [48.22366035039328,16.500139832496643],
     "facebook": "Shinergy-Stadlau-und-Seestadt-278378619854",
     "web": "http://www.shinergy.com/de/be-a-rebel/shinergy-seestadt/",
     "oeffnungszeiten": {
@@ -305,7 +305,7 @@
     "tel": "+43 699 171 33 982",
     "email": "simonewimmer132@gmail.com",
     "adresse": "Hannah-Arendt-Platz 9",
-    "latlng": [48.223654, 16.500002],
+    "latlng": [48.22366035039328,16.500139832496643],
     "bauplatz": "D13D"
   },
   "psychotherapie_genewein": {
