@@ -9,7 +9,7 @@
     "email": "work@seestern-aspern.at",
     "adresse": "Gisela-Legath-Gasse 5",
     "tel": "+43 699 113 170 88",
-    "latlng": [48.22354, 16.49957],
+    "latlng": [48.22350,16.49952],
     "bauplatz": "D13E"
   },
   "stadtteilmanagement": {
@@ -886,13 +886,13 @@
     "facebook": "hotelfeelgoodvienna",
     "adresse": "Mimi-Grossberg-Gasse 4",
     "bauplatz": "D13A",
-    "latlng": [48.223884, 16.499049]
+    "latlng": [48.22390,16.49913]
   },
   "realitylab": {
     "name": "realitylab",
     "beschreibung": "Begleitung von sozialen Prozessen im Wohnbau. Unterstützung von Baugruppen und Bewohnergemeinschaften bei der Selbstorganisation. Soziale Nachhaltigkeit im Wohnbau. Moderationen.",
     "adresse": "Gisela-Legath-Gasse 5/1",
-    "latlng": [48.22353,16.49957],
+    "latlng": [48.22350,16.49952],
     "bauplatz": "D13",
     "tel": "+43 1 9962015",
     "email": "office@realitylab.at",
