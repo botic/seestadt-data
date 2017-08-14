@@ -171,7 +171,7 @@
     "email": "11221@ruefa.at",
     "adresse": "Maria-Tusch-Straße 15/2",
     "bauplatz": "D5A",
-    "latlng": [48.22481470936515,16.501329392194748],
+    "latlng": [48.224787, 16.501283],
     "oeffnungszeiten": {
       "mo": ["09:00", "18:00"],
       "di": ["09:00", "18:00"],
@@ -189,7 +189,7 @@
     "shortlabel": "Trafik",
     "adresse": "Maria-Tusch-Straße 17/1/2",
     "bauplatz": "D5A",
-    "latlng": [48.224876357834894,16.50143265724182],
+    "latlng": [48.224821, 16.501336],
     "oeffnungszeiten": {
       "mo": ["06:30", "18:30"],
       "di": ["06:30", "18:30"],
@@ -228,7 +228,7 @@
     "email": "seestadt@wienerstaedische.at",
     "adresse": "Maria-Tusch-Straße 19",
     "bauplatz": "D5B",
-    "latlng": [48.225055, 16.501739],
+    "latlng": [48.225024, 16.501688],
     "oeffnungszeiten": {
       "mo": ["09:00", "17:00"],
       "di": ["09:00", "17:00"],
