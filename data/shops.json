@@ -633,7 +633,7 @@
     "tel": "+43 660 8425917",
     "adresse": "Gisela-Legath-Gasse 5/1",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49957]
+    "latlng": [48.22350,16.49952]
   },
   "kwsseestadtkueche": {
     "name": "Seestadt Küche & Wohnen",
@@ -690,7 +690,7 @@
     "tel": "+43 810810 373",
     "adresse": "Maria-Tusch-Straße 11",
     "bauplatz": "D9",
-    "latlng": [48.22460,16.49989],
+    "latlng": [48.22457,16.49991],
     "oeffnungszeiten": {
       "mo": ["10:00","14:00","14:30","18:30"],
       "di": ["10:00","14:00","14:30","18:30"],

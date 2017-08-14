@@ -103,7 +103,7 @@
     "adresse": "Ilse-Arlt-Straße 4–6",
     "bauplatz": "D12",
     "tags": ["auto", "parkgarage", "abstellplatz"],
-    "latlng": [48.22428667,16.49789214]
+    "latlng": [48.22429,16.49799]
   },
   "zipcar_mts": {
     "name": "Zipcar Carsharing",

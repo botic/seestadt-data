@@ -9,7 +9,7 @@
     "email": "therapie@physio-aspern.at",
     "adresse": "Ilse-Arlt-Straße 5/2",
     "bauplatz": "D11",
-    "latlng": [48.22428,16.49763],
+    "latlng": [48.22420,16.49766],
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
       "mo": [],
@@ -159,7 +159,7 @@
     "facebook": "kilibee.at",
     "adresse": "Gisela-Legath-Gasse 5/1",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49957],
+    "latlng": [48.22350,16.49952],
     "oeffnungszeiten": {
       "bemerkung": "Zusätzliche Termine nach individueller Vereinbarung",
       "mo": [],
@@ -180,7 +180,7 @@
     "web": "http://www.dreisicht.at/",
     "adresse": "Gisela-Legath-Gasse 5/20",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49957]
+    "latlng": [48.22353,16.49944]
   },
   "psychotherapie_mayrhofer": {
     "name": "Praxis Mag. Mayrhofer",
@@ -192,7 +192,7 @@
     "web": "http://praxis.colorme.at",
     "adresse": "Gisela-Legath-Gasse 5",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49957]
+    "latlng": [48.22350,16.49952]
   },
   "elmar_meierzedt_koerperarbeit": {
     "name": "Elmar Meierzedt - Integrale Körperarbeit & Massage",
@@ -203,7 +203,7 @@
     "tel": "+43 699 12 822 571",
     "adresse": "Gisela-Legath-Gasse 5/1",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49957]
+    "latlng": [48.22350,16.49952]
   },
   "elmar_meierzedt_yoga": {
     "name": "Seestadt YOGA",
@@ -214,7 +214,7 @@
     "tel": "+43 699 12 822 571",
     "adresse": "Gisela-Legath-Gasse 5/1",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49957],
+    "latlng": [48.22350,16.49952],
     "oeffnungszeiten": {
       "bemerkung": "Begrenzte Teilnehmerzahl. Anmeldung erbeten unter buero@handverstand.at.",
       "mo": [],
@@ -248,7 +248,7 @@
     "tel": "+43 676 720 9300",
     "adresse": "Maria-Tusch-Straße 11",
     "bauplatz": "D9",
-    "latlng": [48.22464,16.49972]
+    "latlng": [48.22461,16.49972]
   },
   "shiatsu_reiter": {
     "name": "Shiatsu Harald Reiter",

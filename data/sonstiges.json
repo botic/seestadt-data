@@ -139,7 +139,7 @@
     "tel": "+43 676 363 71 76",
     "adresse": "Maria-Tusch-Straße 11/1",
     "bauplatz": "D9",
-    "latlng": [48.22467,16.49957],
+    "latlng": [48.22464,16.49956],
     "oeffnungszeiten": {
       "bemerkung": "Im Sommer Sonntag: 11:00 - 12:30 Uhr, hl. Messe: 11:15 Uhr. Zusätzlich nach Vereinbarung",
       "mo": [],
@@ -415,7 +415,7 @@
     "tel": "+43 1 9692375",
     "adresse": "Gisela-Legath-Gasse 5/1",
     "bauplatz": "D13E",
-    "latlng": [48.22352,16.49958]
+    "latlng": [48.22350,16.49952]
   },
   "biotrem": {
     "name": "biotrem",
@@ -440,7 +440,7 @@
     "email": "luiza@luizapuiu.com",
     "adresse": "Gisela-Legath-Gasse 5/27",
     "bauplatz": "D13E",
-    "latlng": [48.22352364826467,16.499416306614876]
+    "latlng": [48.22353,16.49944]
   },
   "fotografin_elisabethfeldner": {
     "name": "Hochzeitsfotografin Elisabeth Feldner",
@@ -478,7 +478,7 @@
     "email": "philipp@naderer.biz",
     "adresse": "Gisela-Legath-Gasse 5/27",
     "bauplatz": "D13E",
-    "latlng": [48.22356,16.49948]
+    "latlng": [48.22353,16.49944]
   },
   "kps_krassnitzer": {
     "name": "KPS Krassnitzer Physical Security",
@@ -503,7 +503,7 @@
     "tel": "+43 664 28 30 566",
     "adresse": "Ilse-Arlt-Straße 4",
     "bauplatz": "D12",
-    "latlng": [48.22400,16.49792]
+    "latlng": [48.22394,16.49786]
   },
   "sakurashape" : {
     "name": "sakurashape",
