@@ -5,7 +5,7 @@
     "email": "praxis@tierarzt-seestadt.at",
     "bauplatz": "D8",
     "tel": "+43 676 9 222 857",
-    "latlng": [48.22487,16.49853],
+    "latlng": [48.22484, 16.49853],
     "oeffnungszeiten": {
       "mo": ["09:00", "11:00", "16:00", "18:00"],
       "di": ["16:00", "18:00"],
@@ -27,7 +27,7 @@
     "uid": "ATU70088406",
     "adresse": "Maria-Tusch-Straße 6",
     "bauplatz": "D12",
-    "latlng": [48.224443030061146,16.49888187646866],
+    "latlng": [48.22442, 16.49900],
     "oeffnungszeiten": {
       "mo": ["08:00","15:00"],
       "di": ["08:00","15:00"],

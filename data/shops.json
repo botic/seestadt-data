@@ -265,7 +265,7 @@
     "web": "http://www.dr-bike.at/filialen/DR-Bike-Seestadt_301",
     "adresse": "Maria-Tusch-Straße 9/102",
     "bauplatz": "D8",
-    "latlng": [48.22483,16.49871],
+    "latlng": [48.22479, 16.49870],
     "tel": "+43 1 280 698 6",
     "oeffnungszeiten": {
       "bemerkung": "Von März bis September bei Schönwetter bis 19 Uhr geöffnet.",
@@ -357,7 +357,7 @@
     "uid": "ATU56657718",
     "adresse": "Maria-Tusch-Straße 8/1",
     "bauplatz": "D13B",
-    "latlng": [48.22435, 16.499511],
+    "latlng": [48.22433, 16.49963],
     "oeffnungszeiten": {
       "bemerkung": "Zusätzliche Termine nach telefonischer Vereinbarung",
       "mo": [],
@@ -379,7 +379,7 @@
     "email": "office@bastellieschen.at",
     "adresse": "Maria-Tusch-Straße 8/4",
     "bauplatz": "D13B",
-    "latlng": [48.224292, 16.499813],
+    "latlng": [48.22428, 16.49989],
     "tel": "+43 660 2541000",
     "uid": "ATU62553711",
     "oeffnungszeiten": {
@@ -538,7 +538,7 @@
     "tel": "+43 1 210 90 04",
     "adresse": "Maria-Tusch-Straße 13",
     "bauplatz": "D9",
-    "latlng": [48.22453371648639,16.500109657645226],
+    "latlng": [48.22454, 16.50007],
     "oeffnungszeiten": {
       "mo": ["08:00", "12:00", "12:30", "18:00"],
       "di": ["08:00", "12:00", "12:30", "18:00"],
@@ -560,7 +560,7 @@
     "facebook": "SPIEGELBILD-Renate-Socher-466955373498414",
     "adresse": "Maria-Tusch-Straße 8/3",
     "bauplatz": "D13B",
-    "latlng": [48.224323, 16.499637],
+    "latlng": [48.22430, 16.49976],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["11:00","18:00"],
@@ -646,7 +646,7 @@
     "tel": "+43 1 890 79 57",
     "adresse": "Maria-Tusch-Straße 6",
     "bauplatz": "D12",
-    "latlng": [48.224587, 16.498633],
+    "latlng": [48.22444, 16.49892],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["10:00","17:00"],

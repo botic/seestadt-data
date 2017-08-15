@@ -56,7 +56,7 @@
     "twitter": "interlinkmarket",
     "adresse": "Maria-Tusch-Straße 6/16A/3",
     "bauplatz": "D12",
-    "latlng": [48.22447,16.49863],
+    "latlng": [48.22449, 16.49866],
     "oeffnungszeiten": {
       "mo": ["08:00", "16:00"],
       "di": ["08:00", "16:00"],
@@ -710,7 +710,7 @@
     "email": "office@koenigskinder.at",
     "adresse": "Maria-Tusch-Straße 9/3/202",
     "bauplatz": "D8",
-    "latlng": [48.224795053315695,16.498840302228928],
+    "latlng": [48.22473, 16.49905],
     "oeffnungszeiten": {
       "mo": [],
       "di": ["09:30", "18:00"],
@@ -947,7 +947,7 @@
     "name": "WERBETECH.at - Evgheni Ursu",
     "beschreibung": "Design/Layout, Digitaldruck, Folienplott, CNC, Schilder/Leuchtreklamen, Beklebung/Montage",
     "adresse": "Mimi-Grossberg-Gasse 11/201",
-    "latlng": [48.22511, 16.49935],
+    "latlng": [48.22477, 16.49890],
     "bauplatz": "D8",
     "tel": "+43 681 819 290 48",
     "email": "office@werbetech.at",
