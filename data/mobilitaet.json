@@ -124,7 +124,7 @@
     "adresse": "Schenk-Danzinger-Gasse 4",
     "bauplatz": "D5A",
     "tags": ["e-ladestation", "wien energie"],
-    "latlng": [48.22499429,16.5008533]
+    "latlng": [48.22489, 16.50098]
   },
   "etanke_p2": {
     "name": "E-Tankstelle P2",

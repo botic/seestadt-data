@@ -52,7 +52,7 @@
     "beschreibung": "Coaching für Burnout-Gefährdete, Beratung und Gruppe für Angehörige, Vorträge",
     "adresse": "Mimi-Grossberg-Gasse 11/312",
     "bauplatz": "D8",
-    "latlng": [48.2251131230068,16.4993217587471],
+    "latlng": [48.22511, 16.49935],
     "facebook": "BurnoutCoachAspern",
     "web": "http://www.burnout-coach.at/",
     "tel": "+43 650 2859537",
@@ -63,12 +63,12 @@
     "label": "Psychotherapie Eigel",
     "shortlabel": "Eigel",
     "beschreibung": "Psychotherapie, Mediation, Coaching",
-    "adresse": "Mimi-Grossberg-Gasse 11/1/312",
+    "adresse": "Mimi-Grossberg-Gasse 11/312",
     "bauplatz": "D8",
     "tel": "+43 681 1085 2258",
     "email": "karl@eigel.at",
     "web": "http://www.praxis-seestadt.at/",
-    "latlng": [48.2251131230068,16.4993217587471],
+    "latlng": [48.22511, 16.49935],
     "facebook": "PsychotherapieAspern",
     "oeffnungszeiten": {
       "bemerkung": "Nach individueller Vereinbarung",
@@ -237,7 +237,7 @@
     "email": "bettina.golds@gmail.com",
     "adresse": "Mimi-Grossberg-Gasse 11/312",
     "bauplatz": "D8",
-    "latlng": [48.2251131230068,16.4993217587471]
+    "latlng": [48.22511, 16.49935]
   },
   "psychotherapie_fellner": {
     "name": "Psychotherapeutische Praxis Richard L. Fellner",
@@ -315,7 +315,7 @@
     "shortlabel": "Genewein",
     "adresse": "Mimi-Grossberg-Gasse 11/312",
     "bauplatz": "D8",
-    "latlng": [48.2251131230068,16.4993217587471],
+    "latlng": [48.22511, 16.49935],
     "web": "http://www.daniela-genewein.at/",
     "tel": "+43 677 619 908 60",
     "email": "d.genewein@gmail.com"

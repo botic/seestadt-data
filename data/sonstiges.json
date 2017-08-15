@@ -183,7 +183,7 @@
     "web": "http://www.agenturquadrat.at/",
     "facebook": "agenturquadrat",
     "bauplatz": "D10",
-    "latlng": [48.22399,16.50267]
+    "latlng": [48.22394, 16.50271]
   },
   "wienwork_jugendcoaching": {
     "name": "Wien Work - Jugendcoaching",
@@ -526,7 +526,7 @@
     "tel": "+43 660 3858 479",
     "adresse": "Schenk-Danzinger-Gasse 12/6/27",
     "bauplatz": "D2",
-    "latlng": [48.22603,16.50038]
+    "latlng": [48.22595, 16.50018]
   },
   "katzengitter": {
     "name": "Katzengitter.org",
@@ -536,7 +536,7 @@
     "tel": "+43 676 404 25 25",
     "adresse": "Gisela-Legath-Gasse 10/14",
     "bauplatz": "D17",
-    "latlng": [48.22601,16.50030],
+    "latlng": [48.22330, 16.49977],
     "oeffnungszeiten": {
       "bemerkung": "Bürozeiten",
       "mo": ["09:00", "16:00"],
@@ -557,7 +557,7 @@
     "web": "http://www.fairnessrun.at",
     "adresse": "Schenk-Danzinger-Gasse 9/3/5",
     "bauplatz": "D4",
-    "latlng": [48.22583,16.50001]
+    "latlng": [48.22587,16.50005]
   },
   "smarthlete": {
     "name": "Smarthlete",
@@ -604,7 +604,7 @@
     "tel": "+43 699 12 04 22 64",
     "adresse": "Schenk-Danzinger-Gasse 9/3/5",
     "bauplatz": "D4",
-    "latlng": [48.22584,16.50001]
+    "latlng": [48.22587,16.50005]
   },
   "alexsastra": {
     "name": "Alexsastra - Alex & the stars",
@@ -616,7 +616,7 @@
     "tel": "+43 664 9110499",
     "adresse": "Ilse-Arlt-Straße 20/1/23",
     "bauplatz": "D4",
-    "latlng": [48.22577,16.49870]
+    "latlng": [48.22585, 16.49870]
   },
   "abix": {
     "name": "Abix - Austrian Bit Experts",
@@ -947,7 +947,7 @@
     "name": "WERBETECH.at - Evgheni Ursu",
     "beschreibung": "Design/Layout, Digitaldruck, Folienplott, CNC, Schilder/Leuchtreklamen, Beklebung/Montage",
     "adresse": "Mimi-Grossberg-Gasse 11/201",
-    "latlng": [48.2251131230068,16.4993217587471],
+    "latlng": [48.22511, 16.49935],
     "bauplatz": "D8",
     "tel": "+43 681 819 290 48",
     "email": "office@werbetech.at",
@@ -1058,7 +1058,7 @@
     "name": "ÖJAB-GreenHouse",
     "beschreibung": "Studierenden-Wohnheim mit über 300 Wohnheimplätzen.",
     "adresse": "Sonnenallee 41",
-    "latlng": [48.22546156787152, 16.50169551372528],
+    "latlng": [48.22544,16.50167],
     "bauplatz": "D5B",
     "tel": "+43 1 890 40 04 10",
     "email": "greenhouse@oejab.at",
@@ -1080,7 +1080,7 @@
     "name": "Home4Students PopUp dorms",
     "beschreibung": "Pop-up Studierenden-Wohnheim aus transportablen Holzboxen mit 44 Wohnheimplätzen.",
     "adresse": "Sonnenallee 28-30",
-    "latlng": [48.22481024208183,16.503159999847412],
+    "latlng": [48.22490, 16.50340],
     "bauplatz": "J11",
     "tel": "+43 676 898 448 522",
     "email": "b.erlmoser@home4students.at",

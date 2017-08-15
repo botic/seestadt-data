@@ -426,7 +426,7 @@
     "tel": "+43 1 812 32 30 0",
     "adresse": "Mimi-Grossberg-Gasse 11/301",
     "bauplatz": "D8",
-    "latlng": [48.225303427803816,16.49936333298683],
+    "latlng": [48.22530, 16.49940],
     "uid": "ATU38290602",
     "oeffnungszeiten": {
       "mo": ["09:00","17:00"],
@@ -474,7 +474,7 @@
     "tel": "+43 1 288 80 410",
     "adresse": "Maria-Tusch-Straße 21",
     "bauplatz": "J9",
-    "latlng": [48.22543,16.50234],
+    "latlng": [48.22540, 16.50238],
     "oeffnungszeiten": {
       "mo": ["08:00", "17:00"],
       "di": ["08:00", "17:00"],
