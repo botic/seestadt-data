@@ -49,6 +49,7 @@
   },
   "united": {
     "name": "United In Cycling",
+    "tags": ["uic"],
     "shortlabel": "United",
     "beschreibung": "Fahrradcafé, Fahrradhandel & Service, Kinderräder, Scooter, Longboards, Kaffee, Kuchen, Snacks. Verein zur Förderung der Radkultur und des interkulturellen Austausches.",
     "tags": ["cafe", "kaffee", "werkstatt", "fahrrad"],
@@ -58,7 +59,7 @@
     "email": "office@unitedincycling.com",
     "adresse": "Sonnenallee 35/2",
     "bauplatz": "D10",
-    "latlng": [48.22464227194675,16.502663791179657],
+    "latlng": [48.22455, 16.50279],
     "uid": "ATU69708756",
     "oeffnungszeiten": {
       "mo": [],

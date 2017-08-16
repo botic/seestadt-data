@@ -146,7 +146,7 @@
     "adresse": "Sonnenallee 33",
     "bauplatz": "D10",
     "tags": ["wipark", "seestadtflotte", "verleih"],
-    "latlng": [48.224552, 16.502811],
+    "latlng": [48.22442, 16.50302],
     "oeffnungszeiten": {
       "mo": ["07:00", "11:30", "12:30", "16:30"],
       "di": ["08:00", "11:30", "12:30", "16:30"],
