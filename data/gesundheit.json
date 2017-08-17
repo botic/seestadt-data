@@ -419,7 +419,8 @@
   },
   "stillberaterinzabaneh": {
     "name": "Stillberaterin Karin Zabaneh",
-    "beschreibung": "Stillberatung - Einzelstillberatung (Hausbesuche und in der Praxis), Stillgruppe Seestadt.",
+    "beschreibung": "Stillberatung - Einzelstillberatung (Hausbesuche und in der Praxis), Stillgruppe Seestadt in der mini-med Praxis.",
+    "tags": ["minimed", "mini-med"],
     "adresse": "Maria-Tusch-Straße 2/2/1",
     "latlng": [48.22472, 16.49666],
     "bauplatz": "D22",
