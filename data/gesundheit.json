@@ -416,5 +416,15 @@
     "tel": "+43 676 945 99 52",
     "email": "info@massageinstitut.co.at",
     "web": "http://www.massageinstitut.co.at/"
+  },
+  "stillberaterinzabaneh": {
+    "name": "Stillberaterin Karin Zabaneh",
+    "beschreibung": "Stillberatung - Einzelstillberatung (Hausbesuche und in der Praxis), Stillgruppe Seestadt.",
+    "adresse": "Maria-Tusch-Straße 2/2/1",
+    "latlng": [48.22472, 16.49666],
+    "bauplatz": "D22",
+    "tel": "+43 660 775 27 46",
+    "email": "stillberatung@mini-medPraxis.at",
+    "web": "http://www.mini-medpraxis.at/team_karin.php"
   }
 }

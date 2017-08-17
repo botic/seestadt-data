@@ -211,5 +211,68 @@
       "so": [],
       "ft": []
     }
+  },
+  "minimed_zabaneh": {
+    "name": "Kinderfacharzt Dr. George Zabaneh - mini-med Praxis",
+    "beschreibung": "Kinderfacharzt, Wahlarzt. Terminvereinbarung während der vorgesehenen Anrufzeiten: Mo. – Do. 9:00 – 11:00 und Mo. 15:00 – 17:00 Uhr.",
+    "adresse": "Maria-Tusch-Straße 2/2/1",
+    "latlng": [48.22472, 16.49666],
+    "bauplatz": "D22",
+    "tel": "+43 699 144 477 22",
+    "email": "dr.zabaneh@gmx.at",
+    "web": "http://www.mini-medpraxis.at/",
+    "oeffnungszeiten": {
+      "bemerkung": "Telefonische Terminvereinbarung ist unbedingt erforderlich, keine Vereinbarung per E-Mail.",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "minimed_bolharnordenkampf": {
+    "name": "Dr. Maren Bolhar-Nordenkampf",
+    "beschreibung": "Fachärztin für Haut- und Geschlechtskrankheiten, Wahlärztin. Ordination in der mini-med Praxis.",
+    "adresse": "Maria-Tusch-Straße 2/2/1",
+    "latlng": [48.22472, 16.49666],
+    "bauplatz": "D22",
+    "tel": "+43 680 2219749",
+    "email": "bolhar@die-hautaerztin.at",
+    "web": "http://www.die-hautaerztin.at/",
+    "oeffnungszeiten": {
+      "bemerkung": "Terminvereinbarung ist unbedingt erforderlich.",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "minimed_weisz": {
+    "name": "Diplomierte Kinderkrankenschwester Michaela Weisz",
+    "beschreibung": "Diplomierte Kindergesundheitstrainerin in der Gesundheitsprävention. Baby-Kindermassage, Cranio Sacrale Therapie, Stillberatung, Bachblüten, Entspannungstechniken Kinder/Erwachsene, Zusatzqualifikation Traumalösung.",
+    "adresse": "Maria-Tusch-Straße 2/2/1",
+    "latlng": [48.22472, 16.49666],
+    "bauplatz": "D22",
+    "tel": "+43 676 4670009",
+    "email": "office@minimedicus.at",
+    "web": "http://minimedicus.at/",
+    "oeffnungszeiten": {
+      "bemerkung": "Terminvereinbarung ist unbedingt erforderlich.",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }

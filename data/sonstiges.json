@@ -1085,5 +1085,37 @@
     "tel": "+43 676 898 448 522",
     "email": "b.erlmoser@home4students.at",
     "web": "https://www.home4students.at/wohnen/studentenheime-wien/popup-dorms-seestadt-aspern/"
+  },
+  "einsapersonal": {
+    "name": "1A Personal GmbH",
+    "beschreibung": "Analyse von Personalbedarf und Unterstützung und Konzepte in allen Nebenbereichen des HR-Bereiches.",
+    "adresse": "Maria-Tusch-Straße 6/A/1A",
+    "latlng": [48.22453, 16.49849],
+    "bauplatz": "D12",
+    "tel": "+43 1 280 06 03",
+    "email": "office@1a-personal.at",
+    "web": "http://www.1a-personal.at/",
+    "facebook": "1aPersonal",
+    "uid": "ATU71458246"
+  },
+  "caritaslerncafe": {
+    "name": "Caritas Lerncafé",
+    "beschreibung": "Mit den Lerncafés bieten wir den Kindern kostenlose Lern- und Nachmittagsbetreuung. Hilfe bei Hausaufgaben, Vorbereitung auf Schularbeiten und Tests, Üben und Wiederholen von Lernstoff.",
+    "adresse": "Maria-Tusch-Straße 6/3",
+    "latlng": [48.22456, 16.49829],
+    "bauplatz": "D12",
+    "tel": "+43 676 655 01 73",
+    "email": "lerncafes@caritas-wien.at",
+    "web": "https://www.caritas-wien.at/hilfe-angebote/asyl-integration/ausbildung-arbeit/jugend-lerncafes/lerncafes/",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": ["13:30", "18:00"],
+      "do": ["13:30", "18:00"],
+      "fr": ["13:30", "18:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }

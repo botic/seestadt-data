@@ -759,6 +759,7 @@
     "beschreibung": "Verschiedene Artikel aus zweiter Hand, dazu neue Spielwaren, Dekomaterial, Geschenkideen, Zimmerpflanzen.",
     "label": "Fundgrube",
     "adresse": "Sonnenallee 36",
+    "latlng": [48.225686, 16.502013],
     "tel": "+43 650 2023291",
     "facebook": "seconhandseestadt",
     "tags": ["secondhand"],
@@ -771,7 +772,25 @@
       "sa": ["09:00", "18:00"],
       "so": [],
       "ft": []
-    },
-    "latlng": [48.225686, 16.502013]
+    }
+  },
+  "sweethome": {
+    "name": "SWEET HOME",
+    "beschreibung": "Haushaltswaren wie Geschirr, Töpfe & Pfannen, Besteck und Damentextilien.",
+    "adresse": "Maria-Tusch-Straße 6/2",
+    "latlng": [48.22454, 16.49840],
+    "bauplatz": "D12",
+    "tel": "+43 676 5309197",
+    "facebook": "sweethomeseestadt",
+    "oeffnungszeiten": {
+      "mo": ["10:00", "19:00"],
+      "di": ["10:00", "19:00"],
+      "mi": ["10:00", "19:00"],
+      "do": ["10:00", "19:00"],
+      "fr": ["10:00", "19:00"],
+      "sa": ["10:00", "19:00"],
+      "so": [],
+      "ft": []
+    }
   }
 }
