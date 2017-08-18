@@ -792,5 +792,25 @@
       "so": [],
       "ft": []
     }
+  },
+  "josefsseewinkel": {
+    "name": "Josef's SeeWinkel – Markt Seestadt",
+    "beschreibung": "Regionales, saisonales Gemüse und Obst aus dem Seewinkel. Fleisch aus dem Nationalpark. Frische Fische, Milchprodukte und Weine.",
+    "adresse": "Hannah-Arendt-Platz",
+    "latlng": [48.22402, 16.50080],
+    "tel": "+43 660 1230023",
+    "web": "http://www.thueringer.biz/",
+    "facebook": "JosefsSeeWinkelMarktSeestadt",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": ["10:00", "19:00"],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Der Seestädter Wochenmarkt findet am Hannah-Arendt-Platz statt."
+    }
   }
 }
