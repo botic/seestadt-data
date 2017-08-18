@@ -738,7 +738,7 @@
   },
   "billapilotengasse": {
     "name": "Billa Pilotengasse",
-    "beschreibung": "Nächstgelegender Billa Supermarkt südlichöstlich der Seestadt.",
+    "beschreibung": "Nächstgelegender Billa Supermarkt südwestlich der Seestadt.",
     "label": "Billa",
     "adresse": "Pilotengasse 76",
     "latlng": [48.21968690497604,16.48872971534729],
