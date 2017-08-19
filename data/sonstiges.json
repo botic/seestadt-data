@@ -1117,5 +1117,17 @@
       "so": [],
       "ft": []
     }
+  },
+  "liquidgreekengery": {
+    "name": "Liquid Greek Energy",
+    "beschreibung": "Natives Olivenöl aus Griechenland und Olivenprodukte.",
+    "adresse": "Ilse-Arlt Straße 20/1/23",
+    "latlng": [48.22585, 16.49870],
+    "bauplatz": "D4",
+    "tel": "+43 664 1035867",
+    "email": "office@lge.co.at",
+    "web": "http://lge.co.at",
+    "facebook": "LiquidGreekEnergy",
+    "instagram": "liquidgreekenergy"
   }
 }
