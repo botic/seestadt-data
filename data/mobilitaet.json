@@ -70,7 +70,7 @@
     "adresse": "Schenk-Danzinger-Gasse 4",
     "bauplatz": "D5A",
     "tags": ["auto", "parkgarage", "abstellplatz"],
-    "latlng": [48.22499429,16.5008533]
+    "latlng": [48.22489, 16.50098]
   },
   "wipark_p2": {
     "name": "Wipark P2 (D5B)",
