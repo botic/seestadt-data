@@ -427,5 +427,16 @@
     "tel": "+43 660 775 27 46",
     "email": "stillberatung@mini-medPraxis.at",
     "web": "http://www.mini-medpraxis.at/team_karin.php"
+  },
+  "beautyclaudia": {
+    "name": "Beauty Claudia",
+    "beschreibung": "Beautylounge Claudia Workurek: Nagelstudio, Titan Manicüre, Permanent Make-up, Microblading.",
+    "adresse": "Hermine-Dasovsky-Platz 1",
+    "latlng": [48.224979998573225,16.49964764714241],
+    "bauplatz": "D4",
+    "tel": "+43 664 236 16 26",
+    "email": "beautyclaudia@a1.net",
+    "web": "http://www.beautyclaudia.at",
+    "facebook": "beautyclaudia.at"
   }
 }
