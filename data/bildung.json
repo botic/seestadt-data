@@ -1,0 +1,85 @@
+{
+  "campus_volksschule": {
+    "name": "Campus Seestadt – Volksschule",
+    "beschreibung": "Ganztagsschule der Stadt Wien. Das Angebot umfasst Unterricht, Jause, Mittagessen, Lernzeit und Freizeit.",
+    "adresse": "Hannah-Arendt-Platz 8",
+    "latlng": [48.22308, 16.50076],
+    "bauplatz": "D18A",
+    "tel": "+43 676 811 85 6490",
+    "email": "vs22hann008k@m56ssr.wien.at",
+    "web": "http://campus-seestadt.at/schule/",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Regulärer Einlass in die Schule ist um 7.45 Uhr"
+    }
+  },
+  "campus_kindergarten": {
+    "name": "Campus Seestadt – Kindergarten",
+    "beschreibung": "Städtischer Kindergarten der MA-10.",
+    "adresse": "Hannah-Arendt-Platz 8",
+    "latlng": [48.22297, 16.50128],
+    "bauplatz": "D18A",
+    "tel": "+43 676 811 864 936",
+    "email": "kdg22hann@ma10.wien.gv.at",
+    "web": "http://campus-seestadt.at/kindergarten/"
+  },
+  "kigru_sisimimi": {
+    "name": "Kindergruppen Sisi & Mimi",
+    "beschreibung": "Private Kindergruppen des Vereins Kindergruppe Sisi & Mimi.",
+    "adresse": "Maria-Tusch-Straße 16/1",
+    "latlng": [48.22471, 16.50173],
+    "bauplatz": "D10",
+    "tel": "+43 660 846 50 36",
+    "email": "kigru.sisi-mimi@hotmail.com",
+    "zvr": "430586827"
+  },
+  "kindergarten_kinderfreunde": {
+    "name": "Kindergarten der Kinderfreunde",
+    "beschreibung": "Kindergarten mit 3 Kinderstuben (bis 3 Jahre) und 3 Familiengruppen (bis 6 Jahre).",
+    "adresse": "Susanne-Schmida-Gasse 6/1",
+    "latlng": [48.22669, 16.50276],
+    "bauplatz": "J2",
+    "tel": "+43 1 280 71 19",
+    "email": "seestadt.aspern@wien.kinderfreunde.at",
+    "web": "http://www.kinderfreunde.at/Bundeslaender/Wien/22/Donaustadt/Kindergaerten-Horte/Susanne-Schmida-Gasse-6-1",
+    "zvr": "493711481",
+    "oeffnungszeiten": {
+      "mo": ["06:30", "17:30"],
+      "di": ["06:30", "17:30"],
+      "mi": ["06:30", "17:30"],
+      "do": ["06:30", "17:30"],
+      "fr": ["06:30", "17:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  },
+  "kindergarten_kiwi": {
+    "name": "Kinder in Wien (KIWI) Kindergarten",
+    "beschreibung": "Kindergarten mit vier Gruppen.",
+    "adresse": "Sonnenallee 53",
+    "latlng": [48.22688, 16.50062],
+    "bauplatz": "D2",
+    "tel": "+43 1 280 70 48",
+    "email": "seestadt@kinderinwien.at",
+    "web": "http://www.kinderinwien.at/",
+    "zvr": "699386533",
+    "oeffnungszeiten": {
+      "mo": ["07:00", "18:00"],
+      "di": ["07:00", "18:00"],
+      "mi": ["07:00", "18:00"],
+      "do": ["07:00", "18:00"],
+      "fr": ["07:00", "18:00"],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
+  }
+}
