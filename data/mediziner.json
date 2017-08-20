@@ -277,5 +277,26 @@
       "so": [],
       "ft": []
     }
+  },
+  "schmuth": {
+    "name": "DDr. Thomas Schmuth",
+    "beschreibung": "Facharzt für Zahn-, Mund- und Kieferheilkunde. Kieferorthopädie, Osteopathische Medizin, Multiband, Zahnspange, Invisalign, Bleaching.",
+    "adresse": "Schenk-Danzinger-Gasse 3/1",
+    "latlng": [48.22525, 16.50041],
+    "bauplatz": "D9",
+    "tel": "+43 1 320 38 41",
+    "email": "ddrschmuth@gmail.com",
+    "web": "http://www.schmuth.at",
+    "oeffnungszeiten": {
+      "bemerkung": "Terminvereinbarung ist erforderlich.",
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": []
+    }
   }
 }
