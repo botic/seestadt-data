@@ -64,7 +64,8 @@
       "so": [],
       "ft": [],
       "bemerkung": "Im Meditationsraum (Erdgeschoß Nord) und im Bewegungsraum (Keller) finden regelmäßige Veranstaltungen statt. Diese können auf Anfrage überlassen werden. Ebenso gibt es einen Therapieraum, in dem unterschiedliche Therapeuten arbeiten. Dieser Raum kann auf regelmäßiger Wochenstundenbasis ebenfalls überlassen werden."
-    }
+    },
+    "gbTags": ["subcat:dormitory"]
   },
   "wohnprojektseesternaspern": {
     "name": "Wohnprojekt Seestern Aspern",
@@ -88,6 +89,7 @@
       "so": [],
       "ft": [],
       "bemerkung": "Im Wohnprojekt befindet sich ein Coworking-Space. Außerdem steht ein Multifunktionsraum für Vermietungen aller Art offen."
-    }
+    },
+    "gbTags": ["subcat:dormitory"]
   }
 }

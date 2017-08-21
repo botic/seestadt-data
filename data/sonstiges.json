@@ -862,7 +862,8 @@
       "sa": ["10:00","12:00"],
       "so": ["10:00","12:00"],
       "ft": ["10:00","12:00"]
-    }
+    },
+    "gbTags": ["subcat:sport"]
   },
   "caeconsulting": {
     "name": "CAE Consulting Prochaska",
@@ -886,7 +887,8 @@
     "facebook": "hotelfeelgoodvienna",
     "adresse": "Mimi-Grossberg-Gasse 4",
     "bauplatz": "D13A",
-    "latlng": [48.22390,16.49913]
+    "latlng": [48.22390,16.49913],
+    "gbTags": ["subcat:hotel"]
   },
   "realitylab": {
     "name": "realitylab",
@@ -1062,7 +1064,8 @@
     "bauplatz": "D5B",
     "tel": "+43 1 890 40 04 10",
     "email": "greenhouse@oejab.at",
-    "web": "http://www.oejab.at/greenhouse"
+    "web": "http://www.oejab.at/greenhouse",
+    "gbTags": ["subcat:dormitory"]
   },
   "fotografin_elenarachor": {
     "name": "Elena Rachor – Fotografin",
@@ -1084,7 +1087,8 @@
     "bauplatz": "J11",
     "tel": "+43 676 898 448 522",
     "email": "b.erlmoser@home4students.at",
-    "web": "https://www.home4students.at/wohnen/studentenheime-wien/popup-dorms-seestadt-aspern/"
+    "web": "https://www.home4students.at/wohnen/studentenheime-wien/popup-dorms-seestadt-aspern/",
+    "gbTags": ["subcat:dormitory"]
   },
   "einsapersonal": {
     "name": "1A Personal GmbH",

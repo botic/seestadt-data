@@ -43,6 +43,13 @@
             "type": "string"
           }
         },
+        "gbTags": {
+          "type": "array",
+          "minLength": 1,
+          "items": {
+            "type": "string"
+          }
+        },
         "tel": {
           "type": "string",
           "pattern": "^\\+\\d\\d\\ [\\d\\ ]+\\d$"
