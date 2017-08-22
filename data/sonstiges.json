@@ -1133,5 +1133,14 @@
     "web": "http://lge.co.at",
     "facebook": "LiquidGreekEnergy",
     "instagram": "liquidgreekenergy"
+  },
+  "marcusminiatures": {
+    "name": "The Marcus' Miniatures",
+    "beschreibung": "Miniaturen-Künstler, Workshops, Spielfigurenkunst, Brettspiel-Design.",
+    "adresse": "Ilse-arlt-Straße 4/42",
+    "bauplatz": "D12",
+    "latlng": [48.22394,16.49786],
+    "facebook": "themarcusminiatures",
+    "web": "https://www.marcusminiatures.com/"
   }
 }

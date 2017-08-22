@@ -372,7 +372,7 @@
  },
  "bastellieschen": {
     "name": "Bastellieschen",
-    "beschreibung": "Bastelartikel rund um die Papiergestaltung wie Grusskarten, Scrapbooking, Stempeln, Colorieren uvm. Kurse für Kinder & Erwachsene",
+    "beschreibung": "Bastelartikel für die Papiergestaltung wie Karten, Scrapbooking, Stempeln, Stanzen, …. Workshops für Erwachsene, Kindergeburtstage. Geschenkartikel, Give Aways, Einladungskarten für Hochzeit, Taufe etc.",
     "shortlabel": "Bastellies",
     "web": "http://www.bastellieschen.at",
     "facebook": "Bastellieschen-1407265406214601",
@@ -390,7 +390,8 @@
       "fr": ["14:00","18:00"],
       "sa": ["10:00","13:00"],
       "so": [],
-      "ft": []
+      "ft": [],
+      "bemerkung": "Zusätzliche Termine nach Terminvereinbarung."
     }
   },
   "zwoelfer_keramik": {
