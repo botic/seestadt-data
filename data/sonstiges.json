@@ -1056,11 +1056,33 @@
     "email": "info-hvw@hoerbiger.com",
     "web": "http://www.hoerbiger.com/"
   },
-  "greenhouse": {
-    "name": "ÖJAB-GreenHouse",
-    "beschreibung": "Studierenden-Wohnheim mit über 300 Wohnheimplätzen.",
+  "greenhouse_oead": {
+    "name": "OeAD GreenHouse",
+    "beschreibung": "Studierenden-Wohnheim der OeAD mit 107 Wohnplätzen im Bauteil „Sonne“. Das gesamte GreenHouse umfasst drei Bauteile und über 300 Wohnheimplätzen.",
     "adresse": "Sonnenallee 41",
-    "latlng": [48.22544,16.50167],
+    "latlng": [48.22537, 16.50174],
+    "bauplatz": "D5B",
+    "tel": "+43 1 890 40 04 10",
+    "email": "greenhouse@oejab.at",
+    "web": "https://housing.oead.at/de/unterkuenfte/detailansicht-de/details?view=application&object_id=325",
+    "gbTags": ["subcat:dormitory"]
+  },
+  "greenhouse_studentenwohnen": {
+    "name": "Studentenwohnen.at GreenHouse",
+    "beschreibung": "Studierenden-Wohnheim von WBV-GPA / Studentenwohnen.at im Bauteil Luft. Das gesamte GreenHouse umfasst drei Bauteile und über 300 Wohnheimplätzen.",
+    "adresse": "Sonnenallee 41",
+    "latlng": [48.22543, 16.50169],
+    "bauplatz": "D5B",
+    "tel": "+43 1 890 40 04 10",
+    "email": "greenhouse@oejab.at",
+    "web": "http://www.studentenwohnen.at/de/standorte/greenhouse/",
+    "gbTags": ["subcat:dormitory"]
+  },
+  "greenhouse_oejab": {
+    "name": "ÖJAB GreenHouse",
+    "beschreibung": "Studierenden-Wohnheim der ÖJAB mit 102 Wohnplätzen im Bauteil „Erde“. Das gesamte GreenHouse umfasst drei Bauteile und über 300 Wohnheimplätzen.",
+    "adresse": "Sonnenallee 41",
+    "latlng": [48.22548, 16.50164],
     "bauplatz": "D5B",
     "tel": "+43 1 890 40 04 10",
     "email": "greenhouse@oejab.at",
