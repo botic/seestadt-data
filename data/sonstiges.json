@@ -1069,7 +1069,7 @@
   },
   "greenhouse_studentenwohnen": {
     "name": "Studentenwohnen.at GreenHouse",
-    "beschreibung": "Studierenden-Wohnheim von WBV-GPA / Studentenwohnen.at im Bauteil „Luft“. Das gesamte GreenHouse umfasst drei Bauteile und über 300 Wohnheimplätzen.",
+    "beschreibung": "Studierenden-Wohnheim von WBV-GPA / Studentenwohnen.at mit 104 Wohnplätzen im Bauteil „Luft“. Das gesamte GreenHouse umfasst drei Bauteile und über 300 Wohnheimplätzen.",
     "adresse": "Sonnenallee 41",
     "latlng": [48.22543, 16.50169],
     "bauplatz": "D5B",
