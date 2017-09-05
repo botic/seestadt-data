@@ -526,7 +526,8 @@
     "tel": "+43 660 3858 479",
     "adresse": "Schenk-Danzinger-Gasse 12/6/27",
     "bauplatz": "D2",
-    "latlng": [48.22595, 16.50018]
+    "latlng": [48.22595, 16.50018],
+    "uid": "ATU68173488"
   },
   "katzengitter": {
     "name": "Katzengitter.org",
@@ -1164,5 +1165,13 @@
     "latlng": [48.22394,16.49786],
     "facebook": "themarcusminiatures",
     "web": "https://www.marcusminiatures.com/"
+  },
+  "heliumluftballon": {
+    "name": "heliumluftballon.at",
+    "beschreibung": "Helium-Luftballone Csarmasz Kornél.",
+    "adresse": "Ilse-Arlt-Strasse 19",
+    "latlng": [48.22591, 16.49842],
+    "tel": "+43 650 7073518",
+    "web": "http://heliumluftballon.at/"
   }
 }

@@ -91,5 +91,17 @@
       "bemerkung": "Im Wohnprojekt befindet sich ein Coworking-Space. Außerdem steht ein Multifunktionsraum für Vermietungen aller Art offen."
     },
     "gbTags": ["subcat:dormitory"]
+  },
+  "taekibo": {
+    "name": "Team TAE-KIBO Seestadt",
+    "beschreibung": "Zweimal wöchentlich leitet Mario Jelinek das „Tae-Kibo Seestadt“ Training am Campus Seestadt.",
+    "adresse": "Hannah-Arend-Platz 8",
+    "latlng": [48.22338, 16.50102],
+    "tel": "+43 664 40 45 848",
+    "email": "kickboxen@gmx.at",
+    "web": "http://www.tae-kibo.at/",
+    "facebook": "taekiboseestadt",
+    "instagram": "team_taekibo",
+    "zvr": "026572959"
   }
 }
