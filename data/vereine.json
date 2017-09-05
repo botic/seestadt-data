@@ -103,5 +103,17 @@
     "facebook": "taekiboseestadt",
     "instagram": "team_taekibo",
     "zvr": "026572959"
+  },
+  "vereinunternehmenseestadt": {
+    "name": "Verein Unternehmer Seestadt – VUS",
+    "beschreibung": "Netzwerkverein für Unternehmen in der Seestadt.",
+    "adresse": "Ilse-Arlt-Straße 20/1/23",
+    "latlng": [48.22585, 16.49870],
+    "bauplatz": "D4",
+    "tel": "+43 664 88937618",
+    "email": "verein@unternehmer-seestadt.at",
+    "web": "http://unternehmer-seestadt.at",
+    "facebook": "ncs1220",
+    "zvr": "021082979"
   }
 }
