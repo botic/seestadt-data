@@ -660,28 +660,6 @@
       "bemerkung": "Planungstermine nach Vereinbarung auch außerhalb der Öffnungszeiten und / oder Sonn-, & Feiertags."
     }
   },
-  "organiclifestyle": {
-    "name": "Organic Lifestyle",
-    "beschreibung": "Bio-Kosmetik für Kinder und Erwachsene, Bio-Pflegeprodukte für das Haus, Bio-Produkte vom Bauernhof",
-    "shortlabel": "Organic",
-    "uid": "ATU71104618",
-    "email": "organic.lifestyle.wien@gmail.com",
-    "facebook": "Organic-Lifestyle-830377093765108",
-    "tel": "+43 676 3576255",
-    "adresse": "Maria-Tusch-Straße 6",
-    "bauplatz": "D12",
-    "latlng": [48.22440818498801,16.499087065458298],
-    "oeffnungszeiten": {
-      "mo": ["10:00","19:00"],
-      "di": ["10:00","19:00"],
-      "mi": ["10:00","19:00"],
-      "do": ["10:00","19:00"],
-      "fr": ["10:00","19:00"],
-      "sa": ["09:00","19:00"],
-      "so": [],
-      "ft": []
-    }
-  },
   "dpd": {
     "name": "DPD Pickup Paketshop Seestadt",
     "beschreibung": "DPD Abholstelle, DPD Web Paket Annahme, Retourenannahme",
@@ -771,25 +749,6 @@
       "do": ["09:00", "18:00"],
       "fr": ["09:00", "18:00"],
       "sa": ["09:00", "18:00"],
-      "so": [],
-      "ft": []
-    }
-  },
-  "sweethome": {
-    "name": "SWEET HOME",
-    "beschreibung": "Haushaltswaren wie Geschirr, Töpfe & Pfannen, Besteck und Damentextilien.",
-    "adresse": "Maria-Tusch-Straße 6/2",
-    "latlng": [48.22454, 16.49840],
-    "bauplatz": "D12",
-    "tel": "+43 676 5309197",
-    "facebook": "sweethomeseestadt",
-    "oeffnungszeiten": {
-      "mo": ["10:00", "19:00"],
-      "di": ["10:00", "19:00"],
-      "mi": ["10:00", "19:00"],
-      "do": ["10:00", "19:00"],
-      "fr": ["10:00", "19:00"],
-      "sa": ["10:00", "17:00"],
       "so": [],
       "ft": []
     }
