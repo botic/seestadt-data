@@ -772,5 +772,17 @@
       "ft": [],
       "bemerkung": "Der Seestädter Wochenmarkt findet am Hannah-Arendt-Platz statt."
     }
+  },
+  "organiclifestyle": {
+    "name": "Organic Lifestyle",
+    "beschreibung": "Bio-Kosmetik für Kinder und Erwachsene, Bio-Pflegeprodukte für das Haus, Bio-Produkte vom Bauernhof",
+    "shortlabel": "Organic",
+    "uid": "ATU71104618",
+    "email": "organic.lifestyle.wien@gmail.com",
+    "facebook": "Organic-Lifestyle-830377093765108",
+    "tel": "+43 676 3576255",
+    "adresse": "Maria-Tusch-Straße 6",
+    "bauplatz": "D12",
+    "latlng": [48.22440818498801,16.499087065458298],
   }
 }
