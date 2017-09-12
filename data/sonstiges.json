@@ -709,7 +709,7 @@
     "instagram": "koenigskinder_wien",
     "tel": "+43 677 610 12 100",
     "email": "office@koenigskinder.at",
-    "adresse": "Maria-Tusch-Straße 9/3/202",
+    "adresse": "Maria-Tusch-Straße 9/202",
     "bauplatz": "D8",
     "latlng": [48.22473, 16.49905],
     "oeffnungszeiten": {
@@ -1173,5 +1173,27 @@
     "latlng": [48.22591, 16.49842],
     "tel": "+43 650 7073518",
     "web": "http://heliumluftballon.at/"
+  },
+  "weisspersonalverrechnung": {
+    "name": "Andrea Weiss Personalverrechnung",
+    "beschreibung": "Personalverrechnungskanzlei, Durchführung der monatlichen Lohn-und Gehaltsabrechnung, Unterstützung bei Neugründungen.",
+    "adresse": "Maria-Tusch-Straße 9/133",
+    "latlng": [48.22473, 16.49905],
+    "bauplatz": "D8",
+    "tel": "+43 699 18900606",
+    "email": "andrea@pv-weiss.at",
+    "web": "http://pv-weiss.at/",
+    "facebook": "pvwAndreaWeiss",
+    "uid": "ATU70048469"
+  },
+  "jpled": {
+    "name": "JPled – Joanna Pietruszka",
+    "beschreibung": "Spezialisierter Shop für LED-Beleuchtung.",
+    "adresse": "Ilse-Arlt Straße 4/7",
+    "latlng": [48.22394, 16.49786],
+    "bauplatz": "D12",
+    "tel": "+43 666 438 136 94",
+    "email": "office@jpled.at",
+    "web": "http://www.jpled.at/"
   }
 }
