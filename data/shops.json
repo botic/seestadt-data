@@ -733,26 +733,6 @@
       "ft": []
     }
   },
-  "fundgrube": {
-    "name": "Fundgrube Seestadt",
-    "beschreibung": "Verschiedene Artikel aus zweiter Hand, dazu neue Spielwaren, Dekomaterial, Geschenkideen, Zimmerpflanzen.",
-    "label": "Fundgrube",
-    "adresse": "Sonnenallee 36",
-    "latlng": [48.225686, 16.502013],
-    "tel": "+43 650 2023291",
-    "facebook": "seconhandseestadt",
-    "tags": ["secondhand"],
-    "oeffnungszeiten": {
-      "mo": ["09:00", "18:00"],
-      "di": ["09:00", "18:00"],
-      "mi": ["09:00", "18:00"],
-      "do": ["09:00", "18:00"],
-      "fr": ["09:00", "18:00"],
-      "sa": ["09:00", "18:00"],
-      "so": [],
-      "ft": []
-    }
-  },
   "josefsseewinkel": {
     "name": "Josef's SeeWinkel – Markt Seestadt",
     "beschreibung": "Regionales, saisonales Gemüse und Obst aus dem Seewinkel. Fleisch aus dem Nationalpark. Frische Fische, Milchprodukte und Weine.",
@@ -775,7 +755,7 @@
   },
   "organiclifestyle": {
     "name": "Organic Lifestyle",
-    "beschreibung": "Bio-Kosmetik für Kinder und Erwachsene, Bio-Pflegeprodukte für das Haus, Bio-Produkte vom Bauernhof",
+    "beschreibung": "Bio-Kosmetik für Kinder und Erwachsene, Bio-Pflegeprodukte für das Haus, Bio-Produkte vom Bauernhof. Schließt mit Oktober 2017.",
     "shortlabel": "Organic",
     "uid": "ATU71104618",
     "email": "organic.lifestyle.wien@gmail.com",
