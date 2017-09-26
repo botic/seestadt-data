@@ -367,9 +367,9 @@
   },
   "hebammestarke": {
     "name": "Hebamme Jorinde Starke",
-    "beschreibung": "Schwangerenvorsorge und Hilfe bei Schwangerschaftsbeschwerden, Mutter-Kind-Pass-Beratungen, Geburtsvorbereitungskurse, Akupunktur, Hausgeburten, Wochenbettbesuche, Still- und Beikostberatungen",
-    "adresse": "Hannah-Arendt-Platz 9/18",
-    "latlng": [48.22366035039328,16.500139832496643],
+    "beschreibung": "Schwangerenvorsorge und Hilfe bei Schwangerschaftsbeschwerden, Mutter-Kind-Pass-Beratungen, Geburtsvorbereitungskurse, Akupunktur, Hausgeburten, Wochenbettbesuche, Still- und Beikostberatungen.",
+    "adresse": "Maria-Tusch-Straße 2/1",
+    "latlng": [48.22472, 16.49666],
     "bauplatz": "D13A",
     "tel": "+43 680 5525404",
     "email": "hebamme.wien@gmail.com",
@@ -383,7 +383,7 @@
       "sa": [],
       "so": [],
       "ft": [],
-      "bemerkung": "Hausbesuche und Beratungen in der Apotheke nach Vereinbarung, Kurstermine werden auf der Homepage ausgeschrieben."
+      "bemerkung": "Hausbesuche und Beratungen in der Apotheke nach Vereinbarung, Kurstermine werden auf der Webseite ausgeschrieben."
     }
   },
   "psychotherapeut_gruen": {
