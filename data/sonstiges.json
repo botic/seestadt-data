@@ -1198,5 +1198,16 @@
     "tel": "+43 664 38 13 694",
     "email": "office@jpled.at",
     "web": "http://www.jpled.at/"
+  },
+  "top_objektbetreuung": {
+    "name": "Top Objektbetreuung Hofmann e.U.",
+    "beschreibung": "Reinigung und Hausbetreuung.",
+    "adresse": "Maria-Tusch-Straße 13/15",
+    "latlng": [48.22452779679929, 16.50021738514634],
+    "bauplatz": "D9",
+    "tel": "+43 699 19575123",
+    "email": "office@top-objektbetreuung.at",
+    "web": "http://www.top-objektbetreuung.at",
+    "uid": "ATU63316147"
   }
 }

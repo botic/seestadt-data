@@ -88,5 +88,17 @@
       "so": [],
       "ft": []
     }
+  },
+  "ststephenscollege": {
+    "name": "St. Stephen's College",
+    "beschreibung": "St. Stephen’s College is an educational institution for international students. We focus on pre-university training, short- and long term language courses. German Language Academy, ÖSD Examination Center.",
+    "adresse": "Maria-Tusch-Straße 18/10-11",
+    "latlng": [48.22489780076349, 16.502097845077518],
+    "bauplatz": "D10",
+    "tel": "+43 1 9222 881",
+    "email": "contact@stephens-college.com",
+    "web": "https://www.stephens-college.com/",
+    "facebook": "stephenscollegeaustria",
+    "uid": "ATU67222613"
   }
 }
