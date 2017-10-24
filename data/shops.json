@@ -1,6 +1,7 @@
 {
   "spar": {
     "name": "Spar Supermarkt",
+    "beschreibung": "Spar-Filiale mit Raiffeisen-Bankomat im Eingangsbereich.",
     "shortlabel": "Spar",
     "tel": "+43 1 2807294",
     "web": "https://www.spar.at/de_AT/index/standorte/12/spar_supermarkt_wienmaria-tusch-strseestadt_4156.html",
@@ -38,6 +39,7 @@
   },
   "leo": {
     "name": "LEO Bäckerei & Cafe",
+    "beschreibung": "Filiale der Waldviertler Bäckerei Riederich mit Café und Bäckerei.",
     "shortlabel": "LEO",
     "tel": "+43 1 2102527",
     "adresse": "Maria-Tusch-Straße 13/2",
@@ -58,6 +60,7 @@
   },
   "apotheke": {
     "name": "Seestadt Apotheke",
+    "beschreibung": "Arzneimittel, Aromatherapie, Bachblüten, Beratung in Ernährungsfragen, Homöopathie, Nähr- und Vitalstoffe, Kosmetik, Schüßler Salze.",
     "shortlabel": "Apotheke",
     "uid": "ATU68590866",
     "tel": "+43 1 2106984",
@@ -104,8 +107,9 @@
   },
   "erstebank": {
     "name": "Erste Bank",
+    "beschreibung": "Erste Bank AG – Filiale Seestadt. Beratung für Privatkunden, SB Foyer, Münzeinzahlung, Einzahlungsautomat, Kontoauszug.",
     "tags": ["bankomat", "bank"],
-    "web": "https://www.sparkasse.at/erstebank/Ueber-uns/Filialsuche/AT01980229",
+    "web": "https://www.sparkasse.at/filialsuche/standorte/filiale/1220-wien/sonnenallee-41/at01980229",
     "email": "seestadt0229@erstebank.at",
     "adresse": "Sonnenallee 41/2",
     "bauplatz": "D5B",
@@ -119,7 +123,8 @@
       "fr": ["09:00", "18:00"],
       "sa": [],
       "so": [],
-      "ft": []
+      "ft": [],
+      "bemerkung": "SB Foyer täglich von 0-24 Uhr."
     }
   },
   "libro": {
@@ -165,6 +170,7 @@
   },
   "ruefa": {
     "name": "Ruefa Reisebüro",
+    "beschreibung": "Reisebüro mit persönlicher Beratung für alle Arten von Urlaub und Reisen.",
     "shortlabel": "Ruefa",
     "web": "https://www.ruefa.at/reisebueros/wien/11221/",
     "tel": "+43 1 210 69 56",
@@ -202,10 +208,12 @@
     }
   },
   "handyshop": {
-    "name": "Handyshop Drei / UPC",
+    "name": "HandyShop.cc Seestadt",
+    "beschreibung": "Tarifberatung, netzbetreiberunabhängige Beratung, vertragsfreie Handys, Service-Werkstätte, umfassendes Sortiment an Handytaschen und Schutzhüllen.",
     "shortlabel": "Handyshop",
     "adresse": "Maria-Tusch-Straße 17/1/1",
-    "email": "3bestpartner.seestadt@net-com.at",
+    "web": "https://www.handyshop.cc/filialen/wien/seestadt/",
+    "email": "seestadt@handyshop.cc",
     "bauplatz": "D5A",
     "tel": "+43 660 901 1220",
     "latlng": [48.224912096044235,16.50149367749691],
@@ -223,7 +231,8 @@
   "wienerstaedtische": {
     "name": "Wiener Städtische Versicherung AG – Vienna Insurance Group",
     "shortlabel": "Städtische",
-    "web": "https://www.wienerstaedtische.at/seestadt",
+    "beschreibung": "Geschäftsstelle der Wiener Städtischen. Versicherungslösungen für Privatkunden und im Gewerbe- und Firmenkundenbereich.",
+    "web": "https://www.wienerstaedtische.at/unternehmen/presse/mediathek/geschaeftsstelle-seestadt-aspern.html",
     "tel": "+43 50 350 50400",
     "email": "seestadt@wienerstaedische.at",
     "adresse": "Maria-Tusch-Straße 19",
@@ -282,7 +291,8 @@
   "harmonieklang": {
     "name": "Harmonieklang",
     "shortlabel": "Hamoniekl.",
-    "web": "http://www.harmonieklang.at",
+    "beschreibung": "Räucherwelt, Edelsteine, Brunnen, Öle & Naturprodukte, Shishas, Figuren, Esoterik und Deko, Schmuck, Esoterische Beratung.",
+    "web": "https://www.harmonieklang.at",
     "adresse": "Janis-Joplin-Promenade 6/5/1A",
     "bauplatz": "J2",
     "latlng": [48.22685800387185,16.503268629312515],
@@ -397,6 +407,7 @@
   "zwoelfer_keramik": {
     "name": "12er glasporzellankeramik",
     "label": "12er Keramik",
+    "beschreibung": "Martina Zwölfer, Glas-Porzellan-Keramik-Design als Unikate und Serien.",
     "shortlabel": "12er",
     "web": "http://www.12er.at/",
     "facebook": "12er-glasporzellankeramik-303579606335900",

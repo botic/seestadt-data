@@ -36,6 +36,7 @@
   },
   "websafari": {
     "name": "websafari",
+    "beschreibung": "Konzept, Design, Technik von Webprojekten. Web-Entwicklung, Mobile Applikationen, Outsourcing-Partner.",
     "uid": "ATU67032659",
     "web": "http://www.websafari.co/",
     "email": "office@websafari.co",
@@ -814,6 +815,7 @@
   },
   "polizei": {
     "name": "Polizeiinspektion",
+    "beschreibung": "Polizeiinspektion der Landespolizeidirektion Wien.",
     "shortlabel": "Polizei",
     "tel": "+43 1 31 310 66341",
     "email": "PI-W-22-Sonnenallee@polizei.gv.at",
@@ -1000,6 +1002,7 @@
   },
   "thirdrail": {
     "name": " 3rd Rail Engineering GmbH",
+    "beschreibung": " Entwicklungs-, Planungs- und Projektierungsleistungen.",
     "label": "3rd Rail",
     "adresse": "Seestadtstraße 27/1/1.07",
     "latlng": [48.22326632562042,16.509388089179993],

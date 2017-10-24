@@ -75,6 +75,7 @@
   "kantine": {
     "name": "Seestadt Kantine",
     "shortlabel": "Kantine",
+    "beschreibung": "Container-Lokal mit Wiener und Balkan-Küche, Imbiss, Pizza.",
     "tags": ["pizza", "pasta", "mile"],
     "adresse": "Sonnenallee 26",
     "facebook": "seestadt.kantine",
