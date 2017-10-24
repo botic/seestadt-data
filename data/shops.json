@@ -702,7 +702,7 @@
     "name": "Billa Flugfeldstraße",
     "beschreibung": "Nächstgelegender Billa Supermarkt südlich der Seestadt.",
     "label": "Billa",
-    "adresse": "Großenzersdorfer Straße 74",
+    "adresse": "Groß-Enzersdorfer Straße 74",
     "latlng": [48.21537268249548,16.504031717777252],
     "oeffnungszeiten": {
       "mo": ["07:30", "19:50"],
@@ -736,7 +736,7 @@
   "josefsseewinkel": {
     "name": "Josef's SeeWinkel – Markt Seestadt",
     "beschreibung": "Regionales, saisonales Gemüse und Obst aus dem Seewinkel. Fleisch aus dem Nationalpark. Frische Fische, Milchprodukte und Weine.",
-    "adresse": "Hannah-Arendt-Platz",
+    "adresse": "Hannah-Arendt-Platz 1",
     "latlng": [48.22402, 16.50080],
     "tel": "+43 660 1230023",
     "web": "http://www.thueringer.biz/",

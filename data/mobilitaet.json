@@ -27,7 +27,7 @@
     "name": "SeestadtFLOTTE - D14",
     "beschreibung": "Verleihstation mit E-Lastenrädern, E-Bikes und Gangrändern.",
     "tags": ["fahrrad", "leihsystem", "e-bike", "lastenrad", "e-lastenrad"],
-    "adresse": "Frenkel-Brunswick-Gasse 2",
+    "adresse": "Frenkel-Brunswik-Gasse 2",
     "bauplatz": "D14",
     "latlng": [48.223791,16.502834]
   },
@@ -89,7 +89,7 @@
     "web": "http://wipark.parkinghq.com/parking_cities/-554805/parking_units/6500",
     "tel": "+43 600 30 22 48122",
     "email": "info@wipark.at",
-    "adresse": "Frenkel-Brunswik-Gasse 1–3",
+    "adresse": "Frenkel-Brunswik-Gasse 1",
     "bauplatz": "D10",
     "tags": ["auto", "parkgarage", "abstellplatz"],
     "latlng": [48.22406509,16.50295615]
@@ -100,7 +100,7 @@
     "web": "http://wipark.parkinghq.com/parking_cities/-554805/parking_units/6506",
     "tel": "+43 600 30 22 48122",
     "email": "info@wipark.at",
-    "adresse": "Ilse-Arlt-Straße 4–6",
+    "adresse": "Ilse-Arlt-Straße 4",
     "bauplatz": "D12",
     "tags": ["auto", "parkgarage", "abstellplatz"],
     "latlng": [48.22429,16.49799]
