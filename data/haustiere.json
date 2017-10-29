@@ -40,5 +40,17 @@
       "ft": [],
       "bemerkung": "Auch Termin auf Vereinbarung möglich."
     }
+  },
+  "seepfoetchen": {
+    "name": "Seepfötchen e.U.",
+    "beschreibung": "Tierbetreuung für berufstätige Hundebesitzer sowie Tierbesitzer im Urlaub. Tagesbetreuung für Hunde, Urlaubsbetreuung für andere Tiere (Katzen, Nager, Vögel, Fische und Reptilien).",
+    "adresse": "Ilse-Arlt-Straße 29/31",
+    "latlng": [48.22667921814662, 16.50059292018402],
+    "bauplatz": "D1",
+    "tel": "+43 1 2801372",
+    "email": "office@seepfoetchen.at",
+    "web": "https://www.seepfoetchen.at/",
+    "facebook": "Seepfoetchen",
+    "instagram": "_seepfoetchen_"
   }
 }
