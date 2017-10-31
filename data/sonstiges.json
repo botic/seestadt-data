@@ -1209,5 +1209,26 @@
     "email": "office@top-objektbetreuung.at",
     "web": "http://www.top-objektbetreuung.at",
     "uid": "ATU63316147"
+  },
+  "yellayella": {
+    "name": "Yella Yella! Der Nachbar_innentreff",
+    "beschreibung": "Das Yella Yella! ist ein von den Bewohnenden betriebener Nachbar_innentreff. Es gibt regelmäßig Veranstaltungen und kann auch gemietet werden.",
+    "adresse": "Maria-Tusch-Straße 2/1",
+    "latlng": [48.22478,16.49718],
+    "bauplatz": "D22",
+    "email": "yellayella@queerbau-seestadt.at",
+    "facebook": "yellayellaseestadt",
+    "web": "https://queerbau-seestadt.at/",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": ["17:00", "20:00"],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Donnerstags 17 bis 20 Uhr, an weiteren Tagen zu besonderen Anlässen."
+    }
   }
 }
