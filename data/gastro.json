@@ -120,6 +120,7 @@
     "name": "Speiseamt Seestadt",
     "beschreibung": "Selbsbedienungsrestaurant. Täglich zwei verschiedene Menüs zur Auswahl, Hausmannskost, Tagesteller, Salatbuffet, Kuchen. Bar- und Bankomatzahlung, sowie Sodexho-Gutscheine möglich. Zugang über Maria-Trapp-Platz am Bildungscampus.",
     "adresse": "Sonnenallee 31",
+    "latlng": [48.22369,16.50351],
     "bauplatz": "D14",
     "tel": "+43 1 288 80 250",
     "email": "speiseamt@wienwork.at",
