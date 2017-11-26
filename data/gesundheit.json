@@ -430,13 +430,13 @@
     "web": "http://www.mini-medpraxis.at/team_karin.php"
   },
   "beautyclaudia": {
-    "name": "Beauty Claudia",
+    "name": "Beauty by Claudia",
     "beschreibung": "Beautylounge Claudia Workurek: Nagelstudio, Titan Manicüre, Permanent Make-up, Microblading.",
-    "adresse": "Hermine-Dasovsky-Platz 1",
-    "latlng": [48.224979998573225,16.49964764714241],
-    "bauplatz": "D4",
-    "tel": "+43 664 236 16 26",
-    "email": "beautyclaudia@a1.net",
+    "adresse": "Maria-Tusch-Straße 6/2",
+    "latlng": [48.22454, 16.49840],
+    "bauplatz": "D12",
+    "tel": "+43 699 110 546 88",
+    "email": "office@beautyclaudia.at",
     "web": "http://www.beautyclaudia.at",
     "facebook": "beautyclaudia.at"
   }
