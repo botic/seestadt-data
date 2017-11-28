@@ -1213,6 +1213,7 @@
   "yellayella": {
     "name": "Yella Yella! Der Nachbar_innentreff",
     "beschreibung": "Das Yella Yella! ist ein von den Bewohnenden betriebener Nachbar_innentreff. Es gibt regelmäßig Veranstaltungen und kann auch gemietet werden.",
+    "tags": ["yella", "queerbau", "nachbartreff", "nachbarschaftstreff"],
     "adresse": "Maria-Tusch-Straße 2/1",
     "latlng": [48.22478,16.49718],
     "bauplatz": "D22",
@@ -1223,12 +1224,12 @@
       "mo": [],
       "di": [],
       "mi": [],
-      "do": ["17:00", "22:00"],
+      "do": ["17:00", "23:00"],
       "fr": [],
       "sa": [],
       "so": [],
       "ft": [],
-      "bemerkung": "Donnerstags 17 bis 22 Uhr, an weiteren Tagen zu besonderen Anlässen."
+      "bemerkung": "Donnerstags 17 bis 23 Uhr, an weiteren Tagen zu besonderen Anlässen."
     }
   }
 }
