@@ -1233,5 +1233,17 @@
       "ft": [],
       "bemerkung": "Donnerstags 17 bis 23 Uhr, an weiteren Tagen zu besonderen Anlässen."
     }
+  },
+  "mobi24": {
+    "name": "Mobi Advertising Solution",
+    "beschreibung": "Hybride Werbelösungen mit LED Technik.",
+    "tags": ["mobi24"],
+    "adresse": "Maria-Tusch-Straße 6/1D",
+    "bauplatz": "D12",
+    "tel": "+43 660 150 5000",
+    "email": "office@mobi24.me",
+    "web": "http://www.mobi24.me/",
+    "facebook": "mobi24.me",
+    "uid": "ATU71962325"
   }
 }
