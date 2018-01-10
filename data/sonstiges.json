@@ -1245,5 +1245,29 @@
     "web": "http://www.mobi24.me/",
     "facebook": "mobi24.me",
     "uid": "ATU71962325"
+  },
+  "dergruenefrisoer": {
+    "name": "Der grüne Frisoer – Lukas Sluszanski",
+    "beschreibung": "Umweltbewusster mobiler Friseur. Arbeitet mit biologischen & veganen Produkten. Haarschnitt inkl. Waschen und Föhnen, Färben mit Pflanzenfarbe, Hochzeits- und Ballfrisuren.",
+    "adresse": "Schenk-Danzinger-Gasse 6/4/3",
+    "latlng": [48.225378, 16.500759],
+    "bauplatz": "D5A",
+    "tel": "+43 664 155 55 41",
+    "email": "office@der-gruene-frisoer.at",
+    "web": "https://www.der-gruene-frisoer.at",
+    "facebook": "dergruenefrisoer",
+    "instagram": "dergrunefrisoer",
+    "uid": "ATU72671316",
+    "oeffnungszeiten": {
+      "mo": [],
+      "di": [],
+      "mi": [],
+      "do": [],
+      "fr": [],
+      "sa": [],
+      "so": [],
+      "ft": [],
+      "bemerkung": "Nach Vereinbarung. Sonntagstermine und Abendtermine ab 20 Uhr mit Zuschlag möglich."
+    }
   }
 }
