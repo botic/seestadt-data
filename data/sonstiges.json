@@ -1249,6 +1249,7 @@
   "dergruenefrisoer": {
     "name": "Der grüne Frisoer – Lukas Sluszanski",
     "beschreibung": "Umweltbewusster mobiler Friseur. Arbeitet mit biologischen & veganen Produkten. Haarschnitt inkl. Waschen und Föhnen, Färben mit Pflanzenfarbe, Hochzeits- und Ballfrisuren.",
+    "tags": ["friseur", "haare", "haar", "frisur", "haarschnitt"],
     "adresse": "Schenk-Danzinger-Gasse 6/4/3",
     "latlng": [48.225378, 16.500759],
     "bauplatz": "D5A",
