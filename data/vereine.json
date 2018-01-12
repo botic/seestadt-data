@@ -30,7 +30,9 @@
     "beschreibung": "Musikverein Seestadt Aspern",
     "label": "Lakeside Music",
     "shortlabel": "VLMA",
-    "web": "http://www.vlma.at/",
+    "adresse": "Lohwaggasse 13A/2",
+    "latlng": [48.215901, 16.490893],
+    "web": "https://www.vlma.at/",
     "email": "office@vlma.at",
     "zvr": "082817432"
   },

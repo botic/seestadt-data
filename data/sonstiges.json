@@ -1239,6 +1239,7 @@
     "beschreibung": "Hybride Werbelösungen mit LED Technik.",
     "tags": ["mobi24"],
     "adresse": "Maria-Tusch-Straße 6/1D",
+    "latlng": [48.224617, 16.498170],
     "bauplatz": "D12",
     "tel": "+43 660 150 5000",
     "email": "office@mobi24.me",
