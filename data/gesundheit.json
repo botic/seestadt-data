@@ -344,28 +344,6 @@
       "bemerkung": "Tagesaktueller Kursplan auf der Webseite. Im Kursraum Seestern, in der Seestadt, derzeit jeden Dienstag."
     }
   },
-  "sonnentreff": {
-    "name": "Sonnentreff",
-    "beschreibung": "Dein Solarium in der Seestadt Aspern",
-    "adresse": "Hermine-Dasovsky-Platz 1",
-    "latlng": [48.224979998573225,16.49964764714241],
-    "bauplatz": "D4",
-    "tel": "+43 660 8563399",
-    "email": "office@sonnentreff.at",
-    "web": "http://www.sonnentreff.at",
-    "facebook": "sonnentreff.seestadt.aspern",
-    "oeffnungszeiten": {
-      "bemerkung": "Eventuell abweichende Öffnungszeiten zu Feiertagen finden sich auf der Webseite.",
-      "mo": ["09:00", "12:00", "15:30", "21:00"],
-      "di": ["09:00", "12:00", "15:30", "21:00"],
-      "mi": ["09:00", "12:00", "15:30", "21:00"],
-      "do": ["09:00", "12:00", "15:30", "21:00"],
-      "fr": ["09:00", "12:00", "15:30", "21:00"],
-      "sa": ["10:00", "20:00"],
-      "so": ["10:00", "20:00"],
-      "ft": ["10:00", "20:00"]
-    }
-  },
   "hebammestarke": {
     "name": "Hebamme Jorinde Starke",
     "beschreibung": "Schwangerenvorsorge und Hilfe bei Schwangerschaftsbeschwerden, Mutter-Kind-Pass-Beratungen, Geburtsvorbereitungskurse, Akupunktur, Hausgeburten, Wochenbettbesuche, Still- und Beikostberatungen.",
