@@ -105,14 +105,15 @@
     "tags": ["auto", "parkgarage", "abstellplatz"],
     "latlng": [48.22429,16.49799]
   },
-  "zipcar_mts": {
-    "name": "Zipcar Carsharing",
-    "beschreibung": "Zipcar bietet in der Seestadt zwei Stellplätze.",
-    "web": "http://www.zipcar.at/seestadt",
-    "tel": "+43 810 100 377",
+  "stadtauto_carsharing": {
+    "name": "Stadtautp Carsharing",
+    "beschreibung": "Die Stadtauto greenmove GmbH bietet in der Seestadt zwei Stellplätze.",
+    "web": "http://www.stadtauto.at/",
+    "email": "support@stadtauto.at",
+    "uid": "ATU71134658",
     "adresse": "Maria-Tusch-Straße 6",
     "bauplatz": "D12",
-    "tags": ["carsharing", "leihauto"],
+    "tags": ["carsharing", "leihauto", "autovermietung", ""],
     "latlng": [48.22464406,16.49823546]
   },
   "etanke_p1": {
