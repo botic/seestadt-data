@@ -656,17 +656,6 @@
     "bauplatz": "C4",
     "latlng": [48.22330,16.50939]
   },
-  "dfsolar": {
-    "name": "3F SOLAR",
-    "beschreibung": "Hybridtechnologie, Bauleitung Solaranlagen, Individuelle Energiekonzepte, Spezialanwendungen",
-    "uid": "ATU67345116",
-    "email": "office@3f-solar.at",
-    "web": "http://www.3f-solar.at",
-    "tel": "+43 1 585 01 78",
-    "adresse": "Seestadtstraße 27/5",
-    "bauplatz": "C4",
-    "latlng": [48.22330,16.50939]
-  },
   "researchtub": {
     "name": "researchTUb",
     "beschreibung": "Forschung und Entwicklung für mechatronischen Fertigungssystemen, Engeriemonitoring-Systeme, Industrieroboterlösungen, uvm.",
