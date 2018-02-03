@@ -96,7 +96,7 @@
         },
         "zvr": {
           "type": "string",
-          "pattern": "^[0-9]{9}$"
+          "pattern": "^[0-9]{9,10}$"
         },
         "oeffnungszeiten": {
           "type": "object",

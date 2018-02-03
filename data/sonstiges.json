@@ -1260,5 +1260,13 @@
       "ft": [],
       "bemerkung": "Nach Vereinbarung. Sonntagstermine und Abendtermine ab 20 Uhr mit Zuschlag möglich."
     }
+  },
+  "selbstmacherei": {
+    "name": "Selbermacherei Seestadt",
+    "beschreibung": "Wir kreieren einen umweltfreundlichen, nachhaltigen Stadtteil. Die grundlegende Idee das gemeinsame Werken, Bauen und Reparieren. Teil dieser Idee ist es, eine Werkstatt dafür zu schaffen.",
+    "adresse": "Janis-Joplin-Promenade 6/5/5",
+    "bauplatz": "J2",
+    "email": "selbermacherei22@gmail.com",
+    "zvr": "1713538399"
   }
 }
