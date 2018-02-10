@@ -776,5 +776,25 @@
     "adresse": "Maria-Tusch-Straße 6",
     "bauplatz": "D12",
     "latlng": [48.22440818498801,16.499087065458298]
+  },
+  "fundgrube": {
+    "name": "Fundgrube Seestadt",
+    "beschreibung": "Verschiedene Artikel aus zweiter Hand, dazu Spielwaren, Dekomaterial, Geschenkideen, Zimmerpflanzen.",
+    "label": "Fundgrube",
+    "adresse": "Sonnenallee 36",
+    "latlng": [48.225686, 16.502013],
+    "tel": "+43 650 2023291",
+    "facebook": "seconhandseestadt",
+    "tags": ["secondhand"],
+    "oeffnungszeiten": {
+      "mo": ["09:00", "18:00"],
+      "di": ["09:00", "18:00"],
+      "mi": ["09:00", "18:00"],
+      "do": ["09:00", "18:00"],
+      "fr": ["09:00", "18:00"],
+      "sa": ["09:00", "18:00"],
+      "so": [],
+      "ft": []
+    }
   }
 }

@@ -52,7 +52,7 @@
     "tags": ["uic"],
     "shortlabel": "United",
     "beschreibung": "Fahrradcafé, Fahrradhandel & Service, Kinderräder, Scooter, Longboards, Kaffee, Kuchen, Snacks. Verein zur Förderung der Radkultur und des interkulturellen Austausches.",
-    "tags": ["cafe", "kaffee", "werkstatt", "fahrrad"],
+    "tags": ["cafe", "kaffee", "werkstatt", "fahrrad", "kaffeehaus"],
     "tel": "+43 1 2648343",
     "facebook": "UnitedInCycling",
     "web": "http://www.unitedincycling.com/",
@@ -63,11 +63,11 @@
     "uid": "ATU69708756",
     "oeffnungszeiten": {
       "mo": [],
-      "di": ["13:00", "21:00"],
-      "mi": ["13:00", "21:00"],
-      "do": ["13:00", "21:00"],
-      "fr": ["10:00", "18:00"],
-      "sa": ["10:00", "18:00"],
+      "di": ["11:00", "19:00"],
+      "mi": ["11:00", "19:00"],
+      "do": ["11:00", "19:00"],
+      "fr": ["11:00", "19:00"],
+      "sa": ["09:00", "17:00"],
       "so": [],
       "ft": []
     }

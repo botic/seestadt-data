@@ -1268,5 +1268,14 @@
     "bauplatz": "J2",
     "email": "selbermacherei22@gmail.com",
     "zvr": "1713538399"
+  },
+  "delais": {
+    "name": "DelijaS GmbH",
+    "beschreibung": "Installateur für Gas-, Sanitär-, Heizungs- und Lüftungstechnik. Sanierungsberater für Heizsysteme.",
+    "adresse": "Maria-Tusch-Strasse 7",
+    "bauplatz": "D8",
+    "tel": "+43 664 241 57 18",
+    "email": "delijas@delijas.at",
+    "web": "https://www.installateurdelijas.com/"
   }
 }
