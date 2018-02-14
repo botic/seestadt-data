@@ -2,7 +2,7 @@
   "oeeins": {
     "name": "ÖEINS",
     "beschreibung": "Restaurant mit original österreichischer Küche.",
-    "tags": ["ö1", "oeeins", "restaurant", "ö eins", "ö 1"],
+    "tags": ["ö1", "oeeins", "restaurant", "ö eins", "ö 1", "essen", "speisen"],
     "facebook": "oeeins.wien",
     "web": "https://www.öeins.at/",
     "tel": "+43 1 2102569",
@@ -25,7 +25,7 @@
   "portobello": {
     "name": "Portobello",
     "beschreibung": "Italienisches Restaurant mit frischen Pizzen, moderner Küche und internationalen Spezialitäten.",
-    "tags": ["pizza", "pasta", "restaurant", "italienisch", "italiener"],
+    "tags": ["pizza", "pasta", "restaurant", "italienisch", "italiener", "essen", "speisen"],
     "tel": "+43 1 3613666",
     "facebook": "PortobelloVienna",
     "instagram": "portobello_vienna",
@@ -76,7 +76,7 @@
     "name": "Seestadt Kantine",
     "shortlabel": "Kantine",
     "beschreibung": "Container-Lokal mit Wiener und Balkan-Küche, Imbiss, Pizza.",
-    "tags": ["pizza", "pasta", "mile"],
+    "tags": ["pizza", "pasta", "mile", "essen", "speisen"],
     "adresse": "Sonnenallee 26",
     "facebook": "seestadt.kantine",
     "tel": "+43 681 81116 357",
@@ -97,7 +97,7 @@
       "name": "Salz+Pfeffer",
       "shortlabel": "Salz+Preff",
       "beschreibung": "Restaurant, Bistro, Catering",
-      "tags": ["restaurant", "catering", "aspern iq"],
+      "tags": ["restaurant", "catering", "aspern iq", "essen", "speisen"],
       "web": "http://www.salzundpfeffer-catering.at/",
       "tel": "+43 1 2807355",
       "email": "office@salzundpfeffer-catering.at",
@@ -119,6 +119,7 @@
   "speiseamt": {
     "name": "Speiseamt Seestadt",
     "beschreibung": "Selbsbedienungsrestaurant. Täglich zwei verschiedene Menüs zur Auswahl, Hausmannskost, Tagesteller, Salatbuffet, Kuchen. Bar- und Bankomatzahlung, sowie Sodexho-Gutscheine möglich. Zugang über Maria-Trapp-Platz am Bildungscampus.",
+    "tags": ["kantine", "essen", "speisen"],
     "adresse": "Sonnenallee 31",
     "latlng": [48.22369,16.50351],
     "bauplatz": "D14",
