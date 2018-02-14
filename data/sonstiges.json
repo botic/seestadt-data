@@ -43,7 +43,8 @@
     "tel": "+43 699 160 71 200",
     "adresse": "Sonnenallee 38/15/1",
     "latlng": [48.22571, 16.50205],
-    "bauplatz": "J9"
+    "bauplatz": "J9",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "interlink": {
     "name": "interlink marketing e.U.",
@@ -68,7 +69,8 @@
       "so": [],
       "ft": [],
       "bemerkung": "Termine nach Vereinbarung"
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "weiss_linguistic_services": {
     "name": "Jacqueline Weiß, M.A. - Linguistic Services",
@@ -80,7 +82,8 @@
     "email": "office@weiss-linguistic-services.eu",
     "adresse": "Janis-Joplin-Promenade 6/4/1",
     "bauplatz": "J2",
-    "latlng": [48.227164, 16.503445]
+    "latlng": [48.227164, 16.503445],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "attensam": {
     "name": "Attensam Seestadt Aspern",
@@ -92,7 +95,8 @@
     "email": "seestadt@attensam.at",
     "adresse": "Ilse-Arlt-Straße 39/2",
     "bauplatz": "J1",
-    "latlng": [48.22747,16.50311]
+    "latlng": [48.22747,16.50311],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "lernquadrat": {
     "name": "LernQuadrat Seestadt",
@@ -105,7 +109,8 @@
     "email": "seestadt@lernquadrat.at",
     "adresse": "Sonnenallee 40/1/3",
     "bauplatz": "J8",
-    "latlng": [48.22630,16.50163]
+    "latlng": [48.22630,16.50163],
+    "gbTags": ["3420 :: einkaufen + dienstleistung", "3420 :: bildung + kinderbetreuung"]
   },
   "buchhalter_wider": {
     "name": "Ing. Michael Wider - Buchhalter vom Feinsten",
@@ -128,7 +133,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "seelsorgezentrum": {
     "name": "Seelsorgezentrum St. Edith Stein",
@@ -161,7 +167,8 @@
     "tel": "+43 660 3734931",
     "email": "alexandra.fellinger@zwopk.at",
     "bauplatz": "J1",
-    "latlng": [48.22759,16.50302]
+    "latlng": [48.22759,16.50302],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "lernen_seestadt": {
     "name": "Lernen in der Seestadt",
@@ -173,7 +180,8 @@
     "tel": "+43 664 7987131",
     "email": "s.cechak@lernen-seestadt.at",
     "bauplatz": "D8",
-    "latlng": [48.22524,16.49893]
+    "latlng": [48.22524,16.49893],
+    "gbTags": ["3420 :: einkaufen + dienstleistung", "3420 :: bildung + kinderbetreuung"]
   },
   "agentur2": {
     "name": "Agentur²",
@@ -184,7 +192,8 @@
     "web": "http://www.agenturquadrat.at/",
     "facebook": "agenturquadrat",
     "bauplatz": "D10",
-    "latlng": [48.22394, 16.50271]
+    "latlng": [48.22394, 16.50271],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "wienwork_jugendcoaching": {
     "name": "Wien Work - Jugendcoaching",
@@ -251,7 +260,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung", "3420 :: bildung + kinderbetreuung"]
   },
   "wienwork_facilityservices": {
     "name": "Wien Work - Facility Services",
@@ -273,7 +283,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "wienwork_holztechnik": {
     "name": "Wien Work - Holztechnik",
@@ -295,7 +306,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "wienwork_metalltechnik": {
     "name": "Wien Work - Metalltechnik",
@@ -317,7 +329,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "wienwork_renovierung": {
     "name": "Wien Work - Renovierung",
@@ -339,7 +352,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "wienwork_textilwaescherei": {
     "name": "Wien Work - Großwäscherei für Textilreinigung & Bügelservice",
@@ -362,7 +376,8 @@
       "so": [],
       "ft": [],
       "bemerkung": "Bürozeiten der Großwäscherei"
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "spoe": {
     "name": "SPÖ Seestadt",
@@ -381,7 +396,8 @@
     "uid": "ATU62680101",
     "adresse": "Janis-Joplin-Promenade 8/6/2",
     "bauplatz": "J2",
-    "latlng": [48.226796, 16.503972]
+    "latlng": [48.226796, 16.503972],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "dolmetscher_bashir": {
     "name": "Dolmetscher Neamul Bashir",
@@ -392,7 +408,8 @@
     "email": "neamul.bashir@chello.at",
     "adresse": "Janis-Joplin-Promenade 8/6/11",
     "bauplatz": "J2",
-    "latlng": [48.226796, 16.503972]
+    "latlng": [48.226796, 16.503972],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "raetselfabrik": {
     "name": "Rätselfabrik",
@@ -416,7 +433,8 @@
     "tel": "+43 1 9692375",
     "adresse": "Gisela-Legath-Gasse 5/1",
     "bauplatz": "D13E",
-    "latlng": [48.22350,16.49952]
+    "latlng": [48.22350,16.49952],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "biotrem": {
     "name": "biotrem",
@@ -427,7 +445,8 @@
     "email": "office@biotrem.at",
     "adresse": "Mela-Spira-Gasse 3/H5/201",
     "bauplatz": "D8",
-    "latlng": [48.22533,16.49906]
+    "latlng": [48.22533,16.49906],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "fotografin_luizapuiu": {
     "name": "Luiza Puiu – Fotografin",
@@ -441,7 +460,8 @@
     "email": "luiza@luizapuiu.com",
     "adresse": "Gisela-Legath-Gasse 5/27",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49944]
+    "latlng": [48.22353,16.49944],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "fotografin_elisabethfeldner": {
     "name": "Hochzeitsfotografin Elisabeth Feldner",
@@ -455,7 +475,8 @@
     "email": "contact@dieelfe.com",
     "adresse": "Sonnenallee 36/14/23",
     "bauplatz": "J9",
-    "latlng": [48.22572,16.50205]
+    "latlng": [48.22572,16.50205],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "fotografin_karolinahorner": {
     "name": "Kalinka Photo",
@@ -468,18 +489,19 @@
     "email": "karolina@kalinkaphoto.at",
     "adresse": "Schenk-Danzinger-Gasse 6/4/32",
     "bauplatz": "D5A",
-    "latlng": [48.225378, 16.500759]
+    "latlng": [48.225378, 16.500759],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
-  "fotograf_naderer": {
-    "name": "Philipp Naderer",
-    "beschreibung": "Fotograf",
-    "shortlabel": "Naderer",
-    "web": "http://naderer.biz/",
+  "software_philippnadererpuiu": {
+    "name": "Philipp Naderer-Puiu – Software Entwicklung",
+    "beschreibung": "Software Entwicklung, Web Development.",
+    "web": "https://naderer-puiu.at/",
     "tel": "+43 676 90 35 1 39",
-    "email": "philipp@naderer.biz",
+    "email": "pnp@naderer-puiu.at",
     "adresse": "Gisela-Legath-Gasse 5/27",
     "bauplatz": "D13E",
-    "latlng": [48.22353,16.49944]
+    "latlng": [48.22353,16.49944],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "kps_krassnitzer": {
     "name": "KPS Krassnitzer Physical Security",
@@ -493,7 +515,8 @@
     "email": "office@krassnitzer.at",
     "adresse": "Ilse-Arlt-Straße 39/34",
     "bauplatz": "J1",
-    "latlng": [48.22745,16.50303]
+    "latlng": [48.22745,16.50303],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "vectordesign" : {
     "name": "Vector Design Print",
@@ -504,7 +527,8 @@
     "tel": "+43 664 28 30 566",
     "adresse": "Ilse-Arlt-Straße 4",
     "bauplatz": "D12",
-    "latlng": [48.22394,16.49786]
+    "latlng": [48.22394,16.49786],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "sakurashape" : {
     "name": "sakurashape",
@@ -516,7 +540,8 @@
     "email": "info@sakurashape.com",
     "adresse": "Ilse-Arlt-Straße 39/20",
     "bauplatz": "J1",
-    "latlng": [48.22744,16.50303]
+    "latlng": [48.22744,16.50303],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "misbela": {
     "name": "Misbela",
@@ -530,7 +555,8 @@
     "adresse": "Schenk-Danzinger-Gasse 12/6/27",
     "bauplatz": "D2",
     "latlng": [48.22595, 16.50018],
-    "uid": "ATU68173488"
+    "uid": "ATU68173488",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "katzengitter": {
     "name": "Katzengitter.org",
@@ -551,7 +577,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "fairsport": {
     "name": "Fairsport Events",
@@ -561,7 +588,8 @@
     "web": "http://www.fairnessrun.at",
     "adresse": "Schenk-Danzinger-Gasse 9/3/5",
     "bauplatz": "D4",
-    "latlng": [48.22587,16.50005]
+    "latlng": [48.22587,16.50005],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "smarthlete": {
     "name": "Smarthlete",
@@ -572,7 +600,8 @@
     "email": "contact@smarthlete.com",
     "adresse": "Schenk-Danzinger-Gasse 12/5/11",
     "bauplatz": "D2",
-    "latlng": [48.22603,16.50038]
+    "latlng": [48.22603,16.50038],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "bkst": {
     "name": "BKST Systemtechnik",
@@ -584,7 +613,8 @@
     "tel": "+43 676 44 54 321",
     "adresse": "Sonnenallee 40/1/2",
     "bauplatz": "J8",
-    "latlng": [48.22618,16.50172]
+    "latlng": [48.22618,16.50172],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "rawtation": {
     "name": "RAWTATION",
@@ -595,7 +625,8 @@
     "tel": "+43 664 2647 094",
     "adresse": "Ilse-Arlt-Straße 39/30",
     "bauplatz": "J1",
-    "latlng": [48.22746,16.50303]
+    "latlng": [48.22746,16.50303],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "grafik_design_neumayr": {
     "name": "Madelaine Neumayr - Grafik Design",
@@ -608,7 +639,8 @@
     "tel": "+43 699 12 04 22 64",
     "adresse": "Schenk-Danzinger-Gasse 9/3/5",
     "bauplatz": "D4",
-    "latlng": [48.22587,16.50005]
+    "latlng": [48.22587,16.50005],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "alexsastra": {
     "name": "Alexsastra - Alex & the stars",
@@ -631,7 +663,8 @@
     "email": "info@a-bix.com",
     "adresse": "Seestadtstraße 27/2/18",
     "bauplatz": "C4",
-    "latlng": [48.22330,16.50939]
+    "latlng": [48.22330,16.50939],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "ascr": {
     "name": "ASCR - Aspern Smart City Research",
@@ -642,7 +675,8 @@
     "tel": "+43 1 908 93 69",
     "adresse": "Seestadtstraße  27/2/19",
     "bauplatz": "C4",
-    "latlng": [48.22330,16.50939]
+    "latlng": [48.22330,16.50939],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "eurodata": {
     "name": "eurodata IT Solutions",
@@ -654,7 +688,8 @@
     "tel": "+43 1 7747073 80",
     "adresse": "Seestadtstraße 27/4/28-29",
     "bauplatz": "C4",
-    "latlng": [48.22330,16.50939]
+    "latlng": [48.22330,16.50939],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "researchtub": {
     "name": "researchTUb",
@@ -665,7 +700,8 @@
     "tel": "+43 1 77 402 74 50",
     "adresse": "Seestadtstraße 27/1/10",
     "bauplatz": "C4",
-    "latlng": [48.22330,16.50939]
+    "latlng": [48.22330,16.50939],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "theobroma": {
     "name": "Theobroma Systems Design und Consulting",
@@ -677,7 +713,8 @@
     "tel": "+43 1 2369893 0",
     "adresse": "Seestadtstraße 27/3/22-23",
     "bauplatz": "C4",
-    "latlng": [48.22330,16.50939]
+    "latlng": [48.22330,16.50939],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "wien3420": {
     "name": "Wien 3420 Aspern Development AG",
@@ -714,7 +751,8 @@
       "so": [],
       "ft": [],
       "bemerkung": "Außerhalb der Öffnungszeiten Programm laut Stundenplan."
-    }
+    },
+    "gbTags": ["3420 :: bildung + kinderbetreuung"]
   },
   "postpartner": {
     "name": "Postpartner Wien Work",
@@ -736,7 +774,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "keradesign": {
     "name": "Keradesign",
@@ -757,7 +796,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "energiewechsler": {
     "name": "IhrEnergiewechsler OG",
@@ -780,7 +820,8 @@
       "so": [],
       "ft": [],
       "bemerkung": "Bürozeiten in der Gisela-Legath-Gasse 5/1 (Seestadt) nach telefonischer Vereinbarung!"
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "goinskuehn": {
     "name": "GONIS-Beraterin Veronika Kühn",
@@ -791,7 +832,8 @@
     "latlng": [48.22618,16.50276],
     "tel": "+43 699 12 12 61 93",
     "email": "veronika.kuehn@gonismail.at",
-    "web": "http://veronika.kuehn.gonis.at"
+    "web": "http://veronika.kuehn.gonis.at",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "jrsoftware": {
     "name": "JR Software",
@@ -802,7 +844,8 @@
     "email": "iulian.radu@gmx.at",
     "adresse": "Susanne-Schmida-Gasse 3/9/5",
     "bauplatz": "J9",
-    "latlng": [48.22618,16.50276]
+    "latlng": [48.22618,16.50276],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "polizei": {
     "name": "Polizeiinspektion",
@@ -834,7 +877,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "campussportflaechen": {
     "name": "Sportflächen Bildungscampus",
@@ -868,7 +912,8 @@
     "tel": "+43 699 19 666 891",
     "adresse": "Hannah-Arendt-Platz 9/2",
     "bauplatz": "D13D",
-    "latlng": [48.22366035039328,16.500139832496643]
+    "latlng": [48.22366035039328,16.500139832496643],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "feelgoodhotel": {
     "name": "Hotel FeelGood Vienna",
@@ -882,28 +927,8 @@
     "adresse": "Mimi-Grossberg-Gasse 4",
     "bauplatz": "D13A",
     "latlng": [48.22390,16.49913],
-    "gbTags": ["subcat:hotel"]
-  },
-  "realitylab": {
-    "name": "realitylab",
-    "beschreibung": "Begleitung von sozialen Prozessen im Wohnbau. Unterstützung von Baugruppen und Bewohnergemeinschaften bei der Selbstorganisation. Soziale Nachhaltigkeit im Wohnbau. Moderationen.",
-    "adresse": "Gisela-Legath-Gasse 5/1",
-    "latlng": [48.22350,16.49952],
-    "bauplatz": "D13",
-    "tel": "+43 1 9962015",
-    "email": "office@realitylab.at",
-    "web": "http://www.realitylab.at",
-    "oeffnungszeiten": {
-      "mo": [],
-      "di": [],
-      "mi": [],
-      "do": [],
-      "fr": [],
-      "sa": [],
-      "so": [],
-      "ft": [],
-      "bemerkung": "Bitte um Kontaktaufnahme per Telefon oder E-Mail."
-    }
+    "gbTags": ["subcat:hotel"],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "seestadtradio": {
     "name": "Seestadt Radio",
@@ -925,7 +950,8 @@
     "bauplatz": "D12",
     "tel": "+43 664 466 37 44",
     "email": "mail@biancaschoenhofer.at",
-    "web": "http://www.biancaschoenhofer.at"
+    "web": "http://www.biancaschoenhofer.at",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "shareonimo": {
     "name": "shareonimo.at",
@@ -937,7 +963,8 @@
     "email": "office@shareonimo.at",
     "web": "http://www.shareonimo.at",
     "facebook": "shareonimo.at",
-    "uid": "ATU71589346"
+    "uid": "ATU71589346",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "werbetech": {
     "name": "WERBETECH.at - Evgheni Ursu",
@@ -947,7 +974,8 @@
     "bauplatz": "D8",
     "tel": "+43 681 819 290 48",
     "email": "office@werbetech.at",
-    "web": "https://www.werbetech.at"
+    "web": "https://www.werbetech.at",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "herrbertl": {
     "name": "„Der Herr Bertl“ OG. Werbeagentur",
@@ -957,7 +985,8 @@
     "bauplatz": "D13B",
     "tel": "+43 664 522 30 16",
     "email": "office@derherrbertl.at",
-    "web": "http://www.derherrbertl.at"
+    "web": "http://www.derherrbertl.at",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "cofabrik": {
     "name": "COFABRIC GmbH",
@@ -979,7 +1008,8 @@
       "so": [],
       "ft": [],
       "bemerkung": "Termin per Telefon oder Email vereinbaren."
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "salonjaspern": {
     "name": "Salon JAspern",
@@ -998,7 +1028,8 @@
     "adresse": "Seestadtstraße 27/1/1.07",
     "latlng": [48.22326632562042,16.509388089179993],
     "bauplatz": "C4",
-    "facebook": "3rd-Rail-Engineering-GmbH-248029649017134"
+    "facebook": "3rd-Rail-Engineering-GmbH-248029649017134",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "limaaustria": {
     "name": "Lima Austria GmbH",
@@ -1008,7 +1039,8 @@
     "bauplatz": "C4",
     "tel": "+43 1 2712 469",
     "email": "office@lima-austria.at",
-    "web": "https://limacorporate.com/world-wide/20/austria.html"
+    "web": "https://limacorporate.com/world-wide/20/austria.html",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "sclsensortech": {
     "name": "SCL-Sensor.Tech. Fabrication GmbH",
@@ -1018,7 +1050,8 @@
     "bauplatz": "C4",
     "tel": "+43 1 8904345",
     "email": "info@sclsensortech.com",
-    "web": "http://www.sclsensortech.com"
+    "web": "http://www.sclsensortech.com",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "pilotfabriktuwien": {
     "name": "Pilotfabrik der TU Wien",
@@ -1028,7 +1061,8 @@
     "bauplatz": "C4",
     "tel": "+43 1 77 402 74 50",
     "email": "info@researchtub.at",
-    "web": "http://pilotfabrik.tuwien.ac.at/"
+    "web": "http://pilotfabrik.tuwien.ac.at/",
+    "gbTags": ["3420 :: bildung + kinderbetreuung"]
   },
   "seeburgprivatuni": {
     "name": "Privatuniversität Seeburg",
@@ -1039,7 +1073,8 @@
     "tel": "+43 1 361 5900 0",
     "email": "infowien@uni-seeburg.at",
     "web": "https://www.uni-seeburg.at/campus-wien/",
-    "facebook": "PrivatuniSchlossSeeburg"
+    "facebook": "PrivatuniSchlossSeeburg",
+    "gbTags": ["3420 :: bildung + kinderbetreuung"]
   },
   "hoerbiger": {
     "name": "HOERBIGER Ventilwerke GmbH & Co KG",
@@ -1094,7 +1129,8 @@
     "email": "mail@elena-rachor.at",
     "adresse": "Sonnenallee 38/15/1",
     "bauplatz": "J9",
-    "latlng": [48.225885, 16.501847]
+    "latlng": [48.225885, 16.501847],
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "homeforstudents": {
     "name": "Home4Students PopUp dorms",
@@ -1117,7 +1153,8 @@
     "email": "office@1a-personal.at",
     "web": "http://www.1a-personal.at/",
     "facebook": "1aPersonal",
-    "uid": "ATU71458246"
+    "uid": "ATU71458246",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "caritaslerncafe": {
     "name": "Caritas Lerncafé",
@@ -1137,7 +1174,8 @@
       "sa": [],
       "so": [],
       "ft": []
-    }
+    },
+    "gbTags": ["3420 :: bildung + kinderbetreuung"]
   },
   "liquidgreekengery": {
     "name": "Liquid Greek Energy",
@@ -1149,7 +1187,8 @@
     "email": "office@lge.co.at",
     "web": "http://lge.co.at",
     "facebook": "LiquidGreekEnergy",
-    "instagram": "liquidgreekenergy"
+    "instagram": "liquidgreekenergy",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "marcusminiatures": {
     "name": "The Marcus' Miniatures",
@@ -1158,7 +1197,8 @@
     "bauplatz": "D12",
     "latlng": [48.22394,16.49786],
     "facebook": "themarcusminiatures",
-    "web": "https://www.marcusminiatures.com/"
+    "web": "https://www.marcusminiatures.com/",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "heliumluftballon": {
     "name": "heliumluftballon.at",
@@ -1166,7 +1206,8 @@
     "adresse": "Ilse-Arlt-Straße 19",
     "latlng": [48.22591, 16.49842],
     "tel": "+43 650 7073518",
-    "web": "http://heliumluftballon.at/"
+    "web": "http://heliumluftballon.at/",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "weisspersonalverrechnung": {
     "name": "Andrea Weiss Personalverrechnung",
@@ -1178,7 +1219,8 @@
     "email": "andrea@pv-weiss.at",
     "web": "http://pv-weiss.at/",
     "facebook": "pvwAndreaWeiss",
-    "uid": "ATU70048469"
+    "uid": "ATU70048469",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "jpled": {
     "name": "JPled – Joanna Pietruszka",
@@ -1188,7 +1230,8 @@
     "bauplatz": "D12",
     "tel": "+43 664 38 13 694",
     "email": "office@jpled.at",
-    "web": "http://www.jpled.at/"
+    "web": "http://www.jpled.at/",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "top_objektbetreuung": {
     "name": "Top Objektbetreuung Hofmann e.U.",
@@ -1199,7 +1242,8 @@
     "tel": "+43 699 19575123",
     "email": "office@top-objektbetreuung.at",
     "web": "http://www.top-objektbetreuung.at",
-    "uid": "ATU63316147"
+    "uid": "ATU63316147",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "yellayella": {
     "name": "Yella Yella! Der Nachbar_innentreff",
@@ -1234,7 +1278,8 @@
     "email": "office@mobi24.me",
     "web": "http://www.mobi24.me/",
     "facebook": "mobi24.me",
-    "uid": "ATU71962325"
+    "uid": "ATU71962325",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "dergruenefrisoer": {
     "name": "Der grüne Frisoer – Lukas Sluszanski",
@@ -1259,7 +1304,8 @@
       "so": [],
       "ft": [],
       "bemerkung": "Nach Vereinbarung. Sonntagstermine und Abendtermine ab 20 Uhr mit Zuschlag möglich."
-    }
+    },
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   },
   "selbstmacherei": {
     "name": "Selbermacherei Seestadt",
@@ -1276,6 +1322,7 @@
     "bauplatz": "D8",
     "tel": "+43 664 241 57 18",
     "email": "delijas@delijas.at",
-    "web": "https://www.installateurdelijas.com/"
+    "web": "https://www.installateurdelijas.com/",
+    "gbTags": ["3420 :: einkaufen + dienstleistung"]
   }
 }
