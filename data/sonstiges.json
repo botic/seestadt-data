@@ -1311,6 +1311,7 @@
     "name": "Selbermacherei Seestadt",
     "beschreibung": "Wir kreieren einen umweltfreundlichen, nachhaltigen Stadtteil. Die grundlegende Idee das gemeinsame Werken, Bauen und Reparieren. Teil dieser Idee ist es, eine Werkstatt dafür zu schaffen.",
     "adresse": "Janis-Joplin-Promenade 6/5/5",
+    "latlng": [48.22685800387185,16.503268629312515],
     "bauplatz": "J2",
     "email": "selbermacherei22@gmail.com",
     "zvr": "1713538399"
@@ -1318,7 +1319,8 @@
   "delais": {
     "name": "DelijaS GmbH",
     "beschreibung": "Installateur für Gas-, Sanitär-, Heizungs- und Lüftungstechnik. Sanierungsberater für Heizsysteme.",
-    "adresse": "Maria-Tusch-Strasse 7",
+    "adresse": "Maria-Tusch-Straße 7/H2/101",
+    "latlng": [48.22489,16.49831],
     "bauplatz": "D8",
     "tel": "+43 664 241 57 18",
     "email": "delijas@delijas.at",

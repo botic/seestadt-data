@@ -381,30 +381,6 @@
       "ft": []
     }
  },
- "bastellieschen": {
-    "name": "Bastellieschen",
-    "beschreibung": "Bastelartikel für die Papiergestaltung wie Karten, Scrapbooking, Stempeln, Stanzen, …. Workshops für Erwachsene, Kindergeburtstage. Geschenkartikel, Give Aways, Einladungskarten für Hochzeit, Taufe etc.",
-    "shortlabel": "Bastellies",
-    "web": "http://www.bastellieschen.at",
-    "facebook": "Bastellieschen-1407265406214601",
-    "email": "office@bastellieschen.at",
-    "adresse": "Maria-Tusch-Straße 8/4",
-    "bauplatz": "D13B",
-    "latlng": [48.22428, 16.49989],
-    "tel": "+43 660 2541000",
-    "uid": "ATU62553711",
-    "oeffnungszeiten": {
-      "mo": ["14:00","18:00"],
-      "di": ["14:00","18:00"],
-      "mi": ["14:00","18:00"],
-      "do": ["14:00","18:00"],
-      "fr": ["14:00","18:00"],
-      "sa": ["10:00","13:00"],
-      "so": [],
-      "ft": [],
-      "bemerkung": "Zusätzliche Termine nach Terminvereinbarung."
-    }
-  },
   "zwoelfer_keramik": {
     "name": "12er glasporzellankeramik",
     "label": "12er Keramik",
