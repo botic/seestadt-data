@@ -64,7 +64,7 @@
   "wipark_p1": {
     "name": "Wipark P1 (D5A)",
     "beschreibung": "174 Stellplätze mit E-Tankstelle. Kurzparken, Tagespauschale, Nachtpauschale und Wochenpauschale (Freitag 18:00 Uhr bis Montag 7:00 Uhr) und Dauerparken.",
-    "web": "http://wipark.parkinghq.com/parking_cities/555005/parking_units/6351",
+    "web": "https://wipark.parkinghq.com/parking_cities/555005/parking_units/6351",
     "tel": "+43 600 30 22 48122",
     "email": "info@wipark.at",
     "adresse": "Schenk-Danzinger-Gasse 4",
@@ -75,7 +75,7 @@
   "wipark_p2": {
     "name": "Wipark P2 (D5B)",
     "beschreibung": "170 Stellplätze mit E-Tankstelle. Kurzparken, Tagespauschale, Nachtpauschale und Wochenpauschale (Freitag 18:00 Uhr bis Montag 7:00 Uhr) und Dauerparken.",
-    "web": "http://wipark.parkinghq.com/parking_cities/-554805/parking_units/6507",
+    "web": "https://wipark.parkinghq.com/parking_cities/-554805/parking_units/6507",
     "tel": "+43 600 30 22 48122",
     "email": "info@wipark.at",
     "adresse": "Agnes-Primocic-Gasse 4",
@@ -86,7 +86,7 @@
   "wipark_p3": {
     "name": "Wipark P3 (D10)",
     "beschreibung": "398 Stellplätze. Kurzparken, Tagespauschale, Nachtpauschale und Wochenpauschale (Freitag 18:00 Uhr bis Montag 7:00 Uhr) und Dauerparken.",
-    "web": "http://wipark.parkinghq.com/parking_cities/-554805/parking_units/6500",
+    "web": "https://wipark.parkinghq.com/parking_cities/-554805/parking_units/6500",
     "tel": "+43 600 30 22 48122",
     "email": "info@wipark.at",
     "adresse": "Frenkel-Brunswik-Gasse 1",
@@ -97,7 +97,7 @@
   "wipark_p4": {
     "name": "Wipark P4 (D12)",
     "beschreibung": "413 Stellplätze. Kurzparken, Tagespauschale, Nachtpauschale und Wochenpauschale (Freitag 18:00 Uhr bis Montag 7:00 Uhr) und Dauerparken.",
-    "web": "http://wipark.parkinghq.com/parking_cities/-554805/parking_units/6506",
+    "web": "https://wipark.parkinghq.com/parking_cities/-554805/parking_units/6506",
     "tel": "+43 600 30 22 48122",
     "email": "info@wipark.at",
     "adresse": "Ilse-Arlt-Straße 4",
@@ -119,7 +119,7 @@
   "etanke_p1": {
     "name": "E-Tankstelle P1",
     "beschreibung": "5 Parkplätze mit Ladestation in Garage für E-Autos. Steckertypen: 3 Typ2, 2 Schuko.",
-    "web": "http://www.tanke-wienenergie.at/",
+    "web": "https://www.tanke-wienenergie.at/",
     "tel": "+43 1 4004 0",
     "email": "tanke@wienenergie.at",
     "adresse": "Schenk-Danzinger-Gasse 4",
@@ -130,7 +130,7 @@
   "etanke_p2": {
     "name": "E-Tankstelle P2",
     "beschreibung": "8 Parkplätze mit Ladestation in Garage für E-Autos und E-Roller. Steckertypen: 5 Typ2, 3 Schuko.",
-    "web": "http://www.tanke-wienenergie.at/",
+    "web": "https://www.tanke-wienenergie.at/",
     "tel": "+43 1 4004 0",
     "email": "tanke@wienenergie.at",
     "adresse": "Agnes-Primocic-Gasse 4",
@@ -141,7 +141,7 @@
   "mobiliaetszentrale_wipark": {
     "name": "Mobilitätszentrale Seestadt & Wipark",
     "beschreibung": "Anmeldung zur Seestadt Mobilitätskarte und zum Fahrradverleihsystem SeestadtFLOTTE. Garagenplätze mieten, Seewertchen-Parkkarten.",
-    "web": "http://wipark.parkinghq.com/parking_cities/-554805/parking_units/6792",
+    "web": "https://wipark.parkinghq.com/parking_cities/-554805/parking_units/6792",
     "tel": "+43 1 402286848247",
     "email": "info@wipark.at",
     "adresse": "Sonnenallee 33",
