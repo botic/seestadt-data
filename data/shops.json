@@ -192,7 +192,7 @@
   },
   "trafik": {
     "name": "Tabak Trafik Barany",
-    "beschreibung": "Tabakfachgeschäft",
+    "beschreibung": "Tabakfachgeschäft, Tabak-Trafik.",
     "shortlabel": "Trafik",
     "adresse": "Maria-Tusch-Straße 17/1/2",
     "bauplatz": "D5A",
@@ -651,8 +651,9 @@
   },
   "dpd": {
     "name": "DPD Pickup Paketshop Seestadt",
-    "beschreibung": "DPD Abholstelle, DPD Web Paket Annahme, Retourenannahme",
+    "beschreibung": "DPD Abholstelle, DPD Web Paket Annahme, Retourenannahme, „Payment at Parcelshop“",
     "label": "DPD",
+    "tags": ["Zustelldienst", "Logistik", "Versand"],
     "web": "https://www.dpd.com/at/home/about_dpd/dpd_city_hub",
     "facebook": "dpdaustria",
     "tel": "+43 810810 373",
