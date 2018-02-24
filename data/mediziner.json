@@ -217,6 +217,7 @@
   },
   "minimed_zabaneh": {
     "name": "Kinderfacharzt Dr. George Zabaneh - mini-med Praxis",
+    "label": "Kinderarzt Zabaneh",
     "beschreibung": "Kinderfacharzt, Wahlarzt. Terminvereinbarung während der vorgesehenen Anrufzeiten: Mo. – Do. 9:00 – 11:00 und Mo. 15:00 – 17:00 Uhr.",
     "tags": ["minimed", "mini-med"],
     "adresse": "Maria-Tusch-Straße 2/2/1",
@@ -239,6 +240,7 @@
   },
   "minimed_bolharnordenkampf": {
     "name": "Dr. Maren Bolhar-Nordenkampf",
+    "label": "Bolhar-Nordenkampf",
     "beschreibung": "Fachärztin für Haut- und Geschlechtskrankheiten, Wahlärztin. Ordination in der mini-med Praxis.",
     "tags": ["minimed", "mini-med"],
     "adresse": "Maria-Tusch-Straße 2/2/1",
@@ -261,6 +263,7 @@
   },
   "minimed_weisz": {
     "name": "Diplomierte Kinderkrankenschwester Michaela Weisz",
+    "label": "Michaela Weisz",
     "beschreibung": "Diplomierte Kindergesundheitstrainerin in der Gesundheitsprävention. Baby-Kindermassage, Cranio Sacrale Therapie, Stillberatung, Bachblüten, Entspannungstechniken Kinder/Erwachsene, Zusatzqualifikation Traumalösung.",
     "tags": ["minimed", "mini-med"],
     "adresse": "Maria-Tusch-Straße 2/2/1",

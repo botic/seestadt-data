@@ -724,7 +724,8 @@
     }
   },
   "josefsseewinkel": {
-    "name": "Josef's SeeWinkel – Markt Seestadt",
+    "name": "Josef’s SeeWinkel – Markt Seestadt",
+    "label": "Josef’s SeeWinkel",
     "beschreibung": "Regionales, saisonales Gemüse und Obst aus dem Seewinkel. Fleisch aus dem Nationalpark. Frische Fische, Milchprodukte und Weine.",
     "adresse": "Hannah-Arendt-Platz 1",
     "latlng": [48.22402, 16.50080],

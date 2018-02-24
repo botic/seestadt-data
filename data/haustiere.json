@@ -1,6 +1,7 @@
 {
   "tieraerztin": {
     "name": "Tierärztin Dr. Eva Gollob-Kammerer",
+    "label": "Gollob-Kammerer",
     "beschreibung": "Tierarztpraxis in der Seestadt.",
     "adresse": "Maria-Tusch-Straße 7/202",
     "email": "praxis@tierarzt-seestadt.at",
@@ -20,6 +21,7 @@
   },
   "hunde_styling": {
     "name": "Hunde Styling Seestadt",
+    "label": "Hunde Styling",
     "beschreibung": "Hunde Pflege, Do It Yourself Dog Wash, Hundefutter, Hunde Shampoo, Hunde Zubehör",
     "email": "info@hunde-styling-seestadt.at",
     "tel": "+43 664 94 87 558",

@@ -41,6 +41,7 @@
   },
   "seestadtflotte_u2": {
     "name": "SeestadtFLOTTE - U2-Endstation",
+    "label": "SeestadtFLOTTE U2",
     "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
     "tags": ["fahrrad", "leihsystem", "e-bike"],
     "adresse": "Seestadtstraße",
@@ -48,6 +49,7 @@
   },
   "seestadtflotte_c4": {
     "name": "SeestadtFLOTTE - aspern IQ",
+    "label": "SeestadtFLOTTE IQ",
     "beschreibung": "Verleihstation mit E-Bikes und Gangrändern.",
     "tags": ["fahrrad", "leihsystem", "e-bike"],
     "adresse": "Seestadtstraße 27",
@@ -140,6 +142,7 @@
   },
   "mobiliaetszentrale_wipark": {
     "name": "Mobilitätszentrale Seestadt & Wipark",
+    "label": "Mobilitätszentrale",
     "beschreibung": "Anmeldung zur Seestadt Mobilitätskarte und zum Fahrradverleihsystem SeestadtFLOTTE. Garagenplätze mieten, Seewertchen-Parkkarten.",
     "web": "https://wipark.parkinghq.com/parking_cities/-554805/parking_units/6792",
     "tel": "+43 1 402286848247",

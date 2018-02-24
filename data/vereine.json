@@ -48,6 +48,7 @@
   },
   "brotaspern": {
     "name": "Gemeinschaft B.R.O.T. - Aspern",
+    "label": "B.R.O.T. - Aspern",
     "beschreibung": "Der gemeinnützige und mildtätige Verein Gemeinschaft B.R.O.T. - Aspern (Beten-Reden-Offensein-Teilen) gehört zu den Baugruppen auf D13. Das Wohnheim wurde im Dezember 2014 bezogen und ist selbst verwaltet.",
     "adresse": "Hannah-Arendt-Platz 9",
     "latlng": [48.22366035039328,16.500139832496643],
@@ -71,6 +72,7 @@
   },
   "wohnprojektseesternaspern": {
     "name": "Wohnprojekt Seestern Aspern",
+    "label": "Seestern Aspern",
     "beschreibung": "Der Seestern ist ein gemeinnütziges, soziokratisch organisiertes Wohnprojekt am Baugruppen-Baufeld D13E. Es umfasst 27 Wohneinheiten und einen Coworking-Space.",
     "adresse": "Gisela-Legath-Gasse 5/1a",
     "latlng": [48.22353,16.49944],
@@ -96,6 +98,7 @@
   },
   "taekibo": {
     "name": "Team TAE-KIBO Seestadt",
+    "label": "TAE-KIBO Seestadt",
     "beschreibung": "Zweimal wöchentlich leitet Mario Jelinek das „Tae-Kibo Seestadt“ Training am Campus Seestadt.",
     "adresse": "Hannah-Arendt-Platz 8",
     "latlng": [48.22338, 16.50102],
@@ -108,6 +111,7 @@
   },
   "vereinunternehmenseestadt": {
     "name": "Verein Unternehmer Seestadt – VUS",
+    "shortlabel": "VUS",
     "beschreibung": "Netzwerkverein für Unternehmen in der Seestadt.",
     "adresse": "Ilse-Arlt-Straße 20/1/23",
     "latlng": [48.22585, 16.49870],
