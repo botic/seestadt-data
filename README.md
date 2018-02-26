@@ -1,30 +1,11 @@
 # seestadt-data
-ODbL licensed data around Seestadt Aspern. If you know Github you can add new data by sending a pull request. Please take care: use spaces instead of tabs and follow the two space indent rule. All others can submit data via a contact form: https://data.seestadt.city/daten-verbessern
 
-Please ensure that you add the following attribution line to every usage of (parts) this data: `Quelle: data.seestadt.city`
+ODbL-lizenziertes Stadtverzeichnis
 
-## Applications using this data
+**Mit 26. Februar 2018 wurde dieses Repository in den Archivmodus versetzt. Es wird nicht mehr gewartet / oder aktualisiert!**
 
-* [data.Seestadt.city](https://data.seestadt.city/)
+## Weiterentwicklung
 
-![Codeship Status](https://codeship.com/projects/8f675f20-c5c8-0133-eff4-62db56d637b3/status?branch=master)
+Die Daten wurden in den 📖StadtKatalog vollständig übernommen und werden seit 26. Februar 2018 nur mehr dort weitergeplegt. Unter _StadtKatalog.org(https://app.stadtkatalog.org/)_ kann man sie einsehen, bearbeiten und auch exportieren.
 
-## JSON style guide
-
-Please follow this convention:
-
-```
-# from the .editorconfig
-
-[data/**.json]
-end_of_line    = lf
-charset        = utf-8
-indent_style   = space
-indent_size    = 2
-
-[test/**.js]
-end_of_line    = lf
-charset        = utf-8
-indent_style   = space
-indent_size    = 4
-```
+Unter _Seestadt.city(https://seestadt.city)_ findet sich eine Suche und Kartenansicht für die Seestadt Aspern.
