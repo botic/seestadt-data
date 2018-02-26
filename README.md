@@ -6,6 +6,6 @@ ODbL-lizenziertes Stadtverzeichnis
 
 ## Weiterentwicklung
 
-Die Daten wurden in den 📖StadtKatalog vollständig übernommen und werden seit 26. Februar 2018 nur mehr dort weitergeplegt. Unter _StadtKatalog.org(https://app.stadtkatalog.org/)_ kann man sie einsehen, bearbeiten und auch exportieren.
+Die Daten wurden in den 📖StadtKatalog vollständig übernommen und werden seit 26. Februar 2018 nur mehr dort weitergeplegt. Unter [StadtKatalog.org](https://app.stadtkatalog.org/) kann man sie einsehen, bearbeiten und auch exportieren.
 
-Unter _Seestadt.city(https://seestadt.city)_ findet sich eine Suche und Kartenansicht für die Seestadt Aspern.
+Unter [Seestadt.city](https://seestadt.city) findet sich eine Suche und Kartenansicht für die Seestadt Aspern.
